@@ -7,6 +7,11 @@ const { connect } = utils;
 
 const CardWrapper = styled.div`
   margin: 0 10px 0 10px;
+
+  h1 {
+    font-weight: bold;
+    font-size: 16px;
+  }
 `
 
 const ListWrapper = styled.div`
@@ -54,9 +59,11 @@ const CustomRowComponent = connect((state, props) => ({
   <CardWrapper className="box">
     <h1>{rowData.name}</h1>
     <ul>
-    <li><strong>State</strong>: {rowData.state}</li>
-    <li><strong>Company</strong>: {rowData.company}</li>
+    <li>{rowData.city} {rowData.stateProvince}</li>
+    <li>{rowData.country}</li>
     </ul>
+
+    <a href={rowData.url}>{rowData.url}</a>
   </CardWrapper>
 ));
 
