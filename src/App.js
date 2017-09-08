@@ -8,10 +8,13 @@ import Griddle, { plugins, RowDefinition, ColumnDefinition, utils } from 'griddl
 import debounce from 'lodash.debounce';
 import conferences from './events.json';
 import GoogleMapReact from 'google-map-react';
-
+import CardList from './CardList';
 import './App.css';
+import NoResults from './NoResults';
 
 const { connect } = utils;
+
+const mobileWidth = 1024;
 
 // based on Griddle's default sort -- which is not very great out-of-the-box
 const sortMethod = function sortMethod(data, column, sortAscending = true) {
@@ -34,35 +37,45 @@ const sortMethod = function sortMethod(data, column, sortAscending = true) {
 }
 
 const Header = styled.header`
+  padding-top: 20px;
   width: 100%;
   height: 80px;
-  background-color: #555;
-  color: #EDEDED;
+  background-color: hsl(171, 100%, 41%);
+  color: white;
   padding-left: 15px;
   position: absolute;
   top: 0;
+
+  h1 {
+    font-family: 'Exo', sans-serif;
+    font-size: 26px;
+  }
 
   div {
     position: absolute;
     right: 0;
     top: 0;
     width: 400px;
-
-    @media(max-width: 760px) {
-      display: none;
-    }
-
   }
 
   a, a:visited, a:hover {
-    color: #AAA;
+    color: hsl(171, 80%, 73%);
+  }
+
+  @media(max-width: 760px) {
+    text-align: center;
+
+    div {
+      display: none;
+    }
   }
 `;
 
 const Footer = styled.footer`
+  border-top: 2px solid #AAA;
   position: fixed;
   height: 100px;
-  padding-left: 15px;
+  padding: 10px 15px 0 0;
   bottom: 0;
   background-color: #EDEDED;
   width: 100%;
@@ -73,7 +86,7 @@ const Footer = styled.footer`
 const FooterLeft = styled.div`
   width: 50%;
 
-  @media(max-width: 1024px) {
+  @media(max-width: ${mobileWidth}px) {
     width: 100%;
   }
 `
@@ -95,7 +108,7 @@ const FooterRight = styled.div`
     color: #555;
   }
 
-  @media(max-width: 1024px) {
+  @media(max-width: ${mobileWidth}px) {
     width: 100%;
 
     small {
@@ -147,54 +160,44 @@ const MapWrapper = styled.div`
   min-height: 800px;
   width: 50%;
 
-  @media (max-width: 1024px) {
+  @media (max-width: ${mobileWidth}px) {
     width: 100%;
   }
 `
 
 const TableWrapper = styled.div`
   width: 50%;
-
   table {
-    table-layout: fixed;
     width: 100%;
     min-width: 100%;
     border-spacing: 0;
     font-size: 18px;
+    height: 800px;
+    min-height: 800px;
   }
 
   th {
     text-align: left;
-  }
-
-  tr:nth-child(odd) {
-    background-color: #FAFAFA;
+    background-color: #EDEDED;
   }
 
   td {
-    border-bottom: 3px solid #AAA;
-    padding: 10px 0 10px 0;
-    margin: 0;
+    height: 90px;
+    max-height: 90px;
+    min-height: 90px;
   }
 
   td:first-child {
     padding-left: 15px;
   }
 
-  @media (max-width: 1024px) {
+  @media (max-width: ${mobileWidth}px) {
     width: 100%;
   }
 `
 
 const FilterInput = styled.input`
-  width: 90%;
-  height: 25px;
-  font-size: 18px;
   margin: 10px 0 10px 0;
-`
-
-const NoResultsWrapper = styled.div`
-  width: 600px;
 `
 
 class Filter extends Component {
@@ -214,6 +217,7 @@ class Filter extends Component {
       <FilterInput
         type="text"
         name="filter"
+        className="input"
         placeholder="Filter"
         onChange={this.setFilter}
       />
@@ -292,24 +296,19 @@ const Layout = ({ Table, Pagination, Filter }) => (
   </GriddleWrapper>
 );
 
-const NoResults = () => (
-  <NoResultsWrapper>
-    <h4>No results found</h4>
-    <h6>Know of a conference not in the list?</h6>
-    <p>
-      <a href="https://github.com/techconferencelist/list">File an issue or submit a PR</a>
-    </p>
-  </NoResultsWrapper>
-)
-
 class VirtualScrollTable extends Component {
   render() {
     return (
       <Griddle
         data={conferences}
-        plugins={[plugins.LocalPlugin, plugins.PositionPlugin({ tableHeight: 799, rowHeight: 70 })]}
+        plugins={[plugins.LocalPlugin, plugins.PositionPlugin({ tableHeight: 799, rowHeight: 92 })]}
         pageProperties={{
           pageSize: 1000000
+        }}
+        styleConfig={{
+          classNames: {
+            Table: 'table'
+          }
         }}
         components={{
           Filter: Filter,
@@ -363,6 +362,11 @@ class VirtualScrollTable extends Component {
 
 class App extends Component {
   render() {
+    const ListComponent = window.innerWidth < mobileWidth ?
+      <CardList data={conferences} /> :
+      <VirtualScrollTable />;
+
+
     return (
       <div>
       <Header>
@@ -374,7 +378,7 @@ class App extends Component {
           <a href="https://github.com/techconferencelist/list">Contribute to this project on GitHub</a>
         </div>
       </Header>
-      <VirtualScrollTable />
+      {ListComponent}
       <Footer>
         <FooterLeft>
           <p>
