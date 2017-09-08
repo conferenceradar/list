@@ -193,9 +193,10 @@ const FilterInput = styled.input`
   margin: 10px 0 10px 0;
 `
 
-const NoResultsWrapper = styled.input`
+const NoResultsWrapper = styled.div`
   width: 600px;
 `
+
 class Filter extends Component {
   constructor(props) {
     super(props);
@@ -220,18 +221,6 @@ class Filter extends Component {
   }
 }
 
-const CustomTableComponent = OriginalComponent => class CustomTableComponent extends Component {
-  static contextTypes = {
-    components: React.PropTypes.object
-  }
-
-  render() {
-    return (
-      <this.context.components.TableBody />
-    );
-  }
-}
-
 class MarkerBlip extends Component {
   constructor(props) {
     super(props);
@@ -250,6 +239,7 @@ class MarkerBlip extends Component {
     return (
       <div
         onMouseLeave={this.onMouseLeave}
+        key={this.props.url}
       >
         <MapBlip
           onMouseEnter={this.onMouseEnter}
@@ -269,6 +259,7 @@ const Empty = (props) => <span />;
 const Link = ({ value }) => (<a href={`${value}`}>{value}</a>)
 const Bold = ({ value }) => (<h4>{value}</h4>)
 const Small = ({ value }) => (<small>{value}</small>)
+const mapKey = 'AIzaSyBxlhYxv5xCTvRmSKbx5TwVwcNkTXiMNvU';
 
 const Map = connect((state, props) => ({
   visibleData: plugins.LocalPlugin.selectors.filteredDataSelector(state),
@@ -278,8 +269,11 @@ const Map = connect((state, props) => ({
       <GoogleMapReact
         defaultCenter={{ lat: 42.28, lng: -83.74 }}
         defaultZoom={4}
+        bootstrapURLKeys={{
+          key: mapKey,
+        }}
       >
-        {visibleData && data.map(r => <MarkerBlip key={r.Name} griddleKey={r.Name} lat={r.latitude} lng={r.longitude} {...r} />)}
+        {visibleData && data.map(r => <MarkerBlip key={r.name + r.city + r.country} griddleKey={r.name} lat={r.latitude} lng={r.longitude} {...r} />)}
       </GoogleMapReact>
   )
 });

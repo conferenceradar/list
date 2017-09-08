@@ -3345,22 +3345,6 @@
   },
   {
     "name": "DjangoCon",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Austin",
-    "stateProvince": "TX",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 30.267153,
-    "longitude": -97.7430608
-  },
-  {
-    "name": "DjangoCon",
     "topic": "programming",
     "url": "http://djangocon.us",
     "twitter": "djangocon",
@@ -3713,22 +3697,6 @@
   },
   {
     "name": "DrupalCon",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Barcelona",
-    "stateProvince": "",
-    "country": "Spain",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 41.3850639,
-    "longitude": 2.1734035
-  },
-  {
-    "name": "DrupalCon",
     "topic": "web platform",
     "url": "http://www.drupal.org/drupalcon",
     "twitter": "drupalcon",
@@ -3950,22 +3918,6 @@
     "codeOfConduct": "",
     "latitude": 40.7933949,
     "longitude": -77.8600012
-  },
-  {
-    "name": "ElixirConf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Austin",
-    "stateProvince": "TX",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 30.267153,
-    "longitude": -97.7430608
   },
   {
     "name": "ElixirConf",
@@ -11935,22 +11887,6 @@
     "longitude": 4.895167900000001
   },
   {
-    "name": "Velocity",
-    "topic": "",
-    "url": "http://velocityconf.com",
-    "twitter": "",
-    "city": "New York",
-    "stateProvince": "NY",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 40.7127837,
-    "longitude": -74.0059413
-  },
-  {
     "name": "Virus Bulletin",
     "topic": "",
     "url": "http://www.virusbtn.com/conference/vb2017",
@@ -12029,22 +11965,6 @@
     "codeOfConduct": "",
     "latitude": 40.7127837,
     "longitude": -74.0059413
-  },
-  {
-    "name": "Visual Studio Live!",
-    "topic": "",
-    "url": "http://vslive.com/",
-    "twitter": "",
-    "city": "Orlando",
-    "stateProvince": "FL",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 28.5383355,
-    "longitude": -81.3792365
   },
   {
     "name": "Visual Studio Live!",
