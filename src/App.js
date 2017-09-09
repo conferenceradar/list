@@ -17,24 +17,45 @@ const { connect } = utils;
 const mobileWidth = 1024;
 
 // based on Griddle's default sort -- which is not very great out-of-the-box
-const sortMethod = function sortMethod(data, column, sortAscending = true) {
-  return data.sort(
-    (original, newRecord) => {
-      original = ((!!original.get(column) && original.get(column)) || "").toUpperCase();
-      newRecord = ((!!newRecord.get(column) && newRecord.get(column)) || "").toUpperCase();
+const sortMethod = (data, column, sortAscending = true) => data.sort(
+  (original, newRecord) => {
+    original = ((!!original.get(column) && original.get(column)) || "").toUpperCase();
+    newRecord = ((!!newRecord.get(column) && newRecord.get(column)) || "").toUpperCase();
 
-      //TODO: This is about the most cheezy sorting check ever.
-      //Make it better
-      if(original === newRecord) {
-        return 0;
-      } else if (original > newRecord) {
-        return sortAscending ? 1 : -1;
-      }
-      else {
-        return sortAscending ? -1 : 1;
-      }
-    });
-}
+    //TODO: This is about the most cheezy sorting check ever.
+    //Make it better
+    if(original === newRecord) {
+      return 0;
+    } else if (original > newRecord) {
+      return sortAscending ? 1 : -1;
+    }
+    else {
+      return sortAscending ? -1 : 1;
+    }
+  })
+
+  // location sort
+const locationSortMethod = (data, column, sortAscending = true) => data.sort(
+  (original, newRecord) => {
+    const getLocationValue = (record) => (
+      `${record.get('country')}${record.get('stateProvince')}${record.get('city')}`.toUpperCase()
+    );
+
+    original = getLocationValue(original);
+    newRecord = getLocationValue(newRecord);
+
+    //TODO: This is about the most cheezy sorting check ever.
+    //Make it better
+    if(original === newRecord) {
+      return 0;
+    } else if (original > newRecord) {
+      return sortAscending ? 1 : -1;
+    }
+    else {
+      return sortAscending ? -1 : 1;
+    }
+  })
+
 
 const Header = styled.header`
   padding-top: 20px;
@@ -203,6 +224,12 @@ const FilterInput = styled.input`
   margin: 10px 0 10px 0;
 `
 
+const LocationWrapper = styled.div`
+  small {
+    display: block;
+  }
+`
+
 class Filter extends Component {
   constructor(props) {
     super(props);
@@ -270,7 +297,12 @@ const Name = ({value, rowData}) => (
       value
     }
   </strong>)
-const Small = ({ value }) => (<small>{value}</small>)
+const Location = ({ rowData }) => (
+  <LocationWrapper>
+    <small>{rowData.city} {rowData.stateProvince}</small>
+    <small>{rowData.country}</small>
+  </LocationWrapper>
+)
 const mapKey = 'AIzaSyBxlhYxv5xCTvRmSKbx5TwVwcNkTXiMNvU';
 
 const Map = connect((state, props) => ({
@@ -340,24 +372,10 @@ class VirtualScrollTable extends Component {
           />
           <ColumnDefinition
             id='city'
-            title="City"
+            title="Location"
             order={2}
-            customComponent={Small}
-            sortMethod={sortMethod}
-          />
-          <ColumnDefinition
-            id='stateProvince'
-            title="State/Province"
-            order={3}
-            customComponent={Small}
-            sortMethod={sortMethod}
-          />
-          <ColumnDefinition
-            id='country'
-            title="Country"
-            order={4}
-            customComponent={Small}
-            sortMethod={sortMethod}
+            customComponent={EnhanceWithRowData(Location)}
+            sortMethod={locationSortMethod}
           />
         </RowDefinition>
       </Griddle>
