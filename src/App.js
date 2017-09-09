@@ -317,7 +317,7 @@ const Map = connect((state, props) => ({
           key: mapKey,
         }}
       >
-        {visibleData && data.map(r => <MarkerBlip key={r.name + r.city + r.country} griddleKey={r.name} lat={r.latitude} lng={r.longitude} {...r} />)}
+        {visibleData && data.map(r => <MarkerBlip key={r.name + r.city + r.country + r.eventStartDate} griddleKey={r.name} lat={r.latitude} lng={r.longitude} {...r} />)}
       </GoogleMapReact>
   )
 });
