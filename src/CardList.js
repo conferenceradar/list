@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import NoResults from './NoResults';
+import PropTypes from 'prop-types';
 
-import Griddle, { plugins, utils, components } from 'griddle-react';
+import Griddle, { plugins, utils } from 'griddle-react';
 const { connect } = utils;
 
 const CardWrapper = styled.div`
@@ -72,7 +73,7 @@ const CustomRowComponent = connect((state, props) => ({
 // Using this + tableBody to take advantange of code that Griddle LocalPlugin already has
 const CustomTableComponent = OriginalComponent => class CustomTableComponent extends Component {
   static contextTypes = {
-    components: React.PropTypes.object
+    components: PropTypes.object
   }
 
   render() {
@@ -110,7 +111,7 @@ const getRange = (number) => {
  
  class PageDropdown extends Component {
    setPage = (e) => {
-     this.props.setPage(parseInt(e.target.value));
+     this.props.setPage(parseInt(e.target.value, 10));
    }
  
    render() {
@@ -133,27 +134,6 @@ const getRange = (number) => {
      );
    }
  }
-
- class Filter extends Component {
-  setFilter = (e) => {
-    this.props.setFilter(e.target.value);
-  }
-
-  render() {
-    return (
-      <input
-        type="text"
-        name="filter"
-        placeholder="Filter"
-        onChange={this.setFilter}
-        style={this.props.style}
-        className={this.props.className}
-      />
-    )
-  }
-}
- 
-
 
 export default ({data}) => (
   <Griddle

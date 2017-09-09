@@ -85,6 +85,7 @@ const Footer = styled.footer`
 
 const FooterLeft = styled.div`
   width: 50%;
+  padding-left: 15px;
 
   @media(max-width: ${mobileWidth}px) {
     width: 100%;
@@ -185,6 +186,7 @@ const TableWrapper = styled.div`
     height: 90px;
     max-height: 90px;
     min-height: 90px;
+    width: 25%;
   }
 
   td:first-child {
@@ -260,8 +262,13 @@ class MarkerBlip extends Component {
 }
 
 const Empty = (props) => <span />;
-const Link = ({ value }) => (<a href={`${value}`}>{value}</a>)
-const Bold = ({ value }) => (<h4>{value}</h4>)
+const Name = ({value, rowData}) => (
+  <strong>
+    { rowData.url ?
+      <a href={rowData.url} target="_blank">{value}</a> :
+      value
+    }
+  </strong>)
 const Small = ({ value }) => (<small>{value}</small>)
 const mapKey = 'AIzaSyBxlhYxv5xCTvRmSKbx5TwVwcNkTXiMNvU';
 
@@ -296,6 +303,10 @@ const Layout = ({ Table, Pagination, Filter }) => (
   </GriddleWrapper>
 );
 
+const EnhanceWithRowData = connect((state, props) => ({
+  rowData: plugins.LocalPlugin.selectors.rowDataSelector(state, props)
+}));
+
 class VirtualScrollTable extends Component {
   render() {
     return (
@@ -323,7 +334,7 @@ class VirtualScrollTable extends Component {
             id='name'
             title="Name"
             order={1}
-            customComponent={Bold}
+            customComponent={EnhanceWithRowData(Name)}
             sortMethod={sortMethod}
           />
           <ColumnDefinition
@@ -345,13 +356,6 @@ class VirtualScrollTable extends Component {
             title="Country"
             order={4}
             customComponent={Small}
-            sortMethod={sortMethod}
-          />
-          <ColumnDefinition
-            title="URL"
-            id="url"
-            order={6}
-            customComponent={Link}
             sortMethod={sortMethod}
           />
         </RowDefinition>
