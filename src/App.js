@@ -11,6 +11,7 @@ import GoogleMapReact from 'google-map-react';
 import CardList from './CardList';
 import './App.css';
 import NoResults from './NoResults';
+import moment from 'moment';
 
 const { connect } = utils;
 
@@ -167,9 +168,14 @@ const GriddleWrapper = styled.div`
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  margin: 85px 15px 15px 15px;
-
+  margin: 0 15px 15px 15px;
 `
+
+const ButtonGroupWrapper = styled.div`
+  margin-top: 100px;
+  width: 100%;
+  justify-content: center !important; /* :( */
+`;
 
 const ContentWrapper = styled.div`
   display: flex;
@@ -342,9 +348,11 @@ const EnhanceWithRowData = connect((state, props) => ({
 
 class VirtualScrollTable extends Component {
   render() {
+    const { data } = this.props;
+
     return (
       <Griddle
-        data={conferences}
+        data={data}
         plugins={[plugins.LocalPlugin, plugins.PositionPlugin({ tableHeight: 799, rowHeight: 92 })]}
         pageProperties={{
           pageSize: 1000000
@@ -383,12 +391,57 @@ class VirtualScrollTable extends Component {
   }
 }
 
+const ButtonGroup = ({onSelect, selected}) => {
+  return (
+    <ButtonGroupWrapper className="field has-addons">
+      <div className="control">
+        <a className={`button ${selected === 'all' && 'is-primary'}`} onClick={() => onSelect('all')}>
+          <span>All</span>
+        </a>
+      </div>
+      <div className="control">
+        <a className={`button ${selected === 'upcoming' && 'is-primary'}`} onClick={() => onSelect('upcoming')}>
+          <span>Upcoming</span>
+        </a>
+      </div>
+      <div className="control">
+        <a className={`button ${selected === 'openCfps' && 'is-primary'}`} onClick={() => onSelect('openCfps')}>
+          <span>Open CFPs</span>
+        </a>
+      </div>
+    </ButtonGroupWrapper>
+  )
+}
 class App extends Component {
-  render() {
-    const ListComponent = window.innerWidth < mobileWidth ?
-      <CardList data={conferences} /> :
-      <VirtualScrollTable />;
+  state = { dataType: 'all' }
 
+  onSelect=(dataType) => {
+    this.setState({ dataType });
+  }
+
+  getData = () => {
+    const { dataType } = this.state;
+
+    switch(dataType) {
+      case 'upcoming':
+        return conferences.filter(conference => (
+          conference.eventStartDate && conference.eventStartDate > moment().toISOString()
+        ))
+      case 'openCfps':
+        return conferences.filter(conference => (
+          conference.cfpStartDate && conference.cfpStartDate > moment().toISOString()
+        ))
+      default:
+        return conferences;
+    }
+  }
+
+  render() {
+    const data = this.getData();
+
+    const ListComponent = window.innerWidth < mobileWidth ?
+      <CardList data={data} /> :
+      <VirtualScrollTable data={data}/>;
 
     return (
       <div>
@@ -401,6 +454,10 @@ class App extends Component {
           <a href="https://github.com/techconferencelist/list">Contribute to this project on GitHub</a>
         </div>
       </Header>
+      <ButtonGroup
+        onSelect={this.onSelect}
+        selected={this.state.dataType}
+      />
       {ListComponent}
       <Footer>
         <FooterLeft>

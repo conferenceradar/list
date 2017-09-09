@@ -25,7 +25,6 @@ const CenteredPagination = styled.div`
 `
 
 const GriddleWrapper = styled.div`
-  margin-top: 85px;
   margin-bottom: 120px;
 
   .button {
