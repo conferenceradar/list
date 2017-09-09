@@ -446,12 +446,12 @@ class App extends Component {
     return (
       <div>
       <Header>
-        <h1>Tech Conference List</h1>
+        <h1>Conference Radar</h1>
         <div>
           <p>
             Know of a conference not listed? See an issue?
           </p>
-          <a href="https://github.com/techconferencelist/list">Contribute to this project on GitHub</a>
+          <a href="https://github.com/conferenceradar/list">Contribute to this project on GitHub</a>
         </div>
       </Header>
       <ButtonGroup
@@ -470,7 +470,7 @@ class App extends Component {
         </FooterLeft>
         <FooterRight>
           <small>
-            This is a community maintained site/list provided as-is without guarantee or warranty. If you see an issue or innacuracy, please <a href="https://github.com/techconferencelist/list">file an issue/PR on GitHub</a>. 
+            This is a community maintained site/list provided as-is without guarantee or warranty. If you see an issue or innacuracy, please <a href="https://github.com/conferenceradar/list">file an issue/PR on GitHub</a>. 
           </small>
         </FooterRight>
       </Footer>

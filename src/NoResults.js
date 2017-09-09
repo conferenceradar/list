@@ -5,7 +5,7 @@ const NoResults = () => (
     <h4>No results found</h4>
     <h6>Know of a conference not in the list?</h6>
     <p>
-      <a href="https://github.com/techconferencelist/list">File an issue or submit a PR</a>
+      <a href="https://github.com/conferenceradar/list">File an issue or submit a PR</a>
     </p>
   </div>
 )

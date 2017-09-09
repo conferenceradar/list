@@ -1,4 +1,4 @@
-## Tech Conference List
+## Conference Radar
 
 This project was created with the goal of maintaining a community list of tech conferences.
 
