@@ -100,6 +100,7 @@ const FooterRight = styled.div`
 
   small { 
     width: 600px;
+    max-width: 100%;
     position: absolute;
     bottom: 40px;
     right: 20px;
