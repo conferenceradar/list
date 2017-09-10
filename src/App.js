@@ -232,9 +232,17 @@ const FilterInput = styled.input`
 
 const LocationWrapper = styled.div`
   small {
+    font-size: 12px;
     display: block;
   }
-`
+`;
+
+const DateColumnWrapper = styled.div`
+  small {
+    display: block;
+    font-size: 12px;
+  }
+`;
 
 class Filter extends Component {
   constructor(props) {
@@ -303,12 +311,41 @@ const Name = ({value, rowData}) => (
       value
     }
   </strong>)
+
 const Location = ({ rowData }) => (
   <LocationWrapper>
     <small>{rowData.city} {rowData.stateProvince}</small>
     <small>{rowData.country}</small>
   </LocationWrapper>
 )
+
+const dateFormat = (dateString) => (
+  dateString ?
+    moment(dateString).format('MM/DD/YYYY') :
+    ''
+)
+
+const DateColumn = (start, end) => {
+  if (!start) {
+    return null;
+  }
+
+  return (
+    <DateColumnWrapper>
+      <small><strong>Start:</strong> {dateFormat(start)}</small>
+      <small><strong>End:</strong> {dateFormat(end)}</small>
+    </DateColumnWrapper>
+  )
+}
+
+const EventDate = ({ rowData }) => (
+  DateColumn(rowData.eventStartDate, rowData.eventEndDate)
+);
+
+const CfpDate = ({ rowData }) => (
+  DateColumn(rowData.cfpStartDate, rowData.cfpEndDate)
+);
+
 const mapKey = 'AIzaSyBxlhYxv5xCTvRmSKbx5TwVwcNkTXiMNvU';
 
 const Map = connect((state, props) => ({
@@ -385,6 +422,21 @@ class VirtualScrollTable extends Component {
             customComponent={EnhanceWithRowData(Location)}
             sortMethod={locationSortMethod}
           />
+          <ColumnDefinition
+            id='eventStartData'
+            title='Event Date'
+            order={3}
+            customComponent={EnhanceWithRowData(EventDate)}
+            sortMethod={sortMethod}
+          />
+          <ColumnDefinition
+            id='cfpEndDate'
+            title='CFP Date'
+            order={4}
+            customComponent={EnhanceWithRowData(CfpDate)}
+            sortMethod={sortMethod}
+          />
+
         </RowDefinition>
       </Griddle>
     )
