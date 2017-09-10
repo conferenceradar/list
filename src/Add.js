@@ -75,6 +75,11 @@ export default class Form extends React.Component {
       codeOfConduct: '',
     }
 
+    if(!obj.city && !obj.stateProvince && !obj.country) {
+      this.setState({ outputText: JSON.stringify(obj, null, '  ')});
+      return;
+    }
+
     geocoder.geocode(`${obj.city} ${obj.stateProvince} ${obj.country}`, ( err, data ) => {
       if(err) {
         this.setState({ outputText: JSON.stringify(obj, null, '  ')});
@@ -94,10 +99,10 @@ export default class Form extends React.Component {
       <AddWrapper>
       <p>
         The data in this application exists in 
-         <a href="https://github.com/conferenceradar/list/blob/master/src/events.json" target="_blank"> events.json </a>
+         <a href="https://github.com/conferenceradar/list/blob/master/src/events.json" target="_blank" rel="noopener noreferrer"> events.json </a>
         This form exists in order to make the process of editing records in this json file easier. Update this form and click generate -- from there you can copy the item from the text area on the right and update 
-        <a href="https://github.com/conferenceradar/list/blob/master/src/events.json" target="_blank"> events.json </a> 
-        and <a href="https://github.com/conferenceradar/list" target="_blank"> submit a PR </a>.
+        <a href="https://github.com/conferenceradar/list/blob/master/src/events.json" target="_blank" rel="noopener noreferrer"> events.json </a> 
+        and <a href="https://github.com/conferenceradar/list" target="_blank" rel="noopener noreferrer"> submit a PR </a>.
       </p>
 
       <LayoutWrapper>
