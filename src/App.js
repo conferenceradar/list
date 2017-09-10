@@ -423,7 +423,7 @@ class VirtualScrollTable extends Component {
             sortMethod={locationSortMethod}
           />
           <ColumnDefinition
-            id='eventStartData'
+            id='eventStartDate'
             title='Event Date'
             order={3}
             customComponent={EnhanceWithRowData(EventDate)}
@@ -436,7 +436,6 @@ class VirtualScrollTable extends Component {
             customComponent={EnhanceWithRowData(CfpDate)}
             sortMethod={sortMethod}
           />
-
         </RowDefinition>
       </Griddle>
     )
