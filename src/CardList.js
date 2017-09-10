@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import styled from 'styled-components';
 import NoResults from './NoResults';
 import PropTypes from 'prop-types';
+import UpdatePlugin from './UpdatePlugin';
 
 import Griddle, { plugins, utils } from 'griddle-react';
 const { connect } = utils;
@@ -80,7 +81,7 @@ const CustomTableComponent = OriginalComponent => class CustomTableComponent ext
   }
 }
 
-const CustomTableBody = ({ rowIds, Row, className }) => console.log('HERE ', rowIds) || (
+const CustomTableBody = ({ rowIds, Row, className }) => (
   <ListWrapper>
     { (!rowIds || rowIds.size === 0) && <NoResults /> }
     { rowIds && rowIds.map(r => <Row key={r} griddleKey={r} />) }
@@ -140,7 +141,7 @@ export default ({data}) => (
     pageProperties={{
       pageSize: 5
     }}
-    plugins={[plugins.LocalPlugin]}
+    plugins={[UpdatePlugin, plugins.LocalPlugin]}
     components={{
       Row: CustomRowComponent,
       TableContainer: CustomTableComponent,

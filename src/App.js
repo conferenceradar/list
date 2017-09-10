@@ -12,7 +12,7 @@ import CardList from './CardList';
 import './App.css';
 import NoResults from './NoResults';
 import moment from 'moment';
-
+import UpdatePlugin from './UpdatePlugin';
 const { connect } = utils;
 
 const mobileWidth = 1024;
@@ -353,7 +353,7 @@ class VirtualScrollTable extends Component {
     return (
       <Griddle
         data={data}
-        plugins={[plugins.LocalPlugin, plugins.PositionPlugin({ tableHeight: 799, rowHeight: 92 })]}
+        plugins={[UpdatePlugin, plugins.LocalPlugin, plugins.PositionPlugin({ tableHeight: 799, rowHeight: 92 })]}
         pageProperties={{
           pageSize: 1000000
         }}
