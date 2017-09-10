@@ -8,6 +8,7 @@
     "react-scripts": "1.0.13"
   },
   "dependencies": {
+    "geocoder": "^0.2.3",
     "google-map-react": "^0.24.0",
     "griddle-react": "^1.8.1",
     "lodash.debounce": "^4.0.8",

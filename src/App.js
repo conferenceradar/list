@@ -9,11 +9,14 @@ import debounce from 'lodash.debounce';
 import conferences from './events.json';
 import GoogleMapReact from 'google-map-react';
 import CardList from './CardList';
+
+import Add from './Add';
 import './App.css';
 import NoResults from './NoResults';
 import moment from 'moment';
 import UpdatePlugin from './UpdatePlugin';
 const { connect } = utils;
+
 
 const mobileWidth = 1024;
 
@@ -57,6 +60,10 @@ const locationSortMethod = (data, column, sortAscending = true) => data.sort(
     }
   })
 
+const ToggleButton = styled.button`
+  margin-left:30px;
+  margin-top: 5px;
+`;
 
 const Header = styled.header`
   padding-top: 20px;
@@ -442,7 +449,7 @@ class VirtualScrollTable extends Component {
   }
 }
 
-const ButtonGroup = ({onSelect, selected}) => {
+const ButtonGroup = ({onSelect, selected, toggleForm, isMobile}) => {
   return (
     <ButtonGroupWrapper className="field has-addons">
       <div className="control">
@@ -460,14 +467,21 @@ const ButtonGroup = ({onSelect, selected}) => {
           <span>Open CFPs</span>
         </a>
       </div>
+      { !isMobile &&
+        <ToggleButton onClick={toggleForm} className="button is-small">Toggle 'Add Event' Form</ToggleButton>
+      }
     </ButtonGroupWrapper>
   )
 }
 class App extends Component {
-  state = { dataType: 'all' }
+  state = { dataType: 'all', showForm: false }
 
   onSelect=(dataType) => {
     this.setState({ dataType });
+  }
+
+  onToggleForm = () => {
+    this.setState(prevState => ({ showForm: !prevState.showForm }))
   }
 
   getData = () => {
@@ -490,7 +504,8 @@ class App extends Component {
   render() {
     const data = this.getData();
 
-    const ListComponent = window.innerWidth < mobileWidth ?
+    const isMobileish = window.innerWidth < mobileWidth;
+    const ListComponent = isMobileish ?
       <CardList data={data} /> :
       <VirtualScrollTable data={data}/>;
 
@@ -508,7 +523,10 @@ class App extends Component {
       <ButtonGroup
         onSelect={this.onSelect}
         selected={this.state.dataType}
+        toggleForm={this.onToggleForm}
+        isMobile={isMobileish}
       />
+      { !isMobileish && this.state.showForm && <Add /> }
       {ListComponent}
       <Footer>
         <FooterLeft>
