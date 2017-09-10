@@ -3,11 +3,13 @@ import styled from 'styled-components';
 import NoResults from './NoResults';
 import PropTypes from 'prop-types';
 import UpdatePlugin from './UpdatePlugin';
+import moment from 'moment';
 
 import Griddle, { plugins, utils } from 'griddle-react';
 const { connect } = utils;
 
 const CardWrapper = styled.div`
+  position: relative;
   margin: 0 10px 0 10px;
 
   h1 {
@@ -54,6 +56,38 @@ const Right = styled.div`
   padding-right: 20px;
 `
 
+const DateWrapper = styled.div`
+  position: absolute;
+  right: 10px;
+  top: 20px;
+
+  color: #999;
+
+  small {
+    display: block;
+    font-size: 12px;
+  }
+`;
+
+const dateFormat = (dateString) => (
+  dateString ?
+    moment(dateString).format('MM/DD/YYYY') :
+    ''
+)
+
+const DateDisplay = ({start, end, title}) => {
+  if (!start) {
+    return null;
+  }
+
+  return (
+    <DateWrapper>
+      <small>{dateFormat(start)}</small>
+      <small>{dateFormat(end)}</small>
+    </DateWrapper>
+  )
+}
+
 const CustomRowComponent = connect((state, props) => ({
   rowData: plugins.LocalPlugin.selectors.rowDataSelector(state, props)
 }))(({ rowData }) => (
@@ -63,7 +97,11 @@ const CustomRowComponent = connect((state, props) => ({
     <li>{rowData.city} {rowData.stateProvince}</li>
     <li>{rowData.country}</li>
     </ul>
-
+    <DateDisplay
+      start={rowData.eventStartDate}
+      end={rowData.eventEndDate}
+      title="Event Date"
+    />
     <a href={rowData.url}>{rowData.url}</a>
   </CardWrapper>
 ));
