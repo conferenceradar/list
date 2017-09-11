@@ -32,6 +32,54 @@
     "longitude": -56.16453139999999
   },
   {
+    "name": "200OK",
+    "topic": "web platform",
+    "url": "http://200ok.us/",
+    "twitter": "",
+    "city": "Tulsa",
+    "stateProvince": "OK",
+    "country": "United States",
+    "eventStartDate": "1027-06-02T04:00:00.000Z",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 36.1539816,
+    "longitude": -95.99277500000001
+  },
+  {
+    "name": "2017@Swift",
+    "topic": "",
+    "url": "http://www.bagevent.com/event/378252",
+    "twitter": "",
+    "city": "Shenzen",
+    "stateProvince": "",
+    "country": "China",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 22.543096,
+    "longitude": 114.057865
+  },
+  {
+    "name": "34C3",
+    "topic": "",
+    "url": "http://www.ccc.de/en/",
+    "twitter": "",
+    "city": "Berlin",
+    "stateProvince": "",
+    "country": "Germany",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 52.52000659999999,
+    "longitude": 13.404954
+  },
+  {
     "name": "360iDev",
     "topic": "",
     "url": "http://360idev.com",
@@ -142,22 +190,6 @@
     "codeOfConduct": "",
     "latitude": 32.7766642,
     "longitude": -96.79698789999999
-  },
-  {
-    "name": "200OK",
-    "topic": "web platform",
-    "url": "http://200ok.us/",
-    "twitter": "",
-    "city": "Tulsa",
-    "stateProvince": "OK",
-    "country": "United States",
-    "eventStartDate": "1027-06-02T04:00:00.000Z",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 36.1539816,
-    "longitude": -95.99277500000001
   },
   {
     "name": "Active Ingredients",
@@ -768,6 +800,22 @@
     "longitude": -46.63330939999999
   },
   {
+    "name": "AUSTIN GAME CONFERENCE",
+    "topic": "game dev",
+    "url": "http://austingamecon.com/",
+    "twitter": "@austingamecon",
+    "city": "Austin",
+    "stateProvince": "TX",
+    "country": "United States",
+    "eventStartDate": "2017-09-21T04:00:00.000Z",
+    "eventEndDate": "2017-09-22T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 30.267153,
+    "longitude": -97.7430608
+  },
+  {
     "name": "AVAR",
     "topic": "",
     "url": "http://aavar.org/",
@@ -784,22 +832,6 @@
     "longitude": 116.4073963
   },
   {
-    "name": "AWS re:invent",
-    "topic": "programming",
-    "url": "http://reinvent.awsevents.com/",
-    "twitter": "awsreinvent",
-    "city": "Las Vegas",
-    "stateProvince": "NV",
-    "country": "United States",
-    "eventStartDate": "2015-10-06T04:00:00.000Z",
-    "eventEndDate": "2015-10-09T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1699412,
-    "longitude": -115.1398296
-  },
-  {
     "name": "AWS Re:Invent",
     "topic": "",
     "url": "",
@@ -814,6 +846,22 @@
     "codeOfConduct": "",
     "latitude": "",
     "longitude": ""
+  },
+  {
+    "name": "AWS re:invent",
+    "topic": "programming",
+    "url": "http://reinvent.awsevents.com/",
+    "twitter": "awsreinvent",
+    "city": "Las Vegas",
+    "stateProvince": "NV",
+    "country": "United States",
+    "eventStartDate": "2015-10-06T04:00:00.000Z",
+    "eventEndDate": "2015-10-09T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1699412,
+    "longitude": -115.1398296
   },
   {
     "name": "BackboneConf",
@@ -930,8 +978,7 @@
   {
     "name": "Big Data Conference",
     "topic": "data",
-    "url":
-      "http://globalbigdataconference.com/37/santa-clara/2nd-annual-global-big-data-conference/event.html",
+    "url": "http://globalbigdataconference.com/37/santa-clara/2nd-annual-global-big-data-conference/event.html",
     "twitter": "bigdataconf",
     "city": "Santa Clara",
     "stateProvince": "CA",
@@ -1603,8 +1650,7 @@
   {
     "name": "Cassandra Summit",
     "topic": "web perf/ops",
-    "url":
-      "http://www.datastax.com/company/news-and-events/events/cassandrasummit2013",
+    "url": "http://www.datastax.com/company/news-and-events/events/cassandrasummit2013",
     "twitter": "datastax",
     "city": "London",
     "stateProvince": "",
@@ -1664,6 +1710,22 @@
     "codeOfConduct": "",
     "latitude": 25.0329694,
     "longitude": 121.5654177
+  },
+  {
+    "name": "Chippewa Valley Code Camp",
+    "topic": "programming",
+    "url": "http://chippewavalleycodecamp.com/index.html",
+    "twitter": "@CVdevgroup",
+    "city": "Eau Clair",
+    "stateProvince": "WI",
+    "country": "United States",
+    "eventStartDate": "2017-11-11T05:00:00.000Z",
+    "eventEndDate": "2017-11-11T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 44.811349,
+    "longitude": -91.4984941
   },
   {
     "name": "Chrome Dev Summit 2017",
@@ -2498,6 +2560,22 @@
     "longitude": 4.895167900000001
   },
   {
+    "name": "CSS Dev Conf",
+    "topic": "css",
+    "url": "http://2017.cssdevconf.com/",
+    "twitter": "@CSSDevConf",
+    "city": "New Orleans",
+    "stateProvince": "LA",
+    "country": "United States",
+    "eventStartDate": "2017-10-09T04:00:00.000Z",
+    "eventEndDate": "2017-10-11T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 29.95106579999999,
+    "longitude": -90.0715323
+  },
+  {
     "name": "CSS-Minsk-JS Conf",
     "topic": "",
     "url": "http://css-minsk-js.by/",
@@ -2531,22 +2609,6 @@
   },
   {
     "name": "CSSConf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Miami",
-    "stateProvince": "FL",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 25.7616798,
-    "longitude": -80.1917902
-  },
-  {
-    "name": "CSSConf",
     "topic": "web platform",
     "url": "http://cssconf.eu/",
     "twitter": "@cssconfeu",
@@ -2560,6 +2622,22 @@
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
     "longitude": 13.404954
+  },
+  {
+    "name": "CSSConf",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Miami",
+    "stateProvince": "FL",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
   },
   {
     "name": "CSSConf AU",
@@ -2626,6 +2704,38 @@
     "longitude": 13.404954
   },
   {
+    "name": "CukeUp",
+    "topic": "programming",
+    "url": "http://cucumber.pro/cukeup/",
+    "twitter": "cucumber_pro",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "2014-04-03T04:00:00.000Z",
+    "eventEndDate": "2014-04-04T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "DaFED",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Novi Sad",
+    "stateProvince": "",
+    "country": "Serbia",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 45.2671352,
+    "longitude": 19.8335496
+  },
+  {
     "name": "Data Day Texas ?",
     "topic": "data",
     "url": "http://datadaytexas.com/",
@@ -2658,6 +2768,22 @@
     "longitude": -0.137163
   },
   {
+    "name": "De:Code",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Tokyo",
+    "stateProvince": "",
+    "country": "Japan",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 35.6894875,
+    "longitude": 139.6917064
+  },
+  {
     "name": "Deeper Life Holiday school",
     "topic": "",
     "url": "",
@@ -2672,22 +2798,6 @@
     "codeOfConduct": "",
     "latitude": 6.5243793,
     "longitude": 3.3792057
-  },
-  {
-    "name": "DaFED",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Novi Sad",
-    "stateProvince": "",
-    "country": "Serbia",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 45.2671352,
-    "longitude": 19.8335496
   },
   {
     "name": "DeepSec",
@@ -2706,38 +2816,6 @@
     "longitude": 16.3738189
   },
   {
-    "name": "DEFCON",
-    "topic": "security",
-    "url": "http://defcon.org",
-    "twitter": "_defcon_",
-    "city": "Las Vegas",
-    "stateProvince": "NV",
-    "country": "United States",
-    "eventStartDate": "2016-08-04T04:00:00.000Z",
-    "eventEndDate": "2016-08-07T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1699412,
-    "longitude": -115.1398296
-  },
-  {
-    "name": "De:Code",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Tokyo",
-    "stateProvince": "",
-    "country": "Japan",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 35.6894875,
-    "longitude": 139.6917064
-  },
-  {
     "name": "DefCamp",
     "topic": "",
     "url": "http://def.camp/",
@@ -2752,6 +2830,22 @@
     "codeOfConduct": "",
     "latitude": 44.4267674,
     "longitude": 26.1025384
+  },
+  {
+    "name": "DEFCON",
+    "topic": "security",
+    "url": "http://defcon.org",
+    "twitter": "_defcon_",
+    "city": "Las Vegas",
+    "stateProvince": "NV",
+    "country": "United States",
+    "eventStartDate": "2016-08-04T04:00:00.000Z",
+    "eventEndDate": "2016-08-07T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1699412,
+    "longitude": -115.1398296
   },
   {
     "name": "Denver Dev Day",
@@ -2882,20 +2976,20 @@
     "longitude": -122.4194155
   },
   {
-    "name": "CukeUp",
-    "topic": "programming",
-    "url": "http://cucumber.pro/cukeup/",
-    "twitter": "cucumber_pro",
-    "city": "London",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "2014-04-03T04:00:00.000Z",
-    "eventEndDate": "2014-04-04T04:00:00.000Z",
+    "name": "DeveloperWeek JavaScript Conference",
+    "topic": "",
+    "url": "http://www.developerweek.com/javascript-conference/",
+    "twitter": "",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "codeOfConduct": "Yes",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
   },
   {
     "name": "DevExperience.ro",
@@ -2930,20 +3024,20 @@
     "longitude": ""
   },
   {
-    "name": "DeveloperWeek JavaScript Conference",
+    "name": "DEVit Web Conference",
     "topic": "",
-    "url": "http://www.developerweek.com/javascript-conference/",
+    "url": "http://devitconf.org/",
     "twitter": "",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
+    "city": "Thessaloniki",
+    "stateProvince": "",
+    "country": "Greece",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "latitude": 40.6400629,
+    "longitude": 22.9444191
   },
   {
     "name": "devLink",
@@ -2962,22 +3056,6 @@
     "longitude": -85.3096801
   },
   {
-    "name": "DEVit Web Conference",
-    "topic": "",
-    "url": "http://devitconf.org/",
-    "twitter": "",
-    "city": "Thessaloniki",
-    "stateProvince": "",
-    "country": "Greece",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 40.6400629,
-    "longitude": 22.9444191
-  },
-  {
     "name": "DevNexus",
     "topic": "",
     "url": "http://devnexus.com/",
@@ -2994,22 +3072,6 @@
     "longitude": -84.3879824
   },
   {
-    "name": "DevOpsDays",
-    "topic": "web perf/ops",
-    "url": "http://devopsdays.org",
-    "twitter": "devopsdays",
-    "city": "Bangalore",
-    "stateProvince": "",
-    "country": "India",
-    "eventStartDate": "2015-09-12T04:00:00.000Z",
-    "eventEndDate": "2015-09-13T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 12.9715987,
-    "longitude": 77.5945627
-  },
-  {
     "name": "DevopsDays",
     "topic": "",
     "url": "",
@@ -3024,6 +3086,22 @@
     "codeOfConduct": "",
     "latitude": 44.977753,
     "longitude": -93.2650108
+  },
+  {
+    "name": "DevOpsDays",
+    "topic": "web perf/ops",
+    "url": "http://devopsdays.org",
+    "twitter": "devopsdays",
+    "city": "Bangalore",
+    "stateProvince": "",
+    "country": "India",
+    "eventStartDate": "2015-09-12T04:00:00.000Z",
+    "eventEndDate": "2015-09-13T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 12.9715987,
+    "longitude": 77.5945627
   },
   {
     "name": "DevopsDays",
@@ -3106,22 +3184,6 @@
     "longitude": -0.1277583
   },
   {
-    "name": "Devs Lobe Bacon 2014",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "London",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
-  },
-  {
     "name": "DevRelCon",
     "topic": "community",
     "url": "http://london-2015.devrel.net/",
@@ -3130,6 +3192,22 @@
     "stateProvince": "",
     "country": "United Kingdom",
     "eventStartDate": "2015-09-30T04:00:00.000Z",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Devs Lobe Bacon 2014",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
@@ -3154,22 +3232,6 @@
     "longitude": -86.5861037
   },
   {
-    "name": "DevUp",
-    "topic": "",
-    "url": "http://devupconf.org",
-    "twitter": "",
-    "city": "St. Louis",
-    "stateProvince": "MO",
-    "country": "United States",
-    "eventStartDate": "2017-10-16T04:00:00.000Z",
-    "eventEndDate": "2017-10-18T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 38.6270025,
-    "longitude": -90.19940419999999
-  },
-  {
     "name": "DevSum",
     "topic": "",
     "url": "http://www.devsum.se/",
@@ -3184,6 +3246,22 @@
     "codeOfConduct": "Unspecified",
     "latitude": 59.32932349999999,
     "longitude": 18.0685808
+  },
+  {
+    "name": "DevUp",
+    "topic": "",
+    "url": "http://devupconf.org",
+    "twitter": "",
+    "city": "St. Louis",
+    "stateProvince": "MO",
+    "country": "United States",
+    "eventStartDate": "2017-10-16T04:00:00.000Z",
+    "eventEndDate": "2017-10-18T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 38.6270025,
+    "longitude": -90.19940419999999
   },
   {
     "name": "DevWeek",
@@ -3218,6 +3296,22 @@
     "longitude": 144.9630576
   },
   {
+    "name": "Digital Book World",
+    "topic": "publishing",
+    "url": "http://conference.digitalbookworld.com/",
+    "twitter": "digibookworld",
+    "city": "New York",
+    "stateProvince": "NY",
+    "country": "United States",
+    "eventStartDate": "2015-03-07T05:00:00.000Z",
+    "eventEndDate": "2015-03-16T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
     "name": "DIMVA",
     "topic": "",
     "url": "http://dimva2016.mondragon.edu/en",
@@ -3248,22 +3342,6 @@
     "codeOfConduct": "Yes",
     "latitude": 39.7392358,
     "longitude": -104.990251
-  },
-  {
-    "name": "Digital Book World",
-    "topic": "publishing",
-    "url": "http://conference.digitalbookworld.com/",
-    "twitter": "digibookworld",
-    "city": "New York",
-    "stateProvince": "NY",
-    "country": "United States",
-    "eventStartDate": "2015-03-07T05:00:00.000Z",
-    "eventEndDate": "2015-03-16T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 40.7127837,
-    "longitude": -74.0059413
   },
   {
     "name": "Disrupt SF",
@@ -3315,22 +3393,6 @@
   },
   {
     "name": "DjangoCon",
-    "topic": "programming",
-    "url": "http://djangocon.us",
-    "twitter": "djangocon",
-    "city": "Austin",
-    "stateProvince": "TX",
-    "country": "United States",
-    "eventStartDate": "2015-09-06T04:00:00.000Z",
-    "eventEndDate": "2015-09-11T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 30.267153,
-    "longitude": -97.7430608
-  },
-  {
-    "name": "DjangoCon Europe",
     "topic": "",
     "url": "",
     "twitter": "",
@@ -3347,6 +3409,22 @@
   },
   {
     "name": "DjangoCon",
+    "topic": "programming",
+    "url": "http://djangocon.us",
+    "twitter": "djangocon",
+    "city": "Austin",
+    "stateProvince": "TX",
+    "country": "United States",
+    "eventStartDate": "2015-09-06T04:00:00.000Z",
+    "eventEndDate": "2015-09-11T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 30.267153,
+    "longitude": -97.7430608
+  },
+  {
+    "name": "DjangoCon Europe",
     "topic": "",
     "url": "",
     "twitter": "",
@@ -3410,22 +3488,6 @@
     "longitude": -104.990251
   },
   {
-    "name": "dot swift",
-    "topic": "web platform",
-    "url": "http://www.dotswift.io",
-    "twitter": "@dotswift",
-    "city": "Paris",
-    "stateProvince": "",
-    "country": "France",
-    "eventStartDate": "2015-02-06T05:00:00.000Z",
-    "eventEndDate": "2015-02-06T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 48.856614,
-    "longitude": 2.3522219
-  },
-  {
     "name": "DockerCon",
     "topic": "web perf/ops",
     "url": "http://dockercon.com",
@@ -3440,6 +3502,38 @@
     "codeOfConduct": "",
     "latitude": 41.3850639,
     "longitude": 2.1734035
+  },
+  {
+    "name": "DogFood Con",
+    "topic": "microsoft",
+    "url": "http://dogfoodcon.com/",
+    "twitter": "@DogFoodCon",
+    "city": "Columbus",
+    "stateProvince": "OH",
+    "country": "United States",
+    "eventStartDate": "2017-10-05T04:00:00.000Z",
+    "eventEndDate": "2017-10-06T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 39.9611755,
+    "longitude": -82.99879419999999
+  },
+  {
+    "name": "dot swift",
+    "topic": "web platform",
+    "url": "http://www.dotswift.io",
+    "twitter": "@dotswift",
+    "city": "Paris",
+    "stateProvince": "",
+    "country": "France",
+    "eventStartDate": "2015-02-06T05:00:00.000Z",
+    "eventEndDate": "2015-02-06T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
   },
   {
     "name": "dotCSS",
@@ -3474,22 +3568,6 @@
     "longitude": 2.3522219
   },
   {
-    "name": "dotScale",
-    "topic": "web platform",
-    "url": "http://www.dotscale.io",
-    "twitter": "@dotScale",
-    "city": "Paris",
-    "stateProvince": "",
-    "country": "France",
-    "eventStartDate": "2015-06-08T04:00:00.000Z",
-    "eventEndDate": "2015-06-08T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 48.856614,
-    "longitude": 2.3522219
-  },
-  {
     "name": "dotJS",
     "topic": "web platform",
     "url": "http://www.dotjs.io/",
@@ -3499,6 +3577,22 @@
     "country": "France",
     "eventStartDate": "",
     "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "dotScale",
+    "topic": "web platform",
+    "url": "http://www.dotscale.io",
+    "twitter": "@dotScale",
+    "city": "Paris",
+    "stateProvince": "",
+    "country": "France",
+    "eventStartDate": "2015-06-08T04:00:00.000Z",
+    "eventEndDate": "2015-06-08T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
@@ -3541,22 +3635,6 @@
     "name": "Droidcon",
     "topic": "mobile",
     "url": "http://droidcon.com/",
-    "twitter": "",
-    "city": "New York",
-    "stateProvince": "NY",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 40.7127837,
-    "longitude": -74.0059413
-  },
-  {
-    "name": "Droidcon",
-    "topic": "mobile",
-    "url": "http://droidcon.com/",
     "twitter": "droidcon",
     "city": "Paris",
     "stateProvince": "",
@@ -3568,6 +3646,22 @@
     "codeOfConduct": "",
     "latitude": 48.856614,
     "longitude": 2.3522219
+  },
+  {
+    "name": "Droidcon",
+    "topic": "mobile",
+    "url": "http://droidcon.com/",
+    "twitter": "",
+    "city": "New York",
+    "stateProvince": "NY",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
   },
   {
     "name": "DroidCon London",
@@ -3667,19 +3761,19 @@
   },
   {
     "name": "DrupalCon",
-    "topic": "web platform",
-    "url": "http://www.drupal.org/drupalcon",
-    "twitter": "drupalcon",
-    "city": "Barcelona",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Prague",
     "stateProvince": "",
-    "country": "Spain",
-    "eventStartDate": "2015-09-21T04:00:00.000Z",
-    "eventEndDate": "2015-09-25T04:00:00.000Z",
+    "country": "Czech Republic",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "latitude": 50.0755381,
+    "longitude": 14.4378005
   },
   {
     "name": "DrupalCon",
@@ -3698,6 +3792,22 @@
     "longitude": -118.1937395
   },
   {
+    "name": "DrupalCon",
+    "topic": "web platform",
+    "url": "http://www.drupal.org/drupalcon",
+    "twitter": "drupalcon",
+    "city": "Barcelona",
+    "stateProvince": "",
+    "country": "Spain",
+    "eventStartDate": "2015-09-21T04:00:00.000Z",
+    "eventEndDate": "2015-09-25T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 41.3850639,
+    "longitude": 2.1734035
+  },
+  {
     "name": "Dutch PHP Conference",
     "topic": "",
     "url": "",
@@ -3712,22 +3822,6 @@
     "codeOfConduct": "",
     "latitude": 52.3702157,
     "longitude": 4.895167900000001
-  },
-  {
-    "name": "DrupalCon",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Prague",
-    "stateProvince": "",
-    "country": "Czech Republic",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 50.0755381,
-    "longitude": 14.4378005
   },
   {
     "name": "e-SAME - CTF on Nov 30",
@@ -3922,22 +4016,6 @@
     "longitude": 0.121817
   },
   {
-    "name": "EmberFest",
-    "topic": "",
-    "url": "http://emberfest.eu/",
-    "twitter": "",
-    "city": "Berlin",
-    "stateProvince": "",
-    "country": "Germany",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 52.52000659999999,
-    "longitude": 13.404954
-  },
-  {
     "name": "EmberConf",
     "topic": "web platform",
     "url": "http://emberconf.com",
@@ -3952,6 +4030,22 @@
     "codeOfConduct": "",
     "latitude": 45.5230622,
     "longitude": -122.6764815
+  },
+  {
+    "name": "EmberFest",
+    "topic": "",
+    "url": "http://emberfest.eu/",
+    "twitter": "",
+    "city": "Berlin",
+    "stateProvince": "",
+    "country": "Germany",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 52.52000659999999,
+    "longitude": 13.404954
   },
   {
     "name": "Empire Conf",
@@ -4034,22 +4128,6 @@
     "longitude": 4.895167900000001
   },
   {
-    "name": "EnterJS",
-    "topic": "",
-    "url": "http://www.enterjs.de/",
-    "twitter": "",
-    "city": "Darmstadt",
-    "stateProvince": "",
-    "country": "Germany",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 49.8728253,
-    "longitude": 8.6511929
-  },
-  {
     "name": "ENIGMA",
     "topic": "",
     "url": "http://www.usenix.org/conference/enigma2017",
@@ -4064,6 +4142,22 @@
     "codeOfConduct": "",
     "latitude": 37.8043637,
     "longitude": -122.2711137
+  },
+  {
+    "name": "EnterJS",
+    "topic": "",
+    "url": "http://www.enterjs.de/",
+    "twitter": "",
+    "city": "Darmstadt",
+    "stateProvince": "",
+    "country": "Germany",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 49.8728253,
+    "longitude": 8.6511929
   },
   {
     "name": "Epic FEL",
@@ -4194,22 +4288,6 @@
     "longitude": 13.05501
   },
   {
-    "name": "Evernote Conference",
-    "topic": "business",
-    "url": "http://evernote.com/ec/",
-    "twitter": "evernote",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "2014-10-02T04:00:00.000Z",
-    "eventEndDate": "2014-10-03T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
-  },
-  {
     "name": "EuRuKo",
     "topic": "programming",
     "url": "http://www.euruko2014.org/",
@@ -4224,6 +4302,22 @@
     "codeOfConduct": "",
     "latitude": 50.4501,
     "longitude": 30.5234
+  },
+  {
+    "name": "Evernote Conference",
+    "topic": "business",
+    "url": "http://evernote.com/ec/",
+    "twitter": "evernote",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "2014-10-02T04:00:00.000Z",
+    "eventEndDate": "2014-10-03T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
   },
   {
     "name": "Extensible Web Summit",
@@ -4274,22 +4368,6 @@
     "longitude": -122.4194155
   },
   {
-    "name": "Falsy Values",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Warsaw",
-    "stateProvince": "",
-    "country": "Poland",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287
-  },
-  {
     "name": "FailCon",
     "topic": "business",
     "url": "http://thefailcon.com/",
@@ -4306,20 +4384,20 @@
     "longitude": -51.2176584
   },
   {
-    "name": "FIRSTFare",
+    "name": "Falsy Values",
     "topic": "",
     "url": "",
     "twitter": "",
-    "city": "Portland",
-    "stateProvince": "OR",
-    "country": "United States",
+    "city": "Warsaw",
+    "stateProvince": "",
+    "country": "Poland",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "latitude": 52.2296756,
+    "longitude": 21.0122287
   },
   {
     "name": "ffconf",
@@ -4336,6 +4414,22 @@
     "codeOfConduct": "Yes",
     "latitude": 50.82253000000001,
     "longitude": -0.137163
+  },
+  {
+    "name": "FIRSTFare",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Portland",
+    "stateProvince": "OR",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 45.5230622,
+    "longitude": -122.6764815
   },
   {
     "name": "FISL",
@@ -4418,22 +4512,6 @@
     "longitude": -122.4194155
   },
   {
-    "name": "Forward JS",
-    "topic": "",
-    "url": "http://forwardjs.com/",
-    "twitter": "",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
-  },
-  {
     "name": "Form Function & Class 8",
     "topic": "",
     "url": "http://2017.formfunctionclass.com/",
@@ -4448,6 +4526,22 @@
     "codeOfConduct": "",
     "latitude": 14.5995124,
     "longitude": 120.9842195
+  },
+  {
+    "name": "Forward JS",
+    "topic": "",
+    "url": "http://forwardjs.com/",
+    "twitter": "",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
   },
   {
     "name": "Forward Swift",
@@ -4722,38 +4816,6 @@
     "longitude": 4.895167900000001
   },
   {
-    "name": "Frontend Conference Zurich",
-    "topic": "",
-    "url": "http://frontendconf.ch/",
-    "twitter": "",
-    "city": "Zurich",
-    "stateProvince": "",
-    "country": "Switzerland",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 47.3768866,
-    "longitude": 8.541694
-  },
-  {
-    "name": "Frontend NE",
-    "topic": "",
-    "url": "http://2018.frontendne.co.uk/",
-    "twitter": "",
-    "city": "Newcastle",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 54.978252,
-    "longitude": -1.61778
-  },
-  {
     "name": "FRONTEND CON 2017",
     "topic": "",
     "url": "http://frontend-con.io/",
@@ -4770,6 +4832,22 @@
     "longitude": 21.0122287
   },
   {
+    "name": "Frontend Conference Zurich",
+    "topic": "",
+    "url": "http://frontendconf.ch/",
+    "twitter": "",
+    "city": "Zurich",
+    "stateProvince": "",
+    "country": "Switzerland",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 47.3768866,
+    "longitude": 8.541694
+  },
+  {
     "name": "Frontend Dev Conf 2017",
     "topic": "",
     "url": "http://fdconf.by/",
@@ -4784,6 +4862,22 @@
     "codeOfConduct": "",
     "latitude": 53.90453979999999,
     "longitude": 27.5615244
+  },
+  {
+    "name": "Frontend NE",
+    "topic": "",
+    "url": "http://2018.frontendne.co.uk/",
+    "twitter": "",
+    "city": "Newcastle",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 54.978252,
+    "longitude": -1.61778
   },
   {
     "name": "Frontend United",
@@ -4834,6 +4928,22 @@
     "longitude": -3.7037902
   },
   {
+    "name": "FrontInterior",
+    "topic": "web platform",
+    "url": "http://www.frontinterior.com.br/",
+    "twitter": "frontinterior",
+    "city": "Ijui",
+    "stateProvince": "",
+    "country": "Brazil",
+    "eventStartDate": "2014-08-29T04:00:00.000Z",
+    "eventEndDate": "2014-08-30T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": -28.3013365,
+    "longitude": -53.88892
+  },
+  {
     "name": "FrontTalks",
     "topic": "",
     "url": "http://fronttalks.ru/",
@@ -4864,22 +4974,6 @@
     "codeOfConduct": "",
     "latitude": 50.7694775,
     "longitude": 7.187578599999999
-  },
-  {
-    "name": "FrontInterior",
-    "topic": "web platform",
-    "url": "http://www.frontinterior.com.br/",
-    "twitter": "frontinterior",
-    "city": "Ijui",
-    "stateProvince": "",
-    "country": "Brazil",
-    "eventStartDate": "2014-08-29T04:00:00.000Z",
-    "eventEndDate": "2014-08-30T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": -28.3013365,
-    "longitude": -53.88892
   },
   {
     "name": "Frozen Rails",
@@ -4962,23 +5056,6 @@
     "longitude": 2.1734035
   },
   {
-    "name": "FullStack",
-    "topic": "web platform",
-    "url":
-      "http://skillsmatter.com/conferences/6361-fullstack-node-and-javascript-conference",
-    "twitter": "skillsmatter",
-    "city": "London",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "2014-10-23T04:00:00.000Z",
-    "eventEndDate": "2014-10-24T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
-  },
-  {
     "name": "Full Stack Toronto",
     "topic": "",
     "url": "http://fsto.co/",
@@ -4993,6 +5070,22 @@
     "codeOfConduct": "Yes",
     "latitude": 43.653226,
     "longitude": -79.3831843
+  },
+  {
+    "name": "FullStack",
+    "topic": "web platform",
+    "url": "http://skillsmatter.com/conferences/6361-fullstack-node-and-javascript-conference",
+    "twitter": "skillsmatter",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "2014-10-23T04:00:00.000Z",
+    "eventEndDate": "2014-10-24T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
   },
   {
     "name": "Functional Conf India",
@@ -5043,22 +5136,6 @@
     "longitude": -79.3831843
   },
   {
-    "name": "Future JS",
-    "topic": "web platform",
-    "url": "http://futurejs.org",
-    "twitter": "futurejs",
-    "city": "Barcelona",
-    "stateProvince": "",
-    "country": "Spain",
-    "eventStartDate": "2015-09-01T04:00:00.000Z",
-    "eventEndDate": "2015-09-05T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 41.3850639,
-    "longitude": 2.1734035
-  },
-  {
     "name": "Future Insights",
     "topic": "",
     "url": "http://futureinsightslive.com/…015/",
@@ -5073,6 +5150,22 @@
     "codeOfConduct": "",
     "latitude": 36.1699412,
     "longitude": -115.1398296
+  },
+  {
+    "name": "Future JS",
+    "topic": "web platform",
+    "url": "http://futurejs.org",
+    "twitter": "futurejs",
+    "city": "Barcelona",
+    "stateProvince": "",
+    "country": "Spain",
+    "eventStartDate": "2015-09-01T04:00:00.000Z",
+    "eventEndDate": "2015-09-05T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 41.3850639,
+    "longitude": 2.1734035
   },
   {
     "name": "Future of Web Apps",
@@ -5155,6 +5248,22 @@
     "longitude": -122.4194155
   },
   {
+    "name": "Game Developers Conference",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "2018-03-19T04:00:00.000Z",
+    "eventEndDate": "2018-03-23T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
     "name": "Gartner Application Architecture",
     "topic": "programming",
     "url": "http://www.gartner.com/technology/summits/na/applications/",
@@ -5171,15 +5280,15 @@
     "longitude": -115.1398296
   },
   {
-    "name": "Game Developers Conference",
+    "name": "GDC",
     "topic": "",
     "url": "",
     "twitter": "",
     "city": "San Francisco",
     "stateProvince": "CA",
     "country": "United States",
-    "eventStartDate": "2018-03-19T04:00:00.000Z",
-    "eventEndDate": "2018-03-23T04:00:00.000Z",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
@@ -5203,38 +5312,6 @@
     "longitude": 121.4737021
   },
   {
-    "name": "GDC Next",
-    "topic": "programming",
-    "url": "http://gdcnext.com",
-    "twitter": "gdc_next",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "2016-03-14T04:00:00.000Z",
-    "eventEndDate": "2016-03-18T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
-  },
-  {
-    "name": "GDC",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
-  },
-  {
     "name": "GDC China",
     "topic": "",
     "url": "",
@@ -5249,6 +5326,22 @@
     "codeOfConduct": "",
     "latitude": 39.90419989999999,
     "longitude": 116.4073963
+  },
+  {
+    "name": "GDC Next",
+    "topic": "programming",
+    "url": "http://gdcnext.com",
+    "twitter": "gdc_next",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "2016-03-14T04:00:00.000Z",
+    "eventEndDate": "2016-03-18T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
   },
   {
     "name": "GeeCON",
@@ -5283,22 +5376,6 @@
     "longitude": -78.47667810000002
   },
   {
-    "name": "GIDS",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Bangalore",
-    "stateProvince": "",
-    "country": "India",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 12.9715987,
-    "longitude": 77.5945627
-  },
-  {
     "name": "GGDevCon",
     "topic": "programming",
     "url": "http://www.ggdevcon.com/",
@@ -5313,6 +5390,22 @@
     "codeOfConduct": "",
     "latitude": 37.3382082,
     "longitude": -121.8863286
+  },
+  {
+    "name": "GIDS",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Bangalore",
+    "stateProvince": "",
+    "country": "India",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 12.9715987,
+    "longitude": 77.5945627
   },
   {
     "name": "Global Innovation Forum",
@@ -5411,22 +5504,6 @@
     "longitude": -104.990251
   },
   {
-    "name": "Goto",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Copenhagen",
-    "stateProvince": "",
-    "country": "Denmark",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 55.6760968,
-    "longitude": 12.5683372
-  },
-  {
     "name": "GOTO",
     "topic": "programming",
     "url": "http://gotocon.com/",
@@ -5443,20 +5520,20 @@
     "longitude": -0.1277583
   },
   {
-    "name": "Grace Hopper Celebration of Women in Computing",
-    "topic": "programming",
-    "url": "http://gracehopper.org/",
-    "twitter": "anitaborg_org",
-    "city": "Houston",
-    "stateProvince": "TX",
-    "country": "United States",
-    "eventStartDate": "2015-10-14T04:00:00.000Z",
-    "eventEndDate": "2015-10-14T04:00:00.000Z",
+    "name": "Goto",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Copenhagen",
+    "stateProvince": "",
+    "country": "Denmark",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 29.7604267,
-    "longitude": -95.3698028
+    "latitude": 55.6760968,
+    "longitude": 12.5683372
   },
   {
     "name": "GR8Conf",
@@ -5473,6 +5550,22 @@
     "codeOfConduct": "",
     "latitude": 44.977753,
     "longitude": -93.2650108
+  },
+  {
+    "name": "Grace Hopper Celebration of Women in Computing",
+    "topic": "programming",
+    "url": "http://gracehopper.org/",
+    "twitter": "anitaborg_org",
+    "city": "Houston",
+    "stateProvince": "TX",
+    "country": "United States",
+    "eventStartDate": "2015-10-14T04:00:00.000Z",
+    "eventEndDate": "2015-10-14T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 29.7604267,
+    "longitude": -95.3698028
   },
   {
     "name": "Graph Lab",
@@ -5553,22 +5646,6 @@
     "longitude": -122.0838511
   },
   {
-    "name": "Hack in the box",
-    "topic": "",
-    "url": "http://conference.hitb.org/",
-    "twitter": "",
-    "city": "Amsterdam",
-    "stateProvince": "",
-    "country": "The Netherlands",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.3702157,
-    "longitude": 4.895167900000001
-  },
-  {
     "name": "Hack in Paris",
     "topic": "",
     "url": "http://hackinparis.com/",
@@ -5583,6 +5660,22 @@
     "codeOfConduct": "",
     "latitude": 48.856614,
     "longitude": 2.3522219
+  },
+  {
+    "name": "Hack in the box",
+    "topic": "",
+    "url": "http://conference.hitb.org/",
+    "twitter": "",
+    "city": "Amsterdam",
+    "stateProvince": "",
+    "country": "The Netherlands",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 52.3702157,
+    "longitude": 4.895167900000001
   },
   {
     "name": "Hack.lu",
@@ -5665,22 +5758,6 @@
     "longitude": -121.8863286
   },
   {
-    "name": "Hardwear.io",
-    "topic": "",
-    "url": "http://hardwear.io/",
-    "twitter": "",
-    "city": "The Hague",
-    "stateProvince": "",
-    "country": "The Netherlands",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.0704978,
-    "longitude": 4.3006999
-  },
-  {
     "name": "Hadoop World",
     "topic": "data",
     "url": "http://strataconf.com/big-data-conference-ny-2015",
@@ -5713,6 +5790,22 @@
     "longitude": -0.1277583
   },
   {
+    "name": "Hardwear.io",
+    "topic": "",
+    "url": "http://hardwear.io/",
+    "twitter": "",
+    "city": "The Hague",
+    "stateProvince": "",
+    "country": "The Netherlands",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 52.0704978,
+    "longitude": 4.3006999
+  },
+  {
     "name": "Haskell Symposium",
     "topic": "",
     "url": "",
@@ -5727,22 +5820,6 @@
     "codeOfConduct": "",
     "latitude": 49.2827291,
     "longitude": -123.1207375
-  },
-  {
-    "name": "HolyJS",
-    "topic": "",
-    "url": "http://holyjs-piter.ru/",
-    "twitter": "",
-    "city": "St. Petersburg",
-    "stateProvince": "",
-    "country": "Russia",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 59.9342802,
-    "longitude": 30.3350986
   },
   {
     "name": "Heartland Dev Conference",
@@ -5775,6 +5852,22 @@
     "codeOfConduct": "",
     "latitude": 43.0389025,
     "longitude": -87.9064736
+  },
+  {
+    "name": "HolyJS",
+    "topic": "",
+    "url": "http://holyjs-piter.ru/",
+    "twitter": "",
+    "city": "St. Petersburg",
+    "stateProvince": "",
+    "country": "Russia",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 59.9342802,
+    "longitude": 30.3350986
   },
   {
     "name": "HolyJS Moscow",
@@ -5841,22 +5934,6 @@
     "longitude": -122.4194155
   },
   {
-    "name": "I Love APIs",
-    "topic": "web platform",
-    "url": "http://iloveapis2014.com/",
-    "twitter": "apigee",
-    "city": "San Jose",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "2015-10-12T04:00:00.000Z",
-    "eventEndDate": "2015-10-14T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.3382082,
-    "longitude": -121.8863286
-  },
-  {
     "name": "HybridConf",
     "topic": "web platform",
     "url": "http://hybridconf.net/",
@@ -5871,6 +5948,22 @@
     "codeOfConduct": "",
     "latitude": 53.3498053,
     "longitude": -6.2603097
+  },
+  {
+    "name": "I Love APIs",
+    "topic": "web platform",
+    "url": "http://iloveapis2014.com/",
+    "twitter": "apigee",
+    "city": "San Jose",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "2015-10-12T04:00:00.000Z",
+    "eventEndDate": "2015-10-14T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.3382082,
+    "longitude": -121.8863286
   },
   {
     "name": "IBM Enterprise2014",
@@ -5921,6 +6014,22 @@
     "longitude": 11.5819805
   },
   {
+    "name": "Insomni'hack",
+    "topic": "",
+    "url": "http://insomnihack.ch/",
+    "twitter": "",
+    "city": "Geneva",
+    "stateProvince": "",
+    "country": "Switzerland",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 46.2043907,
+    "longitude": 6.1431577
+  },
+  {
     "name": "INST-INT",
     "topic": "programming",
     "url": "http://inst-int.com/",
@@ -5939,8 +6048,7 @@
   {
     "name": "Intel IDF14",
     "topic": "programming",
-    "url":
-      "http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html",
+    "url": "http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html",
     "twitter": "intel",
     "city": "San Francisco",
     "stateProvince": "CA",
@@ -5952,22 +6060,6 @@
     "codeOfConduct": "",
     "latitude": 37.7749295,
     "longitude": -122.4194155
-  },
-  {
-    "name": "Insomni'hack",
-    "topic": "",
-    "url": "http://insomnihack.ch/",
-    "twitter": "",
-    "city": "Geneva",
-    "stateProvince": "",
-    "country": "Switzerland",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 46.2043907,
-    "longitude": 6.1431577
   },
   {
     "name": "InterCon Android",
@@ -6004,8 +6096,7 @@
   {
     "name": "iOSCon 2017",
     "topic": "",
-    "url":
-      "http://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
+    "url": "http://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
     "twitter": "",
     "city": "London",
     "stateProvince": "",
@@ -6051,22 +6142,6 @@
     "longitude": -4.08292
   },
   {
-    "name": "IoT World Forum",
-    "topic": "iot",
-    "url": "http://iotinternetofthingsconference.com",
-    "twitter": "iotconferences",
-    "city": "London",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "2015-11-18T05:00:00.000Z",
-    "eventEndDate": "2015-11-19T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
-  },
-  {
     "name": "IoT Security Summit",
     "topic": "",
     "url": "http://tmt.knect365.com/iot-security/",
@@ -6081,6 +6156,22 @@
     "codeOfConduct": "",
     "latitude": 49.2827291,
     "longitude": -123.1207375
+  },
+  {
+    "name": "IoT World Forum",
+    "topic": "iot",
+    "url": "http://iotinternetofthingsconference.com",
+    "twitter": "iotconferences",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "2015-11-18T05:00:00.000Z",
+    "eventEndDate": "2015-11-19T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
   },
   {
     "name": "Iowa Code Camp",
@@ -6312,22 +6403,6 @@
     "topic": "",
     "url": "",
     "twitter": "",
-    "city": "Chicago",
-    "stateProvince": "IL",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 41.8781136,
-    "longitude": -87.6297982
-  },
-  {
-    "name": "jQuery Conf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
     "city": "Moscow",
     "stateProvince": "",
     "country": "Russia",
@@ -6338,6 +6413,22 @@
     "codeOfConduct": "",
     "latitude": 55.755826,
     "longitude": 37.6172999
+  },
+  {
+    "name": "jQuery Conf",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Chicago",
+    "stateProvince": "IL",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 41.8781136,
+    "longitude": -87.6297982
   },
   {
     "name": "jQuery Conference",
@@ -6372,22 +6463,6 @@
     "longitude": -74.0059413
   },
   {
-    "name": "jQueryConf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
-  },
-  {
     "name": "JQuery UK",
     "topic": "programming",
     "url": "http://jqueryuk.com/2015/",
@@ -6404,6 +6479,22 @@
     "longitude": -1.2577263
   },
   {
+    "name": "jQueryConf",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
     "name": "JS Day",
     "topic": "",
     "url": "http://jsday.it/",
@@ -6418,6 +6509,22 @@
     "codeOfConduct": "Yes",
     "latitude": 45.43838419999999,
     "longitude": 10.9916215
+  },
+  {
+    "name": "JS fwdays",
+    "topic": "",
+    "url": "http://frameworksdays.com/event/js-frameworks-day-2017",
+    "twitter": "",
+    "city": "Kyiv",
+    "stateProvince": "",
+    "country": "Ukraine",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 50.4501,
+    "longitude": 30.5234
   },
   {
     "name": "JS Heroes",
@@ -6452,22 +6559,6 @@
     "longitude": 11.5819805
   },
   {
-    "name": "JS fwdays",
-    "topic": "",
-    "url": "http://frameworksdays.com/event/js-frameworks-day-2017",
-    "twitter": "",
-    "city": "Kyiv",
-    "stateProvince": "",
-    "country": "Ukraine",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 50.4501,
-    "longitude": 30.5234
-  },
-  {
     "name": "JS Poland",
     "topic": "",
     "url": "http://js-poland.pl/",
@@ -6500,22 +6591,6 @@
     "longitude": -111.929279
   },
   {
-    "name": "JSConf",
-    "topic": "web platform",
-    "url": "http://jsconf.com",
-    "twitter": "jsconf",
-    "city": "Berlin",
-    "stateProvince": "",
-    "country": "Germany",
-    "eventStartDate": "2014-09-13T04:00:00.000Z",
-    "eventEndDate": "2014-09-14T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.52000659999999,
-    "longitude": 13.404954
-  },
-  {
     "name": "JSChannel",
     "topic": "",
     "url": "http://2017.jschannel.com/",
@@ -6532,20 +6607,20 @@
     "longitude": 77.5945627
   },
   {
-    "name": "JSConf China",
-    "topic": "",
-    "url": "http://2017.jsconf.cn/en/",
-    "twitter": "",
-    "city": "Shanghai",
+    "name": "JSConf",
+    "topic": "web platform",
+    "url": "http://jsconf.com",
+    "twitter": "jsconf",
+    "city": "Berlin",
     "stateProvince": "",
-    "country": "China",
-    "eventStartDate": "",
-    "eventEndDate": "",
+    "country": "Germany",
+    "eventStartDate": "2014-09-13T04:00:00.000Z",
+    "eventEndDate": "2014-09-14T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 31.2303904,
-    "longitude": 121.4737021
+    "codeOfConduct": "",
+    "latitude": 52.52000659999999,
+    "longitude": 13.404954
   },
   {
     "name": "JSConf Budapest",
@@ -6562,6 +6637,22 @@
     "codeOfConduct": "Yes",
     "latitude": 47.497912,
     "longitude": 19.040235
+  },
+  {
+    "name": "JSConf China",
+    "topic": "",
+    "url": "http://2017.jsconf.cn/en/",
+    "twitter": "",
+    "city": "Shanghai",
+    "stateProvince": "",
+    "country": "China",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 31.2303904,
+    "longitude": 121.4737021
   },
   {
     "name": "JSConf Colombia",
@@ -6594,6 +6685,54 @@
     "codeOfConduct": "Yes",
     "latitude": 52.52000659999999,
     "longitude": 13.404954
+  },
+  {
+    "name": "JSConf US",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Amelia Island",
+    "stateProvince": "FL",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 30.6265697,
+    "longitude": -81.46085599999999
+  },
+  {
+    "name": "jsconf.be",
+    "topic": "",
+    "url": "http://www.jsconf.be/en/",
+    "twitter": "",
+    "city": "Brugg",
+    "stateProvince": "",
+    "country": "Belgium",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.209348,
+    "longitude": 3.2246995
+  },
+  {
+    "name": "JSConfAsia",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Singapore",
+    "stateProvince": "",
+    "country": "Singapore",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 1.352083,
+    "longitude": 103.819836
   },
   {
     "name": "JSConfAU",
@@ -6836,38 +6975,6 @@
     "longitude": 7.752111299999999
   },
   {
-    "name": "JSConf US",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Amelia Island",
-    "stateProvince": "FL",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 30.6265697,
-    "longitude": -81.46085599999999
-  },
-  {
-    "name": "jsconf.be",
-    "topic": "",
-    "url": "http://www.jsconf.be/en/",
-    "twitter": "",
-    "city": "Brugg",
-    "stateProvince": "",
-    "country": "Belgium",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 51.209348,
-    "longitude": 3.2246995
-  },
-  {
     "name": "La nuit du hack",
     "topic": "",
     "url": "http://www.nuitduhack.com/en/",
@@ -6884,20 +6991,36 @@
     "longitude": 2.3522219
   },
   {
-    "name": "JSConfAsia",
+    "name": "LA RubyConf",
     "topic": "",
     "url": "",
     "twitter": "",
-    "city": "Singapore",
-    "stateProvince": "",
-    "country": "Singapore",
+    "city": "Long Beach",
+    "stateProvince": "CA",
+    "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 1.352083,
-    "longitude": 103.819836
+    "latitude": 33.7700504,
+    "longitude": -118.1937395
+  },
+  {
+    "name": "Lambda World",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Cadiz",
+    "stateProvince": "",
+    "country": "Spain",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.5270612,
+    "longitude": -6.2885962
   },
   {
     "name": "Latinoware",
@@ -6914,6 +7037,22 @@
     "codeOfConduct": "",
     "latitude": -25.5163356,
     "longitude": -54.58537639999999
+  },
+  {
+    "name": "LCA",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Auckland",
+    "stateProvince": "",
+    "country": "New Zealand",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": -36.8484597,
+    "longitude": 174.7633315
   },
   {
     "name": "Lean Day London (LSO Shoreditch)",
@@ -6948,38 +7087,6 @@
     "longitude": -122.4194155
   },
   {
-    "name": "Lambda World",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Cadiz",
-    "stateProvince": "",
-    "country": "Spain",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.5270612,
-    "longitude": -6.2885962
-  },
-  {
-    "name": "LA RubyConf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Long Beach",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 33.7700504,
-    "longitude": -118.1937395
-  },
-  {
     "name": "Lesbians Who Tech",
     "topic": "",
     "url": "",
@@ -6994,22 +7101,6 @@
     "codeOfConduct": "",
     "latitude": 40.7127837,
     "longitude": -74.0059413
-  },
-  {
-    "name": "LCA",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Auckland",
-    "stateProvince": "",
-    "country": "New Zealand",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": -36.8484597,
-    "longitude": 174.7633315
   },
   {
     "name": "LeWeb",
@@ -7092,22 +7183,6 @@
     "longitude": -96.79698789999999
   },
   {
-    "name": "MA women's conference",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Boston",
-    "stateProvince": "MA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 42.3600825,
-    "longitude": -71.0588801
-  },
-  {
     "name": "Lucene Revolution",
     "topic": "",
     "url": "",
@@ -7124,20 +7199,20 @@
     "longitude": -6.2603097
   },
   {
-    "name": "MacAdmins",
+    "name": "MA women's conference",
     "topic": "",
     "url": "",
     "twitter": "",
-    "city": "State College",
-    "stateProvince": "PA",
+    "city": "Boston",
+    "stateProvince": "MA",
     "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 40.7933949,
-    "longitude": -77.8600012
+    "latitude": 42.3600825,
+    "longitude": -71.0588801
   },
   {
     "name": "Mac Admin & Developer Conference UK",
@@ -7156,6 +7231,22 @@
     "longitude": -0.1277583
   },
   {
+    "name": "MacAdmins",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "State College",
+    "stateProvince": "PA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 40.7933949,
+    "longitude": -77.8600012
+  },
+  {
     "name": "Macworld",
     "topic": "",
     "url": "http://www.macworldiworld.com",
@@ -7170,6 +7261,22 @@
     "codeOfConduct": "",
     "latitude": 37.7749295,
     "longitude": -122.4194155
+  },
+  {
+    "name": "Madison PHP",
+    "topic": "php",
+    "url": "http://2017.madisonphpconference.com/",
+    "twitter": "@MadisonPHP",
+    "city": "Madison",
+    "stateProvince": "WI",
+    "country": "United States",
+    "eventStartDate": "2017-09-22T04:00:00.000Z",
+    "eventEndDate": "2017-09-23T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 43.0730517,
+    "longitude": -89.4012302
   },
   {
     "name": "Madison+ Ruby",
@@ -7204,20 +7311,20 @@
     "longitude": -115.1398296
   },
   {
-    "name": "MakingWeb",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Oslo",
+    "name": "MagmaConf",
+    "topic": "web platform",
+    "url": "http://magmaconf.com",
+    "twitter": "magmaconf",
+    "city": "Manzanillo",
     "stateProvince": "",
-    "country": "Norway",
-    "eventStartDate": "",
-    "eventEndDate": "",
+    "country": "Mexico",
+    "eventStartDate": "2015-06-18T04:00:00.000Z",
+    "eventEndDate": "2015-06-20T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "latitude": 19.1138094,
+    "longitude": -104.3384616
   },
   {
     "name": "Maker Faire Newcastle",
@@ -7236,20 +7343,20 @@
     "longitude": -1.61778
   },
   {
-    "name": "MagmaConf",
-    "topic": "web platform",
-    "url": "http://magmaconf.com",
-    "twitter": "magmaconf",
-    "city": "Manzanillo",
+    "name": "MakingWeb",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Oslo",
     "stateProvince": "",
-    "country": "Mexico",
-    "eventStartDate": "2015-06-18T04:00:00.000Z",
-    "eventEndDate": "2015-06-20T04:00:00.000Z",
+    "country": "Norway",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 19.1138094,
-    "longitude": -104.3384616
+    "latitude": 59.9138688,
+    "longitude": 10.7522454
   },
   {
     "name": "MALWARE",
@@ -7268,22 +7375,6 @@
     "longitude": -66.590149
   },
   {
-    "name": "MCE",
-    "topic": "",
-    "url": "http://2017.mceconf.com/",
-    "twitter": "",
-    "city": "Warsaw",
-    "stateProvince": "",
-    "country": "Poland",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287
-  },
-  {
     "name": "ManhattanJS",
     "topic": "web platform",
     "url": "http://manhattanjs.com",
@@ -7298,6 +7389,22 @@
     "codeOfConduct": "",
     "latitude": 40.7127837,
     "longitude": -74.0059413
+  },
+  {
+    "name": "MCE",
+    "topic": "",
+    "url": "http://2017.mceconf.com/",
+    "twitter": "",
+    "city": "Warsaw",
+    "stateProvince": "",
+    "country": "Poland",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287
   },
   {
     "name": "Medellin JS",
@@ -7348,6 +7455,38 @@
     "longitude": -81.3792365
   },
   {
+    "name": "Microsoft MVP Summit",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Redmond",
+    "stateProvince": "WA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 47.6739881,
+    "longitude": -122.121512
+  },
+  {
+    "name": "Midwest Game Dev Expo",
+    "topic": "game dev",
+    "url": "https://www.thegdex.com/",
+    "twitter": "",
+    "city": "Columbus",
+    "stateProvince": "OH",
+    "country": "United States",
+    "eventStartDate": "2017-09-29T04:00:00.000Z",
+    "eventEndDate": "2017-10-01T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 39.9611755,
+    "longitude": -82.99879419999999
+  },
+  {
     "name": "Midwest JS",
     "topic": "",
     "url": "http://midwestjs.com/",
@@ -7362,22 +7501,6 @@
     "codeOfConduct": "Yes",
     "latitude": 44.977753,
     "longitude": -93.2650108
-  },
-  {
-    "name": "Midwest Tech Fest",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Columbus",
-    "stateProvince": "OH",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 39.9611755,
-    "longitude": -82.99879419999999
   },
   {
     "name": "Midwest PHP",
@@ -7396,20 +7519,20 @@
     "longitude": -93.2650108
   },
   {
-    "name": "Microsoft MVP Summit",
+    "name": "Midwest Tech Fest",
     "topic": "",
     "url": "",
     "twitter": "",
-    "city": "Redmond",
-    "stateProvince": "WA",
+    "city": "Columbus",
+    "stateProvince": "OH",
     "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 47.6739881,
-    "longitude": -122.121512
+    "latitude": 39.9611755,
+    "longitude": -82.99879419999999
   },
   {
     "name": "Midwest.io",
@@ -7458,6 +7581,22 @@
     "codeOfConduct": "",
     "latitude": 40.44062479999999,
     "longitude": -79.9958864
+  },
+  {
+    "name": "Milwaukee Code Camp",
+    "topic": "programming",
+    "url": "http://milwaukeecodecamp.com/",
+    "twitter": "@MKECodeCamp",
+    "city": "Milwaukee",
+    "stateProvince": "WI",
+    "country": "United States",
+    "eventStartDate": "2017-10-15T04:00:00.000Z",
+    "eventEndDate": "2017-10-15T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 43.0389025,
+    "longitude": -87.9064736
   },
   {
     "name": "Minnesota Developers Conference",
@@ -7524,22 +7663,6 @@
     "longitude": 10.7522454
   },
   {
-    "name": "Modern Web Conf",
-    "topic": "web platform",
-    "url": "http://modernwebconf.com",
-    "twitter": "modernwebconf",
-    "city": "",
-    "stateProvince": "",
-    "country": "",
-    "eventStartDate": "2014-08-06T04:00:00.000Z",
-    "eventEndDate": "2014-08-07T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
     "name": "MobileWebDevConf",
     "topic": "",
     "url": "",
@@ -7554,6 +7677,22 @@
     "codeOfConduct": "",
     "latitude": 37.7749295,
     "longitude": -122.4194155
+  },
+  {
+    "name": "Modern Web Conf",
+    "topic": "web platform",
+    "url": "http://modernwebconf.com",
+    "twitter": "modernwebconf",
+    "city": "",
+    "stateProvince": "",
+    "country": "",
+    "eventStartDate": "2014-08-06T04:00:00.000Z",
+    "eventEndDate": "2014-08-07T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": "",
+    "longitude": ""
   },
   {
     "name": "Monash University",
@@ -7780,22 +7919,6 @@
     "longitude": -0.1277583
   },
   {
-    "name": "NDC Sydney",
-    "topic": "",
-    "url": "http://ndcsydney.com/",
-    "twitter": "",
-    "city": "Sydney",
-    "stateProvince": "",
-    "country": "Australia",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": -33.8688197,
-    "longitude": 151.2092955
-  },
-  {
     "name": "NDC Oslo",
     "topic": "",
     "url": "http://ndcoslo.com/",
@@ -7812,10 +7935,25 @@
     "longitude": 10.7522454
   },
   {
+    "name": "NDC Sydney",
+    "topic": "",
+    "url": "http://ndcsydney.com/",
+    "twitter": "",
+    "city": "Sydney",
+    "stateProvince": "",
+    "country": "Australia",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": -33.8688197,
+    "longitude": 151.2092955
+  },
+  {
     "name": "NDSS",
     "topic": "",
-    "url":
-      "http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers",
+    "url": "http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers",
     "twitter": "",
     "city": "San Diego",
     "stateProvince": "CA",
@@ -7909,22 +8047,6 @@
     "longitude": 1.099971
   },
   {
-    "name": "NG Europe (AngularJS)",
-    "topic": "programming",
-    "url": "http://ngeurope.org",
-    "twitter": "@ngeurope",
-    "city": "Paris",
-    "stateProvince": "",
-    "country": "France",
-    "eventStartDate": "2014-10-22T04:00:00.000Z",
-    "eventEndDate": "2014-10-23T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 48.856614,
-    "longitude": 2.3522219
-  },
-  {
     "name": "New Directions in Operating Systems",
     "topic": "web perf/ops",
     "url": "http://operatingsystems.io",
@@ -7939,6 +8061,22 @@
     "codeOfConduct": "",
     "latitude": 51.5073509,
     "longitude": -0.1277583
+  },
+  {
+    "name": "NG Europe (AngularJS)",
+    "topic": "programming",
+    "url": "http://ngeurope.org",
+    "twitter": "@ngeurope",
+    "city": "Paris",
+    "stateProvince": "",
+    "country": "France",
+    "eventStartDate": "2014-10-22T04:00:00.000Z",
+    "eventEndDate": "2014-10-23T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
   },
   {
     "name": "NG-BE",
@@ -8053,22 +8191,6 @@
     "longitude": -123.1207375
   },
   {
-    "name": "Nodevember",
-    "topic": "web platform",
-    "url": "http://nodevember.org/",
-    "twitter": "nodevember",
-    "city": "Nashville",
-    "stateProvince": "TN",
-    "country": "United States",
-    "eventStartDate": "2017-11-27T05:00:00.000Z",
-    "eventEndDate": "2017-11-28T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1626638,
-    "longitude": -86.7816016
-  },
-  {
     "name": "nodeconf",
     "topic": "web platform",
     "url": "http://www.nodeconf.com",
@@ -8117,22 +8239,6 @@
     "longitude": 2.1734035
   },
   {
-    "name": "NodeConfEU",
-    "topic": "",
-    "url": "http://www.nodeconf.eu/",
-    "twitter": "",
-    "city": "Kilkenny",
-    "stateProvince": "",
-    "country": "Ireland",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 52.6541454,
-    "longitude": -7.2447879
-  },
-  {
     "name": "NodeConf Europe",
     "topic": "web platform",
     "url": "http://www.nodeconf.eu",
@@ -8149,20 +8255,20 @@
     "longitude": -7.1100702
   },
   {
-    "name": "Nodevember",
+    "name": "NodeConfEU",
     "topic": "",
-    "url": "",
+    "url": "http://www.nodeconf.eu/",
     "twitter": "",
-    "city": "Nashville",
-    "stateProvince": "TN",
-    "country": "United States",
+    "city": "Kilkenny",
+    "stateProvince": "",
+    "country": "Ireland",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1626638,
-    "longitude": -86.7816016
+    "codeOfConduct": "Yes",
+    "latitude": 52.6541454,
+    "longitude": -7.2447879
   },
   {
     "name": "NodeSummit",
@@ -8179,6 +8285,38 @@
     "codeOfConduct": "Yes",
     "latitude": 37.7749295,
     "longitude": -122.4194155
+  },
+  {
+    "name": "Nodevember",
+    "topic": "web platform",
+    "url": "http://nodevember.org/",
+    "twitter": "nodevember",
+    "city": "Nashville",
+    "stateProvince": "TN",
+    "country": "United States",
+    "eventStartDate": "2017-11-27T05:00:00.000Z",
+    "eventEndDate": "2017-11-28T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1626638,
+    "longitude": -86.7816016
+  },
+  {
+    "name": "Nodevember",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Nashville",
+    "stateProvince": "TN",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1626638,
+    "longitude": -86.7816016
   },
   {
     "name": "NOPCon",
@@ -8213,22 +8351,6 @@
     "longitude": 18.3467813
   },
   {
-    "name": "NotFluffJustStuff",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "various",
-    "stateProvince": "",
-    "country": "",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.2930818,
-    "longitude": -121.9342555
-  },
-  {
     "name": "NoSQL Now",
     "topic": "",
     "url": "",
@@ -8243,6 +8365,22 @@
     "codeOfConduct": "",
     "latitude": 37.3382082,
     "longitude": -121.8863286
+  },
+  {
+    "name": "NotFluffJustStuff",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "various",
+    "stateProvince": "",
+    "country": "",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.2930818,
+    "longitude": -121.9342555
   },
   {
     "name": "NullCon",
@@ -8261,36 +8399,20 @@
     "longitude": 74.12399599999999
   },
   {
-    "name": "2017@Swift",
+    "name": "NYC Code Camp",
     "topic": "",
-    "url": "http://www.bagevent.com/event/378252",
+    "url": "",
     "twitter": "",
-    "city": "Shenzen",
-    "stateProvince": "",
-    "country": "China",
+    "city": "New York",
+    "stateProvince": "NY",
+    "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 22.543096,
-    "longitude": 114.057865
-  },
-  {
-    "name": "34C3",
-    "topic": "",
-    "url": "http://www.ccc.de/en/",
-    "twitter": "",
-    "city": "Berlin",
-    "stateProvince": "",
-    "country": "Germany",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
   },
   {
     "name": "NYCCamp",
@@ -8309,20 +8431,20 @@
     "longitude": -74.0059413
   },
   {
-    "name": "NYC Code Camp",
+    "name": "O'Reilly arch conf",
     "topic": "",
     "url": "",
     "twitter": "",
-    "city": "New York",
-    "stateProvince": "NY",
-    "country": "United States",
+    "city": "various",
+    "stateProvince": "",
+    "country": "",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "latitude": 37.2930818,
+    "longitude": -121.9342555
   },
   {
     "name": "O'Reilly Fluent",
@@ -8339,22 +8461,6 @@
     "codeOfConduct": "Yes",
     "latitude": 37.3382082,
     "longitude": -121.8863286
-  },
-  {
-    "name": "O'Reilly arch conf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "various",
-    "stateProvince": "",
-    "country": "",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.2930818,
-    "longitude": -121.9342555
   },
   {
     "name": "O'Reilly OSCON Austin",
@@ -8437,6 +8543,22 @@
     "longitude": -1.2577263
   },
   {
+    "name": "Ohio LinuxFest",
+    "topic": "linux",
+    "url": "https://ohiolinux.org/",
+    "twitter": "@ohiolinux",
+    "city": "Columbus",
+    "stateProvince": "OH",
+    "country": "United States",
+    "eventStartDate": "2017-09-29T04:00:00.000Z",
+    "eventEndDate": "2017-09-30T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 39.9611755,
+    "longitude": -82.99879419999999
+  },
+  {
     "name": "OOP",
     "topic": "programming",
     "url": "http://www.oop-konferenz.de/",
@@ -8469,22 +8591,6 @@
     "longitude": -122.3320708
   },
   {
-    "name": "OpenCon",
-    "topic": "programming",
-    "url": "http://opensiliconharbor.com/",
-    "twitter": "#OpenSiliconHarbor",
-    "city": "Charlseton",
-    "stateProvince": "SC",
-    "country": "United States",
-    "eventStartDate": "2014-09-17T04:00:00.000Z",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 32.7764749,
-    "longitude": -79.93105120000001
-  },
-  {
     "name": "Open Web Camp",
     "topic": "web platform",
     "url": "http://openwebcamp.com/",
@@ -8499,6 +8605,22 @@
     "codeOfConduct": "",
     "latitude": 37.3382082,
     "longitude": -121.8863286
+  },
+  {
+    "name": "OpenCon",
+    "topic": "programming",
+    "url": "http://opensiliconharbor.com/",
+    "twitter": "#OpenSiliconHarbor",
+    "city": "Charlseton",
+    "stateProvince": "SC",
+    "country": "United States",
+    "eventStartDate": "2014-09-17T04:00:00.000Z",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 32.7764749,
+    "longitude": -79.93105120000001
   },
   {
     "name": "OpenFest",
@@ -8533,22 +8655,6 @@
     "longitude": 139.6917064
   },
   {
-    "name": "OpenWest",
-    "topic": "programming",
-    "url": "http://www.openwest.org/",
-    "twitter": "openwestconf",
-    "city": "Orem",
-    "stateProvince": "UT",
-    "country": "United States",
-    "eventStartDate": "2015-05-07T04:00:00.000Z",
-    "eventEndDate": "2015-05-09T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 40.2968979,
-    "longitude": -111.6946475
-  },
-  {
     "name": "OpenVis Conf",
     "topic": "",
     "url": "http://openvisconf.com",
@@ -8565,20 +8671,20 @@
     "longitude": -71.0588801
   },
   {
-    "name": "OS Bridge",
+    "name": "OpenWest",
     "topic": "programming",
-    "url": "http://opensourcebridge.org/",
-    "twitter": "osbridge",
-    "city": "Portland",
-    "stateProvince": "OR",
+    "url": "http://www.openwest.org/",
+    "twitter": "openwestconf",
+    "city": "Orem",
+    "stateProvince": "UT",
     "country": "United States",
-    "eventStartDate": "2015-06-23T04:00:00.000Z",
-    "eventEndDate": "2015-06-26T04:00:00.000Z",
+    "eventStartDate": "2015-05-07T04:00:00.000Z",
+    "eventEndDate": "2015-05-09T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "latitude": 40.2968979,
+    "longitude": -111.6946475
   },
   {
     "name": "Oracle Open World",
@@ -8595,6 +8701,22 @@
     "codeOfConduct": "",
     "latitude": 37.7749295,
     "longitude": -122.4194155
+  },
+  {
+    "name": "OS Bridge",
+    "topic": "programming",
+    "url": "http://opensourcebridge.org/",
+    "twitter": "osbridge",
+    "city": "Portland",
+    "stateProvince": "OR",
+    "country": "United States",
+    "eventStartDate": "2015-06-23T04:00:00.000Z",
+    "eventEndDate": "2015-06-26T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 45.5230622,
+    "longitude": -122.6764815
   },
   {
     "name": "OSCon",
@@ -8629,22 +8751,6 @@
     "longitude": -122.6764815
   },
   {
-    "name": "Paranoia",
-    "topic": "",
-    "url": "http://paranoia.watchcom.no/",
-    "twitter": "",
-    "city": "Oslo",
-    "stateProvince": "",
-    "country": "Norway",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 59.9138688,
-    "longitude": 10.7522454
-  },
-  {
     "name": "OSDC",
     "topic": "programming",
     "url": "http://osdc.com.au",
@@ -8659,6 +8765,22 @@
     "codeOfConduct": "",
     "latitude": -28.016667,
     "longitude": 153.4
+  },
+  {
+    "name": "Paranoia",
+    "topic": "",
+    "url": "http://paranoia.watchcom.no/",
+    "twitter": "",
+    "city": "Oslo",
+    "stateProvince": "",
+    "country": "Norway",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 59.9138688,
+    "longitude": 10.7522454
   },
   {
     "name": "Paris Web",
@@ -8677,20 +8799,20 @@
     "longitude": 2.3522219
   },
   {
-    "name": "php Conference Argentina",
-    "topic": "web platform",
-    "url": "http://phpconference.com.ar",
-    "twitter": "phpconferencear",
-    "city": "Buenos Aires",
+    "name": "Pecha Kucha",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Ottawa",
     "stateProvince": "",
-    "country": "Argentina",
-    "eventStartDate": "2014-11-07T05:00:00.000Z",
-    "eventEndDate": "2014-11-08T05:00:00.000Z",
+    "country": "Canada",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591
+    "latitude": 45.4215296,
+    "longitude": -75.69719309999999
   },
   {
     "name": "PhDays",
@@ -8709,36 +8831,20 @@
     "longitude": 37.6172999
   },
   {
-    "name": "Pecha Kucha",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Ottawa",
+    "name": "php Conference Argentina",
+    "topic": "web platform",
+    "url": "http://phpconference.com.ar",
+    "twitter": "phpconferencear",
+    "city": "Buenos Aires",
     "stateProvince": "",
-    "country": "Canada",
-    "eventStartDate": "",
-    "eventEndDate": "",
+    "country": "Argentina",
+    "eventStartDate": "2014-11-07T05:00:00.000Z",
+    "eventEndDate": "2014-11-08T05:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 45.4215296,
-    "longitude": -75.69719309999999
-  },
-  {
-    "name": "PHP Day",
-    "topic": "programming",
-    "url": "http://phpday.it",
-    "twitter": "@phpday",
-    "city": "Verona",
-    "stateProvince": "",
-    "country": "Italy",
-    "eventStartDate": "2015-05-15T04:00:00.000Z",
-    "eventEndDate": "2015-05-16T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 45.43838419999999,
-    "longitude": 10.9916215
+    "latitude": -34.6036844,
+    "longitude": -58.3815591
   },
   {
     "name": "PHP Craft",
@@ -8757,36 +8863,20 @@
     "longitude": 28.0473051
   },
   {
-    "name": "PHPUK",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "London",
+    "name": "PHP Day",
+    "topic": "programming",
+    "url": "http://phpday.it",
+    "twitter": "@phpday",
+    "city": "Verona",
     "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "",
-    "eventEndDate": "",
+    "country": "Italy",
+    "eventStartDate": "2015-05-15T04:00:00.000Z",
+    "eventEndDate": "2015-05-16T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
-  },
-  {
-    "name": "Pink Elephant",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Las Vegas",
-    "stateProvince": "NV",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "latitude": 45.43838419999999,
+    "longitude": 10.9916215
   },
   {
     "name": "PHPBenelux",
@@ -8821,6 +8911,38 @@
     "longitude": -3.435973
   },
   {
+    "name": "PHPUK",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Pink Elephant",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Las Vegas",
+    "stateProvince": "NV",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1699412,
+    "longitude": -115.1398296
+  },
+  {
     "name": "PipelineConf",
     "topic": "web platform",
     "url": "http://pipelineconf.info",
@@ -8851,6 +8973,22 @@
     "codeOfConduct": "",
     "latitude": 59.9342802,
     "longitude": 30.3350986
+  },
+  {
+    "name": "Playgrounds",
+    "topic": "",
+    "url": "http://www.playgroundscon.com/",
+    "twitter": "",
+    "city": "Melbourne",
+    "stateProvince": "",
+    "country": "Australia",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": -37.8136276,
+    "longitude": 144.9630576
   },
   {
     "name": "Pluralsight Author Summit",
@@ -8885,22 +9023,6 @@
     "longitude": -122.6764815
   },
   {
-    "name": "Playgrounds",
-    "topic": "",
-    "url": "http://www.playgroundscon.com/",
-    "twitter": "",
-    "city": "Melbourne",
-    "stateProvince": "",
-    "country": "Australia",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": -37.8136276,
-    "longitude": 144.9630576
-  },
-  {
     "name": "PolyConf",
     "topic": "programming",
     "url": "http://polyconf.com/",
@@ -8931,22 +9053,6 @@
     "codeOfConduct": "",
     "latitude": 52.406374,
     "longitude": 16.9251681
-  },
-  {
-    "name": "Pragma Conference",
-    "topic": "programming",
-    "url": "http://www.pragmaconference.com",
-    "twitter": "@pragmamarkorg",
-    "city": "florence",
-    "stateProvince": "",
-    "country": "Italy",
-    "eventStartDate": "2015-10-09T04:00:00.000Z",
-    "eventEndDate": "2015-10-10T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 43.7695604,
-    "longitude": 11.2558136
   },
   {
     "name": "Postgres Conference",
@@ -8981,6 +9087,22 @@
     "longitude": -96.79698789999999
   },
   {
+    "name": "Pragma Conference",
+    "topic": "programming",
+    "url": "http://www.pragmaconference.com",
+    "twitter": "@pragmamarkorg",
+    "city": "florence",
+    "stateProvince": "",
+    "country": "Italy",
+    "eventStartDate": "2015-10-09T04:00:00.000Z",
+    "eventEndDate": "2015-10-10T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 43.7695604,
+    "longitude": 11.2558136
+  },
+  {
     "name": "Prairie Code",
     "topic": "",
     "url": "",
@@ -9011,6 +9133,22 @@
     "codeOfConduct": "Yes",
     "latitude": 49.895136,
     "longitude": -97.13837439999999
+  },
+  {
+    "name": "Prairie.Code()",
+    "topic": "programming",
+    "url": "https://prairiecode.amegala.com/",
+    "twitter": "@amegala",
+    "city": "Des Moines",
+    "stateProvince": "IA",
+    "country": "United States",
+    "eventStartDate": "2017-09-27T04:00:00.000Z",
+    "eventEndDate": "2017-09-29T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 41.6005448,
+    "longitude": -93.6091064
   },
   {
     "name": "Pressnomics",
@@ -9093,22 +9231,6 @@
     "longitude": -61.49164219999999
   },
   {
-    "name": "PyCon FI",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Helsinki",
-    "stateProvince": "",
-    "country": "Finland",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 60.16985569999999,
-    "longitude": 24.9383791
-  },
-  {
     "name": "PyCon AU",
     "topic": "programming",
     "url": "http://pycon-au.org",
@@ -9123,6 +9245,22 @@
     "codeOfConduct": "",
     "latitude": -27.4697707,
     "longitude": 153.0251235
+  },
+  {
+    "name": "PyCon FI",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Helsinki",
+    "stateProvince": "",
+    "country": "Finland",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 60.16985569999999,
+    "longitude": 24.9383791
   },
   {
     "name": "Pycon FR",
@@ -9221,22 +9359,6 @@
     "longitude": -74.0059413
   },
   {
-    "name": "PyOhio",
-    "topic": "programming",
-    "url": "http://pyohio.org",
-    "twitter": "pyohio",
-    "city": "Columbus",
-    "stateProvince": "OH",
-    "country": "United States",
-    "eventStartDate": "2015-08-01T04:00:00.000Z",
-    "eventEndDate": "2015-08-02T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 39.9611755,
-    "longitude": -82.99879419999999
-  },
-  {
     "name": "PyGotham",
     "topic": "programming",
     "url": "http://pygotham.org/",
@@ -9251,6 +9373,22 @@
     "codeOfConduct": "",
     "latitude": 40.7127837,
     "longitude": -74.0059413
+  },
+  {
+    "name": "PyOhio",
+    "topic": "programming",
+    "url": "http://pyohio.org",
+    "twitter": "pyohio",
+    "city": "Columbus",
+    "stateProvince": "OH",
+    "country": "United States",
+    "eventStartDate": "2015-08-01T04:00:00.000Z",
+    "eventEndDate": "2015-08-02T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 39.9611755,
+    "longitude": -82.99879419999999
   },
   {
     "name": "PyTennessee",
@@ -9283,6 +9421,22 @@
     "codeOfConduct": "",
     "latitude": 30.627977,
     "longitude": -96.3344068
+  },
+  {
+    "name": "Qcon",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Sao Paulo",
+    "stateProvince": "",
+    "country": "Brazil",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": -23.5505199,
+    "longitude": -46.63330939999999
   },
   {
     "name": "Qcon",
@@ -9335,22 +9489,6 @@
   {
     "name": "Qcon",
     "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Sao Paulo",
-    "stateProvince": "",
-    "country": "Brazil",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": -23.5505199,
-    "longitude": -46.63330939999999
-  },
-  {
-    "name": "Qcon",
-    "topic": "",
     "url": "https://qconferences.com/",
     "twitter": "",
     "city": "Shanghai",
@@ -9397,38 +9535,6 @@
     "longitude": -74.0059413
   },
   {
-    "name": "Railsconf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Atlanta",
-    "stateProvince": "GA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 33.7489954,
-    "longitude": -84.3879824
-  },
-  {
-    "name": "Railsconf",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Portland",
-    "stateProvince": "OR",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 45.5230622,
-    "longitude": -122.6764815
-  },
-  {
     "name": "r2con",
     "topic": "",
     "url": "http://rada.re/con/",
@@ -9454,6 +9560,38 @@
     "country": "United States",
     "eventStartDate": "2015-04-21T04:00:00.000Z",
     "eventEndDate": "2015-04-23T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 33.7489954,
+    "longitude": -84.3879824
+  },
+  {
+    "name": "Railsconf",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Portland",
+    "stateProvince": "OR",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 45.5230622,
+    "longitude": -122.6764815
+  },
+  {
+    "name": "Railsconf",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Atlanta",
+    "stateProvince": "GA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
@@ -9525,22 +9663,6 @@
     "longitude": -0.1277583
   },
   {
-    "name": "React Amsterdam",
-    "topic": "",
-    "url": "http://react.amsterdam/",
-    "twitter": "",
-    "city": "Amsterdam",
-    "stateProvince": "",
-    "country": "The Netherlands",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 52.3702157,
-    "longitude": 4.895167900000001
-  },
-  {
     "name": "React Alicante",
     "topic": "",
     "url": "http://reactalicante.es/",
@@ -9555,6 +9677,22 @@
     "codeOfConduct": "Unspecified",
     "latitude": 38.3459963,
     "longitude": -0.4906855
+  },
+  {
+    "name": "React Amsterdam",
+    "topic": "",
+    "url": "http://react.amsterdam/",
+    "twitter": "",
+    "city": "Amsterdam",
+    "stateProvince": "",
+    "country": "The Netherlands",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 52.3702157,
+    "longitude": 4.895167900000001
   },
   {
     "name": "React Boston",
@@ -9621,22 +9759,6 @@
     "longitude": 10.9916215
   },
   {
-    "name": "React London",
-    "topic": "",
-    "url": "http://react.london/",
-    "twitter": "",
-    "city": "London",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
-  },
-  {
     "name": "React Europe",
     "topic": "",
     "url": "",
@@ -9651,6 +9773,22 @@
     "codeOfConduct": "",
     "latitude": 48.856614,
     "longitude": 2.3522219
+  },
+  {
+    "name": "React London",
+    "topic": "",
+    "url": "http://react.london/",
+    "twitter": "",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
   },
   {
     "name": "React Native EU",
@@ -9685,22 +9823,6 @@
     "longitude": 2.3522219
   },
   {
-    "name": "ReactFoo",
-    "topic": "",
-    "url": "http://reactfoo.in/2017/",
-    "twitter": "",
-    "city": "Bangalore",
-    "stateProvince": "",
-    "country": "India",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 12.9715987,
-    "longitude": 77.5945627
-  },
-  {
     "name": "ReactEurope",
     "topic": "",
     "url": "http://www.react-europe.org/",
@@ -9717,20 +9839,20 @@
     "longitude": 2.3522219
   },
   {
-    "name": "ReactiveConf",
+    "name": "ReactFoo",
     "topic": "",
-    "url": "http://reactiveconf.com/",
+    "url": "http://reactfoo.in/2017/",
     "twitter": "",
-    "city": "Bratislava",
+    "city": "Bangalore",
     "stateProvince": "",
-    "country": "Slovakia",
+    "country": "India",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 48.1485965,
-    "longitude": 17.1077478
+    "latitude": 12.9715987,
+    "longitude": 77.5945627
   },
   {
     "name": "ReactiveConf",
@@ -9747,6 +9869,22 @@
     "codeOfConduct": "",
     "latitude": 30.267153,
     "longitude": -97.7430608
+  },
+  {
+    "name": "ReactiveConf",
+    "topic": "",
+    "url": "http://reactiveconf.com/",
+    "twitter": "",
+    "city": "Bratislava",
+    "stateProvince": "",
+    "country": "Slovakia",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 48.1485965,
+    "longitude": 17.1077478
   },
   {
     "name": "ReactJSDay",
@@ -9877,22 +10015,6 @@
     "longitude": 24.7535747
   },
   {
-    "name": "Reject.js",
-    "topic": "web platform",
-    "url": "http://rejectjs.org",
-    "twitter": "rejectjs",
-    "city": "Berlin",
-    "stateProvince": "",
-    "country": "Germany",
-    "eventStartDate": "2015-09-24T04:00:00.000Z",
-    "eventEndDate": "2015-09-24T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.52000659999999,
-    "longitude": 13.404954
-  },
-  {
     "name": "Refresh Ottawa",
     "topic": "",
     "url": "",
@@ -9907,6 +10029,22 @@
     "codeOfConduct": "",
     "latitude": 45.4215296,
     "longitude": -75.69719309999999
+  },
+  {
+    "name": "Reject.js",
+    "topic": "web platform",
+    "url": "http://rejectjs.org",
+    "twitter": "rejectjs",
+    "city": "Berlin",
+    "stateProvince": "",
+    "country": "Germany",
+    "eventStartDate": "2015-09-24T04:00:00.000Z",
+    "eventEndDate": "2015-09-24T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 52.52000659999999,
+    "longitude": 13.404954
   },
   {
     "name": "Render",
@@ -9989,22 +10127,6 @@
     "longitude": 4.3871779
   },
   {
-    "name": "RootedCon",
-    "topic": "",
-    "url": "http://www.rootedcon.com/",
-    "twitter": "",
-    "city": "Madrid",
-    "stateProvince": "",
-    "country": "Spain",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 40.4167754,
-    "longitude": -3.7037902
-  },
-  {
     "name": "RobotsConf",
     "topic": "iot",
     "url": "http://robotsconf.com",
@@ -10019,6 +10141,22 @@
     "codeOfConduct": "",
     "latitude": 30.6265697,
     "longitude": -81.46085599999999
+  },
+  {
+    "name": "RootedCon",
+    "topic": "",
+    "url": "http://www.rootedcon.com/",
+    "twitter": "",
+    "city": "Madrid",
+    "stateProvince": "",
+    "country": "Spain",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902
   },
   {
     "name": "RSA conference",
@@ -10053,6 +10191,22 @@
     "longitude": -98.49362819999999
   },
   {
+    "name": "RubyConf Argentina",
+    "topic": "web platform",
+    "url": "http://rubyconfargentina.org",
+    "twitter": "@rubyconfar",
+    "city": "Buenos Aires",
+    "stateProvince": "",
+    "country": "Argentina",
+    "eventStartDate": "2014-10-24T04:00:00.000Z",
+    "eventEndDate": "2015-10-25T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591
+  },
+  {
     "name": "RubyConf AU",
     "topic": "",
     "url": "",
@@ -10083,22 +10237,6 @@
     "codeOfConduct": "",
     "latitude": -23.5505199,
     "longitude": -46.63330939999999
-  },
-  {
-    "name": "RubyConf Argentina",
-    "topic": "web platform",
-    "url": "http://rubyconfargentina.org",
-    "twitter": "@rubyconfar",
-    "city": "Buenos Aires",
-    "stateProvince": "",
-    "country": "Argentina",
-    "eventStartDate": "2014-10-24T04:00:00.000Z",
-    "eventEndDate": "2015-10-25T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591
   },
   {
     "name": "RubyConf Colombia",
@@ -10165,22 +10303,6 @@
     "longitude": 7.216236299999999
   },
   {
-    "name": "RuLu",
-    "topic": "",
-    "url": "",
-    "twitter": "",
-    "city": "Lyon",
-    "stateProvince": "",
-    "country": "France",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 45.764043,
-    "longitude": 4.835659
-  },
-  {
     "name": "RuhrSec",
     "topic": "",
     "url": "http://www.ruhrsec.de/2017/",
@@ -10195,6 +10317,22 @@
     "codeOfConduct": "",
     "latitude": 51.4818445,
     "longitude": 7.216236299999999
+  },
+  {
+    "name": "RuLu",
+    "topic": "",
+    "url": "",
+    "twitter": "",
+    "city": "Lyon",
+    "stateProvince": "",
+    "country": "France",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 45.764043,
+    "longitude": 4.835659
   },
   {
     "name": "Ruxcon",
@@ -10261,22 +10399,6 @@
     "longitude": 2.3522219
   },
   {
-    "name": "SAS",
-    "topic": "",
-    "url": "http://sas.kaspersky.com/",
-    "twitter": "",
-    "city": "St Maarten",
-    "stateProvince": "",
-    "country": "St. Maarten",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 18.04248,
-    "longitude": -63.05483
-  },
-  {
     "name": "Samsung Developer",
     "topic": "mobile",
     "url": "http://www.samsungdevcon.com/",
@@ -10291,6 +10413,22 @@
     "codeOfConduct": "",
     "latitude": 37.7749295,
     "longitude": -122.4194155
+  },
+  {
+    "name": "SAS",
+    "topic": "",
+    "url": "http://sas.kaspersky.com/",
+    "twitter": "",
+    "city": "St Maarten",
+    "stateProvince": "",
+    "country": "St. Maarten",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 18.04248,
+    "longitude": -63.05483
   },
   {
     "name": "SaSeIoT",
@@ -10309,22 +10447,6 @@
     "longitude": -0.3762881
   },
   {
-    "name": "Scala By The Bay",
-    "topic": "programming",
-    "url": "http://www.scalabythebay.org/",
-    "twitter": "scalabythebay",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "2015-08-13T04:00:00.000Z",
-    "eventEndDate": "2015-08-16T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
-  },
-  {
     "name": "SassConf",
     "topic": "web platform",
     "url": "http://sassconf.com/",
@@ -10339,6 +10461,22 @@
     "codeOfConduct": "",
     "latitude": 30.267153,
     "longitude": -97.7430608
+  },
+  {
+    "name": "Scala By The Bay",
+    "topic": "programming",
+    "url": "http://www.scalabythebay.org/",
+    "twitter": "scalabythebay",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "2015-08-13T04:00:00.000Z",
+    "eventEndDate": "2015-08-16T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
   },
   {
     "name": "Scala Days",
@@ -10453,22 +10591,6 @@
     "longitude": -3.354628
   },
   {
-    "name": "SeaGL",
-    "topic": "",
-    "url": "http://seagl.org/",
-    "twitter": "",
-    "city": "Seattle",
-    "stateProvince": "WA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 47.6062095,
-    "longitude": -122.3320708
-  },
-  {
     "name": "Script",
     "topic": "",
     "url": "http://scriptconf.org/",
@@ -10485,20 +10607,20 @@
     "longitude": 14.28583
   },
   {
-    "name": "Sec-T",
+    "name": "SeaGL",
     "topic": "",
-    "url": "http://www.sec-t.org/",
+    "url": "http://seagl.org/",
     "twitter": "",
-    "city": "Stockholm",
-    "stateProvince": "",
-    "country": "Sweden",
+    "city": "Seattle",
+    "stateProvince": "WA",
+    "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 59.32932349999999,
-    "longitude": 18.0685808
+    "latitude": 47.6062095,
+    "longitude": -122.3320708
   },
   {
     "name": "SeattleJS",
@@ -10515,6 +10637,22 @@
     "codeOfConduct": "",
     "latitude": 47.6062095,
     "longitude": -122.3320708
+  },
+  {
+    "name": "Sec-T",
+    "topic": "",
+    "url": "http://www.sec-t.org/",
+    "twitter": "",
+    "city": "Stockholm",
+    "stateProvince": "",
+    "country": "Sweden",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 59.32932349999999,
+    "longitude": 18.0685808
   },
   {
     "name": "SecITC",
@@ -10611,6 +10749,22 @@
     "codeOfConduct": "",
     "latitude": 52.2841439,
     "longitude": 5.5217573
+  },
+  {
+    "name": "SharePoint Fest Chicago",
+    "topic": "sharepoint",
+    "url": "http://www.sharepointfest.com/Chicago/",
+    "twitter": "@sharepointfest",
+    "city": "Chicago",
+    "stateProvince": "IL",
+    "country": "United States",
+    "eventStartDate": "2017-12-05T05:00:00.000Z",
+    "eventEndDate": "2017-12-08T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 41.8781136,
+    "longitude": -87.6297982
   },
   {
     "name": "She’s Geeky",
@@ -10725,22 +10879,6 @@
     "longitude": -122.4194155
   },
   {
-    "name": "So Ember",
-    "topic": "",
-    "url": "http://soember.com/",
-    "twitter": "",
-    "city": "San Diego",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 32.715738,
-    "longitude": -117.1610838
-  },
-  {
     "name": "Smidig",
     "topic": "",
     "url": "http://www.smidig.no/",
@@ -10755,6 +10893,22 @@
     "codeOfConduct": "",
     "latitude": 59.9138688,
     "longitude": 10.7522454
+  },
+  {
+    "name": "So Ember",
+    "topic": "",
+    "url": "http://soember.com/",
+    "twitter": "",
+    "city": "San Diego",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 32.715738,
+    "longitude": -117.1610838
   },
   {
     "name": "Social Connections",
@@ -10773,22 +10927,6 @@
     "longitude": 14.4378005
   },
   {
-    "name": "Software Design & Dev (SDD)",
-    "topic": "programming",
-    "url": "https://sddconf.com/",
-    "twitter": "@sddconf",
-    "city": "London",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "2015-05-11T04:00:00.000Z",
-    "eventEndDate": "2015-05-15T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
-  },
-  {
     "name": "Software Architecture",
     "topic": "programming",
     "url": "http://softwarearchitecturecon.com",
@@ -10803,6 +10941,22 @@
     "codeOfConduct": "",
     "latitude": 42.3600825,
     "longitude": -71.0588801
+  },
+  {
+    "name": "Software Design & Dev (SDD)",
+    "topic": "programming",
+    "url": "https://sddconf.com/",
+    "twitter": "@sddconf",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "2015-05-11T04:00:00.000Z",
+    "eventEndDate": "2015-05-15T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
   },
   {
     "name": "Solid",
@@ -10853,6 +11007,22 @@
     "longitude": -80.8431267
   },
   {
+    "name": "Southeast Ruby",
+    "topic": "ruby",
+    "url": "https://southeastruby.com/",
+    "twitter": "",
+    "city": "Nashville",
+    "stateProvince": "TN",
+    "country": "United States",
+    "eventStartDate": "2017-10-05T04:00:00.000Z",
+    "eventEndDate": "2017-10-06T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1626638,
+    "longitude": -86.7816016
+  },
+  {
     "name": "Space City JS",
     "topic": "web platform",
     "url": "http://spacecity.codes",
@@ -10883,6 +11053,22 @@
     "codeOfConduct": "",
     "latitude": 36.1699412,
     "longitude": -115.1398296
+  },
+  {
+    "name": "SpringOne 2GX",
+    "topic": "",
+    "url": "http://springone2gx.com/",
+    "twitter": "",
+    "city": "Seattle",
+    "stateProvince": "WA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 47.6062095,
+    "longitude": -122.3320708
   },
   {
     "name": "SRCCON",
@@ -10917,22 +11103,6 @@
     "longitude": -1.6777926
   },
   {
-    "name": "SpringOne 2GX",
-    "topic": "",
-    "url": "http://springone2gx.com/",
-    "twitter": "",
-    "city": "Seattle",
-    "stateProvince": "WA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 47.6062095,
-    "longitude": -122.3320708
-  },
-  {
     "name": "Startup Grind",
     "topic": "business",
     "url": "http://startupgrind.com",
@@ -10965,22 +11135,6 @@
     "longitude": -1.470085
   },
   {
-    "name": "Stpcon",
-    "topic": "",
-    "url": "http://www.stpcon.com/",
-    "twitter": "",
-    "city": "Boston",
-    "stateProvince": "MA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 42.3600825,
-    "longitude": -71.0588801
-  },
-  {
     "name": "Stir Trek",
     "topic": "",
     "url": "https://www.stirtrek.com/",
@@ -10995,6 +11149,22 @@
     "codeOfConduct": "",
     "latitude": 39.9611755,
     "longitude": -82.99879419999999
+  },
+  {
+    "name": "Stpcon",
+    "topic": "",
+    "url": "http://www.stpcon.com/",
+    "twitter": "",
+    "city": "Boston",
+    "stateProvince": "MA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 42.3600825,
+    "longitude": -71.0588801
   },
   {
     "name": "Strangeloop",
@@ -11061,22 +11231,6 @@
     "longitude": -74.0059413
   },
   {
-    "name": "Surge",
-    "topic": "web perf/ops",
-    "url": "http://surge.omniti.com/",
-    "twitter": "surgecon",
-    "city": "National Harbor",
-    "stateProvince": "MD",
-    "country": "United States",
-    "eventStartDate": "2015-09-23T04:00:00.000Z",
-    "eventEndDate": "2015-09-25T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 38.7886944,
-    "longitude": -77.0190228
-  },
-  {
     "name": "Sud Web",
     "topic": "",
     "url": "https://sudweb.fr/",
@@ -11091,6 +11245,22 @@
     "codeOfConduct": "",
     "latitude": 43.604652,
     "longitude": 1.444209
+  },
+  {
+    "name": "Surge",
+    "topic": "web perf/ops",
+    "url": "http://surge.omniti.com/",
+    "twitter": "surgecon",
+    "city": "National Harbor",
+    "stateProvince": "MD",
+    "country": "United States",
+    "eventStartDate": "2015-09-23T04:00:00.000Z",
+    "eventEndDate": "2015-09-25T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 38.7886944,
+    "longitude": -77.0190228
   },
   {
     "name": "Swift Summit",
@@ -11257,6 +11427,22 @@
     "topic": "",
     "url": "https://techdayhq.com/",
     "twitter": "",
+    "city": "Stockholm",
+    "stateProvince": "",
+    "country": "Sweden",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 59.32932349999999,
+    "longitude": 18.0685808
+  },
+  {
+    "name": "TechDays",
+    "topic": "",
+    "url": "https://techdayhq.com/",
+    "twitter": "",
     "city": "The Hague",
     "stateProvince": "",
     "country": "The Netherlands",
@@ -11285,22 +11471,6 @@
     "longitude": -95.3698028
   },
   {
-    "name": "TechDays",
-    "topic": "",
-    "url": "https://techdayhq.com/",
-    "twitter": "",
-    "city": "Stockholm",
-    "stateProvince": "",
-    "country": "Sweden",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 59.32932349999999,
-    "longitude": 18.0685808
-  },
-  {
     "name": "Techonomy",
     "topic": "",
     "url": "https://techonomy.com/",
@@ -11315,6 +11485,22 @@
     "codeOfConduct": "",
     "latitude": 32.2217429,
     "longitude": -110.926479
+  },
+  {
+    "name": "Techorama Belgium",
+    "topic": "",
+    "url": "https://techorama.be/",
+    "twitter": "",
+    "city": "Brussels",
+    "stateProvince": "",
+    "country": "Belgium",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 50.8503463,
+    "longitude": 4.3517211
   },
   {
     "name": "Texas LinuxFest",
@@ -11365,22 +11551,6 @@
     "longitude": -89.7709579
   },
   {
-    "name": "Techorama Belgium",
-    "topic": "",
-    "url": "https://techorama.be/",
-    "twitter": "",
-    "city": "Brussels",
-    "stateProvince": "",
-    "country": "Belgium",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 50.8503463,
-    "longitude": 4.3517211
-  },
-  {
     "name": "THCon",
     "topic": "",
     "url": "http://toulousehackingconvention.fr/",
@@ -11429,22 +11599,6 @@
     "longitude": 18.6955144
   },
   {
-    "name": "ThingMonk",
-    "topic": "iot",
-    "url": "http://thingmonk.com",
-    "twitter": "thingmonk",
-    "city": "London",
-    "stateProvince": "",
-    "country": "United Kingdom",
-    "eventStartDate": "2015-12-03T05:00:00.000Z",
-    "eventEndDate": "2015-12-04T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583
-  },
-  {
     "name": "The Rolling Scopes",
     "topic": "",
     "url": "http://2017.conf.rollingscopes.com/",
@@ -11459,6 +11613,22 @@
     "codeOfConduct": "",
     "latitude": 53.90453979999999,
     "longitude": 27.5615244
+  },
+  {
+    "name": "ThingMonk",
+    "topic": "iot",
+    "url": "http://thingmonk.com",
+    "twitter": "thingmonk",
+    "city": "London",
+    "stateProvince": "",
+    "country": "United Kingdom",
+    "eventStartDate": "2015-12-03T05:00:00.000Z",
+    "eventEndDate": "2015-12-04T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
   },
   {
     "name": "ThotCon",
@@ -11493,22 +11663,6 @@
     "longitude": -73.9441579
   },
   {
-    "name": "TNW",
-    "topic": "web platform",
-    "url": "http://thenextweb.com/conference/",
-    "twitter": "thenextweb",
-    "city": "New York",
-    "stateProvince": "NY",
-    "country": "United States",
-    "eventStartDate": "2015-11-18T05:00:00.000Z",
-    "eventEndDate": "2015-11-18T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 40.7127837,
-    "longitude": -74.0059413
-  },
-  {
     "name": "Thunder Plains",
     "topic": "web platform",
     "url": "http://thunderplainsconf.com",
@@ -11523,6 +11677,22 @@
     "codeOfConduct": "",
     "latitude": 35.4675602,
     "longitude": -97.5164276
+  },
+  {
+    "name": "TNW",
+    "topic": "web platform",
+    "url": "http://thenextweb.com/conference/",
+    "twitter": "thenextweb",
+    "city": "New York",
+    "stateProvince": "NY",
+    "country": "United States",
+    "eventStartDate": "2015-11-18T05:00:00.000Z",
+    "eventEndDate": "2015-11-18T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
   },
   {
     "name": "Troopers",
@@ -11605,22 +11775,6 @@
     "longitude": 139.6917064
   },
   {
-    "name": "Twin Cities Code Camp",
-    "topic": "",
-    "url": "https://twincitiescodecamp.com/",
-    "twitter": "",
-    "city": "Minneapolis",
-    "stateProvince": "MN",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 44.977753,
-    "longitude": -93.2650108
-  },
-  {
     "name": "Tulsa Tech Fest",
     "topic": "",
     "url": "http://www.techfests.com/",
@@ -11635,6 +11789,22 @@
     "codeOfConduct": "",
     "latitude": 36.1539816,
     "longitude": -95.99277500000001
+  },
+  {
+    "name": "Twin Cities Code Camp",
+    "topic": "",
+    "url": "https://twincitiescodecamp.com/",
+    "twitter": "",
+    "city": "Minneapolis",
+    "stateProvince": "MN",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 44.977753,
+    "longitude": -93.2650108
   },
   {
     "name": "UIKonf",
@@ -11653,22 +11823,6 @@
     "longitude": 13.404954
   },
   {
-    "name": "University of Illinois Web Conference",
-    "topic": "",
-    "url": "http://webcon.illinois.edu/",
-    "twitter": "",
-    "city": "Champaign",
-    "stateProvince": "IL",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "Yes",
-    "latitude": 40.1164204,
-    "longitude": -88.2433829
-  },
-  {
     "name": "Universal JS Day",
     "topic": "",
     "url": "http://2017.universaljsday.com/",
@@ -11683,6 +11837,22 @@
     "codeOfConduct": "",
     "latitude": 44.8381237,
     "longitude": 11.619787
+  },
+  {
+    "name": "University of Illinois Web Conference",
+    "topic": "",
+    "url": "http://webcon.illinois.edu/",
+    "twitter": "",
+    "city": "Champaign",
+    "stateProvince": "IL",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "Yes",
+    "latitude": 40.1164204,
+    "longitude": -88.2433829
   },
   {
     "name": "Uplinq",
@@ -11925,6 +12095,22 @@
     "longitude": -115.1398296
   },
   {
+    "name": "VSLive Chicago",
+    "topic": "microsoft",
+    "url": "https://vslive.com/Events/Chicago-2017/Home.aspx",
+    "twitter": "@vslive",
+    "city": "Chicago",
+    "stateProvince": "IL",
+    "country": "United States",
+    "eventStartDate": "2017-09-18T04:00:00.000Z",
+    "eventEndDate": "2017-09-21T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 41.8781136,
+    "longitude": -87.6297982
+  },
+  {
     "name": "VueConf",
     "topic": "",
     "url": "http://conf.vuejs.org/",
@@ -11957,22 +12143,6 @@
     "longitude": -46.63330939999999
   },
   {
-    "name": "WarCon",
-    "topic": "",
-    "url": "http://warcon.pl/",
-    "twitter": "",
-    "city": "Warsaw",
-    "stateProvince": "",
-    "country": "Poland",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287
-  },
-  {
     "name": "WAHCKon",
     "topic": "",
     "url": "http://wahckon.org.au/",
@@ -11987,6 +12157,22 @@
     "codeOfConduct": "",
     "latitude": -31.9505269,
     "longitude": 115.8604572
+  },
+  {
+    "name": "WarCon",
+    "topic": "",
+    "url": "http://warcon.pl/",
+    "twitter": "",
+    "city": "Warsaw",
+    "stateProvince": "",
+    "country": "Poland",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287
   },
   {
     "name": "WDCNZ",
@@ -12005,20 +12191,20 @@
     "longitude": 174.776236
   },
   {
-    "name": "Web Directions Code",
+    "name": "Weapons of Mass Creation Festival",
     "topic": "",
-    "url": "https://www.webdirections.org/code/",
+    "url": "https://wmcfest.com/",
     "twitter": "",
-    "city": "Melbourne",
-    "stateProvince": "",
-    "country": "Australia",
+    "city": "Cleveland",
+    "stateProvince": "OH",
+    "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "latitude": 41.49932,
+    "longitude": -81.6943605
   },
   {
     "name": "Web a Quebec",
@@ -12037,20 +12223,20 @@
     "longitude": -71.2079809
   },
   {
-    "name": "Weapons of Mass Creation Festival",
+    "name": "Web Directions Code",
     "topic": "",
-    "url": "https://wmcfest.com/",
+    "url": "https://www.webdirections.org/code/",
     "twitter": "",
-    "city": "Cleveland",
-    "stateProvince": "OH",
-    "country": "United States",
+    "city": "Melbourne",
+    "stateProvince": "",
+    "country": "Australia",
     "eventStartDate": "",
     "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 41.49932,
-    "longitude": -81.6943605
+    "latitude": -37.8136276,
+    "longitude": 144.9630576
   },
   {
     "name": "Web Directions South",
@@ -12101,6 +12287,22 @@
     "longitude": 13.6387067
   },
   {
+    "name": "Web Summit",
+    "topic": "web platform",
+    "url": "http://www.websummit.net/",
+    "twitter": "websummithq",
+    "city": "Dublin",
+    "stateProvince": "",
+    "country": "Ireland",
+    "eventStartDate": "2015-11-03T05:00:00.000Z",
+    "eventEndDate": "2015-11-05T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 53.3498053,
+    "longitude": -6.2603097
+  },
+  {
     "name": "Web Unleashed",
     "topic": "web platform",
     "url": "http://fitc.ca/event/webu14/",
@@ -12131,22 +12333,6 @@
     "codeOfConduct": "",
     "latitude": 51.454513,
     "longitude": -2.58791
-  },
-  {
-    "name": "Web Summit",
-    "topic": "web platform",
-    "url": "http://www.websummit.net/",
-    "twitter": "websummithq",
-    "city": "Dublin",
-    "stateProvince": "",
-    "country": "Ireland",
-    "eventStartDate": "2015-11-03T05:00:00.000Z",
-    "eventEndDate": "2015-11-05T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 53.3498053,
-    "longitude": -6.2603097
   },
   {
     "name": "WebExpo",
@@ -12405,21 +12591,6 @@
     "longitude": 30.5234
   },
   {
-    "name": "Yosemite by CocoaConf",
-    "topic": "",
-    "url": "http://cocoaconf.com/yosemite",
-    "twitter": "",
-    "city": "Yosemite National Park",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "latitude": 37.8651011,
-    "longitude": -119.5383294
-  },
-  {
     "name": "YAPC",
     "topic": "programming",
     "url": "http://yapc.org",
@@ -12434,6 +12605,21 @@
     "codeOfConduct": "",
     "latitude": -23.0204559,
     "longitude": -45.5563555
+  },
+  {
+    "name": "Yosemite by CocoaConf",
+    "topic": "",
+    "url": "http://cocoaconf.com/yosemite",
+    "twitter": "",
+    "city": "Yosemite National Park",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "latitude": 37.8651011,
+    "longitude": -119.5383294
   },
   {
     "name": "You Gotta Love Frontend",
@@ -12562,197 +12748,5 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
-  },
-  {
-    "name": "VSLive Chicago",
-    "topic": "microsoft",
-    "url": "https://vslive.com/Events/Chicago-2017/Home.aspx",
-    "twitter": "@vslive",
-    "city": "Chicago",
-    "stateProvince": "IL",
-    "country": "United States",
-    "eventStartDate": "2017-09-18T04:00:00.000Z",
-    "eventEndDate": "2017-09-21T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 41.8781136,
-    "longitude": -87.6297982
-  },
-  {
-    "name": "AUSTIN GAME CONFERENCE",
-    "topic": "game dev",
-    "url": "http://austingamecon.com/",
-    "twitter": "@austingamecon",
-    "city": "Austin",
-    "stateProvince": "TX",
-    "country": "United States",
-    "eventStartDate": "2017-09-21T04:00:00.000Z",
-    "eventEndDate": "2017-09-22T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 30.267153,
-    "longitude": -97.7430608
-  },
-  {
-    "name": "Madison PHP",
-    "topic": "php",
-    "url": "http://2017.madisonphpconference.com/",
-    "twitter": "@MadisonPHP",
-    "city": "Madison",
-    "stateProvince": "WI",
-    "country": "United States",
-    "eventStartDate": "2017-09-22T04:00:00.000Z",
-    "eventEndDate": "2017-09-23T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 43.0730517,
-    "longitude": -89.4012302
-  },
-  {
-    "name": "Prairie.Code()",
-    "topic": "programming",
-    "url": "https://prairiecode.amegala.com/",
-    "twitter": "@amegala",
-    "city": "Des Moines",
-    "stateProvince": "IA",
-    "country": "United States",
-    "eventStartDate": "2017-09-27T04:00:00.000Z",
-    "eventEndDate": "2017-09-29T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 41.6005448,
-    "longitude": -93.6091064
-  },
-  {
-    "name": "Ohio LinuxFest",
-    "topic": "linux",
-    "url": "https://ohiolinux.org/",
-    "twitter": "@ohiolinux",
-    "city": "Columbus",
-    "stateProvince": "OH",
-    "country": "United States",
-    "eventStartDate": "2017-09-29T04:00:00.000Z",
-    "eventEndDate": "2017-09-30T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 39.9611755,
-    "longitude": -82.99879419999999
-  },
-  {
-    "name": "Midwest Game Dev Expo",
-    "topic": "game dev",
-    "url": "https://www.thegdex.com/",
-    "twitter": "",
-    "city": "Columbus",
-    "stateProvince": "OH",
-    "country": "United States",
-    "eventStartDate": "2017-09-29T04:00:00.000Z",
-    "eventEndDate": "2017-10-01T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 39.9611755,
-    "longitude": -82.99879419999999
-  },
-  {
-    "name": "Southeast Ruby",
-    "topic": "ruby",
-    "url": "https://southeastruby.com/",
-    "twitter": "",
-    "city": "Nashville",
-    "stateProvince": "TN",
-    "country": "United States",
-    "eventStartDate": "2017-10-05T04:00:00.000Z",
-    "eventEndDate": "2017-10-06T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1626638,
-    "longitude": -86.7816016
-  },
-  {
-    "name": "CSS Dev Conf",
-    "topic": "css",
-    "url": "http://2017.cssdevconf.com/",
-    "twitter": "@CSSDevConf",
-    "city": "New Orleans",
-    "stateProvince": "LA",
-    "country": "United States",
-    "eventStartDate": "2017-10-09T04:00:00.000Z",
-    "eventEndDate": "2017-10-11T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 29.95106579999999,
-    "longitude": -90.0715323
-  },
-  {
-    "name": "DogFood Con",
-    "topic": "microsoft",
-    "url": "http://dogfoodcon.com/",
-    "twitter": "@DogFoodCon",
-    "city": "Columbus",
-    "stateProvince": "OH",
-    "country": "United States",
-    "eventStartDate": "2017-10-05T04:00:00.000Z",
-    "eventEndDate": "2017-10-06T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 39.9611755,
-    "longitude": -82.99879419999999
-  },
-  {
-    "name": "SharePoint Fest Chicago",
-    "topic": "sharepoint",
-    "url": "http://www.sharepointfest.com/Chicago/",
-    "twitter": "@sharepointfest",
-    "city": "Chicago",
-    "stateProvince": "IL",
-    "country": "United States",
-    "eventStartDate": "2017-12-05T05:00:00.000Z",
-    "eventEndDate": "2017-12-08T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 41.8781136,
-    "longitude": -87.6297982
-  },
-  {
-    "name": "Milwaukee Code Camp",
-    "topic": "programming",
-    "url": "http://milwaukeecodecamp.com/",
-    "twitter": "@MKECodeCamp",
-    "city": "Milwaukee",
-    "stateProvince": "WI",
-    "country": "United States",
-    "eventStartDate": "2017-10-15T04:00:00.000Z",
-    "eventEndDate": "2017-10-15T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 43.0389025,
-    "longitude": -87.9064736
-  },
-  {
-    "name": "Chippewa Valley Code Camp",
-    "topic": "programming",
-    "url": "http://chippewavalleycodecamp.com/index.html",
-    "twitter": "@CVdevgroup",
-    "city": "Eau Clair",
-    "stateProvince": "WI",
-    "country": "United States",
-    "eventStartDate": "2017-11-11T05:00:00.000Z",
-    "eventEndDate": "2017-11-11T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 44.811349,
-    "longitude": -91.4984941
   }
 ]
