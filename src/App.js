@@ -203,6 +203,11 @@ const MapWrapper = styled.div`
 
 const TableWrapper = styled.div`
   width: 50%;
+
+  div {
+    width: 100%;
+  }
+
   table {
     width: 100%;
     min-width: 100%;
