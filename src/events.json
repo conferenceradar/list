@@ -12748,5 +12748,21 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
+  },
+  {
+    "name": "A2Y.asm",
+    "topic": "security, hacking",
+    "url": "https://www.arbsec.org/a2y.asm/",
+    "twitter": "https://twitter.com/arbsec",
+    "city": "Ypsilanti",
+    "stateProvince": "MI",
+    "country": "United States",
+    "eventStartDate": "2017-09-16T04:00:00.000Z",
+    "eventEndDate": "2017-09-16T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 42.241243,
+    "longitude": -83.6169237
   }
 ]
