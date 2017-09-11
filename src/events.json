@@ -12748,5 +12748,21 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
-  }
+  },
+  {
+    "name": "Node.js Interactive North America",
+    "topic": "Node.js",
+    "url": "http://events.linuxfoundation.org/events/node-interactive",
+    "twitter": "https://twitter.com/nodejs",
+    "city": "Vancouver",
+    "stateProvince": "British Columbia",
+    "country": "Canada",
+    "eventStartDate": "2017-10-04T04:00:00.000Z",
+    "eventEndDate": "2017-10-06T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 49.2827291,
+    "longitude": -123.1207375
+  } 
 ]
