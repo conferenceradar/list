@@ -12796,5 +12796,21 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
-  }
+  },
+  {
+  "name": "WordCamp Colombo",
+  "topic": "WordPress",
+  "url": "2017.colombo.wordcamp.org",
+  "twitter": "https://twitter.com/wccolombo",
+  "city": "Colombo",
+  "stateProvince": "Western",
+  "country": "Sri Lanka",
+  "eventStartDate": null,
+  "eventEndDate": null,
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 6.9270786,
+  "longitude": 79.861243
+}
 ]
