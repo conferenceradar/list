@@ -3984,6 +3984,22 @@
     "longitude": -97.7430608
   },
   {
+    "name": "Elixir with Love",
+    "topic": "A conference for Elixir and inclusion",
+    "url": "www.elixir-with-love.com",
+    "twitter": "@elixir_w_love",
+    "city": "Providence",
+    "stateProvince": "RI",
+    "country": "USA",
+    "eventStartDate": "2017-11-10T06:00:00.000Z",
+    "eventEndDate": "2017-11-10T06:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "2017-10-01T05:00:00.000Z",
+    "codeOfConduct": "https://www.elixir-with-love.com/conduct",
+    "latitude": 41.8239891,
+    "longitude": -71.4128343
+  },
+  {
     "name": "Ember Fest",
     "topic": "web platform",
     "url": "http://emberfest.eu",
