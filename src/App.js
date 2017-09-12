@@ -337,8 +337,8 @@ const dateFormat = (dateString) => (
     ''
 )
 
-const DateColumn = (start, end) => {
-  if (!start) {
+const DateColumn = (start, end, keyColumn) => {
+  if (!keyColumn) {
     return null;
   }
 
@@ -351,11 +351,11 @@ const DateColumn = (start, end) => {
 }
 
 const EventDate = ({ rowData }) => (
-  DateColumn(rowData.eventStartDate, rowData.eventEndDate)
+  DateColumn(rowData.eventStartDate, rowData.eventEndDate, rowData.eventStartDate)
 );
 
 const CfpDate = ({ rowData }) => (
-  DateColumn(rowData.cfpStartDate, rowData.cfpEndDate)
+  DateColumn(rowData.cfpStartDate, rowData.cfpEndDate, rowData.cfpEndDate)
 );
 
 const mapKey = 'AIzaSyBxlhYxv5xCTvRmSKbx5TwVwcNkTXiMNvU';
@@ -499,7 +499,7 @@ class App extends Component {
         ))
       case 'openCfps':
         return conferences.filter(conference => (
-          conference.cfpStartDate && conference.cfpStartDate > moment().toISOString()
+          conference.cfpEndDate && conference.cfpEndDate > moment().toISOString()
         ))
       default:
         return conferences;
