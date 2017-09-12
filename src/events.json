@@ -8351,6 +8351,22 @@
     "longitude": 18.3467813
   },
   {
+    "name": "North Bay Python",
+    "topic": "",
+    "url": "https://2017.northbaypython.org/",
+    "twitter": "https://twitter.com/northbaypython",
+    "city": "Petaluma",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "2017-12-02T05:00:00.000Z",
+    "eventEndDate": "2017-12-03T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "2017-09-29T04:00:00.000Z",
+    "codeOfConduct": "",
+    "latitude": 38.232417,
+    "longitude": -122.6366524
+  },
+  {
     "name": "NoSQL Now",
     "topic": "",
     "url": "",
@@ -10614,8 +10630,8 @@
     "city": "Seattle",
     "stateProvince": "WA",
     "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
+    "eventStartDate": "2017-10-06T04:00:00.000Z",
+    "eventEndDate": "2017-10-07T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
