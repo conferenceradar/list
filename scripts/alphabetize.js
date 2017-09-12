@@ -33,6 +33,6 @@ events.sort(function(a, b) {
 
 var stream = fs.createWriteStream("newEvents.json");
 stream.once('open', function(fd) {
-  stream.write(JSON.stringify(events));
+  stream.write(JSON.stringify(events, null, '  '));
   stream.end();
 });
