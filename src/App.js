@@ -66,14 +66,16 @@ const ToggleButton = styled.button`
 `;
 
 const Header = styled.header`
-  padding-top: 20px;
-  width: 100%;
   height: 80px;
   background-color: hsl(171, 100%, 41%);
   color: white;
-  padding-left: 15px;
+  padding: 20px 15px 0;
+  width: 100%;
   position: absolute;
   top: 0;
+  display: flex;
+  justify-content: space-between;
+
 
   h1 {
     font-family: 'Exo', sans-serif;
@@ -81,10 +83,7 @@ const Header = styled.header`
   }
 
   div {
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 400px;
+    max-width: 400px;
   }
 
   a, a:visited, a:hover {
