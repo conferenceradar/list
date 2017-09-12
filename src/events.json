@@ -978,8 +978,7 @@
   {
     "name": "Big Data Conference",
     "topic": "data",
-    "url":
-      "http://globalbigdataconference.com/37/santa-clara/2nd-annual-global-big-data-conference/event.html",
+    "url": "http://globalbigdataconference.com/37/santa-clara/2nd-annual-global-big-data-conference/event.html",
     "twitter": "bigdataconf",
     "city": "Santa Clara",
     "stateProvince": "CA",
@@ -1651,8 +1650,7 @@
   {
     "name": "Cassandra Summit",
     "topic": "web perf/ops",
-    "url":
-      "http://www.datastax.com/company/news-and-events/events/cassandrasummit2013",
+    "url": "http://www.datastax.com/company/news-and-events/events/cassandrasummit2013",
     "twitter": "datastax",
     "city": "London",
     "stateProvince": "",
@@ -5044,8 +5042,7 @@
   {
     "name": "FullStack",
     "topic": "web platform",
-    "url":
-      "http://skillsmatter.com/conferences/6361-fullstack-node-and-javascript-conference",
+    "url": "http://skillsmatter.com/conferences/6361-fullstack-node-and-javascript-conference",
     "twitter": "skillsmatter",
     "city": "London",
     "stateProvince": "",
@@ -6019,8 +6016,7 @@
   {
     "name": "Intel IDF14",
     "topic": "programming",
-    "url":
-      "http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html",
+    "url": "http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html",
     "twitter": "intel",
     "city": "San Francisco",
     "stateProvince": "CA",
@@ -6068,8 +6064,7 @@
   {
     "name": "iOSCon 2017",
     "topic": "",
-    "url":
-      "http://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
+    "url": "http://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
     "twitter": "",
     "city": "London",
     "stateProvince": "",
@@ -7926,8 +7921,7 @@
   {
     "name": "NDSS",
     "topic": "",
-    "url":
-      "http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers",
+    "url": "http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers",
     "twitter": "",
     "city": "San Diego",
     "stateProvince": "CA",
@@ -8158,6 +8152,22 @@
     "country": "Canada",
     "eventStartDate": "",
     "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 49.2827291,
+    "longitude": -123.1207375
+  },
+  {
+    "name": "Node.js Interactive North America",
+    "topic": "Node.js",
+    "url": "http://events.linuxfoundation.org/events/node-interactive",
+    "twitter": "https://twitter.com/nodejs",
+    "city": "Vancouver",
+    "stateProvince": "British Columbia",
+    "country": "Canada",
+    "eventStartDate": "2017-10-04T04:00:00.000Z",
+    "eventEndDate": "2017-10-06T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
