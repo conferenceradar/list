@@ -31,8 +31,8 @@ events.sort(function(a, b) {
   return 0;
 });
 
-var stream = fs.createWriteStream("newEvents.json");
+var stream = fs.createWriteStream("src/events.json");
 stream.once('open', function(fd) {
-  stream.write(JSON.stringify(events));
+  stream.write(JSON.stringify(events, null, '  '));
   stream.end();
 });
