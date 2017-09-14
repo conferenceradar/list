@@ -8334,22 +8334,6 @@
   },
   {
     "name": "Nodevember",
-    "topic": "web platform",
-    "url": "http://nodevember.org/",
-    "twitter": "nodevember",
-    "city": "Nashville",
-    "stateProvince": "TN",
-    "country": "United States",
-    "eventStartDate": "2017-11-27T05:00:00.000Z",
-    "eventEndDate": "2017-11-28T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1626638,
-    "longitude": -86.7816016
-  },
-  {
-    "name": "Nodevember",
     "topic": "",
     "url": "",
     "twitter": "",
@@ -8358,6 +8342,22 @@
     "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1626638,
+    "longitude": -86.7816016
+  },
+  {
+    "name": "Nodevember",
+    "topic": "web platform",
+    "url": "http://nodevember.org/",
+    "twitter": "nodevember",
+    "city": "Nashville",
+    "stateProvince": "TN",
+    "country": "United States",
+    "eventStartDate": "2017-11-27T05:00:00.000Z",
+    "eventEndDate": "2017-11-28T05:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
@@ -11677,6 +11677,22 @@
     "longitude": 1.444209
   },
   {
+    "name": "THE CONF",
+    "topic": "programming",
+    "url": "http://www.theconf.club",
+    "twitter": "https://twitter.com/theconfbr",
+    "city": "São Paulo",
+    "stateProvince": "São Paulo",
+    "country": "Brazil",
+    "eventStartDate": "2017-09-29T03:00:00.000Z",
+    "eventEndDate": "2017-09-30T03:00:00.000Z",
+    "cfpStartDate": "2017-04-04T03:00:00.000Z",
+    "cfpEndDate": "2017-05-31T03:00:00.000Z",
+    "codeOfConduct": "http://www.theconf.club/pages/code_of_conduct",
+    "latitude": -23.557861,
+    "longitude": -46.668091
+  },
+  {
     "name": "The Email Design Conference",
     "topic": "",
     "url": "https://litmus.com/conference",
@@ -12874,21 +12890,5 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
-  },
-  {
-    "name": "THE CONF",
-    "topic": "programming",
-    "url": "http://www.theconf.club",
-    "twitter": "https://twitter.com/theconfbr",
-    "city": "São Paulo",
-    "stateProvince": "São Paulo",
-    "country": "Brazil",
-    "eventStartDate": "2017-09-29T03:00:00.000Z",
-    "eventEndDate": "2017-09-30T03:00:00.000Z",
-    "cfpStartDate": "2017-04-04T03:00:00.000Z",
-    "cfpEndDate": "2017-05-31T03:00:00.000Z",
-    "codeOfConduct": "http://www.theconf.club/pages/code_of_conduct",
-    "latitude": -23.557861,
-    "longitude": -46.668091
   }
 ]
