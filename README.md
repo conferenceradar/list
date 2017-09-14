@@ -46,7 +46,7 @@ The main fields right now are:
 * **stateProvince**: State/Province (can be empty)
 * **country**: Country
 * **eventStartDate**: The Date/DateTime that this event starts (currently all dates are local — The longer term goal is for these to be UTC)
-* **eventStartDate**: The Date/DateTime that this event ends
+* **eventEndDate**: The Date/DateTime that this event ends
 * **cfpStartDate**: The Date/DateTime that the CFP for this event starts
 * **cfpEndDate**: The Date/DateTime that the CFP for this event ends
 * **codeOfConduct**: Right now, this is a string for determining if an event has a code of conduct. (Perhaps switch this to a URL?)
