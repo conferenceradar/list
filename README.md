@@ -40,6 +40,7 @@ This application is currently based on a json file containing conference informa
 The main fields right now are: 
 
 * **name**: Name of the conference
+* **topic**: The topic of the conference
 * **url**: The conference website
 * **twitter**: The conference twitter handle or hashtag if no profile exists
 * **city**: City
