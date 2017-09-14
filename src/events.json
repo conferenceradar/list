@@ -12920,5 +12920,21 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
+  },
+  {
+    "name": "Bytes Conf",
+    "topic": "Web dev, design",
+    "url": "https://www.bytesconf.co.uk/",
+    "twitter": "bytesconf",
+    "city": "Brighton",
+    "stateProvince": "East Sussex",
+    "country": "England",
+    "eventStartDate": "2017-11-16T19:00:00.000Z",
+    "eventEndDate": "2017-11-16T22:30:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 50.825959,
+    "longitude": -0.138300
   }
 ]
