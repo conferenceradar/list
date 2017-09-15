@@ -1488,6 +1488,22 @@
     "longitude": -74.0059413
   },
   {
+    "name": "Bytes Conf",
+    "topic": "Web dev, design",
+    "url": "https://www.bytesconf.co.uk/",
+    "twitter": "bytesconf",
+    "city": "Brighton",
+    "stateProvince": "East Sussex",
+    "country": "England",
+    "eventStartDate": "2017-11-16T19:00:00.000Z",
+    "eventEndDate": "2017-11-16T22:30:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 50.825959,
+    "longitude": -0.1383
+  },
+  {
     "name": "CakeFest",
     "topic": "web platform",
     "url": "http://cakefest.org/",
@@ -8364,22 +8380,6 @@
   },
   {
     "name": "Nodevember",
-    "topic": "web platform",
-    "url": "http://nodevember.org/",
-    "twitter": "nodevember",
-    "city": "Nashville",
-    "stateProvince": "TN",
-    "country": "United States",
-    "eventStartDate": "2017-11-27T05:00:00.000Z",
-    "eventEndDate": "2017-11-28T05:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 36.1626638,
-    "longitude": -86.7816016
-  },
-  {
-    "name": "Nodevember",
     "topic": "",
     "url": "",
     "twitter": "",
@@ -8388,6 +8388,22 @@
     "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 36.1626638,
+    "longitude": -86.7816016
+  },
+  {
+    "name": "Nodevember",
+    "topic": "web platform",
+    "url": "http://nodevember.org/",
+    "twitter": "nodevember",
+    "city": "Nashville",
+    "stateProvince": "TN",
+    "country": "United States",
+    "eventStartDate": "2017-11-27T05:00:00.000Z",
+    "eventEndDate": "2017-11-28T05:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
@@ -9659,22 +9675,6 @@
     "longitude": 2.1734035
   },
   {
-    "name": "RailsConf",
-    "topic": "web platform",
-    "url": "http://www.railsconf.com/",
-    "twitter": "railsconf",
-    "city": "Atlanta",
-    "stateProvince": "GA",
-    "country": "United States",
-    "eventStartDate": "2015-04-21T04:00:00.000Z",
-    "eventEndDate": "2015-04-23T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 33.7489954,
-    "longitude": -84.3879824
-  },
-  {
     "name": "Railsconf",
     "topic": "",
     "url": "",
@@ -9684,6 +9684,22 @@
     "country": "United States",
     "eventStartDate": "",
     "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 33.7489954,
+    "longitude": -84.3879824
+  },
+  {
+    "name": "RailsConf",
+    "topic": "web platform",
+    "url": "http://www.railsconf.com/",
+    "twitter": "railsconf",
+    "city": "Atlanta",
+    "stateProvince": "GA",
+    "country": "United States",
+    "eventStartDate": "2015-04-21T04:00:00.000Z",
+    "eventEndDate": "2015-04-23T04:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
@@ -12523,6 +12539,20 @@
     "longitude": 14.4378005
   },
   {
+    "name": "WebExpo",
+    "topic": "Explore the unforgettable city of Prague, listen to talks from more than 70 local and international speakers on many exciting topics, meet over 2000 web enthusiasts from many different countries and professions and enjoy the parties!",
+    "url": "https://www.webexpo.cz/",
+    "twitter": "https://twitter.com/webexpo?lang=cs",
+    "city": "Prague",
+    "stateProvince": "",
+    "country": "Czech Republic",
+    "eventStartDate": "2017-09-21T22:00:00.000Z",
+    "eventEndDate": "2017-09-22T22:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": ""
+  },
+  {
     "name": "webRTC",
     "topic": "web platform",
     "url": "http://webrtcexpo.com",
@@ -12936,21 +12966,5 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
-  },
-  {
-    "name": "Bytes Conf",
-    "topic": "Web dev, design",
-    "url": "https://www.bytesconf.co.uk/",
-    "twitter": "bytesconf",
-    "city": "Brighton",
-    "stateProvince": "East Sussex",
-    "country": "England",
-    "eventStartDate": "2017-11-16T19:00:00.000Z",
-    "eventEndDate": "2017-11-16T22:30:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 50.825959,
-    "longitude": -0.138300
   }
 ]
