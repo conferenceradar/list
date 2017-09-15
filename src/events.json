@@ -994,8 +994,7 @@
   {
     "name": "Big Data Conference",
     "topic": "data",
-    "url":
-      "http://globalbigdataconference.com/37/santa-clara/2nd-annual-global-big-data-conference/event.html",
+    "url": "http://globalbigdataconference.com/37/santa-clara/2nd-annual-global-big-data-conference/event.html",
     "twitter": "bigdataconf",
     "city": "Santa Clara",
     "stateProvince": "CA",
@@ -1667,8 +1666,7 @@
   {
     "name": "Cassandra Summit",
     "topic": "web perf/ops",
-    "url":
-      "http://www.datastax.com/company/news-and-events/events/cassandrasummit2013",
+    "url": "http://www.datastax.com/company/news-and-events/events/cassandrasummit2013",
     "twitter": "datastax",
     "city": "London",
     "stateProvince": "",
@@ -4734,6 +4732,22 @@
     "longitude": -82.6267345
   },
   {
+    "name": "Front in BH",
+    "topic": "Front end Development",
+    "url": "https://frontinbh.com.br/",
+    "twitter": "https://twitter.com/frontinbh",
+    "city": "Belo Horizonte",
+    "stateProvince": "Minas Gerais",
+    "country": "Brazil",
+    "eventStartDate": null,
+    "eventEndDate": null,
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": -19.9079062,
+    "longitude": -43.9437472
+  },
+  {
     "name": "Front Porch",
     "topic": "web platform",
     "url": "http://frontporch.io/",
@@ -5120,8 +5134,7 @@
   {
     "name": "FullStack",
     "topic": "web platform",
-    "url":
-      "http://skillsmatter.com/conferences/6361-fullstack-node-and-javascript-conference",
+    "url": "http://skillsmatter.com/conferences/6361-fullstack-node-and-javascript-conference",
     "twitter": "skillsmatter",
     "city": "London",
     "stateProvince": "",
@@ -6095,8 +6108,7 @@
   {
     "name": "Intel IDF14",
     "topic": "programming",
-    "url":
-      "http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html",
+    "url": "http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html",
     "twitter": "intel",
     "city": "San Francisco",
     "stateProvince": "CA",
@@ -6144,8 +6156,7 @@
   {
     "name": "iOSCon 2017",
     "topic": "",
-    "url":
-      "http://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
+    "url": "http://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
     "twitter": "",
     "city": "London",
     "stateProvince": "",
@@ -8002,8 +8013,7 @@
   {
     "name": "NDSS",
     "topic": "",
-    "url":
-      "http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers",
+    "url": "http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers",
     "twitter": "",
     "city": "San Diego",
     "stateProvince": "CA",
@@ -9585,22 +9595,6 @@
     "longitude": -0.1277583
   },
   {
-    "name": "Qcon",
-    "topic": "",
-    "url": "https://qconsf.com/",
-    "twitter": "",
-    "city": "San Francisco",
-    "stateProvince": "CA",
-    "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
-  },
-  {
     "name": "QCon",
     "topic": "programming",
     "url": "http://www.qconferences.com/",
@@ -9610,6 +9604,22 @@
     "country": "United States",
     "eventStartDate": "2015-11-16T05:00:00.000Z",
     "eventEndDate": "2015-11-20T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "name": "Qcon",
+    "topic": "",
+    "url": "https://qconsf.com/",
+    "twitter": "",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "United States",
+    "eventStartDate": "",
+    "eventEndDate": "",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
@@ -11218,8 +11228,7 @@
   },
   {
     "name": "StarsConf 2017",
-    "topic":
-      "ux & design, data & visualization, web & mobile, cloud & devops, startups & innovation, developer tools, teams & culture",
+    "topic": "ux & design, data & visualization, web & mobile, cloud & devops, startups & innovation, developer tools, teams & culture",
     "url": "http://www.starsconf.com",
     "twitter": "@starsconf",
     "city": "Santiago",
@@ -12927,21 +12936,5 @@
     "codeOfConduct": "",
     "latitude": 55.604981,
     "longitude": 13.003822
-  },
-  {
-    "name": "Front in BH",
-    "topic": "Front end Development",
-    "url": "https://frontinbh.com.br/",
-    "twitter": "https://twitter.com/frontinbh",
-    "city": "Belo Horizonte",
-    "stateProvince": "Minas Gerais",
-    "country": "Brazil",
-    "eventStartDate": null,
-    "eventEndDate": null,
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
-    "latitude": -19.9079062,
-    "longitude": -43.9437472
   }
 ]
