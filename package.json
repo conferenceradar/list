@@ -10,7 +10,7 @@
   "dependencies": {
     "geocoder": "^0.2.3",
     "google-map-react": "^0.24.0",
-    "griddle-react": "^1.8.1",
+    "griddle-react": "1.9.0",
     "lodash.debounce": "^4.0.8",
     "moment": "^2.18.1",
     "prop-types": "^15.5.10",
