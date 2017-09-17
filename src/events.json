@@ -1230,6 +1230,22 @@
     "longitude": 14.8668836
   },
   {
+    "name": "Boston Code Camp",
+    "topic": "programming",
+    "url": "https://www.bostoncodecamp.com/CC28/info",
+    "twitter": "BostonCodeCamp",
+    "city": "Burlington",
+    "stateProvince": "MA",
+    "country": "USA",
+    "eventStartDate": "2017-11-18T04:00:00.000Z",
+    "eventEndDate": "2017-11-18T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 42.484268, 
+    "longitude": -71.191527
+  },  
+  {
     "name": "BotConf",
     "topic": "",
     "url": "http://www.botconf.eu/",
@@ -6281,19 +6297,19 @@
   },
   {
     "name": "Iowa Code Camp",
-    "topic": "",
-    "url": "",
-    "twitter": "",
+    "topic": "programming",
+    "url": "http://iowacodecamp.com/",
+    "twitter": "iowacodecamp",
     "city": "Des Moines",
     "stateProvince": "IA",
     "country": "United States",
-    "eventStartDate": "",
-    "eventEndDate": "",
+    "eventStartDate": "2017-11-04T05:00:00.000Z",
+    "eventEndDate": "2017-11-04T05:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 41.6005448,
-    "longitude": -93.6091064
+    "latitude": 41.711817,
+    "longitude": -93.612520
   },
   {
     "name": "It camp Romania",
@@ -8167,6 +8183,22 @@
     "codeOfConduct": "",
     "latitude": 51.5073509,
     "longitude": -0.1277583
+  },
+  {
+    "name": "New York City Code Camp",
+    "topic": "programming",
+    "url": "http://codecampnyc.org/",
+    "twitter": "CodeCampNYC",
+    "city": "New York",
+    "stateProvince": "NY",
+    "country": "USA",
+    "eventStartDate": "2017-10-14T05:00:00.000Z",
+    "eventEndDate": "2017-10-14T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 40.756740,
+    "longitude": -73.989658
   },
   {
     "name": "NG Europe (AngularJS)",
