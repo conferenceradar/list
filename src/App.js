@@ -15,6 +15,8 @@ import './App.css';
 import NoResults from './NoResults';
 import moment from 'moment';
 import UpdatePlugin from './UpdatePlugin';
+import { mapKey } from './mapKey';
+
 const { connect } = utils;
 
 
@@ -356,8 +358,6 @@ const EventDate = ({ rowData }) => (
 const CfpDate = ({ rowData }) => (
   DateColumn(rowData.cfpStartDate, rowData.cfpEndDate, rowData.cfpEndDate)
 );
-
-const mapKey = 'AIzaSyBxlhYxv5xCTvRmSKbx5TwVwcNkTXiMNvU';
 
 const Map = connect((state, props) => ({
   visibleData: plugins.LocalPlugin.selectors.filteredDataSelector(state),

@@ -2,6 +2,7 @@ import React from 'react';
 import moment from 'moment';
 import styled from 'styled-components';
 import geocoder from 'geocoder';
+import { mapKey } from './mapKey';
 
 const AddWrapper = styled.div`
   p {
@@ -92,7 +93,7 @@ export default class Form extends React.Component {
         longitude: data.results[0].geometry.location.lng,
       }
       this.setState({ outputText: JSON.stringify(newObject, null, '  ')});
-    });
+    }, { key: mapKey });
   }
   render() {
     return (
