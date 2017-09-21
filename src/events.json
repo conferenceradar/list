@@ -1242,9 +1242,9 @@
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 42.484268, 
+    "latitude": 42.484268,
     "longitude": -71.191527
-  },  
+  },
   {
     "name": "BotConf",
     "topic": "",
@@ -10039,6 +10039,22 @@
     "codeOfConduct": "",
     "latitude": 48.856614,
     "longitude": 2.3522219
+  },
+  {
+    "name": "React Rally",
+    "topic": "React",
+    "url": "http://www.reactrally.com/",
+    "twitter": "https://twitter.com/reactrally",
+    "city": "Salt Lake City",
+    "stateProvince": "Louisiana",
+    "country": "USA",
+    "eventStartDate": "",
+    "eventEndDate": "",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "http://www.reactrally.com/conduct",
+    "latitude": 40.7732525,
+    "longitude": -112.0082589
   },
   {
     "name": "ReactEurope",
