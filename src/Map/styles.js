@@ -30,12 +30,6 @@ flex-direction: column;
 margin: 0 15px 15px 15px;
 `
 
-export const ButtonGroupWrapper = styled.div`
-margin-top: 100px;
-width: 100%;
-justify-content: center !important; /* :( */
-`;
-
 export const ContentWrapper = styled.div`
 display: flex;
 flex-wrap: wrap-reverse;

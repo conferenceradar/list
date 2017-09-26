@@ -86,6 +86,11 @@ a, a:visited, a:hover {
     position: initial;
   }
 }
-
 `
+
+export const ButtonGroupWrapper = styled.div`
+margin-top: 100px;
+width: 100%;
+justify-content: center !important; /* :( */
+`;
 

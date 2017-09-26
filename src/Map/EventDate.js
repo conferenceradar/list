@@ -1,4 +1,3 @@
-import React from 'react';
 import DateColumn from './DateColumn';
 
 const EventDate = ({ rowData }) => (
