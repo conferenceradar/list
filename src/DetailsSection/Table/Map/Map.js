@@ -1,7 +1,7 @@
 import React from 'react';
 import { utils, plugins } from 'griddle-react';
 import GoogleMapReact from 'google-map-react';
-import settings from '../settings';
+import settings from '../../../settings';
 import MarkerBlip from './MarkerBlip'
 
 const { connect } = utils;

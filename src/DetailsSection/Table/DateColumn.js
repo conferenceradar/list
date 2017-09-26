@@ -1,6 +1,6 @@
 import React from 'react';
 import { DateColumnWrapper } from './styles';
-import { dateFormat } from '../utils/stringFormat';
+import { dateFormat } from '../../utils/stringFormat';
 const DateColumn = (start, end, keyColumn) => {
   if (!keyColumn) {
     return null;

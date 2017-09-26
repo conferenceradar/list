@@ -6,14 +6,14 @@ import Griddle, {
   ColumnDefinition,
 } from 'griddle-react';
 
-import UpdatePlugin from './UpdatePlugin';
+import UpdatePlugin from '../UpdatePlugin';
 import Name from './Name';
 import Empty from './Empty';
 import Location from './Location';
 import Layout from './Layout';
-import NoResults from './NoResults';
+import NoResults from '../NoResults';
 import Filter from './Filter';
-import { sortMethod, locationSortMethod } from '../utils/sort';
+import { sortMethod, locationSortMethod } from '../../utils/sort';
 import EventDate from './EventDate';
 import CfpDate from './CfpDate';
 

@@ -5,5 +5,4 @@ const enhanceWithRowData = connect((state, props) => ({
   rowData: plugins.LocalPlugin.selectors.rowDataSelector(state, props)
 }));
 
-debugger;
 export default enhanceWithRowData;

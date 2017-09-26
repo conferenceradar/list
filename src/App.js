@@ -4,21 +4,19 @@
 
 import React, { Component } from 'react';
 import conferences from './events.json';
-import CardList from './Map/CardList';
 import Add from './Add';
 import './App.css';
 import moment from 'moment';
 import ButtonGroup from './ButtonGroup';
+import { isMobileish } from './utils/layoutUtils';
+import DetailsSection from './DetailsSection';
+
 import {
   Header,
   Footer,
   FooterLeft,
   FooterRight,
 } from './styles';
-
-import VirtualScrollTable from './Map/VirtualScrollTable';
-
-import settings from './settings';
 
 class App extends Component {
   state = { dataType: 'all', showForm: false }
@@ -50,12 +48,6 @@ class App extends Component {
 
   render() {
     const data = this.getData();
-
-    const isMobileish = window.innerWidth < settings.mobileWidth;
-    const ListComponent = isMobileish ?
-      <CardList data={data} /> :
-      <VirtualScrollTable data={data}/>;
-
     return (
       <div>
       <Header>
@@ -71,10 +63,10 @@ class App extends Component {
         onSelect={this.onSelect}
         selected={this.state.dataType}
         toggleForm={this.onToggleForm}
-        isMobile={isMobileish}
+        isMobile={isMobileish()}
       />
-      { !isMobileish && this.state.showForm && <Add /> }
-      {ListComponent}
+      { !isMobileish() && this.state.showForm && <Add /> }
+      <DetailsSection data={data} />
       <Footer>
         <FooterLeft>
           <p>
