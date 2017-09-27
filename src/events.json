@@ -13,7 +13,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": ".NET Conf UY",
@@ -29,7 +30,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.9011127,
-    "longitude": -56.16453139999999
+    "longitude": -56.16453139999999,
+    "cfpUrl": ""
   },
   {
     "name": "200OK",
@@ -45,7 +47,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 36.1539816,
-    "longitude": -95.99277500000001
+    "longitude": -95.99277500000001,
+    "cfpUrl": ""
   },
   {
     "name": "2017@Swift",
@@ -61,7 +64,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 22.543096,
-    "longitude": 114.057865
+    "longitude": 114.057865,
+    "cfpUrl": ""
   },
   {
     "name": "34C3",
@@ -77,7 +81,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "360iDev",
@@ -93,7 +98,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.7392358,
-    "longitude": -104.990251
+    "longitude": -104.990251,
+    "cfpUrl": ""
   },
   {
     "name": "44Con",
@@ -109,7 +115,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": ":clojured",
@@ -125,7 +132,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "@datanativesconf",
@@ -141,7 +149,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "A2Y.asm",
@@ -157,7 +166,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.241243,
-    "longitude": -83.6169237
+    "longitude": -83.6169237,
+    "cfpUrl": ""
   },
   {
     "name": "Accessibility Summit",
@@ -173,7 +183,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 31.9685988,
-    "longitude": -99.9018131
+    "longitude": -99.9018131,
+    "cfpUrl": ""
   },
   {
     "name": "ACE",
@@ -189,7 +200,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.06465009999999,
-    "longitude": 19.9449799
+    "longitude": 19.9449799,
+    "cfpUrl": ""
   },
   {
     "name": "ACM CCS",
@@ -205,7 +217,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.7766642,
-    "longitude": -96.79698789999999
+    "longitude": -96.79698789999999,
+    "cfpUrl": ""
   },
   {
     "name": "Active Ingredients",
@@ -221,7 +234,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "AdaCamp",
@@ -237,7 +251,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "Adobe MAX",
@@ -253,7 +268,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "AfricaHackon",
@@ -269,7 +285,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -1.2920659,
-    "longitude": 36.8219462
+    "longitude": 36.8219462,
+    "cfpUrl": ""
   },
   {
     "name": "Agent Conference",
@@ -285,7 +302,8 @@
     "cfpEndDate": "2017-10-19T04:00:00.000Z",
     "codeOfConduct": "",
     "latitude": 47.4124,
-    "longitude": 9.743789999999999
+    "longitude": 9.743789999999999,
+    "cfpUrl": ""
   },
   {
     "name": "React Day Berlin",
@@ -301,7 +319,8 @@
     "cfpEndDate": "2017-09-20T04:00:00.000Z",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "Agile 2015",
@@ -317,7 +336,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.9071923,
-    "longitude": -77.0368707
+    "longitude": -77.0368707,
+    "cfpUrl": ""
   },
   {
     "name": "Agile Dev Practices",
@@ -333,7 +353,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3905689,
-    "longitude": 13.0644729
+    "longitude": 13.0644729,
+    "cfpUrl": ""
   },
   {
     "name": "Agile India",
@@ -349,7 +370,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "Agile Spain",
@@ -365,7 +387,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "Agile Testing Days",
@@ -381,7 +404,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3905689,
-    "longitude": 13.0644729
+    "longitude": 13.0644729,
+    "cfpUrl": ""
   },
   {
     "name": "AIM Utah CIO Summit",
@@ -397,7 +421,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "All Things Open",
@@ -413,7 +438,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "https://allthingsopen.org/code-of-conduct/",
     "latitude": 35.7795897,
-    "longitude": -78.6381787
+    "longitude": -78.6381787,
+    "cfpUrl": ""
   },
   {
     "name": "All Your Base Conf",
@@ -429,7 +455,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Allied Media Conference",
@@ -445,7 +472,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.331427,
-    "longitude": -83.0457538
+    "longitude": -83.0457538,
+    "cfpUrl": ""
   },
   {
     "name": "AlterConf",
@@ -461,7 +489,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "AmsterdamJS",
@@ -477,7 +506,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "An Event Apart",
@@ -493,7 +523,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "AnDevCon",
@@ -509,7 +540,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3541079,
-    "longitude": -121.9552356
+    "longitude": -121.9552356,
+    "cfpUrl": ""
   },
   {
     "name": "Android Security Symposium",
@@ -525,7 +557,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.2081743,
-    "longitude": 16.3738189
+    "longitude": 16.3738189,
+    "cfpUrl": ""
   },
   {
     "name": "andyetconf",
@@ -541,7 +574,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "Angular Camp",
@@ -557,7 +591,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "Angular Cruise",
@@ -573,7 +608,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 25.7616798,
-    "longitude": -80.1917902
+    "longitude": -80.1917902,
+    "cfpUrl": ""
   },
   {
     "name": "Angular Mix",
@@ -589,7 +625,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 28.5383355,
-    "longitude": -81.3792365
+    "longitude": -81.3792365,
+    "cfpUrl": ""
   },
   {
     "name": "AngularConnect",
@@ -605,7 +642,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "AngularUP",
@@ -621,7 +659,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.0852999,
-    "longitude": 34.78176759999999
+    "longitude": 34.78176759999999,
+    "cfpUrl": ""
   },
   {
     "name": "ApacheCon",
@@ -637,7 +676,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.497912,
-    "longitude": 19.040235
+    "longitude": 19.040235,
+    "cfpUrl": ""
   },
   {
     "name": "API Strategy",
@@ -653,7 +693,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "API World",
@@ -669,7 +710,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3541079,
-    "longitude": -121.9552356
+    "longitude": -121.9552356,
+    "cfpUrl": ""
   },
   {
     "name": "APIdays",
@@ -685,7 +727,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "APIdays",
@@ -701,7 +744,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "App Builders Switzerland",
@@ -717,7 +761,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.5196535,
-    "longitude": 6.6322734
+    "longitude": 6.6322734,
+    "cfpUrl": ""
   },
   {
     "name": "App Design & Development Conference",
@@ -733,7 +778,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "Appdevcon 2017",
@@ -749,7 +795,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "Artifact Conference",
@@ -765,7 +812,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8239891,
-    "longitude": -71.4128343
+    "longitude": -71.4128343,
+    "cfpUrl": ""
   },
   {
     "name": "asiabsdcon",
@@ -781,7 +829,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.6894875,
-    "longitude": 139.6917064
+    "longitude": 139.6917064,
+    "cfpUrl": ""
   },
   {
     "name": "Atlassian Summit",
@@ -797,7 +846,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "AtlSecCon",
@@ -813,7 +863,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.64876350000001,
-    "longitude": -63.5752387
+    "longitude": -63.5752387,
+    "cfpUrl": ""
   },
   {
     "name": "ATypI",
@@ -829,7 +880,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "AUSTIN GAME CONFERENCE",
@@ -845,7 +897,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "AVAR",
@@ -861,7 +914,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.90419989999999,
-    "longitude": 116.4073963
+    "longitude": 116.4073963,
+    "cfpUrl": ""
   },
   {
     "name": "AWS Re:Invent",
@@ -877,7 +931,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "cfpUrl": ""
   },
   {
     "name": "AWS re:invent",
@@ -893,7 +948,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "BackboneConf",
@@ -909,7 +965,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "BADCamp",
@@ -925,7 +982,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.8715926,
-    "longitude": -122.272747
+    "longitude": -122.272747,
+    "cfpUrl": ""
   },
   {
     "name": "BASTA!",
@@ -941,7 +999,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.9928617,
-    "longitude": 8.2472526
+    "longitude": 8.2472526,
+    "cfpUrl": ""
   },
   {
     "name": "Beyond Tellerrand",
@@ -957,7 +1016,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.2277411,
-    "longitude": 6.7734556
+    "longitude": 6.7734556,
+    "cfpUrl": ""
   },
   {
     "name": "Beyond The Desktop",
@@ -973,7 +1033,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.9071923,
-    "longitude": -77.0368707
+    "longitude": -77.0368707,
+    "cfpUrl": ""
   },
   {
     "name": "BI2015",
@@ -989,7 +1050,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.7101728,
-    "longitude": 7.261953200000001
+    "longitude": 7.261953200000001,
+    "cfpUrl": ""
   },
   {
     "name": "Big Data Conference",
@@ -1005,7 +1067,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 17.385044,
-    "longitude": 78.486671
+    "longitude": 78.486671,
+    "cfpUrl": ""
   },
   {
     "name": "Big Data Conference",
@@ -1021,7 +1084,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3541079,
-    "longitude": -121.9552356
+    "longitude": -121.9552356,
+    "cfpUrl": ""
   },
   {
     "name": "Big Design Conference",
@@ -1037,7 +1101,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.96179,
-    "longitude": -96.82916850000001
+    "longitude": -96.82916850000001,
+    "cfpUrl": ""
   },
   {
     "name": "Big Ruby Conf",
@@ -1053,7 +1118,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.7766642,
-    "longitude": -96.79698789999999
+    "longitude": -96.79698789999999,
+    "cfpUrl": ""
   },
   {
     "name": "BigConf",
@@ -1069,7 +1135,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.99066570000001,
-    "longitude": -77.026088
+    "longitude": -77.026088,
+    "cfpUrl": ""
   },
   {
     "name": "Black Hat",
@@ -1085,7 +1152,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "BlackHat Asia",
@@ -1101,7 +1169,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 1.352083,
-    "longitude": 103.819836
+    "longitude": 103.819836,
+    "cfpUrl": ""
   },
   {
     "name": "BlackHat EU",
@@ -1117,7 +1186,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "BlackHat US",
@@ -1133,7 +1203,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "Blend Conference",
@@ -1149,7 +1220,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.2270869,
-    "longitude": -80.8431267
+    "longitude": -80.8431267,
+    "cfpUrl": ""
   },
   {
     "name": "Blend Web Mix",
@@ -1165,7 +1237,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.764043,
-    "longitude": 4.835659
+    "longitude": 4.835659,
+    "cfpUrl": ""
   },
   {
     "name": "Blockchain & Cryptocurrency Con 2018",
@@ -1179,7 +1252,8 @@
     "eventEndDate": "2018-02-24T06:00:00.000Z",
     "cfpStartDate": "2017-08-15T05:00:00.000Z",
     "cfpEndDate": "2017-10-01T05:00:00.000Z",
-    "codeOfConduct": ""
+    "codeOfConduct": "",
+    "cfpUrl": ""
   },
   {
     "name": "Books in Browsers",
@@ -1195,7 +1269,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "boost(js)",
@@ -1211,7 +1286,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.0852999,
-    "longitude": 34.78176759999999
+    "longitude": 34.78176759999999,
+    "cfpUrl": ""
   },
   {
     "name": "Booster",
@@ -1227,7 +1303,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 60.39126279999999,
-    "longitude": 5.3220544
+    "longitude": 5.3220544,
+    "cfpUrl": ""
   },
   {
     "name": "Bornhack",
@@ -1243,7 +1320,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.160428,
-    "longitude": 14.8668836
+    "longitude": 14.8668836,
+    "cfpUrl": ""
   },
   {
     "name": "Boston Code Camp",
@@ -1259,7 +1337,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.484268,
-    "longitude": -71.191527
+    "longitude": -71.191527,
+    "cfpUrl": ""
   },
   {
     "name": "BotConf",
@@ -1275,7 +1354,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.610769,
-    "longitude": 3.876716
+    "longitude": 3.876716,
+    "cfpUrl": ""
   },
   {
     "name": "BoxWorks",
@@ -1291,7 +1371,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Brazil JS Conf",
@@ -1307,7 +1388,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -22.9068467,
-    "longitude": -43.1728965
+    "longitude": -43.1728965,
+    "cfpUrl": ""
   },
   {
     "name": "BrazilJS",
@@ -1323,7 +1405,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -30.0346564,
-    "longitude": -51.2176584
+    "longitude": -51.2176584,
+    "cfpUrl": ""
   },
   {
     "name": "Brick 2014",
@@ -1339,7 +1422,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.48624299999999,
-    "longitude": -1.890401
+    "longitude": -1.890401,
+    "cfpUrl": ""
   },
   {
     "name": "British node conf",
@@ -1355,7 +1439,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "BrooklynJS",
@@ -1371,7 +1456,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.6781784,
-    "longitude": -73.9441579
+    "longitude": -73.9441579,
+    "cfpUrl": ""
   },
   {
     "name": "BruCon",
@@ -1387,7 +1473,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.8503463,
-    "longitude": 4.3517211
+    "longitude": 4.3517211,
+    "cfpUrl": ""
   },
   {
     "name": "bsdcan",
@@ -1403,7 +1490,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.4215296,
-    "longitude": -75.69719309999999
+    "longitude": -75.69719309999999,
+    "cfpUrl": ""
   },
   {
     "name": "BSides Canberra",
@@ -1419,7 +1507,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -35.2809368,
-    "longitude": 149.1300092
+    "longitude": 149.1300092,
+    "cfpUrl": ""
   },
   {
     "name": "BSidesLjubljana",
@@ -1435,7 +1524,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.0569465,
-    "longitude": 14.5057515
+    "longitude": 14.5057515,
+    "cfpUrl": ""
   },
   {
     "name": "BSidesMunich @BSidesMunich",
@@ -1451,7 +1541,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.1351253,
-    "longitude": 11.5819805
+    "longitude": 11.5819805,
+    "cfpUrl": ""
   },
   {
     "name": "Budapest NodeConf 2017",
@@ -1467,7 +1558,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.497912,
-    "longitude": 19.040235
+    "longitude": 19.040235,
+    "cfpUrl": ""
   },
   {
     "name": "Buildstuff lithuania",
@@ -1483,7 +1575,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.169438,
-    "longitude": 23.881275
+    "longitude": 23.881275,
+    "cfpUrl": ""
   },
   {
     "name": "Bulgaria Web Summit",
@@ -1499,7 +1592,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.6977082,
-    "longitude": 23.3218675
+    "longitude": 23.3218675,
+    "cfpUrl": ""
   },
   {
     "name": "Business of Software Conference",
@@ -1515,7 +1609,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "BuzzJS",
@@ -1531,7 +1626,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "http://confcodeofconduct.com/",
     "latitude": 26.7153424,
-    "longitude": -80.0533746
+    "longitude": -80.0533746,
+    "cfpUrl": ""
   },
   {
     "name": "Bytes Conf",
@@ -1547,7 +1643,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.825959,
-    "longitude": -0.1383
+    "longitude": -0.1383,
+    "cfpUrl": ""
   },
   {
     "name": "CakeFest",
@@ -1563,7 +1660,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "CAMP Festival",
@@ -1579,7 +1677,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.0486151,
-    "longitude": -114.0708459
+    "longitude": -114.0708459,
+    "cfpUrl": ""
   },
   {
     "name": "CampJS",
@@ -1595,7 +1694,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -28.183333,
-    "longitude": 153.283333
+    "longitude": 153.283333,
+    "cfpUrl": ""
   },
   {
     "name": "CanSecWest",
@@ -1611,7 +1711,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "canvas",
@@ -1627,7 +1728,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.48624299999999,
-    "longitude": -1.890401
+    "longitude": -1.890401,
+    "cfpUrl": ""
   },
   {
     "name": "CapitolJS",
@@ -1643,7 +1745,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.8816208,
-    "longitude": -77.09098089999999
+    "longitude": -77.09098089999999,
+    "cfpUrl": ""
   },
   {
     "name": "Cardis",
@@ -1659,7 +1762,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.0036778,
-    "longitude": 8.951051999999999
+    "longitude": 8.951051999999999,
+    "cfpUrl": ""
   },
   {
     "name": "CARO",
@@ -1675,7 +1779,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.06465009999999,
-    "longitude": 19.9449799
+    "longitude": 19.9449799,
+    "cfpUrl": ""
   },
   {
     "name": "CascadiaFest",
@@ -1691,7 +1796,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.9071923,
-    "longitude": -77.0368707
+    "longitude": -77.0368707,
+    "cfpUrl": ""
   },
   {
     "name": "CascadiaJS",
@@ -1707,7 +1813,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "CasITConf",
@@ -1723,7 +1830,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6062095,
-    "longitude": -122.3320708
+    "longitude": -122.3320708,
+    "cfpUrl": ""
   },
   {
     "name": "Cassandra Summit",
@@ -1739,7 +1847,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Central Wisconsin IT Conference",
@@ -1755,7 +1864,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.524532,
-    "longitude": -89.585686
+    "longitude": -89.585686,
+    "cfpUrl": ""
   },
   {
     "name": "Chain React 2017",
@@ -1771,7 +1881,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "ChefConf",
@@ -1787,7 +1898,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "CHES",
@@ -1803,7 +1915,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 25.0329694,
-    "longitude": 121.5654177
+    "longitude": 121.5654177,
+    "cfpUrl": ""
   },
   {
     "name": "Chippewa Valley Code Camp",
@@ -1819,7 +1932,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.811349,
-    "longitude": -91.4984941
+    "longitude": -91.4984941,
+    "cfpUrl": ""
   },
   {
     "name": "Chrome Dev Summit 2017",
@@ -1835,7 +1949,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "CircleCityCon",
@@ -1851,7 +1966,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.768403,
-    "longitude": -86.158068
+    "longitude": -86.158068,
+    "cfpUrl": ""
   },
   {
     "name": "Circumvention Tech Festival",
@@ -1867,7 +1983,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.4699075,
-    "longitude": -0.3762881
+    "longitude": -0.3762881,
+    "cfpUrl": ""
   },
   {
     "name": "Clarity",
@@ -1881,7 +1998,8 @@
     "eventEndDate": "2017-11-30T06:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
-    "codeOfConduct": "https://www.clarityconf.com/code-of-conduct/"
+    "codeOfConduct": "https://www.clarityconf.com/code-of-conduct/",
+    "cfpUrl": ""
   },
   {
     "name": "Clojure/West",
@@ -1897,7 +2015,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "Cloud Expo",
@@ -1913,7 +2032,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3541079,
-    "longitude": -121.9552356
+    "longitude": -121.9552356,
+    "cfpUrl": ""
   },
   {
     "name": "CloudBrew 2017",
@@ -1929,7 +2049,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.0258761,
-    "longitude": 4.477536199999999
+    "longitude": 4.477536199999999,
+    "cfpUrl": ""
   },
   {
     "name": "CloudDevelop Conf",
@@ -1945,7 +2066,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9611755,
-    "longitude": -82.99879419999999
+    "longitude": -82.99879419999999,
+    "cfpUrl": ""
   },
   {
     "name": "CloudPlugFest",
@@ -1961,7 +2083,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3541079,
-    "longitude": -121.9552356
+    "longitude": -121.9552356,
+    "cfpUrl": ""
   },
   {
     "name": "CMX Summit",
@@ -1977,7 +2100,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Cocoa Love",
@@ -1993,7 +2117,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9525839,
-    "longitude": -75.1652215
+    "longitude": -75.1652215,
+    "cfpUrl": ""
   },
   {
     "name": "CocoaConf",
@@ -2009,7 +2134,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "CocoaConf Chicago 2017",
@@ -2025,7 +2151,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "CocoaLove",
@@ -2041,7 +2168,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9525839,
-    "longitude": -75.1652215
+    "longitude": -75.1652215,
+    "cfpUrl": ""
   },
   {
     "name": "Code",
@@ -2057,7 +2185,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -27.4697707,
-    "longitude": 153.0251235
+    "longitude": 153.0251235,
+    "cfpUrl": ""
   },
   {
     "name": "Code Motion",
@@ -2073,7 +2202,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 31.9730015,
-    "longitude": 34.7925013
+    "longitude": 34.7925013,
+    "cfpUrl": ""
   },
   {
     "name": "Code on the Beach",
@@ -2089,7 +2219,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.3321838,
-    "longitude": -81.65565099999999
+    "longitude": -81.65565099999999,
+    "cfpUrl": ""
   },
   {
     "name": "Code PaLOUsa",
@@ -2105,7 +2236,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.2526647,
-    "longitude": -85.7584557
+    "longitude": -85.7584557,
+    "cfpUrl": ""
   },
   {
     "name": "Codebits",
@@ -2121,7 +2253,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.7222524,
-    "longitude": -9.1393366
+    "longitude": -9.1393366,
+    "cfpUrl": ""
   },
   {
     "name": "Codemania",
@@ -2137,7 +2270,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -36.8484597,
-    "longitude": 174.7633315
+    "longitude": 174.7633315,
+    "cfpUrl": ""
   },
   {
     "name": "CodeMash",
@@ -2153,7 +2287,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "http://www.codemash.org/codemash-code-conduct/",
     "latitude": 41.4489396,
-    "longitude": -82.7079605
+    "longitude": -82.7079605,
+    "cfpUrl": ""
   },
   {
     "name": "Codemotion",
@@ -2169,7 +2304,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.9027835,
-    "longitude": 12.4963655
+    "longitude": 12.4963655,
+    "cfpUrl": ""
   },
   {
     "name": "Codemotion",
@@ -2185,7 +2321,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "CodePaLOUsa",
@@ -2201,7 +2338,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.2526647,
-    "longitude": -85.7584557
+    "longitude": -85.7584557,
+    "cfpUrl": ""
   },
   {
     "name": "Coder Cruise",
@@ -2217,7 +2355,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 29.95106579999999,
-    "longitude": -90.0715323
+    "longitude": -90.0715323,
+    "cfpUrl": ""
   },
   {
     "name": "Codestock",
@@ -2233,7 +2372,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 35.9606384,
-    "longitude": -83.9207392
+    "longitude": -83.9207392,
+    "cfpUrl": ""
   },
   {
     "name": "ColdFront",
@@ -2249,7 +2389,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.6760968,
-    "longitude": 12.5683372
+    "longitude": 12.5683372,
+    "cfpUrl": ""
   },
   {
     "name": "coldfrontconf",
@@ -2265,7 +2406,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.6760968,
-    "longitude": 12.5683372
+    "longitude": 12.5683372,
+    "cfpUrl": ""
   },
   {
     "name": "Collision Conf",
@@ -2281,7 +2423,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 29.95106579999999,
-    "longitude": -90.0715323
+    "longitude": -90.0715323,
+    "cfpUrl": ""
   },
   {
     "name": "Community Leadership Summit",
@@ -2297,7 +2440,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": ".concat()",
@@ -2313,7 +2457,8 @@
     "cfpEndDate": "2017-12-01T05:00:00.000Z",
     "codeOfConduct": "https://2018.conc.at/#coc",
     "latitude": 47.80949,
-    "longitude": 13.05501
+    "longitude": 13.05501,
+    "cfpUrl": ""
   },
   {
     "name": "Confab Intensive",
@@ -2329,7 +2474,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "Conference for the Association of Software Testing",
@@ -2345,7 +2491,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.9633599,
-    "longitude": -85.6680863
+    "longitude": -85.6680863,
+    "cfpUrl": ""
   },
   {
     "name": "Confidence",
@@ -2361,7 +2508,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.06465009999999,
-    "longitude": 19.9449799
+    "longitude": 19.9449799,
+    "cfpUrl": ""
   },
   {
     "name": "Confitura",
@@ -2377,7 +2525,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "ConFoo Montreal",
@@ -2393,7 +2542,8 @@
     "cfpEndDate": "2017-09-20T04:00:00.000Z",
     "codeOfConduct": "https://confoo.ca/en/code-of-conduct",
     "latitude": 45.5016889,
-    "longitude": -73.567256
+    "longitude": -73.567256,
+    "cfpUrl": ""
   },
   {
     "name": "ConFoo Vancouver",
@@ -2409,7 +2559,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "CONFRONT",
@@ -2425,7 +2576,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.604981,
-    "longitude": 13.003822
+    "longitude": 13.003822,
+    "cfpUrl": ""
   },
   {
     "name": "Connect.js",
@@ -2441,7 +2593,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.7489954,
-    "longitude": -84.3879824
+    "longitude": -84.3879824,
+    "cfpUrl": ""
   },
   {
     "name": "Connect.Tech",
@@ -2457,7 +2610,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 33.7489954,
-    "longitude": -84.3879824
+    "longitude": -84.3879824,
+    "cfpUrl": ""
   },
   {
     "name": "Connections",
@@ -2473,7 +2627,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "ConnectJS",
@@ -2489,7 +2644,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.7489954,
-    "longitude": -84.3879824
+    "longitude": -84.3879824,
+    "cfpUrl": ""
   },
   {
     "name": "ContainerCamp",
@@ -2505,7 +2661,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Continuous Lifecycle Conference",
@@ -2521,7 +2678,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.4874592,
-    "longitude": 8.466039499999999
+    "longitude": 8.466039499999999,
+    "cfpUrl": ""
   },
   {
     "name": "Converge SE",
@@ -2537,7 +2695,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Unspecified",
     "latitude": 34.0007104,
-    "longitude": -81.0348144
+    "longitude": -81.0348144,
+    "cfpUrl": ""
   },
   {
     "name": "Copenhagen Context",
@@ -2553,7 +2712,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.6760968,
-    "longitude": 12.5683372
+    "longitude": 12.5683372,
+    "cfpUrl": ""
   },
   {
     "name": "copenhagenjs",
@@ -2569,7 +2729,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.6760968,
-    "longitude": 12.5683372
+    "longitude": 12.5683372,
+    "cfpUrl": ""
   },
   {
     "name": "Cornerstone",
@@ -2585,7 +2746,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.715738,
-    "longitude": -117.1610838
+    "longitude": -117.1610838,
+    "cfpUrl": ""
   },
   {
     "name": "Couchbase Live",
@@ -2601,7 +2763,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "cppcon",
@@ -2617,7 +2780,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6101497,
-    "longitude": -122.2015159
+    "longitude": -122.2015159,
+    "cfpUrl": ""
   },
   {
     "name": "Craft Conference",
@@ -2633,7 +2797,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.497912,
-    "longitude": 19.040235
+    "longitude": 19.040235,
+    "cfpUrl": ""
   },
   {
     "name": "Create Upstate",
@@ -2649,7 +2814,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.0481221,
-    "longitude": -76.14742439999999
+    "longitude": -76.14742439999999,
+    "cfpUrl": ""
   },
   {
     "name": "CrikeyCon",
@@ -2665,7 +2831,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -27.4697707,
-    "longitude": 153.0251235
+    "longitude": 153.0251235,
+    "cfpUrl": ""
   },
   {
     "name": "CSS Day",
@@ -2681,7 +2848,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "CSS Dev Conf",
@@ -2697,7 +2865,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 29.95106579999999,
-    "longitude": -90.0715323
+    "longitude": -90.0715323,
+    "cfpUrl": ""
   },
   {
     "name": "CSS-Minsk-JS Conf",
@@ -2713,7 +2882,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.90453979999999,
-    "longitude": 27.5615244
+    "longitude": 27.5615244,
+    "cfpUrl": ""
   },
   {
     "name": "css/sass conference",
@@ -2729,7 +2899,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "cfpUrl": ""
   },
   {
     "name": "CSSConf",
@@ -2745,7 +2916,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "CSSConf",
@@ -2761,7 +2933,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 25.7616798,
-    "longitude": -80.1917902
+    "longitude": -80.1917902,
+    "cfpUrl": ""
   },
   {
     "name": "CSSConf AU",
@@ -2777,7 +2950,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "CSSConf Australia",
@@ -2793,7 +2967,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "CSSConf Budapest",
@@ -2809,7 +2984,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 47.497912,
-    "longitude": 19.040235
+    "longitude": 19.040235,
+    "cfpUrl": ""
   },
   {
     "name": "CSVConf",
@@ -2825,7 +3001,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "CukeUp",
@@ -2841,7 +3018,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "DaFED",
@@ -2857,7 +3035,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.2671352,
-    "longitude": 19.8335496
+    "longitude": 19.8335496,
+    "cfpUrl": ""
   },
   {
     "name": "Data Day Texas ?",
@@ -2873,7 +3052,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "dConstruct",
@@ -2889,7 +3069,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.82253000000001,
-    "longitude": -0.137163
+    "longitude": -0.137163,
+    "cfpUrl": ""
   },
   {
     "name": "De:Code",
@@ -2905,7 +3086,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.6894875,
-    "longitude": 139.6917064
+    "longitude": 139.6917064,
+    "cfpUrl": ""
   },
   {
     "name": "Deeper Life Holiday school",
@@ -2921,7 +3103,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 6.5243793,
-    "longitude": 3.3792057
+    "longitude": 3.3792057,
+    "cfpUrl": ""
   },
   {
     "name": "DeepSec",
@@ -2937,7 +3120,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.2081743,
-    "longitude": 16.3738189
+    "longitude": 16.3738189,
+    "cfpUrl": ""
   },
   {
     "name": "DefCamp",
@@ -2953,7 +3137,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.4267674,
-    "longitude": 26.1025384
+    "longitude": 26.1025384,
+    "cfpUrl": ""
   },
   {
     "name": "DEFCON",
@@ -2969,7 +3154,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "Denver Dev Day",
@@ -2985,7 +3171,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.7392358,
-    "longitude": -104.990251
+    "longitude": -104.990251,
+    "cfpUrl": ""
   },
   {
     "name": "Desert Code Camp",
@@ -3001,7 +3188,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.3061605,
-    "longitude": -111.8412502
+    "longitude": -111.8412502,
+    "cfpUrl": ""
   },
   {
     "name": "Designer of Things",
@@ -3017,7 +3205,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "DeSymfony",
@@ -3033,7 +3222,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "DevConf",
@@ -3049,7 +3239,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.1950602,
-    "longitude": 16.6068371
+    "longitude": 16.6068371,
+    "cfpUrl": ""
   },
   {
     "name": "DevConnections",
@@ -3065,7 +3256,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "DevDay",
@@ -3081,7 +3273,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.919438,
-    "longitude": 19.145136
+    "longitude": 19.145136,
+    "cfpUrl": ""
   },
   {
     "name": "Developer Week Conf",
@@ -3097,7 +3290,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "DeveloperWeek JavaScript Conference",
@@ -3113,7 +3307,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "DevExperience.ro",
@@ -3129,7 +3324,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.1584549,
-    "longitude": 27.6014418
+    "longitude": 27.6014418,
+    "cfpUrl": ""
   },
   {
     "name": "DevIntersection",
@@ -3145,7 +3341,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "cfpUrl": ""
   },
   {
     "name": "DEVit Web Conference",
@@ -3161,7 +3358,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 40.6400629,
-    "longitude": 22.9444191
+    "longitude": 22.9444191,
+    "cfpUrl": ""
   },
   {
     "name": "devLink",
@@ -3177,7 +3375,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.0456297,
-    "longitude": -85.3096801
+    "longitude": -85.3096801,
+    "cfpUrl": ""
   },
   {
     "name": "DevNexus",
@@ -3193,7 +3392,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 33.7489954,
-    "longitude": -84.3879824
+    "longitude": -84.3879824,
+    "cfpUrl": ""
   },
   {
     "name": "DevOpsDays",
@@ -3209,7 +3409,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "DevopsDays",
@@ -3225,7 +3426,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "DevopsDays",
@@ -3241,7 +3443,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "Devoxx BE",
@@ -3257,7 +3460,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.2194475,
-    "longitude": 4.4024643
+    "longitude": 4.4024643,
+    "cfpUrl": ""
   },
   {
     "name": "Devoxx MA",
@@ -3273,7 +3477,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.5731104,
-    "longitude": -7.589843399999999
+    "longitude": -7.589843399999999,
+    "cfpUrl": ""
   },
   {
     "name": "Devoxx PL",
@@ -3289,7 +3494,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.06465009999999,
-    "longitude": 19.9449799
+    "longitude": 19.9449799,
+    "cfpUrl": ""
   },
   {
     "name": "Devoxx UK",
@@ -3305,7 +3511,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "DevRelCon",
@@ -3321,7 +3528,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Devs Lobe Bacon 2014",
@@ -3337,7 +3545,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "DevSpace",
@@ -3353,7 +3562,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 34.7303688,
-    "longitude": -86.5861037
+    "longitude": -86.5861037,
+    "cfpUrl": ""
   },
   {
     "name": "DevSum",
@@ -3369,7 +3579,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Unspecified",
     "latitude": 59.32932349999999,
-    "longitude": 18.0685808
+    "longitude": 18.0685808,
+    "cfpUrl": ""
   },
   {
     "name": "DevUp",
@@ -3385,7 +3596,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.6270025,
-    "longitude": -90.19940419999999
+    "longitude": -90.19940419999999,
+    "cfpUrl": ""
   },
   {
     "name": "DevWeek",
@@ -3401,7 +3613,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "devworld",
@@ -3417,7 +3630,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "Digital Book World",
@@ -3433,7 +3647,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "DIMVA",
@@ -3449,7 +3664,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.73743,
-    "longitude": 7.0982068
+    "longitude": 7.0982068,
+    "cfpUrl": ""
   },
   {
     "name": "Dinosaurjs",
@@ -3465,7 +3681,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 39.7392358,
-    "longitude": -104.990251
+    "longitude": -104.990251,
+    "cfpUrl": ""
   },
   {
     "name": "Disrupt SF",
@@ -3481,7 +3698,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Distill",
@@ -3497,7 +3715,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Distill 2014",
@@ -3513,7 +3732,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "DjangoCon",
@@ -3529,7 +3749,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.48158100000001,
-    "longitude": -3.17909
+    "longitude": -3.17909,
+    "cfpUrl": ""
   },
   {
     "name": "DjangoCon",
@@ -3545,7 +3766,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "DjangoCon Europe",
@@ -3561,7 +3783,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.48158100000001,
-    "longitude": -3.17909
+    "longitude": -3.17909,
+    "cfpUrl": ""
   },
   {
     "name": "DjangoVillage",
@@ -3577,7 +3800,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.7185068,
-    "longitude": 12.1107446
+    "longitude": 12.1107446,
+    "cfpUrl": ""
   },
   {
     "name": "DLD Conference",
@@ -3593,7 +3817,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.1351253,
-    "longitude": 11.5819805
+    "longitude": 11.5819805,
+    "cfpUrl": ""
   },
   {
     "name": "DNN Summit",
@@ -3609,7 +3834,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.7392358,
-    "longitude": -104.990251
+    "longitude": -104.990251,
+    "cfpUrl": ""
   },
   {
     "name": "DockerCon",
@@ -3625,7 +3851,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "DogFood Con",
@@ -3641,7 +3868,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9611755,
-    "longitude": -82.99879419999999
+    "longitude": -82.99879419999999,
+    "cfpUrl": ""
   },
   {
     "name": "Dot All",
@@ -3655,7 +3883,8 @@
     "eventEndDate": "2017-10-23T17:00:00-08:00",
     "codeOfConduct": "http://dotall.com/code-of-conduct",
     "latitude": 45.5083436,
-    "longitude": -122.6659597
+    "longitude": -122.6659597,
+    "cfpUrl": ""
   },
   {
     "name": "dot swift",
@@ -3671,7 +3900,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "dotCSS",
@@ -3687,7 +3917,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "dotGo",
@@ -3703,7 +3934,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "dotJS",
@@ -3719,7 +3951,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "dotScale",
@@ -3735,7 +3968,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "dotSwift",
@@ -3751,7 +3985,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "Dreamforce",
@@ -3767,7 +4002,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Droidcon",
@@ -3783,7 +4019,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "Droidcon London",
@@ -3799,7 +4036,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Droidcon NYC",
@@ -3815,7 +4053,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "Droidcon SF",
@@ -3831,7 +4070,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Droidcon Stockholm",
@@ -3847,7 +4087,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.32932349999999,
-    "longitude": 18.0685808
+    "longitude": 18.0685808,
+    "cfpUrl": ""
   },
   {
     "name": "DrupalCamp",
@@ -3863,7 +4104,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.953252,
-    "longitude": -3.188267
+    "longitude": -3.188267,
+    "cfpUrl": ""
   },
   {
     "name": "DrupalCon",
@@ -3879,7 +4121,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.0755381,
-    "longitude": 14.4378005
+    "longitude": 14.4378005,
+    "cfpUrl": ""
   },
   {
     "name": "DrupalCon",
@@ -3895,7 +4138,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "DrupalCon",
@@ -3911,7 +4155,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.7700504,
-    "longitude": -118.1937395
+    "longitude": -118.1937395,
+    "cfpUrl": ""
   },
   {
     "name": "Dutch PHP Conference",
@@ -3927,7 +4172,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "e-SAME - CTF on Nov 30",
@@ -3943,7 +4189,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.6163539,
-    "longitude": 7.0552218
+    "longitude": 7.0552218,
+    "cfpUrl": ""
   },
   {
     "name": "EARL (Effective Applications of R Language)",
@@ -3959,7 +4206,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "ebookcraft",
@@ -3975,7 +4223,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.653226,
-    "longitude": -79.3831843
+    "longitude": -79.3831843,
+    "cfpUrl": ""
   },
   {
     "name": "EclipseCon",
@@ -3991,7 +4240,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.8940624,
-    "longitude": 9.195464
+    "longitude": 9.195464,
+    "cfpUrl": ""
   },
   {
     "name": "EclipseCon",
@@ -4007,7 +4257,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "eCrime",
@@ -4023,7 +4274,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.4941704,
-    "longitude": -111.9260519
+    "longitude": -111.9260519,
+    "cfpUrl": ""
   },
   {
     "name": "Edge Conference",
@@ -4039,7 +4291,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "EdgeConf",
@@ -4055,7 +4308,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "EICAR",
@@ -4071,7 +4325,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "cfpUrl": ""
   },
   {
     "name": "Elements Penn State",
@@ -4087,7 +4342,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7933949,
-    "longitude": -77.8600012
+    "longitude": -77.8600012,
+    "cfpUrl": ""
   },
   {
     "name": "Elixir with Love",
@@ -4103,7 +4359,8 @@
     "cfpEndDate": "2017-10-01T05:00:00.000Z",
     "codeOfConduct": "https://www.elixir-with-love.com/conduct",
     "latitude": 41.8239891,
-    "longitude": -71.4128343
+    "longitude": -71.4128343,
+    "cfpUrl": ""
   },
   {
     "name": "ElixirConf",
@@ -4119,7 +4376,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "Ember Fest",
@@ -4135,7 +4393,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.205337,
-    "longitude": 0.121817
+    "longitude": 0.121817,
+    "cfpUrl": ""
   },
   {
     "name": "EmberConf",
@@ -4151,7 +4410,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "EmberFest",
@@ -4167,7 +4427,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "Empire Conf",
@@ -4183,7 +4444,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "Empire Node",
@@ -4199,7 +4461,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "EmpireJS",
@@ -4215,7 +4478,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "EmpireNode",
@@ -4231,7 +4495,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "Endpoint",
@@ -4247,7 +4512,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "ENIGMA",
@@ -4263,7 +4529,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.8043637,
-    "longitude": -122.2711137
+    "longitude": -122.2711137,
+    "cfpUrl": ""
   },
   {
     "name": "EnterJS",
@@ -4279,7 +4546,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.8728253,
-    "longitude": 8.6511929
+    "longitude": 8.6511929,
+    "cfpUrl": ""
   },
   {
     "name": "Epic FEL",
@@ -4295,7 +4563,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Erlang Conference",
@@ -4311,7 +4580,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.32932349999999,
-    "longitude": 18.0685808
+    "longitude": 18.0685808,
+    "cfpUrl": ""
   },
   {
     "name": "ESORICS",
@@ -4327,7 +4597,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "EuroBSDcon",
@@ -4343,7 +4614,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.6977082,
-    "longitude": 23.3218675
+    "longitude": 23.3218675,
+    "cfpUrl": ""
   },
   {
     "name": "Eurocrypt",
@@ -4359,7 +4631,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "EuroIA 2014",
@@ -4375,7 +4648,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.919438,
-    "longitude": 19.145136
+    "longitude": 19.145136,
+    "cfpUrl": ""
   },
   {
     "name": "EuroPython",
@@ -4391,7 +4665,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.2630126,
-    "longitude": -2.9349852
+    "longitude": -2.9349852,
+    "cfpUrl": ""
   },
   {
     "name": "EuRuKo",
@@ -4407,7 +4682,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.80949,
-    "longitude": 13.05501
+    "longitude": 13.05501,
+    "cfpUrl": ""
   },
   {
     "name": "EuRuKo",
@@ -4423,7 +4699,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.4501,
-    "longitude": 30.5234
+    "longitude": 30.5234,
+    "cfpUrl": ""
   },
   {
     "name": "Evernote Conference",
@@ -4439,7 +4716,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Extensible Web Summit",
@@ -4455,7 +4733,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "F5 Festival",
@@ -4471,7 +4750,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "cfpUrl": ""
   },
   {
     "name": "F8",
@@ -4487,7 +4767,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "FailCon",
@@ -4503,7 +4784,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -30.0346564,
-    "longitude": -51.2176584
+    "longitude": -51.2176584,
+    "cfpUrl": ""
   },
   {
     "name": "Falsy Values",
@@ -4519,7 +4801,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "ffconf",
@@ -4535,7 +4818,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 50.82253000000001,
-    "longitude": -0.137163
+    "longitude": -0.137163,
+    "cfpUrl": ""
   },
   {
     "name": "FIRSTFare",
@@ -4551,7 +4835,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "FISL",
@@ -4567,7 +4852,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -30.0346564,
-    "longitude": -51.2176584
+    "longitude": -51.2176584,
+    "cfpUrl": ""
   },
   {
     "name": "FITC",
@@ -4583,7 +4869,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.653226,
-    "longitude": -79.3831843
+    "longitude": -79.3831843,
+    "cfpUrl": ""
   },
   {
     "name": "Flight",
@@ -4599,7 +4886,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Floss Spring 2014",
@@ -4615,7 +4903,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.82253000000001,
-    "longitude": -0.137163
+    "longitude": -0.137163,
+    "cfpUrl": ""
   },
   {
     "name": "Fluent",
@@ -4631,7 +4920,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Form Function & Class 8",
@@ -4647,7 +4937,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 14.5995124,
-    "longitude": 120.9842195
+    "longitude": 120.9842195,
+    "cfpUrl": ""
   },
   {
     "name": "Forward JS",
@@ -4663,7 +4954,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Forward Swift",
@@ -4679,7 +4971,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "ForwardJS",
@@ -4695,7 +4988,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "FOSDEM",
@@ -4711,7 +5005,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.8503463,
-    "longitude": 4.3517211
+    "longitude": 4.3517211,
+    "cfpUrl": ""
   },
   {
     "name": "FOSS4G",
@@ -4727,7 +5022,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.566535,
-    "longitude": 126.9779692
+    "longitude": 126.9779692,
+    "cfpUrl": ""
   },
   {
     "name": "FOSSETCON",
@@ -4743,7 +5039,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 28.5383355,
-    "longitude": -81.3792365
+    "longitude": -81.3792365,
+    "cfpUrl": ""
   },
   {
     "name": "FOWD",
@@ -4759,7 +5056,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "cfpUrl": ""
   },
   {
     "name": "Frankfurt Bookfair",
@@ -4775,7 +5073,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.1109221,
-    "longitude": 8.6821267
+    "longitude": 8.6821267,
+    "cfpUrl": ""
   },
   {
     "name": "FrenchKit",
@@ -4791,7 +5090,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "Front End Design Conference",
@@ -4807,7 +5107,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 27.7518284,
-    "longitude": -82.6267345
+    "longitude": -82.6267345,
+    "cfpUrl": ""
   },
   {
     "name": "Front in BH",
@@ -4823,7 +5124,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -19.9079062,
-    "longitude": -43.9437472
+    "longitude": -43.9437472,
+    "cfpUrl": ""
   },
   {
     "name": "Front Porch",
@@ -4839,7 +5141,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.7766642,
-    "longitude": -96.79698789999999
+    "longitude": -96.79698789999999,
+    "cfpUrl": ""
   },
   {
     "name": "Front Trends",
@@ -4855,7 +5158,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "Front-End Carioca",
@@ -4871,7 +5175,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -22.9068467,
-    "longitude": -43.1728965
+    "longitude": -43.1728965,
+    "cfpUrl": ""
   },
   {
     "name": "front-end conference",
@@ -4887,7 +5192,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.3768866,
-    "longitude": 8.541694
+    "longitude": 8.541694,
+    "cfpUrl": ""
   },
   {
     "name": "Front-End Conference",
@@ -4903,7 +5209,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 27.7518284,
-    "longitude": -82.6267345
+    "longitude": -82.6267345,
+    "cfpUrl": ""
   },
   {
     "name": "Front-Trends",
@@ -4919,7 +5226,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "Fronteers 2014",
@@ -4935,7 +5243,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "Fronteers Conference",
@@ -4951,7 +5260,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "FRONTEND CON 2017",
@@ -4967,7 +5277,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "Frontend Conference Zurich",
@@ -4983,7 +5294,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 47.3768866,
-    "longitude": 8.541694
+    "longitude": 8.541694,
+    "cfpUrl": ""
   },
   {
     "name": "Front End Design Conference",
@@ -4999,7 +5311,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 27.7518284,
-    "longitude": -82.6267345
+    "longitude": -82.6267345,
+    "cfpUrl": ""
   },
   {
     "name": "Frontend Dev Conf 2017",
@@ -5015,7 +5328,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.90453979999999,
-    "longitude": 27.5615244
+    "longitude": 27.5615244,
+    "cfpUrl": ""
   },
   {
     "name": "Frontend NE",
@@ -5031,7 +5345,8 @@
     "cfpEndDate": "2017-12-07T05:00:00.000Z",
     "codeOfConduct": "https://2018.frontendne.co.uk/code-of-conduct.html#navigation",
     "latitude": 54.978252,
-    "longitude": -1.61778
+    "longitude": -1.61778,
+    "cfpUrl": ""
   },
   {
     "name": "Frontend United",
@@ -5047,7 +5362,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 37.9838096,
-    "longitude": 23.7275388
+    "longitude": 23.7275388,
+    "cfpUrl": ""
   },
   {
     "name": "Frontenders",
@@ -5063,7 +5379,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.4699075,
-    "longitude": -0.3762881
+    "longitude": -0.3762881,
+    "cfpUrl": ""
   },
   {
     "name": "FrontFest",
@@ -5079,7 +5396,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "FrontInterior",
@@ -5095,7 +5413,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -28.3013365,
-    "longitude": -53.88892
+    "longitude": -53.88892,
+    "cfpUrl": ""
   },
   {
     "name": "FrontTalks",
@@ -5111,7 +5430,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 56.83892609999999,
-    "longitude": 60.6057025
+    "longitude": 60.6057025,
+    "cfpUrl": ""
   },
   {
     "name": "FrOSCon",
@@ -5127,7 +5447,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.7694775,
-    "longitude": 7.187578599999999
+    "longitude": 7.187578599999999,
+    "cfpUrl": ""
   },
   {
     "name": "Frozen Rails",
@@ -5143,7 +5464,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 60.16985569999999,
-    "longitude": 24.9383791
+    "longitude": 24.9383791,
+    "cfpUrl": ""
   },
   {
     "name": "Full Frontal",
@@ -5159,7 +5481,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.82253000000001,
-    "longitude": -0.137163
+    "longitude": -0.137163,
+    "cfpUrl": ""
   },
   {
     "name": "Full Stack Conf",
@@ -5175,7 +5498,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "Full Stack Conf",
@@ -5191,7 +5515,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Full Stack Fest",
@@ -5207,7 +5532,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "Full Stack Toronto",
@@ -5223,7 +5549,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 43.653226,
-    "longitude": -79.3831843
+    "longitude": -79.3831843,
+    "cfpUrl": ""
   },
   {
     "name": "FullStack",
@@ -5239,7 +5566,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Functional Conf India",
@@ -5255,7 +5583,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "Functional Swift Conference 2017",
@@ -5271,7 +5600,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.6781784,
-    "longitude": -73.9441579
+    "longitude": -73.9441579,
+    "cfpUrl": ""
   },
   {
     "name": "Functions17",
@@ -5287,7 +5617,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.653226,
-    "longitude": -79.3831843
+    "longitude": -79.3831843,
+    "cfpUrl": ""
   },
   {
     "name": "Future Insights",
@@ -5303,7 +5634,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "Future JS",
@@ -5319,7 +5651,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "Future of Web Apps",
@@ -5335,7 +5668,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Future of Web Apps",
@@ -5351,7 +5685,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "Future of Web Design",
@@ -5367,7 +5702,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Future of Web Design (the Brewery)",
@@ -5383,7 +5719,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "FutureStack",
@@ -5399,7 +5736,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Game Developers Conference",
@@ -5415,7 +5753,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Gartner Application Architecture",
@@ -5431,7 +5770,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "GDC",
@@ -5447,7 +5787,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 31.2303904,
-    "longitude": 121.4737021
+    "longitude": 121.4737021,
+    "cfpUrl": ""
   },
   {
     "name": "GDC",
@@ -5463,7 +5804,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "GDC China",
@@ -5479,7 +5821,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.90419989999999,
-    "longitude": 116.4073963
+    "longitude": 116.4073963,
+    "cfpUrl": ""
   },
   {
     "name": "GDC Next",
@@ -5495,7 +5838,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "GeeCON",
@@ -5511,7 +5855,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.0755381,
-    "longitude": 14.4378005
+    "longitude": 14.4378005,
+    "cfpUrl": ""
   },
   {
     "name": "GeekGirlCamp",
@@ -5527,7 +5872,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.0293059,
-    "longitude": -78.47667810000002
+    "longitude": -78.47667810000002,
+    "cfpUrl": ""
   },
   {
     "name": "GGDevCon",
@@ -5543,7 +5889,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "GIDS",
@@ -5559,7 +5906,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "Global Innovation Forum",
@@ -5575,7 +5923,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Gluecon",
@@ -5591,7 +5940,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.7392358,
-    "longitude": -104.990251
+    "longitude": -104.990251,
+    "cfpUrl": ""
   },
   {
     "name": "GoGaRuCo",
@@ -5607,7 +5957,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Google I/O",
@@ -5623,7 +5974,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Google Test Automation",
@@ -5639,7 +5991,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.5304252,
-    "longitude": -77.5797106
+    "longitude": -77.5797106,
+    "cfpUrl": ""
   },
   {
     "name": "GopherCon",
@@ -5655,7 +6008,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.7392358,
-    "longitude": -104.990251
+    "longitude": -104.990251,
+    "cfpUrl": ""
   },
   {
     "name": "Goto",
@@ -5671,7 +6025,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.6760968,
-    "longitude": 12.5683372
+    "longitude": 12.5683372,
+    "cfpUrl": ""
   },
   {
     "name": "GOTO",
@@ -5687,7 +6042,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "GR8Conf",
@@ -5703,7 +6059,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "Grace Hopper Celebration of Women in Computing",
@@ -5719,7 +6076,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 29.7604267,
-    "longitude": -95.3698028
+    "longitude": -95.3698028,
+    "cfpUrl": ""
   },
   {
     "name": "Graph Lab",
@@ -5735,7 +6093,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Greach 2014",
@@ -5751,7 +6110,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "GreHack",
@@ -5766,7 +6126,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.188529,
-    "longitude": 5.724524
+    "longitude": 5.724524,
+    "cfpUrl": ""
   },
   {
     "name": "GrrCON",
@@ -5782,7 +6143,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.9633599,
-    "longitude": -85.6680863
+    "longitude": -85.6680863,
+    "cfpUrl": ""
   },
   {
     "name": "GWT.create",
@@ -5797,7 +6159,8 @@
     "cfpStartDate": "",
     "cfpEndDate": "",
     "latitude": 37.3860517,
-    "longitude": -122.0838511
+    "longitude": -122.0838511,
+    "cfpUrl": ""
   },
   {
     "name": "Hack in Paris",
@@ -5813,7 +6176,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "Hack in the box",
@@ -5829,7 +6193,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "Hack.lu",
@@ -5845,7 +6210,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.61162100000001,
-    "longitude": 6.1319346
+    "longitude": 6.1319346,
+    "cfpUrl": ""
   },
   {
     "name": "Hackference",
@@ -5861,7 +6227,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.48624299999999,
-    "longitude": -1.890401
+    "longitude": -1.890401,
+    "cfpUrl": ""
   },
   {
     "name": "Hackfest",
@@ -5877,7 +6244,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5016889,
-    "longitude": -73.567256
+    "longitude": -73.567256,
+    "cfpUrl": ""
   },
   {
     "name": "Hacktivity",
@@ -5893,7 +6261,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.497912,
-    "longitude": 19.040235
+    "longitude": 19.040235,
+    "cfpUrl": ""
   },
   {
     "name": "Hadoop Summit",
@@ -5909,7 +6278,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "Hadoop World",
@@ -5925,7 +6295,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "HalfStack",
@@ -5941,7 +6312,8 @@
     "cfpEndDate": "2017-07-15T07:00:00.000Z",
     "codeOfConduct": "http://jsconf.com/codeofconduct.html",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Hardwear.io",
@@ -5957,7 +6329,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.0704978,
-    "longitude": 4.3006999
+    "longitude": 4.3006999,
+    "cfpUrl": ""
   },
   {
     "name": "Haskell Symposium",
@@ -5973,7 +6346,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "Heartland Dev Conference",
@@ -5989,7 +6363,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.2523634,
-    "longitude": -95.99798829999999
+    "longitude": -95.99798829999999,
+    "cfpUrl": ""
   },
   {
     "name": "HighEd Web",
@@ -6005,7 +6380,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.0389025,
-    "longitude": -87.9064736
+    "longitude": -87.9064736,
+    "cfpUrl": ""
   },
   {
     "name": "HolyJS",
@@ -6021,7 +6397,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9342802,
-    "longitude": 30.3350986
+    "longitude": 30.3350986,
+    "cfpUrl": ""
   },
   {
     "name": "HolyJS Moscow",
@@ -6037,7 +6414,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.755826,
-    "longitude": 37.6172999
+    "longitude": 37.6172999,
+    "cfpUrl": ""
   },
   {
     "name": "How Interactive Design",
@@ -6053,7 +6431,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "HTML5 Dev Conf",
@@ -6069,7 +6448,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "HTML5DevConf",
@@ -6085,7 +6465,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "HybridConf",
@@ -6101,7 +6482,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.3498053,
-    "longitude": -6.2603097
+    "longitude": -6.2603097,
+    "cfpUrl": ""
   },
   {
     "name": "I Love APIs",
@@ -6117,7 +6499,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "IBM Enterprise2014",
@@ -6133,7 +6516,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "IEEE S&P",
@@ -6149,7 +6533,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "iJS International JavaScript Conference",
@@ -6165,7 +6550,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.1351253,
-    "longitude": 11.5819805
+    "longitude": 11.5819805,
+    "cfpUrl": ""
   },
   {
     "name": "Insomni'hack",
@@ -6181,7 +6567,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.2043907,
-    "longitude": 6.1431577
+    "longitude": 6.1431577,
+    "cfpUrl": ""
   },
   {
     "name": "INST-INT",
@@ -6197,7 +6584,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "Intel IDF14",
@@ -6213,7 +6601,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "InterCon Android",
@@ -6229,7 +6618,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "Internet of Things Forum 2014",
@@ -6245,7 +6635,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.205337,
-    "longitude": 0.121817
+    "longitude": 0.121817,
+    "cfpUrl": ""
   },
   {
     "name": "iOSCon 2017",
@@ -6261,7 +6652,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "iOSDC Japan 2017",
@@ -6277,7 +6669,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.6894875,
-    "longitude": 139.6917064
+    "longitude": 139.6917064,
+    "cfpUrl": ""
   },
   {
     "name": "iOSDevUk",
@@ -6293,7 +6686,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.41530299999999,
-    "longitude": -4.08292
+    "longitude": -4.08292,
+    "cfpUrl": ""
   },
   {
     "name": "IoT Security Summit",
@@ -6309,7 +6703,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "IoT World Forum",
@@ -6325,7 +6720,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Iowa Code Camp",
@@ -6341,7 +6737,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.711817,
-    "longitude": -93.612520
+    "longitude": -93.61252,
+    "cfpUrl": ""
   },
   {
     "name": "It camp Romania",
@@ -6357,7 +6754,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.943161,
-    "longitude": 24.96676
+    "longitude": 24.96676,
+    "cfpUrl": ""
   },
   {
     "name": "IT Weekend",
@@ -6373,7 +6771,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.464717,
-    "longitude": 35.046183
+    "longitude": 35.046183,
+    "cfpUrl": ""
   },
   {
     "name": "IT/Dev Connections",
@@ -6389,7 +6788,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "JavaLand",
@@ -6405,7 +6805,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.8267554,
-    "longitude": 6.898786599999999
+    "longitude": 6.898786599999999,
+    "cfpUrl": ""
   },
   {
     "name": "JavaOne",
@@ -6421,7 +6822,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "JavaScript Conference",
@@ -6437,7 +6839,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "Javascript Day",
@@ -6453,7 +6856,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.43838419999999,
-    "longitude": 10.9916215
+    "longitude": 10.9916215,
+    "cfpUrl": ""
   },
   {
     "name": "JavaZone",
@@ -6470,7 +6874,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "Jazoon",
@@ -6486,7 +6891,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.9479739,
-    "longitude": 7.4474468
+    "longitude": 7.4474468,
+    "cfpUrl": ""
   },
   {
     "name": "JazzCon.Tech",
@@ -6502,7 +6908,8 @@
     "cfpEndDate": "2017-11-01T04:00:00.000Z",
     "codeOfConduct": "http://jazzcon.tech/",
     "latitude": 29.95106579999999,
-    "longitude": -90.0715323
+    "longitude": -90.0715323,
+    "cfpUrl": ""
   },
   {
     "name": "JFall",
@@ -6518,7 +6925,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2224835,
-    "longitude": 5.4835625
+    "longitude": 5.4835625,
+    "cfpUrl": ""
   },
   {
     "name": "Jfokus",
@@ -6534,7 +6942,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.32932349999999,
-    "longitude": 18.0685808
+    "longitude": 18.0685808,
+    "cfpUrl": ""
   },
   {
     "name": "Joy of Coding",
@@ -6550,7 +6959,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.9244201,
-    "longitude": 4.4777326
+    "longitude": 4.4777326,
+    "cfpUrl": ""
   },
   {
     "name": "jQuery Conf",
@@ -6566,7 +6976,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.755826,
-    "longitude": 37.6172999
+    "longitude": 37.6172999,
+    "cfpUrl": ""
   },
   {
     "name": "jQuery Conf",
@@ -6582,7 +6993,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "jQuery Conference",
@@ -6598,7 +7010,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "jQuery Dev Summit",
@@ -6614,7 +7027,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "JQuery UK",
@@ -6630,7 +7044,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.7520209,
-    "longitude": -1.2577263
+    "longitude": -1.2577263,
+    "cfpUrl": ""
   },
   {
     "name": "jQueryConf",
@@ -6646,7 +7061,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "JS Day",
@@ -6662,7 +7078,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 45.43838419999999,
-    "longitude": 10.9916215
+    "longitude": 10.9916215,
+    "cfpUrl": ""
   },
   {
     "name": "JS fwdays",
@@ -6678,7 +7095,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.4501,
-    "longitude": 30.5234
+    "longitude": 30.5234,
+    "cfpUrl": ""
   },
   {
     "name": "JS Heroes",
@@ -6694,7 +7112,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.7712101,
-    "longitude": 23.6236353
+    "longitude": 23.6236353,
+    "cfpUrl": ""
   },
   {
     "name": "JS Kongress",
@@ -6710,7 +7129,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 48.1351253,
-    "longitude": 11.5819805
+    "longitude": 11.5819805,
+    "cfpUrl": ""
   },
   {
     "name": "JS Poland",
@@ -6726,7 +7146,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "JS Remote Conf",
@@ -6742,7 +7163,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.655959,
-    "longitude": -111.929279
+    "longitude": -111.929279,
+    "cfpUrl": ""
   },
   {
     "name": "JSChannel",
@@ -6758,7 +7180,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "JSConf",
@@ -6774,7 +7197,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "JSConf Budapest",
@@ -6790,7 +7214,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 47.497912,
-    "longitude": 19.040235
+    "longitude": 19.040235,
+    "cfpUrl": ""
   },
   {
     "name": "JSConf China",
@@ -6806,7 +7231,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 31.2303904,
-    "longitude": 121.4737021
+    "longitude": 121.4737021,
+    "cfpUrl": ""
   },
   {
     "name": "JSConf Colombia",
@@ -6822,7 +7248,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 6.244203,
-    "longitude": -75.5812119
+    "longitude": -75.5812119,
+    "cfpUrl": ""
   },
   {
     "name": "JSConf EU",
@@ -6838,7 +7265,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "JSConf US",
@@ -6854,7 +7282,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.6265697,
-    "longitude": -81.46085599999999
+    "longitude": -81.46085599999999,
+    "cfpUrl": ""
   },
   {
     "name": "jsconf.be",
@@ -6870,7 +7299,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.209348,
-    "longitude": 3.2246995
+    "longitude": 3.2246995,
+    "cfpUrl": ""
   },
   {
     "name": "JSConfAsia",
@@ -6886,7 +7316,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 1.352083,
-    "longitude": 103.819836
+    "longitude": 103.819836,
+    "cfpUrl": ""
   },
   {
     "name": "JSConfAU",
@@ -6902,7 +7333,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "JSCONFCo",
@@ -6918,7 +7350,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 6.244203,
-    "longitude": -75.5812119
+    "longitude": -75.5812119,
+    "cfpUrl": ""
   },
   {
     "name": "JSConfUY",
@@ -6934,7 +7367,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.9011127,
-    "longitude": -56.16453139999999
+    "longitude": -56.16453139999999,
+    "cfpUrl": ""
   },
   {
     "name": "JSDay Italy",
@@ -6950,7 +7384,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.43838419999999,
-    "longitude": 10.9916215
+    "longitude": 10.9916215,
+    "cfpUrl": ""
   },
   {
     "name": "JSDC",
@@ -6966,7 +7401,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 25.0329694,
-    "longitude": 121.5654177
+    "longitude": 121.5654177,
+    "cfpUrl": ""
   },
   {
     "name": "JSFest",
@@ -6982,7 +7418,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "jsfoo",
@@ -6998,7 +7435,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "JSFoo India",
@@ -7014,7 +7452,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "JSinSA",
@@ -7030,7 +7469,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -26.2041028,
-    "longitude": 28.0473051
+    "longitude": 28.0473051,
+    "cfpUrl": ""
   },
   {
     "name": "jsist",
@@ -7046,7 +7486,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.0082376,
-    "longitude": 28.9783589
+    "longitude": 28.9783589,
+    "cfpUrl": ""
   },
   {
     "name": "JSUnconf",
@@ -7062,7 +7503,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 53.5510846,
-    "longitude": 9.9936819
+    "longitude": 9.9936819,
+    "cfpUrl": ""
   },
   {
     "name": "KalamazooX",
@@ -7078,7 +7520,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.2917069,
-    "longitude": -85.5872286
+    "longitude": -85.5872286,
+    "cfpUrl": ""
   },
   {
     "name": "KCDC",
@@ -7094,7 +7537,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.0997265,
-    "longitude": -94.5785667
+    "longitude": -94.5785667,
+    "cfpUrl": ""
   },
   {
     "name": "Kiwicon",
@@ -7110,7 +7554,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -41.2864603,
-    "longitude": 174.776236
+    "longitude": 174.776236,
+    "cfpUrl": ""
   },
   {
     "name": "KiwiParty",
@@ -7126,7 +7571,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.5734053,
-    "longitude": 7.752111299999999
+    "longitude": 7.752111299999999,
+    "cfpUrl": ""
   },
   {
     "name": "La nuit du hack",
@@ -7142,7 +7588,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "LA RubyConf",
@@ -7158,7 +7605,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.7700504,
-    "longitude": -118.1937395
+    "longitude": -118.1937395,
+    "cfpUrl": ""
   },
   {
     "name": "Lambda World",
@@ -7174,7 +7622,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.5270612,
-    "longitude": -6.2885962
+    "longitude": -6.2885962,
+    "cfpUrl": ""
   },
   {
     "name": "Latinoware",
@@ -7190,7 +7639,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -25.5163356,
-    "longitude": -54.58537639999999
+    "longitude": -54.58537639999999,
+    "cfpUrl": ""
   },
   {
     "name": "LCA",
@@ -7206,7 +7656,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -36.8484597,
-    "longitude": 174.7633315
+    "longitude": 174.7633315,
+    "cfpUrl": ""
   },
   {
     "name": "Lean Day London (LSO Shoreditch)",
@@ -7222,7 +7673,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Lean Startup Conference",
@@ -7238,7 +7690,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Lesbians Who Tech",
@@ -7254,7 +7707,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "LeWeb",
@@ -7270,7 +7724,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "LibertyJS",
@@ -7286,7 +7741,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9525839,
-    "longitude": -75.1652215
+    "longitude": -75.1652215,
+    "cfpUrl": ""
   },
   {
     "name": "LinuxTag",
@@ -7302,7 +7758,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "LISA Conference",
@@ -7318,7 +7775,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6062095,
-    "longitude": -122.3320708
+    "longitude": -122.3320708,
+    "cfpUrl": ""
   },
   {
     "name": "Lone Star PHP",
@@ -7334,7 +7792,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.7766642,
-    "longitude": -96.79698789999999
+    "longitude": -96.79698789999999,
+    "cfpUrl": ""
   },
   {
     "name": "Lucene Revolution",
@@ -7350,7 +7809,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.3498053,
-    "longitude": -6.2603097
+    "longitude": -6.2603097,
+    "cfpUrl": ""
   },
   {
     "name": "MA women's conference",
@@ -7366,7 +7826,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "Mac Admin & Developer Conference UK",
@@ -7382,7 +7843,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "MacAdmins",
@@ -7398,7 +7860,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7933949,
-    "longitude": -77.8600012
+    "longitude": -77.8600012,
+    "cfpUrl": ""
   },
   {
     "name": "Macworld",
@@ -7414,7 +7877,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Madison PHP",
@@ -7430,7 +7894,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.0730517,
-    "longitude": -89.4012302
+    "longitude": -89.4012302,
+    "cfpUrl": ""
   },
   {
     "name": "Madison+ Ruby",
@@ -7446,7 +7911,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.0730517,
-    "longitude": -89.4012302
+    "longitude": -89.4012302,
+    "cfpUrl": ""
   },
   {
     "name": "Magento Imagine",
@@ -7462,7 +7928,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "MagmaConf",
@@ -7478,7 +7945,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 19.1138094,
-    "longitude": -104.3384616
+    "longitude": -104.3384616,
+    "cfpUrl": ""
   },
   {
     "name": "Maker Faire Newcastle",
@@ -7494,7 +7962,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 54.978252,
-    "longitude": -1.61778
+    "longitude": -1.61778,
+    "cfpUrl": ""
   },
   {
     "name": "MakingWeb",
@@ -7510,7 +7979,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "MALWARE",
@@ -7526,7 +7996,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 18.220833,
-    "longitude": -66.590149
+    "longitude": -66.590149,
+    "cfpUrl": ""
   },
   {
     "name": "ManhattanJS",
@@ -7542,7 +8013,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "MCE",
@@ -7558,7 +8030,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "Medellin JS",
@@ -7574,7 +8047,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 6.244203,
-    "longitude": -75.5812119
+    "longitude": -75.5812119,
+    "cfpUrl": ""
   },
   {
     "name": "mediaconvention (part of re:publica)",
@@ -7590,7 +8064,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "Microsoft Ignite",
@@ -7606,7 +8081,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 28.5383355,
-    "longitude": -81.3792365
+    "longitude": -81.3792365,
+    "cfpUrl": ""
   },
   {
     "name": "Microsoft MVP Summit",
@@ -7622,7 +8098,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6739881,
-    "longitude": -122.121512
+    "longitude": -122.121512,
+    "cfpUrl": ""
   },
   {
     "name": "Midwest Game Dev Expo",
@@ -7638,7 +8115,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9611755,
-    "longitude": -82.99879419999999
+    "longitude": -82.99879419999999,
+    "cfpUrl": ""
   },
   {
     "name": "Midwest JS",
@@ -7654,7 +8132,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "Midwest PHP",
@@ -7670,7 +8149,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "Midwest Tech Fest",
@@ -7686,7 +8166,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9611755,
-    "longitude": -82.99879419999999
+    "longitude": -82.99879419999999,
+    "cfpUrl": ""
   },
   {
     "name": "Midwest.io",
@@ -7702,7 +8183,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.0997265,
-    "longitude": -94.5785667
+    "longitude": -94.5785667,
+    "cfpUrl": ""
   },
   {
     "name": "MidwestJS",
@@ -7718,7 +8200,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "MidwestUX",
@@ -7734,7 +8217,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.44062479999999,
-    "longitude": -79.9958864
+    "longitude": -79.9958864,
+    "cfpUrl": ""
   },
   {
     "name": "Milwaukee Code Camp",
@@ -7750,7 +8234,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.0389025,
-    "longitude": -87.9064736
+    "longitude": -87.9064736,
+    "cfpUrl": ""
   },
   {
     "name": "Minnesota Developers Conference",
@@ -7766,7 +8251,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "Mirror Conf 2017",
@@ -7782,7 +8268,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.5454486,
-    "longitude": -8.426506999999999
+    "longitude": -8.426506999999999,
+    "cfpUrl": ""
   },
   {
     "name": "Mobile Dev Summit",
@@ -7798,7 +8285,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "Mobile Era",
@@ -7814,7 +8302,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "MobileWebDevConf",
@@ -7830,7 +8319,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Modern Web Conf",
@@ -7846,7 +8336,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "cfpUrl": ""
   },
   {
     "name": "Monash University",
@@ -7862,7 +8353,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "Monitorama",
@@ -7878,7 +8370,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "Monktoberfest",
@@ -7894,7 +8387,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.66147100000001,
-    "longitude": -70.2553259
+    "longitude": -70.2553259,
+    "cfpUrl": ""
   },
   {
     "name": "MoonshotCon",
@@ -7910,7 +8404,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.6460622,
-    "longitude": -111.4979729
+    "longitude": -111.4979729,
+    "cfpUrl": ""
   },
   {
     "name": "MoscowJS",
@@ -7926,7 +8421,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.755826,
-    "longitude": 37.6172999
+    "longitude": 37.6172999,
+    "cfpUrl": ""
   },
   {
     "name": "MountainWest JavaScript",
@@ -7942,7 +8438,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "MozFest",
@@ -7958,7 +8455,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "MtnWestJS 2015",
@@ -7974,7 +8472,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "Music City Code",
@@ -7990,7 +8489,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 36.1626638,
-    "longitude": -86.7816016
+    "longitude": -86.7816016,
+    "cfpUrl": ""
   },
   {
     "name": "NAB",
@@ -8006,7 +8506,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "NationJS",
@@ -8022,7 +8523,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.9071923,
-    "longitude": -77.0368707
+    "longitude": -77.0368707,
+    "cfpUrl": ""
   },
   {
     "name": "NCDevCon",
@@ -8038,7 +8540,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.7795897,
-    "longitude": -78.6381787
+    "longitude": -78.6381787,
+    "cfpUrl": ""
   },
   {
     "name": "NDC",
@@ -8054,7 +8557,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "NDC London",
@@ -8070,7 +8574,8 @@
     "cfpEndDate": "2017-10-01T04:00:00.000Z",
     "codeOfConduct": "http://ndc-london.com/page/code-of-conduct",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "NDC Oslo",
@@ -8086,7 +8591,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "NDC Sydney",
@@ -8102,7 +8608,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": -33.8688197,
-    "longitude": 151.2092955
+    "longitude": 151.2092955,
+    "cfpUrl": ""
   },
   {
     "name": "NDSS",
@@ -8118,7 +8625,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.715738,
-    "longitude": -117.1610838
+    "longitude": -117.1610838,
+    "cfpUrl": ""
   },
   {
     "name": "Nebraska.Code()",
@@ -8134,7 +8642,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.8257625,
-    "longitude": -96.6851982
+    "longitude": -96.6851982,
+    "cfpUrl": ""
   },
   {
     "name": "NebraskaJS",
@@ -8150,7 +8659,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.2523634,
-    "longitude": -95.99798829999999
+    "longitude": -95.99798829999999,
+    "cfpUrl": ""
   },
   {
     "name": "NEJS CONF",
@@ -8166,7 +8676,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.2523634,
-    "longitude": -95.99798829999999
+    "longitude": -95.99798829999999,
+    "cfpUrl": ""
   },
   {
     "name": "NetConf.UY",
@@ -8182,7 +8693,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.9011127,
-    "longitude": -56.16453139999999
+    "longitude": -56.16453139999999,
+    "cfpUrl": ""
   },
   {
     "name": "NetSecure Day",
@@ -8198,7 +8710,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.44323199999999,
-    "longitude": 1.099971
+    "longitude": 1.099971,
+    "cfpUrl": ""
   },
   {
     "name": "New Directions in Operating Systems",
@@ -8214,7 +8727,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "New York City Code Camp",
@@ -8229,8 +8743,9 @@
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 40.756740,
-    "longitude": -73.989658
+    "latitude": 40.75674,
+    "longitude": -73.989658,
+    "cfpUrl": ""
   },
   {
     "name": "NG Europe (AngularJS)",
@@ -8246,7 +8761,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "NG-BE",
@@ -8262,7 +8778,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.0543422,
-    "longitude": 3.7174243
+    "longitude": 3.7174243,
+    "cfpUrl": ""
   },
   {
     "name": "NG-Conf",
@@ -8278,7 +8795,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "NG-NL",
@@ -8294,7 +8812,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "ngAtlanta",
@@ -8310,7 +8829,8 @@
     "cfpEndDate": "",
     "latitude": 34.071394,
     "longitude": -84.272893,
-    "codeOfConduct": "Yes"
+    "codeOfConduct": "Yes",
+    "cfpUrl": ""
   },
   {
     "name": "nginx.conf",
@@ -8326,7 +8846,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "ngPoland",
@@ -8342,7 +8863,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "ngVikings",
@@ -8358,7 +8880,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.6760968,
-    "longitude": 12.5683372
+    "longitude": 12.5683372,
+    "cfpUrl": ""
   },
   {
     "name": "Node Interactive",
@@ -8374,7 +8897,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "Node.js Interactive North America",
@@ -8390,7 +8914,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "nodeconf",
@@ -8406,7 +8931,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.9589331,
-    "longitude": -117.1740851
+    "longitude": -117.1740851,
+    "cfpUrl": ""
   },
   {
     "name": "NodeConf Argentina",
@@ -8422,7 +8948,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.6036844,
-    "longitude": -58.3815591
+    "longitude": -58.3815591,
+    "cfpUrl": ""
   },
   {
     "name": "NodeConf Barcelona",
@@ -8438,7 +8965,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "NodeConf Europe",
@@ -8454,7 +8982,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2593197,
-    "longitude": -7.1100702
+    "longitude": -7.1100702,
+    "cfpUrl": ""
   },
   {
     "name": "NodeConfEU",
@@ -8470,7 +8999,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 52.6541454,
-    "longitude": -7.2447879
+    "longitude": -7.2447879,
+    "cfpUrl": ""
   },
   {
     "name": "NodeSummit",
@@ -8486,7 +9016,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Nodevember",
@@ -8502,7 +9033,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1626638,
-    "longitude": -86.7816016
+    "longitude": -86.7816016,
+    "cfpUrl": ""
   },
   {
     "name": "Nodevember",
@@ -8518,7 +9050,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1626638,
-    "longitude": -86.7816016
+    "longitude": -86.7816016,
+    "cfpUrl": ""
   },
   {
     "name": "NOPCon",
@@ -8534,7 +9067,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.0082376,
-    "longitude": 28.9783589
+    "longitude": 28.9783589,
+    "cfpUrl": ""
   },
   {
     "name": "NordicJS",
@@ -8550,7 +9084,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.30666549999999,
-    "longitude": 18.3467813
+    "longitude": 18.3467813,
+    "cfpUrl": ""
   },
   {
     "name": "North Bay Python",
@@ -8566,7 +9101,8 @@
     "cfpEndDate": "2017-09-29T04:00:00.000Z",
     "codeOfConduct": "",
     "latitude": 38.232417,
-    "longitude": -122.6366524
+    "longitude": -122.6366524,
+    "cfpUrl": ""
   },
   {
     "name": "NoSQL Now",
@@ -8582,7 +9118,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "NotFluffJustStuff",
@@ -8598,7 +9135,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.2930818,
-    "longitude": -121.9342555
+    "longitude": -121.9342555,
+    "cfpUrl": ""
   },
   {
     "name": "NullCon",
@@ -8614,7 +9152,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 15.2993265,
-    "longitude": 74.12399599999999
+    "longitude": 74.12399599999999,
+    "cfpUrl": ""
   },
   {
     "name": "NYC Code Camp",
@@ -8630,7 +9169,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "NYCCamp",
@@ -8646,7 +9186,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "O'Reilly arch conf",
@@ -8662,7 +9203,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.2930818,
-    "longitude": -121.9342555
+    "longitude": -121.9342555,
+    "cfpUrl": ""
   },
   {
     "name": "O'Reilly Fluent",
@@ -8678,7 +9220,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "O'Reilly OSCON Austin",
@@ -8694,7 +9237,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "OaklandJS",
@@ -8710,7 +9254,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.8043637,
-    "longitude": -122.2711137
+    "longitude": -122.2711137,
+    "cfpUrl": ""
   },
   {
     "name": "Oculus Connect",
@@ -8726,7 +9271,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 34.0522342,
-    "longitude": -118.2436849
+    "longitude": -118.2436849,
+    "cfpUrl": ""
   },
   {
     "name": "OdessaJS",
@@ -8742,7 +9288,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.482526,
-    "longitude": 30.7233095
+    "longitude": 30.7233095,
+    "cfpUrl": ""
   },
   {
     "name": "OggCamp",
@@ -8758,7 +9305,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.7520209,
-    "longitude": -1.2577263
+    "longitude": -1.2577263,
+    "cfpUrl": ""
   },
   {
     "name": "Ohio LinuxFest",
@@ -8774,7 +9322,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9611755,
-    "longitude": -82.99879419999999
+    "longitude": -82.99879419999999,
+    "cfpUrl": ""
   },
   {
     "name": "OOP",
@@ -8790,7 +9339,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.1351253,
-    "longitude": 11.5819805
+    "longitude": 11.5819805,
+    "cfpUrl": ""
   },
   {
     "name": "Open Source & Feelings",
@@ -8806,7 +9356,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6062095,
-    "longitude": -122.3320708
+    "longitude": -122.3320708,
+    "cfpUrl": ""
   },
   {
     "name": "Open Web Camp",
@@ -8822,7 +9373,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "OpenCon",
@@ -8838,7 +9390,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.7764749,
-    "longitude": -79.93105120000001
+    "longitude": -79.93105120000001,
+    "cfpUrl": ""
   },
   {
     "name": "OpenFest",
@@ -8854,7 +9407,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.6977082,
-    "longitude": 23.3218675
+    "longitude": 23.3218675,
+    "cfpUrl": ""
   },
   {
     "name": "OpenStack Summit",
@@ -8870,7 +9424,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.6894875,
-    "longitude": 139.6917064
+    "longitude": 139.6917064,
+    "cfpUrl": ""
   },
   {
     "name": "OpenVis Conf",
@@ -8886,7 +9441,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "OpenWest",
@@ -8902,7 +9458,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.2968979,
-    "longitude": -111.6946475
+    "longitude": -111.6946475,
+    "cfpUrl": ""
   },
   {
     "name": "Oracle Open World",
@@ -8918,7 +9475,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "OS Bridge",
@@ -8934,7 +9492,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "OSCon",
@@ -8950,7 +9509,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "OSCON",
@@ -8966,7 +9526,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "OSDC",
@@ -8982,7 +9543,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -28.016667,
-    "longitude": 153.4
+    "longitude": 153.4,
+    "cfpUrl": ""
   },
   {
     "name": "Paranoia",
@@ -8998,7 +9560,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "Paris Web",
@@ -9014,7 +9577,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "Pecha Kucha",
@@ -9030,7 +9594,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.4215296,
-    "longitude": -75.69719309999999
+    "longitude": -75.69719309999999,
+    "cfpUrl": ""
   },
   {
     "name": "PhDays",
@@ -9046,7 +9611,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.755826,
-    "longitude": 37.6172999
+    "longitude": 37.6172999,
+    "cfpUrl": ""
   },
   {
     "name": "php Conference Argentina",
@@ -9062,7 +9628,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.6036844,
-    "longitude": -58.3815591
+    "longitude": -58.3815591,
+    "cfpUrl": ""
   },
   {
     "name": "PHP Craft",
@@ -9078,7 +9645,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -26.2041028,
-    "longitude": 28.0473051
+    "longitude": 28.0473051,
+    "cfpUrl": ""
   },
   {
     "name": "PHP Day",
@@ -9094,7 +9662,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.43838419999999,
-    "longitude": 10.9916215
+    "longitude": 10.9916215,
+    "cfpUrl": ""
   },
   {
     "name": "PHPBenelux",
@@ -9110,7 +9679,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.2194475,
-    "longitude": 4.4024643
+    "longitude": 4.4024643,
+    "cfpUrl": ""
   },
   {
     "name": "PHPNW Manchester",
@@ -9126,7 +9696,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.378051,
-    "longitude": -3.435973
+    "longitude": -3.435973,
+    "cfpUrl": ""
   },
   {
     "name": "PHPUK",
@@ -9142,7 +9713,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Pink Elephant",
@@ -9158,7 +9730,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "PipelineConf",
@@ -9174,7 +9747,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "pitercss",
@@ -9190,7 +9764,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9342802,
-    "longitude": 30.3350986
+    "longitude": 30.3350986,
+    "cfpUrl": ""
   },
   {
     "name": "Playgrounds",
@@ -9206,7 +9781,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "PLIBMTTBHGATY",
@@ -9222,7 +9798,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.6005448,
-    "longitude": -93.6091064
+    "longitude": -93.6091064,
+    "cfpUrl": ""
   },
   {
     "name": "Pluralsight Author Summit",
@@ -9238,7 +9815,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "PNWScala",
@@ -9254,7 +9832,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "PolyConf",
@@ -9270,7 +9849,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.406374,
-    "longitude": 16.9251681
+    "longitude": 16.9251681,
+    "cfpUrl": ""
   },
   {
     "name": "Polyconf 2014",
@@ -9286,7 +9866,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.406374,
-    "longitude": 16.9251681
+    "longitude": 16.9251681,
+    "cfpUrl": ""
   },
   {
     "name": "Postgres Conference",
@@ -9302,7 +9883,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.4215296,
-    "longitude": -75.69719309999999
+    "longitude": -75.69719309999999,
+    "cfpUrl": ""
   },
   {
     "name": "PostgresOpen",
@@ -9318,7 +9900,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.7766642,
-    "longitude": -96.79698789999999
+    "longitude": -96.79698789999999,
+    "cfpUrl": ""
   },
   {
     "name": "Pragma Conference",
@@ -9334,7 +9917,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.7695604,
-    "longitude": 11.2558136
+    "longitude": 11.2558136,
+    "cfpUrl": ""
   },
   {
     "name": "Prairie Code",
@@ -9350,7 +9934,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.6005448,
-    "longitude": -93.6091064
+    "longitude": -93.6091064,
+    "cfpUrl": ""
   },
   {
     "name": "Prairie Dev Con",
@@ -9366,7 +9951,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 49.895136,
-    "longitude": -97.13837439999999
+    "longitude": -97.13837439999999,
+    "cfpUrl": ""
   },
   {
     "name": "Prairie.Code()",
@@ -9382,7 +9968,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.6005448,
-    "longitude": -93.6091064
+    "longitude": -93.6091064,
+    "cfpUrl": ""
   },
   {
     "name": "Pressnomics",
@@ -9398,7 +9985,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.4483771,
-    "longitude": -112.0740373
+    "longitude": -112.0740373,
+    "cfpUrl": ""
   },
   {
     "name": "PuppetConf",
@@ -9414,7 +10002,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Puppetconf",
@@ -9430,7 +10019,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "PyCon",
@@ -9446,7 +10036,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5016889,
-    "longitude": -73.567256
+    "longitude": -73.567256,
+    "cfpUrl": ""
   },
   {
     "name": "PyCon Argentina",
@@ -9462,7 +10053,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -31.2525979,
-    "longitude": -61.49164219999999
+    "longitude": -61.49164219999999,
+    "cfpUrl": ""
   },
   {
     "name": "PyCon AU",
@@ -9478,7 +10070,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -27.4697707,
-    "longitude": 153.0251235
+    "longitude": 153.0251235,
+    "cfpUrl": ""
   },
   {
     "name": "PyCon FI",
@@ -9494,7 +10087,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 60.16985569999999,
-    "longitude": 24.9383791
+    "longitude": 24.9383791,
+    "cfpUrl": ""
   },
   {
     "name": "Pycon FR",
@@ -9510,7 +10104,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.2951,
-    "longitude": -0.370797
+    "longitude": -0.370797,
+    "cfpUrl": ""
   },
   {
     "name": "PyCon Ireland",
@@ -9526,7 +10121,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.3498053,
-    "longitude": -6.2603097
+    "longitude": -6.2603097,
+    "cfpUrl": ""
   },
   {
     "name": "Pycon PL",
@@ -9542,7 +10138,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.7150006,
-    "longitude": 19.0235999
+    "longitude": 19.0235999,
+    "cfpUrl": ""
   },
   {
     "name": "Pycon UK",
@@ -9558,7 +10155,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.406822,
-    "longitude": -1.519693
+    "longitude": -1.519693,
+    "cfpUrl": ""
   },
   {
     "name": "PyCon Uruguay",
@@ -9574,7 +10172,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.9011127,
-    "longitude": -56.16453139999999
+    "longitude": -56.16453139999999,
+    "cfpUrl": ""
   },
   {
     "name": "PyData",
@@ -9590,7 +10189,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "PyGotham",
@@ -9606,7 +10206,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "PyOhio",
@@ -9622,7 +10223,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9611755,
-    "longitude": -82.99879419999999
+    "longitude": -82.99879419999999,
+    "cfpUrl": ""
   },
   {
     "name": "PyTennessee",
@@ -9638,7 +10240,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1626638,
-    "longitude": -86.7816016
+    "longitude": -86.7816016,
+    "cfpUrl": ""
   },
   {
     "name": "PyTexas",
@@ -9654,7 +10257,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.627977,
-    "longitude": -96.3344068
+    "longitude": -96.3344068,
+    "cfpUrl": ""
   },
   {
     "name": "Qcon",
@@ -9670,7 +10274,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "Qcon",
@@ -9686,7 +10291,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.90419989999999,
-    "longitude": 116.4073963
+    "longitude": 116.4073963,
+    "cfpUrl": ""
   },
   {
     "name": "Qcon",
@@ -9702,7 +10308,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 31.2303904,
-    "longitude": 121.4737021
+    "longitude": 121.4737021,
+    "cfpUrl": ""
   },
   {
     "name": "Qcon",
@@ -9718,7 +10325,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "QCon",
@@ -9734,7 +10342,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Qcon",
@@ -9750,7 +10359,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Qcon",
@@ -9766,7 +10376,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "r2con",
@@ -9782,7 +10393,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.3850639,
-    "longitude": 2.1734035
+    "longitude": 2.1734035,
+    "cfpUrl": ""
   },
   {
     "name": "Railsconf",
@@ -9798,7 +10410,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.7489954,
-    "longitude": -84.3879824
+    "longitude": -84.3879824,
+    "cfpUrl": ""
   },
   {
     "name": "RailsConf",
@@ -9814,7 +10427,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 33.7489954,
-    "longitude": -84.3879824
+    "longitude": -84.3879824,
+    "cfpUrl": ""
   },
   {
     "name": "Railsconf",
@@ -9830,7 +10444,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "RailsGirls Amsterdam",
@@ -9846,7 +10461,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "Re.Work Internet of Things",
@@ -9862,7 +10478,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "re:publica",
@@ -9878,7 +10495,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "React (Shoreditch Works Village Hall)",
@@ -9894,7 +10512,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "React Alicante",
@@ -9910,7 +10529,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Unspecified",
     "latitude": 38.3459963,
-    "longitude": -0.4906855
+    "longitude": -0.4906855,
+    "cfpUrl": ""
   },
   {
     "name": "React Amsterdam",
@@ -9926,7 +10546,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "React Boston",
@@ -9942,7 +10563,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "React Conf",
@@ -9958,7 +10580,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 37.3541079,
-    "longitude": -121.9552356
+    "longitude": -121.9552356,
+    "cfpUrl": ""
   },
   {
     "name": "React Conf Brasil",
@@ -9974,7 +10597,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "React Day 2017",
@@ -9990,7 +10614,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.43838419999999,
-    "longitude": 10.9916215
+    "longitude": 10.9916215,
+    "cfpUrl": ""
   },
   {
     "name": "React Europe",
@@ -10006,7 +10631,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "React London",
@@ -10022,7 +10648,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "React Native EU",
@@ -10038,7 +10665,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 51.1078852,
-    "longitude": 17.0385376
+    "longitude": 17.0385376,
+    "cfpUrl": ""
   },
   {
     "name": "ReactConf EU",
@@ -10054,7 +10682,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "React Rally",
@@ -10070,7 +10699,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "http://www.reactrally.com/conduct",
     "latitude": 40.7732525,
-    "longitude": -112.0082589
+    "longitude": -112.0082589,
+    "cfpUrl": ""
   },
   {
     "name": "ReactEurope",
@@ -10086,7 +10716,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "ReactFoo",
@@ -10102,7 +10733,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "Reactive Conf",
@@ -10118,7 +10750,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.1485965,
-    "longitude": 17.1077478
+    "longitude": 17.1077478,
+    "cfpUrl": ""
   },
   {
     "name": "ReactiveConf",
@@ -10134,7 +10767,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "ReactJSDay",
@@ -10150,7 +10784,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Unspecified",
     "latitude": 45.43838419999999,
-    "longitude": 10.9916215
+    "longitude": 10.9916215,
+    "cfpUrl": ""
   },
   {
     "name": "ReactNext",
@@ -10166,7 +10801,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 32.0852999,
-    "longitude": 34.78176759999999
+    "longitude": 34.78176759999999,
+    "cfpUrl": ""
   },
   {
     "name": "ReactRally",
@@ -10182,7 +10818,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "RealtimeConf EU",
@@ -10198,7 +10835,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.764043,
-    "longitude": 4.835659
+    "longitude": 4.835659,
+    "cfpUrl": ""
   },
   {
     "name": "Recon",
@@ -10214,7 +10852,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5016889,
-    "longitude": -73.567256
+    "longitude": -73.567256,
+    "cfpUrl": ""
   },
   {
     "name": "Recurse Center",
@@ -10230,7 +10869,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "RedDotRubyConf",
@@ -10246,7 +10886,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 1.352083,
-    "longitude": 103.819836
+    "longitude": 103.819836,
+    "cfpUrl": ""
   },
   {
     "name": "Refresh",
@@ -10262,7 +10903,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.43696079999999,
-    "longitude": 24.7535747
+    "longitude": 24.7535747,
+    "cfpUrl": ""
   },
   {
     "name": "Refresh Ottawa",
@@ -10278,7 +10920,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.4215296,
-    "longitude": -75.69719309999999
+    "longitude": -75.69719309999999,
+    "cfpUrl": ""
   },
   {
     "name": "Reject.js",
@@ -10294,7 +10937,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "Render",
@@ -10310,7 +10954,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "https://2018.render-conf.com/code-of-conduct",
     "latitude": 51.7520209,
-    "longitude": -1.2577263
+    "longitude": -1.2577263,
+    "cfpUrl": ""
   },
   {
     "name": "REST FEST",
@@ -10326,7 +10971,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 34.85261759999999,
-    "longitude": -82.3940104
+    "longitude": -82.3940104,
+    "cfpUrl": ""
   },
   {
     "name": "RevolutionConf",
@@ -10342,7 +10988,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 36.8529263,
-    "longitude": -75.97798499999999
+    "longitude": -75.97798499999999,
+    "cfpUrl": ""
   },
   {
     "name": "Riga Dev Days",
@@ -10358,7 +11005,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 56.9496487,
-    "longitude": 24.1051865
+    "longitude": 24.1051865,
+    "cfpUrl": ""
   },
   {
     "name": "RMLL Security track",
@@ -10374,7 +11022,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.439695,
-    "longitude": 4.3871779
+    "longitude": 4.3871779,
+    "cfpUrl": ""
   },
   {
     "name": "RobotsConf",
@@ -10390,7 +11039,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.6265697,
-    "longitude": -81.46085599999999
+    "longitude": -81.46085599999999,
+    "cfpUrl": ""
   },
   {
     "name": "RootedCon",
@@ -10406,7 +11056,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "RSA conference",
@@ -10422,7 +11073,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "RubyConf",
@@ -10438,7 +11090,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 29.4241219,
-    "longitude": -98.49362819999999
+    "longitude": -98.49362819999999,
+    "cfpUrl": ""
   },
   {
     "name": "RubyConf Argentina",
@@ -10454,7 +11107,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.6036844,
-    "longitude": -58.3815591
+    "longitude": -58.3815591,
+    "cfpUrl": ""
   },
   {
     "name": "RubyConf AU",
@@ -10470,7 +11124,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "RubyConf Brasil",
@@ -10486,7 +11141,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "RubyConf Colombia",
@@ -10502,7 +11158,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 6.244203,
-    "longitude": -75.5812119
+    "longitude": -75.5812119,
+    "cfpUrl": ""
   },
   {
     "name": "RubyConf Uruguay",
@@ -10518,7 +11175,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -34.9011127,
-    "longitude": -56.16453139999999
+    "longitude": -56.16453139999999,
+    "cfpUrl": ""
   },
   {
     "name": "Rubyslava",
@@ -10534,7 +11192,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.1485965,
-    "longitude": 17.1077478
+    "longitude": 17.1077478,
+    "cfpUrl": ""
   },
   {
     "name": "RuhrJS",
@@ -10550,7 +11209,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.4818445,
-    "longitude": 7.216236299999999
+    "longitude": 7.216236299999999,
+    "cfpUrl": ""
   },
   {
     "name": "RuhrSec",
@@ -10566,7 +11226,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.4818445,
-    "longitude": 7.216236299999999
+    "longitude": 7.216236299999999,
+    "cfpUrl": ""
   },
   {
     "name": "RuLu",
@@ -10582,7 +11243,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.764043,
-    "longitude": 4.835659
+    "longitude": 4.835659,
+    "cfpUrl": ""
   },
   {
     "name": "Ruxcon",
@@ -10598,7 +11260,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "RVA JavaScript",
@@ -10614,7 +11277,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 37.5407246,
-    "longitude": -77.4360481
+    "longitude": -77.4360481,
+    "cfpUrl": ""
   },
   {
     "name": "RWDevCon",
@@ -10630,7 +11294,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.8048355,
-    "longitude": -77.0469214
+    "longitude": -77.0469214,
+    "cfpUrl": ""
   },
   {
     "name": "SaltConf17",
@@ -10646,7 +11311,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "Saminaire Accessiweb",
@@ -10662,7 +11328,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "Samsung Developer",
@@ -10678,7 +11345,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "SAS",
@@ -10694,7 +11362,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 18.04248,
-    "longitude": -63.05483
+    "longitude": -63.05483,
+    "cfpUrl": ""
   },
   {
     "name": "SaSeIoT",
@@ -10710,7 +11379,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.4699075,
-    "longitude": -0.3762881
+    "longitude": -0.3762881,
+    "cfpUrl": ""
   },
   {
     "name": "SassConf",
@@ -10726,7 +11396,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "Scala By The Bay",
@@ -10742,7 +11413,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Scala Days",
@@ -10758,7 +11430,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "Scala IO",
@@ -10774,7 +11447,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.856614,
-    "longitude": 2.3522219
+    "longitude": 2.3522219,
+    "cfpUrl": ""
   },
   {
     "name": "Scala Underscore",
@@ -10790,7 +11464,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.0852999,
-    "longitude": 34.78176759999999
+    "longitude": 34.78176759999999,
+    "cfpUrl": ""
   },
   {
     "name": "SCALE 16x - 16th Annual Southern California Linux Expo",
@@ -10806,7 +11481,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 34.1477849,
-    "longitude": -118.1445155
+    "longitude": -118.1445155,
+    "cfpUrl": ""
   },
   {
     "name": "Scotlandjs",
@@ -10822,7 +11498,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.953252,
-    "longitude": -3.188267
+    "longitude": -3.188267,
+    "cfpUrl": ""
   },
   {
     "name": "Scottish Ruby Conf",
@@ -10838,7 +11515,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 56.64568,
-    "longitude": -3.354628
+    "longitude": -3.354628,
+    "cfpUrl": ""
   },
   {
     "name": "Script",
@@ -10854,7 +11532,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.30694,
-    "longitude": 14.28583
+    "longitude": 14.28583,
+    "cfpUrl": ""
   },
   {
     "name": "SeaGL",
@@ -10870,7 +11549,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6062095,
-    "longitude": -122.3320708
+    "longitude": -122.3320708,
+    "cfpUrl": ""
   },
   {
     "name": "SeattleJS",
@@ -10886,7 +11566,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6062095,
-    "longitude": -122.3320708
+    "longitude": -122.3320708,
+    "cfpUrl": ""
   },
   {
     "name": "Sec-T",
@@ -10902,7 +11583,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.32932349999999,
-    "longitude": 18.0685808
+    "longitude": 18.0685808,
+    "cfpUrl": ""
   },
   {
     "name": "SecITC",
@@ -10918,7 +11600,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.4267674,
-    "longitude": 26.1025384
+    "longitude": 26.1025384,
+    "cfpUrl": ""
   },
   {
     "name": "SecTor",
@@ -10934,7 +11617,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.653226,
-    "longitude": -79.3831843
+    "longitude": -79.3831843,
+    "cfpUrl": ""
   },
   {
     "name": "SecuriTay",
@@ -10950,7 +11634,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 56.462018,
-    "longitude": -2.970721
+    "longitude": -2.970721,
+    "cfpUrl": ""
   },
   {
     "name": "Security of Things World",
@@ -10966,7 +11651,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "SFPC Salon",
@@ -10982,7 +11668,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "SHA2017",
@@ -10998,7 +11685,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2841439,
-    "longitude": 5.5217573
+    "longitude": 5.5217573,
+    "cfpUrl": ""
   },
   {
     "name": "SharePoint Fest Chicago",
@@ -11014,7 +11702,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "SharkFest '17 Europe",
@@ -11030,7 +11719,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.7133152,
-    "longitude": -9.3936558
+    "longitude": -9.3936558,
+    "cfpUrl": ""
   },
   {
     "name": "She’s Geeky",
@@ -11046,7 +11736,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "ShmooCon",
@@ -11062,7 +11753,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.9071923,
-    "longitude": -77.0368707
+    "longitude": -77.0368707,
+    "cfpUrl": ""
   },
   {
     "name": "Silicon Valley Code Camp",
@@ -11078,7 +11770,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.3382082,
-    "longitude": -121.8863286
+    "longitude": -121.8863286,
+    "cfpUrl": ""
   },
   {
     "name": "SIMBig",
@@ -11094,7 +11787,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -13.53195,
-    "longitude": -71.96746259999999
+    "longitude": -71.96746259999999,
+    "cfpUrl": ""
   },
   {
     "name": "Small is Beautiful",
@@ -11110,7 +11804,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.864237,
-    "longitude": -4.251806
+    "longitude": -4.251806,
+    "cfpUrl": ""
   },
   {
     "name": "Smart Travel",
@@ -11126,7 +11821,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.7222524,
-    "longitude": -9.1393366
+    "longitude": -9.1393366,
+    "cfpUrl": ""
   },
   {
     "name": "SmashingConf San Francisco",
@@ -11142,7 +11838,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Smidig",
@@ -11158,7 +11855,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "So Ember",
@@ -11174,7 +11872,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.715738,
-    "longitude": -117.1610838
+    "longitude": -117.1610838,
+    "cfpUrl": ""
   },
   {
     "name": "Social Connections",
@@ -11190,7 +11889,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.0755381,
-    "longitude": 14.4378005
+    "longitude": 14.4378005,
+    "cfpUrl": ""
   },
   {
     "name": "Software Architecture",
@@ -11206,7 +11906,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "Software Design & Dev (SDD)",
@@ -11222,7 +11923,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Solid",
@@ -11238,7 +11940,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Source Up!",
@@ -11254,7 +11957,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -26.2041028,
-    "longitude": 28.0473051
+    "longitude": 28.0473051,
+    "cfpUrl": ""
   },
   {
     "name": "SouthEast LinuxFest",
@@ -11270,7 +11974,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.2270869,
-    "longitude": -80.8431267
+    "longitude": -80.8431267,
+    "cfpUrl": ""
   },
   {
     "name": "Southeast Ruby",
@@ -11286,7 +11991,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1626638,
-    "longitude": -86.7816016
+    "longitude": -86.7816016,
+    "cfpUrl": ""
   },
   {
     "name": "Space City JS",
@@ -11302,7 +12008,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 29.7604267,
-    "longitude": -95.3698028
+    "longitude": -95.3698028,
+    "cfpUrl": ""
   },
   {
     "name": "Splunk .conf2014",
@@ -11318,7 +12025,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "SpringOne 2GX",
@@ -11334,7 +12042,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.6062095,
-    "longitude": -122.3320708
+    "longitude": -122.3320708,
+    "cfpUrl": ""
   },
   {
     "name": "SRCCON",
@@ -11350,7 +12059,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.9405076,
-    "longitude": -93.37566199999999
+    "longitude": -93.37566199999999,
+    "cfpUrl": ""
   },
   {
     "name": "SSTIC",
@@ -11366,7 +12076,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.117266,
-    "longitude": -1.6777926
+    "longitude": -1.6777926,
+    "cfpUrl": ""
   },
   {
     "name": "StarsConf 2017",
@@ -11382,7 +12093,8 @@
     "cfpEndDate": "2017-06-04T04:00:00.000Z",
     "codeOfConduct": "http://www.starsconf.com/codigo-conducta.html",
     "latitude": -33.440929,
-    "longitude": -70.64069
+    "longitude": -70.64069,
+    "cfpUrl": ""
   },
   {
     "name": "Startup Grind",
@@ -11398,7 +12110,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.48521520000001,
-    "longitude": -122.2363548
+    "longitude": -122.2363548,
+    "cfpUrl": ""
   },
   {
     "name": "State of the Map US",
@@ -11412,7 +12125,8 @@
     "eventEndDate": "2017-10-22T06:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
-    "codeOfConduct": "http://confcodeofconduct.com/"
+    "codeOfConduct": "http://confcodeofconduct.com/",
+    "cfpUrl": ""
   },
   {
     "name": "SteelCon",
@@ -11428,7 +12142,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.38112899999999,
-    "longitude": -1.470085
+    "longitude": -1.470085,
+    "cfpUrl": ""
   },
   {
     "name": "Stir Trek",
@@ -11444,7 +12159,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.9611755,
-    "longitude": -82.99879419999999
+    "longitude": -82.99879419999999,
+    "cfpUrl": ""
   },
   {
     "name": "Stpcon",
@@ -11460,7 +12176,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "Strangeloop",
@@ -11476,7 +12193,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.6270025,
-    "longitude": -90.19940419999999
+    "longitude": -90.19940419999999,
+    "cfpUrl": ""
   },
   {
     "name": "Strata Conf",
@@ -11492,7 +12210,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "Strata Conf",
@@ -11508,7 +12227,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "Sud Web",
@@ -11524,7 +12244,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.604652,
-    "longitude": 1.444209
+    "longitude": 1.444209,
+    "cfpUrl": ""
   },
   {
     "name": "Surge",
@@ -11540,7 +12261,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.7886944,
-    "longitude": -77.0190228
+    "longitude": -77.0190228,
+    "cfpUrl": ""
   },
   {
     "name": "Swetugg 2018",
@@ -11556,7 +12278,8 @@
     "cfpEndDate": "2017-10-02T22:00:00.000Z",
     "codeOfConduct": "yes",
     "latitude": 59.3306,
-    "longitude": 18.0454
+    "longitude": 18.0454,
+    "cfpUrl": ""
   },
   {
     "name": "Swift Summit",
@@ -11572,7 +12295,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "SwiftAveiro 2017",
@@ -11588,7 +12312,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.6405055,
-    "longitude": -8.6537539
+    "longitude": -8.6537539,
+    "cfpUrl": ""
   },
   {
     "name": "SwiftConf",
@@ -11604,7 +12329,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.937531,
-    "longitude": 6.9602786
+    "longitude": 6.9602786,
+    "cfpUrl": ""
   },
   {
     "name": "Swiss Perl Workshop",
@@ -11620,7 +12346,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.9479739,
-    "longitude": 7.4474468
+    "longitude": 7.4474468,
+    "cfpUrl": ""
   },
   {
     "name": "SwissJS",
@@ -11636,7 +12363,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.9479739,
-    "longitude": 7.4474468
+    "longitude": 7.4474468,
+    "cfpUrl": ""
   },
   {
     "name": "SXSW",
@@ -11652,7 +12380,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "Syntax Code & Craft Convention",
@@ -11668,7 +12397,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 32.7764749,
-    "longitude": -79.93105120000001
+    "longitude": -79.93105120000001,
+    "cfpUrl": ""
   },
   {
     "name": "SyScan",
@@ -11684,7 +12414,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 39.90419989999999,
-    "longitude": 116.4073963
+    "longitude": 116.4073963,
+    "cfpUrl": ""
   },
   {
     "name": "T2.fi",
@@ -11700,7 +12431,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 60.16985569999999,
-    "longitude": 24.9383791
+    "longitude": 24.9383791,
+    "cfpUrl": ""
   },
   {
     "name": "Tableless Conference",
@@ -11716,7 +12448,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "TechBash 2017",
@@ -11732,7 +12465,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.1000551,
-    "longitude": -75.35887249999999
+    "longitude": -75.35887249999999,
+    "cfpUrl": ""
   },
   {
     "name": "TechDays",
@@ -11748,7 +12482,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 59.32932349999999,
-    "longitude": 18.0685808
+    "longitude": 18.0685808,
+    "cfpUrl": ""
   },
   {
     "name": "TechDays",
@@ -11764,7 +12499,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.0704978,
-    "longitude": 4.3006999
+    "longitude": 4.3006999,
+    "cfpUrl": ""
   },
   {
     "name": "TechEd",
@@ -11780,7 +12516,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 29.7604267,
-    "longitude": -95.3698028
+    "longitude": -95.3698028,
+    "cfpUrl": ""
   },
   {
     "name": "Techonomy",
@@ -11796,7 +12533,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 32.2217429,
-    "longitude": -110.926479
+    "longitude": -110.926479,
+    "cfpUrl": ""
   },
   {
     "name": "Techorama Belgium",
@@ -11812,7 +12550,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.8503463,
-    "longitude": 4.3517211
+    "longitude": 4.3517211,
+    "cfpUrl": ""
   },
   {
     "name": "Texas LinuxFest",
@@ -11828,7 +12567,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "TexasJS",
@@ -11844,7 +12584,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 30.267153,
-    "longitude": -97.7430608
+    "longitude": -97.7430608,
+    "cfpUrl": ""
   },
   {
     "name": "That Conference",
@@ -11860,7 +12601,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.6274794,
-    "longitude": -89.7709579
+    "longitude": -89.7709579,
+    "cfpUrl": ""
   },
   {
     "name": "THCon",
@@ -11876,7 +12618,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.604652,
-    "longitude": 1.444209
+    "longitude": 1.444209,
+    "cfpUrl": ""
   },
   {
     "name": "THE CONF",
@@ -11892,7 +12635,8 @@
     "cfpEndDate": "2017-05-31T03:00:00.000Z",
     "codeOfConduct": "http://www.theconf.club/pages/code_of_conduct",
     "latitude": -23.557861,
-    "longitude": -46.668091
+    "longitude": -46.668091,
+    "cfpUrl": ""
   },
   {
     "name": "The Email Design Conference",
@@ -11908,7 +12652,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "The Geek Gathering",
@@ -11924,7 +12669,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5549624,
-    "longitude": 18.6955144
+    "longitude": 18.6955144,
+    "cfpUrl": ""
   },
   {
     "name": "The Rolling Scopes",
@@ -11940,7 +12686,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.90453979999999,
-    "longitude": 27.5615244
+    "longitude": 27.5615244,
+    "cfpUrl": ""
   },
   {
     "name": "ThingMonk",
@@ -11956,7 +12703,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.5073509,
-    "longitude": -0.1277583
+    "longitude": -0.1277583,
+    "cfpUrl": ""
   },
   {
     "name": "ThotCon",
@@ -11972,7 +12720,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "THREADS",
@@ -11988,7 +12737,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.6781784,
-    "longitude": -73.9441579
+    "longitude": -73.9441579,
+    "cfpUrl": ""
   },
   {
     "name": "Thunder Plains",
@@ -12004,7 +12754,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.4675602,
-    "longitude": -97.5164276
+    "longitude": -97.5164276,
+    "cfpUrl": ""
   },
   {
     "name": "TNW",
@@ -12020,7 +12771,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "Troopers",
@@ -12036,7 +12788,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3586679,
-    "longitude": -83.02084289999999
+    "longitude": -83.02084289999999,
+    "cfpUrl": ""
   },
   {
     "name": "True North PHP",
@@ -12052,7 +12805,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.653226,
-    "longitude": -79.3831843
+    "longitude": -79.3831843,
+    "cfpUrl": ""
   },
   {
     "name": "try! Swift Bangalore",
@@ -12068,7 +12822,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 12.9715987,
-    "longitude": 77.5945627
+    "longitude": 77.5945627,
+    "cfpUrl": ""
   },
   {
     "name": "try! Swift New York",
@@ -12084,7 +12839,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "try! Swift Tokyo 2017",
@@ -12100,7 +12856,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 35.6894875,
-    "longitude": 139.6917064
+    "longitude": 139.6917064,
+    "cfpUrl": ""
   },
   {
     "name": "Tulsa Tech Fest",
@@ -12116,7 +12873,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1539816,
-    "longitude": -95.99277500000001
+    "longitude": -95.99277500000001,
+    "cfpUrl": ""
   },
   {
     "name": "Twin Cities Code Camp",
@@ -12132,7 +12890,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.977753,
-    "longitude": -93.2650108
+    "longitude": -93.2650108,
+    "cfpUrl": ""
   },
   {
     "name": "UIKonf",
@@ -12148,7 +12907,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.52000659999999,
-    "longitude": 13.404954
+    "longitude": 13.404954,
+    "cfpUrl": ""
   },
   {
     "name": "Universal JS Day",
@@ -12164,7 +12924,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 44.8381237,
-    "longitude": 11.619787
+    "longitude": 11.619787,
+    "cfpUrl": ""
   },
   {
     "name": "University of Illinois Web Conference",
@@ -12180,7 +12941,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "http://webcon.illinois.edu/code.pdf",
     "latitude": 40.1164204,
-    "longitude": -88.2433829
+    "longitude": -88.2433829,
+    "cfpUrl": ""
   },
   {
     "name": "Uplinq",
@@ -12196,7 +12958,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "USENIX Security",
@@ -12212,7 +12975,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "USENIX WOOT",
@@ -12228,7 +12992,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 49.2827291,
-    "longitude": -123.1207375
+    "longitude": -123.1207375,
+    "cfpUrl": ""
   },
   {
     "name": "UtahJS",
@@ -12244,7 +13009,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7607793,
-    "longitude": -111.8910474
+    "longitude": -111.8910474,
+    "cfpUrl": ""
   },
   {
     "name": "UX Burlington",
@@ -12260,7 +13026,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 44.4758825,
-    "longitude": -73.21207199999999
+    "longitude": -73.21207199999999,
+    "cfpUrl": ""
   },
   {
     "name": "UX Poland",
@@ -12276,7 +13043,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "UX Singapore",
@@ -12292,7 +13060,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 1.352083,
-    "longitude": 103.819836
+    "longitude": 103.819836,
+    "cfpUrl": ""
   },
   {
     "name": "UXLx",
@@ -12308,7 +13077,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.7222524,
-    "longitude": -9.1393366
+    "longitude": -9.1393366,
+    "cfpUrl": ""
   },
   {
     "name": "Velocity",
@@ -12324,7 +13094,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "Velocity",
@@ -12340,7 +13111,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "Virus Bulletin",
@@ -12356,7 +13128,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.4167754,
-    "longitude": -3.7037902
+    "longitude": -3.7037902,
+    "cfpUrl": ""
   },
   {
     "name": "Visual Studio Live!",
@@ -12372,7 +13145,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 38.9071923,
-    "longitude": -77.0368707
+    "longitude": -77.0368707,
+    "cfpUrl": ""
   },
   {
     "name": "Visual Studio Live!",
@@ -12388,7 +13162,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 28.5383355,
-    "longitude": -81.3792365
+    "longitude": -81.3792365,
+    "cfpUrl": ""
   },
   {
     "name": "Visual Studio Live!",
@@ -12404,7 +13179,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "Visual Studio Live!",
@@ -12420,7 +13196,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "VSLive Chicago",
@@ -12436,7 +13213,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "VueConf",
@@ -12452,7 +13230,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.1078852,
-    "longitude": 17.0385376
+    "longitude": 17.0385376,
+    "cfpUrl": ""
   },
   {
     "name": "W3C Brazil Conference",
@@ -12468,7 +13247,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "WAHCKon",
@@ -12484,7 +13264,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -31.9505269,
-    "longitude": 115.8604572
+    "longitude": 115.8604572,
+    "cfpUrl": ""
   },
   {
     "name": "WarCon",
@@ -12500,7 +13281,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.2296756,
-    "longitude": 21.0122287
+    "longitude": 21.0122287,
+    "cfpUrl": ""
   },
   {
     "name": "WDCNZ",
@@ -12516,7 +13298,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -41.2864603,
-    "longitude": 174.776236
+    "longitude": 174.776236,
+    "cfpUrl": ""
   },
   {
     "name": "Weapons of Mass Creation Festival",
@@ -12532,7 +13315,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.49932,
-    "longitude": -81.6943605
+    "longitude": -81.6943605,
+    "cfpUrl": ""
   },
   {
     "name": "Web a Quebec",
@@ -12548,7 +13332,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 46.8138783,
-    "longitude": -71.2079809
+    "longitude": -71.2079809,
+    "cfpUrl": ""
   },
   {
     "name": "Web Directions Code",
@@ -12564,7 +13349,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "Web Directions South",
@@ -12580,7 +13366,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -33.8688197,
-    "longitude": 151.2092955
+    "longitude": 151.2092955,
+    "cfpUrl": ""
   },
   {
     "name": "Web Rebels Conf",
@@ -12596,7 +13383,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 59.9138688,
-    "longitude": 10.7522454
+    "longitude": 10.7522454,
+    "cfpUrl": ""
   },
   {
     "name": "Web Summer Camp",
@@ -12612,7 +13400,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Unspecified",
     "latitude": 45.0811661,
-    "longitude": 13.6387067
+    "longitude": 13.6387067,
+    "cfpUrl": ""
   },
   {
     "name": "Web Summit",
@@ -12628,7 +13417,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.3498053,
-    "longitude": -6.2603097
+    "longitude": -6.2603097,
+    "cfpUrl": ""
   },
   {
     "name": "Web Unleashed",
@@ -12644,7 +13434,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 43.653226,
-    "longitude": -79.3831843
+    "longitude": -79.3831843,
+    "cfpUrl": ""
   },
   {
     "name": "Webdagene",
@@ -12658,7 +13449,8 @@
     "eventEndDate": "2017-10-19T22:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
-    "codeOfConduct": ""
+    "codeOfConduct": "",
+    "cfpUrl": ""
   },
   {
     "name": "WebDevConf",
@@ -12674,7 +13466,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 51.454513,
-    "longitude": -2.58791
+    "longitude": -2.58791,
+    "cfpUrl": ""
   },
   {
     "name": "WebExpo",
@@ -12688,7 +13481,8 @@
     "eventEndDate": "2017-09-22T22:00:00.000Z",
     "cfpStartDate": "",
     "cfpEndDate": "",
-    "codeOfConduct": ""
+    "codeOfConduct": "",
+    "cfpUrl": ""
   },
   {
     "name": "WebExpo",
@@ -12704,7 +13498,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.0755381,
-    "longitude": 14.4378005
+    "longitude": 14.4378005,
+    "cfpUrl": ""
   },
   {
     "name": "webRTC",
@@ -12720,7 +13515,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 25.7616798,
-    "longitude": -80.1917902
+    "longitude": -80.1917902,
+    "cfpUrl": ""
   },
   {
     "name": "Webstock",
@@ -12736,7 +13532,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -41.2864603,
-    "longitude": 174.776236
+    "longitude": 174.776236,
+    "cfpUrl": ""
   },
   {
     "name": "Webtech",
@@ -12752,7 +13549,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 48.1351253,
-    "longitude": 11.5819805
+    "longitude": 11.5819805,
+    "cfpUrl": ""
   },
   {
     "name": "WebVisions",
@@ -12768,7 +13566,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "WindyCityRails",
@@ -12784,7 +13583,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 41.8781136,
-    "longitude": -87.6297982
+    "longitude": -87.6297982,
+    "cfpUrl": ""
   },
   {
     "name": "WiSec",
@@ -12800,7 +13600,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 42.3600825,
-    "longitude": -71.0588801
+    "longitude": -71.0588801,
+    "cfpUrl": ""
   },
   {
     "name": "WordCamp Colombo",
@@ -12816,7 +13617,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 6.9270786,
-    "longitude": 79.861243
+    "longitude": 79.861243,
+    "cfpUrl": ""
   },
   {
     "name": "WordCamp Manchester",
@@ -12832,7 +13634,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.4807593,
-    "longitude": -2.2426305
+    "longitude": -2.2426305,
+    "cfpUrl": ""
   },
   {
     "name": "WP Tech",
@@ -12848,7 +13651,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 47.218371,
-    "longitude": -1.553621
+    "longitude": -1.553621,
+    "cfpUrl": ""
   },
   {
     "name": "Write/Speak/Code",
@@ -12864,7 +13668,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "cfpUrl": ""
   },
   {
     "name": "WWDC",
@@ -12880,7 +13685,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 37.7749295,
-    "longitude": -122.4194155
+    "longitude": -122.4194155,
+    "cfpUrl": ""
   },
   {
     "name": "Xamarin Evolve",
@@ -12896,7 +13702,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 28.5383355,
-    "longitude": -81.3792365
+    "longitude": -81.3792365,
+    "cfpUrl": ""
   },
   {
     "name": "xda:devcon",
@@ -12912,7 +13719,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 53.4807593,
-    "longitude": -2.2426305
+    "longitude": -2.2426305,
+    "cfpUrl": ""
   },
   {
     "name": "XebiCon",
@@ -12928,7 +13736,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 52.3702157,
-    "longitude": 4.895167900000001
+    "longitude": 4.895167900000001,
+    "cfpUrl": ""
   },
   {
     "name": "XOXO",
@@ -12944,7 +13753,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 45.5230622,
-    "longitude": -122.6764815
+    "longitude": -122.6764815,
+    "cfpUrl": ""
   },
   {
     "name": "YAPC",
@@ -12960,7 +13770,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.0204559,
-    "longitude": -45.5563555
+    "longitude": -45.5563555,
+    "cfpUrl": ""
   },
   {
     "name": "YAPC",
@@ -12976,7 +13787,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 50.4501,
-    "longitude": 30.5234
+    "longitude": 30.5234,
+    "cfpUrl": ""
   },
   {
     "name": "Yosemite by CocoaConf",
@@ -12991,7 +13803,8 @@
     "cfpStartDate": "",
     "cfpEndDate": "",
     "latitude": 37.8651011,
-    "longitude": -119.5383294
+    "longitude": -119.5383294,
+    "cfpUrl": ""
   },
   {
     "name": "You Gotta Love Frontend",
@@ -13007,7 +13820,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "Yes",
     "latitude": 32.0852999,
-    "longitude": 34.78176759999999
+    "longitude": 34.78176759999999,
+    "cfpUrl": ""
   },
   {
     "name": "You Shot The Sheriff",
@@ -13023,7 +13837,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -23.5505199,
-    "longitude": -46.63330939999999
+    "longitude": -46.63330939999999,
+    "cfpUrl": ""
   },
   {
     "name": "Yow Conference",
@@ -13039,7 +13854,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -27.4697707,
-    "longitude": 153.0251235
+    "longitude": 153.0251235,
+    "cfpUrl": ""
   },
   {
     "name": "Yow Conference",
@@ -13055,7 +13871,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -37.8136276,
-    "longitude": 144.9630576
+    "longitude": 144.9630576,
+    "cfpUrl": ""
   },
   {
     "name": "Yow Conference",
@@ -13071,7 +13888,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": -33.8688197,
-    "longitude": 151.2092955
+    "longitude": 151.2092955,
+    "cfpUrl": ""
   },
   {
     "name": "Zendcon",
@@ -13087,7 +13905,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 36.1699412,
-    "longitude": -115.1398296
+    "longitude": -115.1398296,
+    "cfpUrl": ""
   },
   {
     "name": "ZeroNights",
@@ -13103,7 +13922,8 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.755826,
-    "longitude": 37.6172999
+    "longitude": 37.6172999,
+    "cfpUrl": ""
   },
   {
     "name": "Øredev",
@@ -13119,6 +13939,7 @@
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 55.604981,
-    "longitude": 13.003822
+    "longitude": 13.003822,
+    "cfpUrl": ""
   }
 ]
