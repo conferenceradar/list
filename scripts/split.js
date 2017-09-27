@@ -1,17 +1,17 @@
 var events = require('../src/events.json');
 var fs = require('fs');
 var moment = require('moment');
+var sanitize = require("sanitize-filename");
 
 events.forEach(event => {
-  console.log('event', event.name);
-
   const eventDate = moment(event.eventStartDate);
-  const dateString = eventDate.isValid() ? eventDate.format('YYYY-MMMM') : 'unknown-start';
-  const countryString = event.country || 'unknown-country';
-  const stateProvinceString = event.stateProvince || 'unknown-stateProvince';
-  const cityString = event.city || 'unknown-city';
+  const dateString = sanitize(eventDate.isValid() ? eventDate.format('YYYY-MMMM') : 'unknown-start');
+  const countryString = sanitize(event.country || 'unknown-country');
+  const stateProvinceString = sanitize(event.stateProvince || 'unknown-stateProvince');
+  const cityString = sanitize(event.city || 'unknown-city');
+  const nameString = sanitize(event.name);
 
-  const eventFileName = `../events/${dateString}-${countryString}-${stateProvinceString}-${cityString}-${event.name}.json`;
+  const eventFileName = `events/${dateString}-${countryString}-${stateProvinceString}-${cityString}-${nameString}.json`;
   var stream = fs.createWriteStream(eventFileName);
   stream.once('open', function(fd) {
     stream.write(JSON.stringify(event));
