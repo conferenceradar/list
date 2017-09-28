@@ -1,9 +1,13 @@
-var fs = require('fs');
+var fs = require('fs-extra');
 var eventsDir = 'src/events';
 var readDirR = require('./utils/directoryUtils').readDirR;
 var getFolderNameFromDate = require('./utils/dateUtils').getFolderNameFromDate;
 var moment = require('moment');
 var lzString = require('lz-string');
+
+var archiveWebPath = '/events/';
+var archiveOutputPath = 'public/events/'
+var srcPath = 'src/data/';
 
 function getLocationString (item) {
   return item.country + '-' + item.stateProvince + '-' + item.city;
@@ -91,17 +95,33 @@ function buildEventList() {
   }
 }
 
+function writeObjectToFile(obj, fileName) {
+  fs.ensureFileSync(fileName);
+  var stream = fs.createWriteStream(fileName);
+  stream.once('open', function(fd) {
+    stream.write(JSON.stringify(obj, null, '  '));
+    stream.end();
+  });
+
+}
 function writeFile(key, fileName=null, public=false) {
   var outputFileName = fileName || `${key}.json`;
   var outputFolder = public
-    ? 'public/events/'
-    : 'src/';
+    ? archiveOutputPath //'public/events/'
+    : srcPath //'src/';
 
-  var stream = fs.createWriteStream(`${outputFolder}${outputFileName}`);
-  stream.once('open', function(fd) {
-    stream.write(JSON.stringify(eventList.getEvents(key), null, '  '));
-    stream.end();
-  });
+  writeObjectToFile(eventList.getEvents(key), `${outputFolder}${outputFileName}`)
+}
+
+function writeArchiveMetadata(yearKeys) {
+  // We are looping through yearKeys twice -- here and where we're actually generating the files
+  // we're setting this  to only 5 years for now so should not be too bad but 
+  // if there is ever a case to add a lot more -- lets do this so we only have to iterate once
+  const meta = yearKeys.map(year => {
+    return { key: year, path: `${archiveWebPath}${year}.json`}
+  })
+
+  writeObjectToFile(meta, `${srcPath}archiveMetadata.json`);
 }
 
 const eventList = buildEventList();
@@ -110,6 +130,10 @@ readDirR(eventsDir, eventList.addEvents);
 
 writeFile('upcoming', 'events.json');
 
-eventList.getYearKeys().forEach(key => {
+const yearKeys = eventList.getYearKeys();
+
+yearKeys.forEach(key => {
   writeFile(key, null, true);
 });
+
+writeArchiveMetadata(yearKeys);

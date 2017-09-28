@@ -4,12 +4,16 @@
 
 import React, { Component } from 'react';
 import Add from './Add';
-import conferences from './events.json';
+import conferences from './data/events.json';
+import archive from './data/archiveMetadata.json';
+
 import './App.css';
 import moment from 'moment';
 import ButtonGroup from './ButtonGroup';
 import { isMobileish } from './utils/layoutUtils';
 import DetailsSection from './DetailsSection';
+
+import axios from 'axios';
 
 import {
   Header,
@@ -19,7 +23,14 @@ import {
 } from './styles';
 
 class App extends Component {
-  state = { dataType: 'all', showForm: false }
+  state = { dataType: 'upcoming', showForm: false, archive: {} }
+
+  componentDidMount() {
+    axios.get(archive[3].path)
+      .then((response) => {
+        this.setState({ archive: { other: response.data }})
+      })
+  }
 
   onSelect=(dataType) => {
     this.setState({ dataType });
@@ -30,13 +41,15 @@ class App extends Component {
   }
 
   getData = () => {
+    if(this.state.archive && this.state.archive.other) {
+      return this.state.archive.other
+    }
+
     const { dataType } = this.state;
 
     switch(dataType) {
       case 'upcoming':
-        return conferences.filter(conference => (
-          conference.eventStartDate && conference.eventStartDate > moment().toISOString()
-        ))
+       conferences 
       case 'openCfps':
         return conferences.filter(conference => (
           conference.cfpEndDate && conference.cfpEndDate > moment().toISOString()
