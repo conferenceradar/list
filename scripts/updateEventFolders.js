@@ -41,6 +41,7 @@ function evaluateFile(file) {
   const yearFolderName = getFolderName(dateString);
   const eventPath = `./src/events/${yearFolderName}/${file.split(/[/]+/).pop()}`;
 
+  fs.unlinkSync(`${file}`);
   fs.ensureFileSync(eventPath);
   var stream = fs.createWriteStream(eventPath);
   stream.once('open', function(fd) {
@@ -48,30 +49,6 @@ function evaluateFile(file) {
     stream.end();
   });
 
-  fs.unlink(`${file}`);
 }
 
 readDirR(eventsDir, evaluateFile);
-
-// fs.readdir(eventsDir, (err, files) => {
-//   const fileImportMappings = files.map(file => {
-//     const event = require(`../${eventsDir}/${file}`);
-
-//     var stream = fs.createWriteStream(`../${eventsDir}/`);
-
-//   });
-
-//   const sortedMappings = fileImportMappings.sort(eventSortFunction);
-
-//   var stream = fs.createWriteStream("src/conferences.js");
-//   stream.once('open', function(fd) {
-//     stream.write(sortedMappings.reduce((importStatements, event) => {
-//       return `${importStatements}import ${event.importName} from './${event.path}';\n`
-//     }, ''));
-//     stream.write(sortedMappings.reduce((exportStatement, event, i) => {
-//       const lastItem = sortedMappings.length === i + 1;
-//       return `${exportStatement}${event.importName}${lastItem ? '];' : ','}`;
-//     }, '\n\nexport default ['));
-//     stream.end();
-//   });
-// })

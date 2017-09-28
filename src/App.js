@@ -4,7 +4,7 @@
 
 import React, { Component } from 'react';
 import Add from './Add';
-import conferences from './conferences';
+import conferences from './events.json';
 import './App.css';
 import moment from 'moment';
 import ButtonGroup from './ButtonGroup';
