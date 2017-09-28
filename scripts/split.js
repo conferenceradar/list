@@ -11,7 +11,7 @@ events.forEach(event => {
   const cityString = sanitize(event.city || 'unknown-city');
   const nameString = sanitize(event.name);
 
-  const eventFileName = `events/${dateString}-${countryString}-${stateProvinceString}-${cityString}-${nameString}.json`;
+  const eventFileName = `src/events/${dateString}-${countryString}-${stateProvinceString}-${cityString}-${nameString}.json`;
   var stream = fs.createWriteStream(eventFileName);
   stream.once('open', function(fd) {
     stream.write(JSON.stringify(event));
