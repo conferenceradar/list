@@ -3,6 +3,7 @@ var eventsDir = 'src/events';
 var readDirR = require('./utils/directoryUtils').readDirR;
 var getFolderNameFromDate = require('./utils/dateUtils').getFolderNameFromDate;
 var moment = require('moment');
+var lzString = require('lz-string');
 
 function getLocationString (item) {
   return item.country + '-' + item.stateProvince + '-' + item.city;
@@ -31,9 +32,9 @@ function sortFactory(key) {
 }
 
 function standardSortFunction(a, b) {
-  return sortFactory('name')(a, b) ||
-  sortFactory('location')(a, b) ||
-  0;
+  return sortFactory('name')(a, b)
+  || sortFactory('location')(a, b)
+  || 0;
 }
 
 function eventDateSortFunction(a, b) {
@@ -41,6 +42,12 @@ function eventDateSortFunction(a, b) {
     || sortFactory('name')(a, b)
     || sortFactory('location')(a, b)
     || 0;
+}
+
+function getEventWithKey(event) {
+  const keyItems = `${event.country}-${event.stateProvince}-${event.city}-${event.name}`;
+  const key = lzString.compressToEncodedURIComponent(keyItems)
+  return Object.assign({}, event, { key })
 }
 
 function buildEventList() {
@@ -72,7 +79,7 @@ function buildEventList() {
 
       // push to upcoming if startDate is > today
       if (event.eventStartDate && event.eventStartDate > moment().toISOString()) {
-        events.upcoming.push(event);
+        events.upcoming.push(getEventWithKey(event));
       }
     }, 
     getEvents: function getFiles(key) {
