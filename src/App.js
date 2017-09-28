@@ -18,8 +18,6 @@ import {
   FooterRight,
 } from './styles';
 
-console.log('hmm', conferences);
-
 class App extends Component {
   state = { dataType: 'all', showForm: false }
 
