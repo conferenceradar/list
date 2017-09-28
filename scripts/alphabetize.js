@@ -14,7 +14,10 @@ function getSafeEventName (name) {
              .replace(/&/g, 'and')
              .replace(/\./g, 'dot')
              .replace(/'/g, 'squote')
-             .replace(/"/g, 'dquote');
+             .replace(/’/g, 'squote')
+             .replace(/"/g, 'dquote')
+             .replace(/\?/g, 'question')
+             .replace(/\+/g, 'plus');
 }
 
 function getLocationString (item) {
@@ -50,12 +53,12 @@ function eventSortFunction(a, b) {
 fs.readdir(eventsDir, (err, files) => {
   const fileImportMappings = files.map(file => {
     const event = require(`../${eventsDir}/${file}`);
-    const importName = `e${getSafeEventName(event.name.replace(' ', '').replace('-', ''))}`;
+    const importName = `e${getSafeEventName(event.name)}`;
 
     return {
       importName,
       event,
-      path: `events/${file}`,
+      path: `events/${file.replace(/'/g, "\\'")}`,
     };
   });
 
