@@ -1,0 +1,17 @@
+{
+  "name": "Developer Week Conf",
+  "topic": "programming",
+  "url": "http://developerweek.com/",
+  "twitter": "@DevNetwork_",
+  "city": "San Francisco",
+  "stateProvince": "CA",
+  "country": "United States",
+  "eventStartDate": "2016-02-12T05:00:00.000Z",
+  "eventEndDate": "2016-02-18T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 37.7749295,
+  "longitude": -122.4194155,
+  "cfpUrl": ""
+}

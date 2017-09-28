@@ -1,0 +1,17 @@
+{
+  "name": "Iowa Code Camp",
+  "topic": "programming",
+  "url": "http://iowacodecamp.com/",
+  "twitter": "iowacodecamp",
+  "city": "Des Moines",
+  "stateProvince": "IA",
+  "country": "United States",
+  "eventStartDate": "2017-11-04T05:00:00.000Z",
+  "eventEndDate": "2017-11-04T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 41.711817,
+  "longitude": -93.61252,
+  "cfpUrl": ""
+}

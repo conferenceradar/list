@@ -1,0 +1,17 @@
+{
+  "name": "SXSW",
+  "topic": "business",
+  "url": "http://sxsw.com",
+  "twitter": "sxsw",
+  "city": "Austin",
+  "stateProvince": "TX",
+  "country": "United States",
+  "eventStartDate": "2016-03-07T05:00:00.000Z",
+  "eventEndDate": "2016-03-20T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 30.267153,
+  "longitude": -97.7430608,
+  "cfpUrl": ""
+}

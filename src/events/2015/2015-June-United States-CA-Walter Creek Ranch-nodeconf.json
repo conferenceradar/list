@@ -1,0 +1,17 @@
+{
+  "name": "nodeconf",
+  "topic": "web platform",
+  "url": "http://www.nodeconf.com",
+  "twitter": "@nodeconf",
+  "city": "Walter Creek Ranch",
+  "stateProvince": "CA",
+  "country": "United States",
+  "eventStartDate": "2015-06-11T04:00:00.000Z",
+  "eventEndDate": "2015-06-14T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 33.9589331,
+  "longitude": -117.1740851,
+  "cfpUrl": ""
+}

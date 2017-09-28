@@ -1,0 +1,17 @@
+{
+  "name": "GeekGirlCamp",
+  "topic": "programming",
+  "url": "http://geekgirltechcon.com/",
+  "twitter": "geekgirlcamp",
+  "city": "Charlotte",
+  "stateProvince": "VA",
+  "country": "United States",
+  "eventStartDate": null,
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 38.0293059,
+  "longitude": -78.47667810000002,
+  "cfpUrl": ""
+}
