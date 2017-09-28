@@ -9,7 +9,7 @@ events.forEach(event => {
   const countryString = sanitize(event.country || 'unknown-country');
   const stateProvinceString = sanitize(event.stateProvince || 'unknown-stateProvince');
   const cityString = sanitize(event.city || 'unknown-city');
-  const nameString = sanitize(event.name);
+  const nameString = sanitize(event.name.replace(/\!/g, 'bang'));
 
   const eventFileName = `src/events/${dateString}-${countryString}-${stateProvinceString}-${cityString}-${nameString}.json`;
   var stream = fs.createWriteStream(eventFileName);

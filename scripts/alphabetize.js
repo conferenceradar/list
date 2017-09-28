@@ -53,7 +53,7 @@ function eventSortFunction(a, b) {
 fs.readdir(eventsDir, (err, files) => {
   const fileImportMappings = files.map(file => {
     const event = require(`../${eventsDir}/${file}`);
-    const importName = `e${getSafeEventName(event.name)}`;
+    const importName = `e${getSafeEventName(file)}`;
 
     return {
       importName,
@@ -64,10 +64,10 @@ fs.readdir(eventsDir, (err, files) => {
 
   const sortedMappings = fileImportMappings.sort(eventSortFunction);
 
-  var stream = fs.createWriteStream("src/events.js");
+  var stream = fs.createWriteStream("src/conferences.js");
   stream.once('open', function(fd) {
     stream.write(sortedMappings.reduce((importStatements, event) => {
-      return `${importStatements}import ${event.importName} from '${event.path}';\n`
+      return `${importStatements}import ${event.importName} from './${event.path}';\n`
     }, ''));
     stream.write(sortedMappings.reduce((exportStatement, event, i) => {
       const lastItem = sortedMappings.length === i + 1;
