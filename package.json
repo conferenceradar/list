@@ -4,6 +4,7 @@
   "homepage": "https://conferenceradar.com",
   "private": true,
   "devDependencies": {
+    "fs-extra": "^4.0.2",
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.13"
   },
