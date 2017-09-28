@@ -1,10 +1,10 @@
-// This is mostly just hacks -- this is NOT necessarily 
+// This is mostly just hacks -- this is NOT necessarily
 // an indicator of how one should be writing code.
 // </disclaimer>
 
 import React, { Component } from 'react';
-import conferences from './events.json';
 import Add from './Add';
+import conferences from './conferences';
 import './App.css';
 import moment from 'moment';
 import ButtonGroup from './ButtonGroup';
@@ -17,6 +17,8 @@ import {
   FooterLeft,
   FooterRight,
 } from './styles';
+
+console.log('hmm', conferences);
 
 class App extends Component {
   state = { dataType: 'all', showForm: false }
@@ -78,7 +80,7 @@ class App extends Component {
         </FooterLeft>
         <FooterRight>
           <small>
-            This is a community maintained site/list provided as-is without guarantee or warranty. If you notice an issue or innacuracy, please <a href="https://github.com/conferenceradar/list">file an issue/PR on GitHub</a>. 
+            This is a community maintained site/list provided as-is without guarantee or warranty. If you notice an issue or innacuracy, please <a href="https://github.com/conferenceradar/list">file an issue/PR on GitHub</a>.
           </small>
         </FooterRight>
       </Footer>
