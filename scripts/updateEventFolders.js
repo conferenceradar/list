@@ -1,8 +1,7 @@
 var fs = require('fs-extra');
 var path = require('path');
-var moment = require('moment');
 var readDirR = require('./utils/directoryUtils').readDirR;
-var getFolderName = require('./utils/dateUtils').getFolderName;
+var getFolderNameFromDate = require('./utils/dateUtils').getFolderNameFromDate;
 
 var eventsDir = './src/events';
 
@@ -12,10 +11,7 @@ function evaluateFile(file) {
   }
 
   const event = require(`../${file}`);
-
-  const eventDate = moment(event.eventStartDate);
-  const dateString = eventDate.isValid() ? eventDate.format('YYYY') : undefined;
-  const yearFolderName = getFolderName(dateString);
+  const yearFolderName = getFolderNameFromDate(event.eventStartDate);
   const eventPath = `./src/events/${yearFolderName}/${file.split(/[/]+/).pop()}`;
 
   fs.unlinkSync(`${file}`);

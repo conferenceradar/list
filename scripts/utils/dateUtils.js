@@ -1,3 +1,5 @@
+var moment = require('moment');
+
 var archiveLength = 5;
 
 var exports = module.exports = {};
@@ -24,4 +26,10 @@ exports.getFolderName = function getFolderName(year) {
   }
 
   return yearNumber;
+}
+
+exports.getFolderNameFromDate = function getFolderNameFromDate(date) {
+  const eventDate = moment(date);
+  const dateString = eventDate.isValid() ? eventDate.format('YYYY') : undefined;
+  return exports.getFolderName(dateString);
 }
