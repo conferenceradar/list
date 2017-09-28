@@ -1,1 +1,17 @@
-{"name":"Web Rebels Conf","topic":"web platform","url":"http://www.webrebels.org","twitter":"@web_rebels","city":"Oslo","stateProvince":"","country":"Norway","eventStartDate":"2015-05-21T04:00:00.000Z","eventEndDate":"2015-05-22T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"Yes","latitude":59.9138688,"longitude":10.7522454}
+{
+  "name": "Web Rebels Conf",
+  "topic": "web platform",
+  "url": "http://www.webrebels.org",
+  "twitter": "@web_rebels",
+  "city": "Oslo",
+  "stateProvince": "",
+  "country": "Norway",
+  "eventStartDate": "2015-05-21T04:00:00.000Z",
+  "eventEndDate": "2015-05-22T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "Yes",
+  "latitude": 59.9138688,
+  "longitude": 10.7522454,
+  "cfpUrl": ""
+}

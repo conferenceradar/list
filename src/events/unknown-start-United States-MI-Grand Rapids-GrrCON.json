@@ -1,1 +1,17 @@
-{"name":"GrrCON","topic":"","url":"http://grrcon.com/","twitter":"","city":"Grand Rapids","stateProvince":"MI","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":42.9633599,"longitude":-85.6680863}
+{
+  "name": "GrrCON",
+  "topic": "",
+  "url": "http://grrcon.com/",
+  "twitter": "",
+  "city": "Grand Rapids",
+  "stateProvince": "MI",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 42.9633599,
+  "longitude": -85.6680863,
+  "cfpUrl": ""
+}

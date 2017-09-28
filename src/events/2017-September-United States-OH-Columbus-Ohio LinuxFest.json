@@ -1,1 +1,17 @@
-{"name":"Ohio LinuxFest","topic":"linux","url":"https://ohiolinux.org/","twitter":"@ohiolinux","city":"Columbus","stateProvince":"OH","country":"United States","eventStartDate":"2017-09-29T04:00:00.000Z","eventEndDate":"2017-09-30T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":39.9611755,"longitude":-82.99879419999999}
+{
+  "name": "Ohio LinuxFest",
+  "topic": "linux",
+  "url": "https://ohiolinux.org/",
+  "twitter": "@ohiolinux",
+  "city": "Columbus",
+  "stateProvince": "OH",
+  "country": "United States",
+  "eventStartDate": "2017-09-29T04:00:00.000Z",
+  "eventEndDate": "2017-09-30T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 39.9611755,
+  "longitude": -82.99879419999999,
+  "cfpUrl": ""
+}

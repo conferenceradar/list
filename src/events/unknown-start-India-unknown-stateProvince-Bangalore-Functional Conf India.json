@@ -1,1 +1,17 @@
-{"name":"Functional Conf India","topic":"","url":"","twitter":"","city":"Bangalore","stateProvince":"","country":"India","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":12.9715987,"longitude":77.5945627}
+{
+  "name": "Functional Conf India",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Bangalore",
+  "stateProvince": "",
+  "country": "India",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 12.9715987,
+  "longitude": 77.5945627,
+  "cfpUrl": ""
+}

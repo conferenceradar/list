@@ -1,1 +1,17 @@
-{"name":"TechDays","topic":"","url":"https://techdayhq.com/","twitter":"","city":"The Hague","stateProvince":"","country":"The Netherlands","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":52.0704978,"longitude":4.3006999}
+{
+  "name": "TechDays",
+  "topic": "",
+  "url": "https://techdayhq.com/",
+  "twitter": "",
+  "city": "The Hague",
+  "stateProvince": "",
+  "country": "The Netherlands",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 52.0704978,
+  "longitude": 4.3006999,
+  "cfpUrl": ""
+}

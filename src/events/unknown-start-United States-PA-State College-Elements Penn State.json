@@ -1,1 +1,17 @@
-{"name":"Elements Penn State","topic":"","url":"https://elements.psu.edu/","twitter":"","city":"State College","stateProvince":"PA","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.7933949,"longitude":-77.8600012}
+{
+  "name": "Elements Penn State",
+  "topic": "",
+  "url": "https://elements.psu.edu/",
+  "twitter": "",
+  "city": "State College",
+  "stateProvince": "PA",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.7933949,
+  "longitude": -77.8600012,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"TNW","topic":"web platform","url":"http://thenextweb.com/conference/","twitter":"thenextweb","city":"New York","stateProvince":"NY","country":"United States","eventStartDate":"2015-11-18T05:00:00.000Z","eventEndDate":"2015-11-18T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.7127837,"longitude":-74.0059413}
+{
+  "name": "TNW",
+  "topic": "web platform",
+  "url": "http://thenextweb.com/conference/",
+  "twitter": "thenextweb",
+  "city": "New York",
+  "stateProvince": "NY",
+  "country": "United States",
+  "eventStartDate": "2015-11-18T05:00:00.000Z",
+  "eventEndDate": "2015-11-18T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.7127837,
+  "longitude": -74.0059413,
+  "cfpUrl": ""
+}

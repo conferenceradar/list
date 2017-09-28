@@ -1,1 +1,17 @@
-{"name":"IT Weekend","topic":"","url":"","twitter":"","city":"Dnipropetrovsk","stateProvince":"","country":"Ukraine","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":48.464717,"longitude":35.046183}
+{
+  "name": "IT Weekend",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Dnipropetrovsk",
+  "stateProvince": "",
+  "country": "Ukraine",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 48.464717,
+  "longitude": 35.046183,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"Refresh","topic":"","url":"http://refresh.rocks/","twitter":"","city":"Tallinn","stateProvince":"","country":"Estonia","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":59.43696079999999,"longitude":24.7535747}
+{
+  "name": "Refresh",
+  "topic": "",
+  "url": "http://refresh.rocks/",
+  "twitter": "",
+  "city": "Tallinn",
+  "stateProvince": "",
+  "country": "Estonia",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 59.43696079999999,
+  "longitude": 24.7535747,
+  "cfpUrl": ""
+}

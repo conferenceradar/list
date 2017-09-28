@@ -1,1 +1,17 @@
-{"name":"USENIX Security","topic":"","url":"http://www.usenix.org/conference/usenixsecurity17","twitter":"","city":"Vancouver","stateProvince":"BC","country":"Canada","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":49.2827291,"longitude":-123.1207375}
+{
+  "name": "USENIX Security",
+  "topic": "",
+  "url": "http://www.usenix.org/conference/usenixsecurity17",
+  "twitter": "",
+  "city": "Vancouver",
+  "stateProvince": "BC",
+  "country": "Canada",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 49.2827291,
+  "longitude": -123.1207375,
+  "cfpUrl": ""
+}

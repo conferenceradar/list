@@ -1,1 +1,17 @@
-{"name":"JavaLand","topic":"programming","url":"http://javaland.eu","twitter":"javalandconf","city":"Bruhl","stateProvince":"","country":"Germany","eventStartDate":"2016-03-08T05:00:00.000Z","eventEndDate":"2016-03-10T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":50.8267554,"longitude":6.898786599999999}
+{
+  "name": "JavaLand",
+  "topic": "programming",
+  "url": "http://javaland.eu",
+  "twitter": "javalandconf",
+  "city": "Bruhl",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "2016-03-08T05:00:00.000Z",
+  "eventEndDate": "2016-03-10T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 50.8267554,
+  "longitude": 6.898786599999999,
+  "cfpUrl": ""
+}

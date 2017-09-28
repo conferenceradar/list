@@ -1,1 +1,17 @@
-{"name":"OpenStack Summit","topic":"web perf/ops","url":"http://www.openstack.org/summit/","twitter":"openstack","city":"Tokyo","stateProvince":"","country":"Japan","eventStartDate":"2015-10-27T04:00:00.000Z","eventEndDate":"2015-10-30T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":35.6894875,"longitude":139.6917064}
+{
+  "name": "OpenStack Summit",
+  "topic": "web perf/ops",
+  "url": "http://www.openstack.org/summit/",
+  "twitter": "openstack",
+  "city": "Tokyo",
+  "stateProvince": "",
+  "country": "Japan",
+  "eventStartDate": "2015-10-27T04:00:00.000Z",
+  "eventEndDate": "2015-10-30T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 35.6894875,
+  "longitude": 139.6917064,
+  "cfpUrl": ""
+}

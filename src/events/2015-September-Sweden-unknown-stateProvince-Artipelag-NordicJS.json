@@ -1,1 +1,17 @@
-{"name":"NordicJS","topic":"programming","url":"http://nordicjs.com","twitter":"@nordicjs","city":"Artipelag","stateProvince":"","country":"Sweden","eventStartDate":"2015-09-10T04:00:00.000Z","eventEndDate":"2015-09-11T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":59.30666549999999,"longitude":18.3467813}
+{
+  "name": "NordicJS",
+  "topic": "programming",
+  "url": "http://nordicjs.com",
+  "twitter": "@nordicjs",
+  "city": "Artipelag",
+  "stateProvince": "",
+  "country": "Sweden",
+  "eventStartDate": "2015-09-10T04:00:00.000Z",
+  "eventEndDate": "2015-09-11T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 59.30666549999999,
+  "longitude": 18.3467813,
+  "cfpUrl": ""
+}

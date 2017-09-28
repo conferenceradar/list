@@ -1,1 +1,17 @@
-{"name":"Yow Conference","topic":"","url":"http://yowconference.com.au/","twitter":"","city":"Brisbane","stateProvince":"","country":"Austrailia","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":-27.4697707,"longitude":153.0251235}
+{
+  "name": "Yow Conference",
+  "topic": "",
+  "url": "http://yowconference.com.au/",
+  "twitter": "",
+  "city": "Brisbane",
+  "stateProvince": "",
+  "country": "Austrailia",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -27.4697707,
+  "longitude": 153.0251235,
+  "cfpUrl": ""
+}

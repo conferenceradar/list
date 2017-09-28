@@ -1,1 +1,17 @@
-{"name":"Agent Conference","topic":"Experts and industry leaders will come together to showcase their work in ReactJS, React Native, and more. Learn, talk, and ski.","url":"http://agent.sh/","twitter":"https://twitter.com/agentconf","city":"Dornbirn","stateProvince":"","country":"Austria","eventStartDate":"2018-01-25T05:00:00.000Z","eventEndDate":"2018-01-28T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"2017-10-19T04:00:00.000Z","codeOfConduct":"","latitude":47.4124,"longitude":9.743789999999999}
+{
+  "name": "Agent Conference",
+  "topic": "Experts and industry leaders will come together to showcase their work in ReactJS, React Native, and more. Learn, talk, and ski.",
+  "url": "http://agent.sh/",
+  "twitter": "https://twitter.com/agentconf",
+  "city": "Dornbirn",
+  "stateProvince": "",
+  "country": "Austria",
+  "eventStartDate": "2018-01-25T05:00:00.000Z",
+  "eventEndDate": "2018-01-28T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "2017-10-19T04:00:00.000Z",
+  "codeOfConduct": "",
+  "latitude": 47.4124,
+  "longitude": 9.743789999999999,
+  "cfpUrl": ""
+}

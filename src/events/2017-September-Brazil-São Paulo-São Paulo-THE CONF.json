@@ -1,1 +1,17 @@
-{"name":"THE CONF","topic":"programming","url":"http://www.theconf.club","twitter":"https://twitter.com/theconfbr","city":"São Paulo","stateProvince":"São Paulo","country":"Brazil","eventStartDate":"2017-09-29T03:00:00.000Z","eventEndDate":"2017-09-30T03:00:00.000Z","cfpStartDate":"2017-04-04T03:00:00.000Z","cfpEndDate":"2017-05-31T03:00:00.000Z","codeOfConduct":"http://www.theconf.club/pages/code_of_conduct","latitude":-23.557861,"longitude":-46.668091}
+{
+  "name": "THE CONF",
+  "topic": "programming",
+  "url": "http://www.theconf.club",
+  "twitter": "https://twitter.com/theconfbr",
+  "city": "São Paulo",
+  "stateProvince": "São Paulo",
+  "country": "Brazil",
+  "eventStartDate": "2017-09-29T03:00:00.000Z",
+  "eventEndDate": "2017-09-30T03:00:00.000Z",
+  "cfpStartDate": "2017-04-04T03:00:00.000Z",
+  "cfpEndDate": "2017-05-31T03:00:00.000Z",
+  "codeOfConduct": "http://www.theconf.club/pages/code_of_conduct",
+  "latitude": -23.557861,
+  "longitude": -46.668091,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":":clojured","topic":"programming","url":"http://www.clojured.de","twitter":"#clojured","city":"Berlin","stateProvince":"","country":"Germany","eventStartDate":"2018-02-28T05:00:00.000Z","eventEndDate":"2018-02-28T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":52.52000659999999,"longitude":13.404954}
+{
+  "name": ":clojured",
+  "topic": "programming",
+  "url": "http://www.clojured.de",
+  "twitter": "#clojured",
+  "city": "Berlin",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "2018-02-28T05:00:00.000Z",
+  "eventEndDate": "2018-02-28T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 52.52000659999999,
+  "longitude": 13.404954,
+  "cfpUrl": ""
+}

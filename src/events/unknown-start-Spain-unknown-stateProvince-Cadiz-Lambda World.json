@@ -1,1 +1,17 @@
-{"name":"Lambda World","topic":"","url":"","twitter":"","city":"Cadiz","stateProvince":"","country":"Spain","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":36.5270612,"longitude":-6.2885962}
+{
+  "name": "Lambda World",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Cadiz",
+  "stateProvince": "",
+  "country": "Spain",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 36.5270612,
+  "longitude": -6.2885962,
+  "cfpUrl": ""
+}

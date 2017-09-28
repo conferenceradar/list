@@ -1,1 +1,17 @@
-{"name":"coldfrontconf","topic":"","url":"http://coldfrontconf.com","twitter":"@coldfrontconf","city":"Copenhagen","stateProvince":"","country":"Denmark","eventStartDate":"2015-09-03T04:00:00.000Z","eventEndDate":"2015-09-03T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":55.6760968,"longitude":12.5683372}
+{
+  "name": "coldfrontconf",
+  "topic": "",
+  "url": "http://coldfrontconf.com",
+  "twitter": "@coldfrontconf",
+  "city": "Copenhagen",
+  "stateProvince": "",
+  "country": "Denmark",
+  "eventStartDate": "2015-09-03T04:00:00.000Z",
+  "eventEndDate": "2015-09-03T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 55.6760968,
+  "longitude": 12.5683372,
+  "cfpUrl": ""
+}

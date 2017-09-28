@@ -1,1 +1,17 @@
-{"name":"dotGo","topic":"web platform","url":"https://www.dotgo.eu/","twitter":"@dotGoEu","city":"Paris","stateProvince":"","country":"France","eventStartDate":"2015-11-09T05:00:00.000Z","eventEndDate":"2015-11-09T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":48.856614,"longitude":2.3522219}
+{
+  "name": "dotGo",
+  "topic": "web platform",
+  "url": "https://www.dotgo.eu/",
+  "twitter": "@dotGoEu",
+  "city": "Paris",
+  "stateProvince": "",
+  "country": "France",
+  "eventStartDate": "2015-11-09T05:00:00.000Z",
+  "eventEndDate": "2015-11-09T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 48.856614,
+  "longitude": 2.3522219,
+  "cfpUrl": ""
+}

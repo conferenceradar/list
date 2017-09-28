@@ -1,1 +1,17 @@
-{"name":"BASTA!","topic":"","url":"https://basta.net/en/","twitter":"","city":"Mainz","stateProvince":"","country":"Germany","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":49.9928617,"longitude":8.2472526}
+{
+  "name": "BASTA!",
+  "topic": "",
+  "url": "https://basta.net/en/",
+  "twitter": "",
+  "city": "Mainz",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 49.9928617,
+  "longitude": 8.2472526,
+  "cfpUrl": ""
+}

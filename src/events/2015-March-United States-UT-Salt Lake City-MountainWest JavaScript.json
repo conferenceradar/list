@@ -1,1 +1,17 @@
-{"name":"MountainWest JavaScript","topic":"web platform","url":"http://mtnwestjs.org/","twitter":"mtnwestjs","city":"Salt Lake City","stateProvince":"UT","country":"United States","eventStartDate":"2015-03-03T05:00:00.000Z","eventEndDate":"2015-03-04T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.7607793,"longitude":-111.8910474}
+{
+  "name": "MountainWest JavaScript",
+  "topic": "web platform",
+  "url": "http://mtnwestjs.org/",
+  "twitter": "mtnwestjs",
+  "city": "Salt Lake City",
+  "stateProvince": "UT",
+  "country": "United States",
+  "eventStartDate": "2015-03-03T05:00:00.000Z",
+  "eventEndDate": "2015-03-04T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.7607793,
+  "longitude": -111.8910474,
+  "cfpUrl": ""
+}

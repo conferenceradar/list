@@ -1,1 +1,17 @@
-{"name":"MoscowJS","topic":"web platform","url":"http://moscowjs.ru","twitter":"@moscowjs","city":"Moscow","stateProvince":"","country":"Russia","eventStartDate":"2014-04-22T04:00:00.000Z","eventEndDate":"2014-04-22T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":55.755826,"longitude":37.6172999}
+{
+  "name": "MoscowJS",
+  "topic": "web platform",
+  "url": "http://moscowjs.ru",
+  "twitter": "@moscowjs",
+  "city": "Moscow",
+  "stateProvince": "",
+  "country": "Russia",
+  "eventStartDate": "2014-04-22T04:00:00.000Z",
+  "eventEndDate": "2014-04-22T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 55.755826,
+  "longitude": 37.6172999,
+  "cfpUrl": ""
+}

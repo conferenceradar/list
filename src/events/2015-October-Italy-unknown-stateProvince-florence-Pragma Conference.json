@@ -1,1 +1,17 @@
-{"name":"Pragma Conference","topic":"programming","url":"http://www.pragmaconference.com","twitter":"@pragmamarkorg","city":"florence","stateProvince":"","country":"Italy","eventStartDate":"2015-10-09T04:00:00.000Z","eventEndDate":"2015-10-10T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":43.7695604,"longitude":11.2558136}
+{
+  "name": "Pragma Conference",
+  "topic": "programming",
+  "url": "http://www.pragmaconference.com",
+  "twitter": "@pragmamarkorg",
+  "city": "florence",
+  "stateProvince": "",
+  "country": "Italy",
+  "eventStartDate": "2015-10-09T04:00:00.000Z",
+  "eventEndDate": "2015-10-10T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 43.7695604,
+  "longitude": 11.2558136,
+  "cfpUrl": ""
+}

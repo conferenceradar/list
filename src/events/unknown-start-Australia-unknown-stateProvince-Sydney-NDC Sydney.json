@@ -1,1 +1,17 @@
-{"name":"NDC Sydney","topic":"","url":"http://ndcsydney.com/","twitter":"","city":"Sydney","stateProvince":"","country":"Australia","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"Yes","latitude":-33.8688197,"longitude":151.2092955}
+{
+  "name": "NDC Sydney",
+  "topic": "",
+  "url": "http://ndcsydney.com/",
+  "twitter": "",
+  "city": "Sydney",
+  "stateProvince": "",
+  "country": "Australia",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "Yes",
+  "latitude": -33.8688197,
+  "longitude": 151.2092955,
+  "cfpUrl": ""
+}

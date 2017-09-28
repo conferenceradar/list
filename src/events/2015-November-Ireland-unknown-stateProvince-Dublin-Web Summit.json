@@ -1,1 +1,17 @@
-{"name":"Web Summit","topic":"web platform","url":"http://www.websummit.net/","twitter":"websummithq","city":"Dublin","stateProvince":"","country":"Ireland","eventStartDate":"2015-11-03T05:00:00.000Z","eventEndDate":"2015-11-05T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":53.3498053,"longitude":-6.2603097}
+{
+  "name": "Web Summit",
+  "topic": "web platform",
+  "url": "http://www.websummit.net/",
+  "twitter": "websummithq",
+  "city": "Dublin",
+  "stateProvince": "",
+  "country": "Ireland",
+  "eventStartDate": "2015-11-03T05:00:00.000Z",
+  "eventEndDate": "2015-11-05T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 53.3498053,
+  "longitude": -6.2603097,
+  "cfpUrl": ""
+}

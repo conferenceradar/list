@@ -1,1 +1,17 @@
-{"name":"DevDay","topic":"","url":"http://www.devday.pl/","twitter":"","city":"Poland","stateProvince":"","country":"Poland","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":51.919438,"longitude":19.145136}
+{
+  "name": "DevDay",
+  "topic": "",
+  "url": "http://www.devday.pl/",
+  "twitter": "",
+  "city": "Poland",
+  "stateProvince": "",
+  "country": "Poland",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 51.919438,
+  "longitude": 19.145136,
+  "cfpUrl": ""
+}

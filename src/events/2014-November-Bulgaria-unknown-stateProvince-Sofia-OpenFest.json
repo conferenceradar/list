@@ -1,1 +1,17 @@
-{"name":"OpenFest","topic":"programming","url":"http://openfest.org/english","twitter":"@openfestbg","city":"Sofia","stateProvince":"","country":"Bulgaria","eventStartDate":"2014-11-01T04:00:00.000Z","eventEndDate":"2014-11-02T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":42.6977082,"longitude":23.3218675}
+{
+  "name": "OpenFest",
+  "topic": "programming",
+  "url": "http://openfest.org/english",
+  "twitter": "@openfestbg",
+  "city": "Sofia",
+  "stateProvince": "",
+  "country": "Bulgaria",
+  "eventStartDate": "2014-11-01T04:00:00.000Z",
+  "eventEndDate": "2014-11-02T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 42.6977082,
+  "longitude": 23.3218675,
+  "cfpUrl": ""
+}

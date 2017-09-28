@@ -1,1 +1,17 @@
-{"name":"GeeCON","topic":"programming","url":"http://geecon.org","twitter":"geecon","city":"Prague","stateProvince":"","country":"Czech Republic","eventStartDate":"2015-10-22T04:00:00.000Z","eventEndDate":"2015-10-23T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":50.0755381,"longitude":14.4378005}
+{
+  "name": "GeeCON",
+  "topic": "programming",
+  "url": "http://geecon.org",
+  "twitter": "geecon",
+  "city": "Prague",
+  "stateProvince": "",
+  "country": "Czech Republic",
+  "eventStartDate": "2015-10-22T04:00:00.000Z",
+  "eventEndDate": "2015-10-23T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 50.0755381,
+  "longitude": 14.4378005,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"Strangeloop","topic":"programming","url":"http://thestrangeloop.com/","twitter":"strangeloop_stl","city":"St. Louis","stateProvince":"MO","country":"United States","eventStartDate":"2017-09-28T04:00:00.000Z","eventEndDate":"2017-09-30T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":38.6270025,"longitude":-90.19940419999999}
+{
+  "name": "Strangeloop",
+  "topic": "programming",
+  "url": "http://thestrangeloop.com/",
+  "twitter": "strangeloop_stl",
+  "city": "St. Louis",
+  "stateProvince": "MO",
+  "country": "United States",
+  "eventStartDate": "2017-09-28T04:00:00.000Z",
+  "eventEndDate": "2017-09-30T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 38.6270025,
+  "longitude": -90.19940419999999,
+  "cfpUrl": ""
+}

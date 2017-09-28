@@ -1,1 +1,17 @@
-{"name":"Frankfurt Bookfair","topic":"","url":"http://www.buchmesse.de/en/fbf/","twitter":"@book_fair","city":"Frankfurt","stateProvince":"","country":"Germany","eventStartDate":"2015-10-14T04:00:00.000Z","eventEndDate":"2015-10-18T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":50.1109221,"longitude":8.6821267}
+{
+  "name": "Frankfurt Bookfair",
+  "topic": "",
+  "url": "http://www.buchmesse.de/en/fbf/",
+  "twitter": "@book_fair",
+  "city": "Frankfurt",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "2015-10-14T04:00:00.000Z",
+  "eventEndDate": "2015-10-18T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 50.1109221,
+  "longitude": 8.6821267,
+  "cfpUrl": ""
+}

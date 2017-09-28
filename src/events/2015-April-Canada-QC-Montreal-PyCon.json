@@ -1,1 +1,17 @@
-{"name":"PyCon","topic":"programming","url":"http://us.pycon.org","twitter":"pycon","city":"Montreal","stateProvince":"QC","country":"Canada","eventStartDate":"2015-04-08T04:00:00.000Z","eventEndDate":"2015-04-16T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":45.5016889,"longitude":-73.567256}
+{
+  "name": "PyCon",
+  "topic": "programming",
+  "url": "http://us.pycon.org",
+  "twitter": "pycon",
+  "city": "Montreal",
+  "stateProvince": "QC",
+  "country": "Canada",
+  "eventStartDate": "2015-04-08T04:00:00.000Z",
+  "eventEndDate": "2015-04-16T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 45.5016889,
+  "longitude": -73.567256,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"React Rally","topic":"React","url":"http://www.reactrally.com/","twitter":"https://twitter.com/reactrally","city":"Salt Lake City","stateProvince":"Louisiana","country":"USA","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"http://www.reactrally.com/conduct","latitude":40.7732525,"longitude":-112.0082589}
+{
+  "name": "React Rally",
+  "topic": "React",
+  "url": "http://www.reactrally.com/",
+  "twitter": "https://twitter.com/reactrally",
+  "city": "Salt Lake City",
+  "stateProvince": "Louisiana",
+  "country": "USA",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "http://www.reactrally.com/conduct",
+  "latitude": 40.7732525,
+  "longitude": -112.0082589,
+  "cfpUrl": ""
+}

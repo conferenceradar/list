@@ -1,1 +1,17 @@
-{"name":"!!Con","topic":"","url":"http://bangbangcon.com/","twitter":"","city":"New York","stateProvince":"NY","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.7127837,"longitude":-74.0059413}
+{
+  "name": "!!Con",
+  "topic": "",
+  "url": "http://bangbangcon.com/",
+  "twitter": "",
+  "city": "New York",
+  "stateProvince": "NY",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.7127837,
+  "longitude": -74.0059413,
+  "cfpUrl": ""
+}

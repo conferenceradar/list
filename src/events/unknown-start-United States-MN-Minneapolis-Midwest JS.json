@@ -1,1 +1,17 @@
-{"name":"Midwest JS","topic":"","url":"http://midwestjs.com/","twitter":"","city":"Minneapolis","stateProvince":"MN","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"Yes","latitude":44.977753,"longitude":-93.2650108}
+{
+  "name": "Midwest JS",
+  "topic": "",
+  "url": "http://midwestjs.com/",
+  "twitter": "",
+  "city": "Minneapolis",
+  "stateProvince": "MN",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "Yes",
+  "latitude": 44.977753,
+  "longitude": -93.2650108,
+  "cfpUrl": ""
+}

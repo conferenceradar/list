@@ -1,1 +1,17 @@
-{"name":"UXLx","topic":"design","url":"http://www.ux-lx.com","twitter":"@uxlx","city":"Lisbon","stateProvince":"","country":"Portugal","eventStartDate":"2015-06-03T04:00:00.000Z","eventEndDate":"2015-06-05T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":38.7222524,"longitude":-9.1393366}
+{
+  "name": "UXLx",
+  "topic": "design",
+  "url": "http://www.ux-lx.com",
+  "twitter": "@uxlx",
+  "city": "Lisbon",
+  "stateProvince": "",
+  "country": "Portugal",
+  "eventStartDate": "2015-06-03T04:00:00.000Z",
+  "eventEndDate": "2015-06-05T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 38.7222524,
+  "longitude": -9.1393366,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"FrOSCon","topic":"programming","url":"http://www.froscon.de/","twitter":"froscon","city":"Sankt Augustin","stateProvince":"","country":"Germany","eventStartDate":"2015-08-22T04:00:00.000Z","eventEndDate":"2015-08-23T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":50.7694775,"longitude":7.187578599999999}
+{
+  "name": "FrOSCon",
+  "topic": "programming",
+  "url": "http://www.froscon.de/",
+  "twitter": "froscon",
+  "city": "Sankt Augustin",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "2015-08-22T04:00:00.000Z",
+  "eventEndDate": "2015-08-23T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 50.7694775,
+  "longitude": 7.187578599999999,
+  "cfpUrl": ""
+}

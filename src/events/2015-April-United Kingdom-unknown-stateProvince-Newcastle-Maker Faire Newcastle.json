@@ -1,1 +1,17 @@
-{"name":"Maker Faire Newcastle","topic":"iot","url":"http://www.makerfaireuk.com","twitter":"@makerfaire_uk","city":"Newcastle","stateProvince":"","country":"United Kingdom","eventStartDate":"2015-04-25T04:00:00.000Z","eventEndDate":"2015-04-26T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":54.978252,"longitude":-1.61778}
+{
+  "name": "Maker Faire Newcastle",
+  "topic": "iot",
+  "url": "http://www.makerfaireuk.com",
+  "twitter": "@makerfaire_uk",
+  "city": "Newcastle",
+  "stateProvince": "",
+  "country": "United Kingdom",
+  "eventStartDate": "2015-04-25T04:00:00.000Z",
+  "eventEndDate": "2015-04-26T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 54.978252,
+  "longitude": -1.61778,
+  "cfpUrl": ""
+}

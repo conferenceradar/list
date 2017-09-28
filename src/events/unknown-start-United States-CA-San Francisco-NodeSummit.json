@@ -1,1 +1,17 @@
-{"name":"NodeSummit","topic":"","url":"http://nodesummit.com/","twitter":"","city":"San Francisco","stateProvince":"CA","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"Yes","latitude":37.7749295,"longitude":-122.4194155}
+{
+  "name": "NodeSummit",
+  "topic": "",
+  "url": "http://nodesummit.com/",
+  "twitter": "",
+  "city": "San Francisco",
+  "stateProvince": "CA",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "Yes",
+  "latitude": 37.7749295,
+  "longitude": -122.4194155,
+  "cfpUrl": ""
+}

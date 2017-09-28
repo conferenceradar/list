@@ -1,1 +1,17 @@
-{"name":"RuhrJS","topic":"","url":"http://ruhrjs.de/","twitter":"","city":"Bochum","stateProvince":"","country":"Germany","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":51.4818445,"longitude":7.216236299999999}
+{
+  "name": "RuhrJS",
+  "topic": "",
+  "url": "http://ruhrjs.de/",
+  "twitter": "",
+  "city": "Bochum",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 51.4818445,
+  "longitude": 7.216236299999999,
+  "cfpUrl": ""
+}

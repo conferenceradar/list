@@ -1,1 +1,17 @@
-{"name":"KCDC","topic":"programming","url":"http://www.kcdc.info/","twitter":"kc_dc","city":"Kansas City","stateProvince":"MO","country":"United States","eventStartDate":"2015-06-24T04:00:00.000Z","eventEndDate":"2015-06-25T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":39.0997265,"longitude":-94.5785667}
+{
+  "name": "KCDC",
+  "topic": "programming",
+  "url": "http://www.kcdc.info/",
+  "twitter": "kc_dc",
+  "city": "Kansas City",
+  "stateProvince": "MO",
+  "country": "United States",
+  "eventStartDate": "2015-06-24T04:00:00.000Z",
+  "eventEndDate": "2015-06-25T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 39.0997265,
+  "longitude": -94.5785667,
+  "cfpUrl": ""
+}

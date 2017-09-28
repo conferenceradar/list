@@ -1,1 +1,17 @@
-{"name":"Visual Studio Live!","topic":"","url":"https://vslive.com/","twitter":"","city":"Orlando","stateProvince":"FL","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":28.5383355,"longitude":-81.3792365}
+{
+  "name": "Visual Studio Live!",
+  "topic": "",
+  "url": "https://vslive.com/",
+  "twitter": "",
+  "city": "Orlando",
+  "stateProvince": "FL",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 28.5383355,
+  "longitude": -81.3792365,
+  "cfpUrl": ""
+}

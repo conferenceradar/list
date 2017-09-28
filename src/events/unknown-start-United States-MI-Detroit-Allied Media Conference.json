@@ -1,1 +1,17 @@
-{"name":"Allied Media Conference","topic":"","url":"https://www.alliedmedia.org/amc","twitter":"","city":"Detroit","stateProvince":"MI","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":42.331427,"longitude":-83.0457538}
+{
+  "name": "Allied Media Conference",
+  "topic": "",
+  "url": "https://www.alliedmedia.org/amc",
+  "twitter": "",
+  "city": "Detroit",
+  "stateProvince": "MI",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 42.331427,
+  "longitude": -83.0457538,
+  "cfpUrl": ""
+}

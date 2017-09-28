@@ -1,1 +1,17 @@
-{"name":"I Love APIs","topic":"web platform","url":"http://iloveapis2014.com/","twitter":"apigee","city":"San Jose","stateProvince":"CA","country":"United States","eventStartDate":"2015-10-12T04:00:00.000Z","eventEndDate":"2015-10-14T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":37.3382082,"longitude":-121.8863286}
+{
+  "name": "I Love APIs",
+  "topic": "web platform",
+  "url": "http://iloveapis2014.com/",
+  "twitter": "apigee",
+  "city": "San Jose",
+  "stateProvince": "CA",
+  "country": "United States",
+  "eventStartDate": "2015-10-12T04:00:00.000Z",
+  "eventEndDate": "2015-10-14T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 37.3382082,
+  "longitude": -121.8863286,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"JSChannel","topic":"","url":"http://2017.jschannel.com/","twitter":"","city":"Bengaluru","stateProvince":"","country":"India","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":12.9715987,"longitude":77.5945627}
+{
+  "name": "JSChannel",
+  "topic": "",
+  "url": "http://2017.jschannel.com/",
+  "twitter": "",
+  "city": "Bengaluru",
+  "stateProvince": "",
+  "country": "India",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 12.9715987,
+  "longitude": 77.5945627,
+  "cfpUrl": ""
+}

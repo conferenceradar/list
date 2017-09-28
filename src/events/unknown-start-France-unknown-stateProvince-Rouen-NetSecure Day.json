@@ -1,1 +1,17 @@
-{"name":"NetSecure Day","topic":"","url":"http://www.netsecure-day.fr/","twitter":"","city":"Rouen","stateProvince":"","country":"France","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":49.44323199999999,"longitude":1.099971}
+{
+  "name": "NetSecure Day",
+  "topic": "",
+  "url": "http://www.netsecure-day.fr/",
+  "twitter": "",
+  "city": "Rouen",
+  "stateProvince": "",
+  "country": "France",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 49.44323199999999,
+  "longitude": 1.099971,
+  "cfpUrl": ""
+}

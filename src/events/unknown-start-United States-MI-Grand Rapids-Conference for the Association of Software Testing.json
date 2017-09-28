@@ -1,1 +1,17 @@
-{"name":"Conference for the Association of Software Testing","topic":"","url":"","twitter":"","city":"Grand Rapids","stateProvince":"MI","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":42.9633599,"longitude":-85.6680863}
+{
+  "name": "Conference for the Association of Software Testing",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Grand Rapids",
+  "stateProvince": "MI",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 42.9633599,
+  "longitude": -85.6680863,
+  "cfpUrl": ""
+}

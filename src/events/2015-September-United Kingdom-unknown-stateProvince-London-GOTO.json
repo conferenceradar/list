@@ -1,1 +1,17 @@
-{"name":"GOTO","topic":"programming","url":"http://gotocon.com/","twitter":"gotocon","city":"London","stateProvince":"","country":"United Kingdom","eventStartDate":"2015-09-14T04:00:00.000Z","eventEndDate":"2015-09-18T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":51.5073509,"longitude":-0.1277583}
+{
+  "name": "GOTO",
+  "topic": "programming",
+  "url": "http://gotocon.com/",
+  "twitter": "gotocon",
+  "city": "London",
+  "stateProvince": "",
+  "country": "United Kingdom",
+  "eventStartDate": "2015-09-14T04:00:00.000Z",
+  "eventEndDate": "2015-09-18T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 51.5073509,
+  "longitude": -0.1277583,
+  "cfpUrl": ""
+}

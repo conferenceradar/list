@@ -1,1 +1,17 @@
-{"name":"NG Europe (AngularJS)","topic":"programming","url":"http://ngeurope.org","twitter":"@ngeurope","city":"Paris","stateProvince":"","country":"France","eventStartDate":"2014-10-22T04:00:00.000Z","eventEndDate":"2014-10-23T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":48.856614,"longitude":2.3522219}
+{
+  "name": "NG Europe (AngularJS)",
+  "topic": "programming",
+  "url": "http://ngeurope.org",
+  "twitter": "@ngeurope",
+  "city": "Paris",
+  "stateProvince": "",
+  "country": "France",
+  "eventStartDate": "2014-10-22T04:00:00.000Z",
+  "eventEndDate": "2014-10-23T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 48.856614,
+  "longitude": 2.3522219,
+  "cfpUrl": ""
+}

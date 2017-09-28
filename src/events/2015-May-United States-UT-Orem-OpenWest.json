@@ -1,1 +1,17 @@
-{"name":"OpenWest","topic":"programming","url":"http://www.openwest.org/","twitter":"openwestconf","city":"Orem","stateProvince":"UT","country":"United States","eventStartDate":"2015-05-07T04:00:00.000Z","eventEndDate":"2015-05-09T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.2968979,"longitude":-111.6946475}
+{
+  "name": "OpenWest",
+  "topic": "programming",
+  "url": "http://www.openwest.org/",
+  "twitter": "openwestconf",
+  "city": "Orem",
+  "stateProvince": "UT",
+  "country": "United States",
+  "eventStartDate": "2015-05-07T04:00:00.000Z",
+  "eventEndDate": "2015-05-09T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.2968979,
+  "longitude": -111.6946475,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"JSConfUY","topic":"","url":"","twitter":"","city":"Montevideo","stateProvince":"","country":"Uruguay","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":-34.9011127,"longitude":-56.16453139999999}
+{
+  "name": "JSConfUY",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Montevideo",
+  "stateProvince": "",
+  "country": "Uruguay",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -34.9011127,
+  "longitude": -56.16453139999999,
+  "cfpUrl": ""
+}

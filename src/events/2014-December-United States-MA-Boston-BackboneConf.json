@@ -1,1 +1,17 @@
-{"name":"BackboneConf","topic":"web platform","url":"http://backboneconf.com","twitter":"@backboneconf","city":"Boston","stateProvince":"MA","country":"United States","eventStartDate":"2014-12-15T05:00:00.000Z","eventEndDate":"2015-12-16T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":42.3600825,"longitude":-71.0588801}
+{
+  "name": "BackboneConf",
+  "topic": "web platform",
+  "url": "http://backboneconf.com",
+  "twitter": "@backboneconf",
+  "city": "Boston",
+  "stateProvince": "MA",
+  "country": "United States",
+  "eventStartDate": "2014-12-15T05:00:00.000Z",
+  "eventEndDate": "2015-12-16T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 42.3600825,
+  "longitude": -71.0588801,
+  "cfpUrl": ""
+}

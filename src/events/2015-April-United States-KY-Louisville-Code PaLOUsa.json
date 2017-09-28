@@ -1,1 +1,17 @@
-{"name":"Code PaLOUsa","topic":"programming","url":"http://www.codepalousa.com/","twitter":"codepalousa","city":"Louisville","stateProvince":"KY","country":"United States","eventStartDate":"2015-04-27T04:00:00.000Z","eventEndDate":"2015-04-30T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":38.2526647,"longitude":-85.7584557}
+{
+  "name": "Code PaLOUsa",
+  "topic": "programming",
+  "url": "http://www.codepalousa.com/",
+  "twitter": "codepalousa",
+  "city": "Louisville",
+  "stateProvince": "KY",
+  "country": "United States",
+  "eventStartDate": "2015-04-27T04:00:00.000Z",
+  "eventEndDate": "2015-04-30T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 38.2526647,
+  "longitude": -85.7584557,
+  "cfpUrl": ""
+}

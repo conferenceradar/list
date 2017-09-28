@@ -1,1 +1,17 @@
-{"name":"devworld","topic":"programming","url":"http://devworld.com.au","twitter":"@AUC_ANZ","city":"Melbourne","stateProvince":"","country":"Australia","eventStartDate":"2015-08-31T04:00:00.000Z","eventEndDate":"2015-09-01T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":-37.8136276,"longitude":144.9630576}
+{
+  "name": "devworld",
+  "topic": "programming",
+  "url": "http://devworld.com.au",
+  "twitter": "@AUC_ANZ",
+  "city": "Melbourne",
+  "stateProvince": "",
+  "country": "Australia",
+  "eventStartDate": "2015-08-31T04:00:00.000Z",
+  "eventEndDate": "2015-09-01T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -37.8136276,
+  "longitude": 144.9630576,
+  "cfpUrl": ""
+}

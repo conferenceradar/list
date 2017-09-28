@@ -1,1 +1,17 @@
-{"name":"SwiftConf","topic":"","url":"http://swiftconf.com/","twitter":"","city":"Cologne","stateProvince":"","country":"Germany","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":50.937531,"longitude":6.9602786}
+{
+  "name": "SwiftConf",
+  "topic": "",
+  "url": "http://swiftconf.com/",
+  "twitter": "",
+  "city": "Cologne",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 50.937531,
+  "longitude": 6.9602786,
+  "cfpUrl": ""
+}

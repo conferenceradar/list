@@ -1,1 +1,17 @@
-{"name":"Midwest Tech Fest","topic":"","url":"","twitter":"","city":"Columbus","stateProvince":"OH","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":39.9611755,"longitude":-82.99879419999999}
+{
+  "name": "Midwest Tech Fest",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Columbus",
+  "stateProvince": "OH",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 39.9611755,
+  "longitude": -82.99879419999999,
+  "cfpUrl": ""
+}

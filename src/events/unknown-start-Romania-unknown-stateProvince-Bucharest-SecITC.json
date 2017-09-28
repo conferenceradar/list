@@ -1,1 +1,17 @@
-{"name":"SecITC","topic":"","url":"http://www.secitc.eu/","twitter":"","city":"Bucharest","stateProvince":"","country":"Romania","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":44.4267674,"longitude":26.1025384}
+{
+  "name": "SecITC",
+  "topic": "",
+  "url": "http://www.secitc.eu/",
+  "twitter": "",
+  "city": "Bucharest",
+  "stateProvince": "",
+  "country": "Romania",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 44.4267674,
+  "longitude": 26.1025384,
+  "cfpUrl": ""
+}

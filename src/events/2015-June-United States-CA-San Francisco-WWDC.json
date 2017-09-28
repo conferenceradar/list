@@ -1,1 +1,17 @@
-{"name":"WWDC","topic":"","url":"http://developer.apple.com/wwdc/","twitter":"N/A","city":"San Francisco","stateProvince":"CA","country":"United States","eventStartDate":"2015-06-08T04:00:00.000Z","eventEndDate":"2015-06-12T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":37.7749295,"longitude":-122.4194155}
+{
+  "name": "WWDC",
+  "topic": "",
+  "url": "http://developer.apple.com/wwdc/",
+  "twitter": "N/A",
+  "city": "San Francisco",
+  "stateProvince": "CA",
+  "country": "United States",
+  "eventStartDate": "2015-06-08T04:00:00.000Z",
+  "eventEndDate": "2015-06-12T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 37.7749295,
+  "longitude": -122.4194155,
+  "cfpUrl": ""
+}

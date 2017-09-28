@@ -1,1 +1,17 @@
-{"name":"Texas LinuxFest","topic":"programming","url":"http://texaslinuxfest.org","twitter":"texaslinuxfest","city":"Austin","stateProvince":"TX","country":"United States","eventStartDate":"2015-08-21T04:00:00.000Z","eventEndDate":"2015-08-22T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":30.267153,"longitude":-97.7430608}
+{
+  "name": "Texas LinuxFest",
+  "topic": "programming",
+  "url": "http://texaslinuxfest.org",
+  "twitter": "texaslinuxfest",
+  "city": "Austin",
+  "stateProvince": "TX",
+  "country": "United States",
+  "eventStartDate": "2015-08-21T04:00:00.000Z",
+  "eventEndDate": "2015-08-22T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 30.267153,
+  "longitude": -97.7430608,
+  "cfpUrl": ""
+}

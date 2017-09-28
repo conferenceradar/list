@@ -1,1 +1,17 @@
-{"name":"php Conference Argentina","topic":"web platform","url":"http://phpconference.com.ar","twitter":"phpconferencear","city":"Buenos Aires","stateProvince":"","country":"Argentina","eventStartDate":"2014-11-07T05:00:00.000Z","eventEndDate":"2014-11-08T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":-34.6036844,"longitude":-58.3815591}
+{
+  "name": "php Conference Argentina",
+  "topic": "web platform",
+  "url": "http://phpconference.com.ar",
+  "twitter": "phpconferencear",
+  "city": "Buenos Aires",
+  "stateProvince": "",
+  "country": "Argentina",
+  "eventStartDate": "2014-11-07T05:00:00.000Z",
+  "eventEndDate": "2014-11-08T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -34.6036844,
+  "longitude": -58.3815591,
+  "cfpUrl": ""
+}

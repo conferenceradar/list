@@ -1,1 +1,17 @@
-{"name":"Ember Fest","topic":"web platform","url":"http://emberfest.eu","twitter":"@emberfest","city":"Cambridge","stateProvince":"","country":"United Kingdom","eventStartDate":"2015-09-08T04:00:00.000Z","eventEndDate":"2015-09-10T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":52.205337,"longitude":0.121817}
+{
+  "name": "Ember Fest",
+  "topic": "web platform",
+  "url": "http://emberfest.eu",
+  "twitter": "@emberfest",
+  "city": "Cambridge",
+  "stateProvince": "",
+  "country": "United Kingdom",
+  "eventStartDate": "2015-09-08T04:00:00.000Z",
+  "eventEndDate": "2015-09-10T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 52.205337,
+  "longitude": 0.121817,
+  "cfpUrl": ""
+}

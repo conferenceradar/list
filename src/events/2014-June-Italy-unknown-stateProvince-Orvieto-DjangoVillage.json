@@ -1,1 +1,17 @@
-{"name":"DjangoVillage","topic":"programming","url":"http://2014.djangovillage.it/en/","twitter":"@djangovillage","city":"Orvieto","stateProvince":"","country":"Italy","eventStartDate":"2014-06-13T04:00:00.000Z","eventEndDate":"2014-06-15T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":42.7185068,"longitude":12.1107446}
+{
+  "name": "DjangoVillage",
+  "topic": "programming",
+  "url": "http://2014.djangovillage.it/en/",
+  "twitter": "@djangovillage",
+  "city": "Orvieto",
+  "stateProvince": "",
+  "country": "Italy",
+  "eventStartDate": "2014-06-13T04:00:00.000Z",
+  "eventEndDate": "2014-06-15T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 42.7185068,
+  "longitude": 12.1107446,
+  "cfpUrl": ""
+}

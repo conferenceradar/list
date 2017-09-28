@@ -1,1 +1,17 @@
-{"name":"Craft Conference","topic":"programming","url":"http://craft-conf.com/","twitter":"@CraftConf","city":"Budapest","stateProvince":"","country":"Hungary","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":47.497912,"longitude":19.040235}
+{
+  "name": "Craft Conference",
+  "topic": "programming",
+  "url": "http://craft-conf.com/",
+  "twitter": "@CraftConf",
+  "city": "Budapest",
+  "stateProvince": "",
+  "country": "Hungary",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 47.497912,
+  "longitude": 19.040235,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"DrupalCon","topic":"web platform","url":"http://www.drupal.org/drupalcon","twitter":"drupalcon","city":"Barcelona","stateProvince":"","country":"Spain","eventStartDate":"2015-09-21T04:00:00.000Z","eventEndDate":"2015-09-25T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":41.3850639,"longitude":2.1734035}
+{
+  "name": "DrupalCon",
+  "topic": "web platform",
+  "url": "http://www.drupal.org/drupalcon",
+  "twitter": "drupalcon",
+  "city": "Barcelona",
+  "stateProvince": "",
+  "country": "Spain",
+  "eventStartDate": "2015-09-21T04:00:00.000Z",
+  "eventEndDate": "2015-09-25T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 41.3850639,
+  "longitude": 2.1734035,
+  "cfpUrl": ""
+}

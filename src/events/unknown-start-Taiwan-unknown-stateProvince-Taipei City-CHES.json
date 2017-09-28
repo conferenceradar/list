@@ -1,1 +1,17 @@
-{"name":"CHES","topic":"","url":"http://www.chesworkshop.org/","twitter":"","city":"Taipei City","stateProvince":"","country":"Taiwan","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":25.0329694,"longitude":121.5654177}
+{
+  "name": "CHES",
+  "topic": "",
+  "url": "http://www.chesworkshop.org/",
+  "twitter": "",
+  "city": "Taipei City",
+  "stateProvince": "",
+  "country": "Taiwan",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 25.0329694,
+  "longitude": 121.5654177,
+  "cfpUrl": ""
+}

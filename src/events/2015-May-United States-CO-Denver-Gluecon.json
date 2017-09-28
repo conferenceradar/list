@@ -1,1 +1,17 @@
-{"name":"Gluecon","topic":"web platform","url":"http://gluecon.com","twitter":"gluecon","city":"Denver","stateProvince":"CO","country":"United States","eventStartDate":"2015-05-20T04:00:00.000Z","eventEndDate":"2015-05-21T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":39.7392358,"longitude":-104.990251}
+{
+  "name": "Gluecon",
+  "topic": "web platform",
+  "url": "http://gluecon.com",
+  "twitter": "gluecon",
+  "city": "Denver",
+  "stateProvince": "CO",
+  "country": "United States",
+  "eventStartDate": "2015-05-20T04:00:00.000Z",
+  "eventEndDate": "2015-05-21T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 39.7392358,
+  "longitude": -104.990251,
+  "cfpUrl": ""
+}

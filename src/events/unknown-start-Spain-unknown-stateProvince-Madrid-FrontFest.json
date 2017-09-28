@@ -1,1 +1,17 @@
-{"name":"FrontFest","topic":"","url":"http://frontfest.es/","twitter":"","city":"Madrid","stateProvince":"","country":"Spain","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.4167754,"longitude":-3.7037902}
+{
+  "name": "FrontFest",
+  "topic": "",
+  "url": "http://frontfest.es/",
+  "twitter": "",
+  "city": "Madrid",
+  "stateProvince": "",
+  "country": "Spain",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.4167754,
+  "longitude": -3.7037902,
+  "cfpUrl": ""
+}

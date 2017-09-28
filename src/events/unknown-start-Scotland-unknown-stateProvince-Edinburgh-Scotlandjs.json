@@ -1,1 +1,17 @@
-{"name":"Scotlandjs","topic":"","url":"http://scotlandjs.com/","twitter":"","city":"Edinburgh","stateProvince":"","country":"Scotland","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":55.953252,"longitude":-3.188267}
+{
+  "name": "Scotlandjs",
+  "topic": "",
+  "url": "http://scotlandjs.com/",
+  "twitter": "",
+  "city": "Edinburgh",
+  "stateProvince": "",
+  "country": "Scotland",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 55.953252,
+  "longitude": -3.188267,
+  "cfpUrl": ""
+}

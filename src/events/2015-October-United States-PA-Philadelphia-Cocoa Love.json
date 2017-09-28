@@ -1,1 +1,17 @@
-{"name":"Cocoa Love","topic":"","url":"http://cocoalove.org","twitter":"@cocoaloveconf","city":"Philadelphia","stateProvince":"PA","country":"United States","eventStartDate":"2015-10-09T04:00:00.000Z","eventEndDate":"2015-10-11T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":39.9525839,"longitude":-75.1652215}
+{
+  "name": "Cocoa Love",
+  "topic": "",
+  "url": "http://cocoalove.org",
+  "twitter": "@cocoaloveconf",
+  "city": "Philadelphia",
+  "stateProvince": "PA",
+  "country": "United States",
+  "eventStartDate": "2015-10-09T04:00:00.000Z",
+  "eventEndDate": "2015-10-11T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 39.9525839,
+  "longitude": -75.1652215,
+  "cfpUrl": ""
+}

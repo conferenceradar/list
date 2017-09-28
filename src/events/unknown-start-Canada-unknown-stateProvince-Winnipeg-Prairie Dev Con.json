@@ -1,1 +1,17 @@
-{"name":"Prairie Dev Con","topic":"","url":"http://www.prairiedevcon.com/","twitter":"","city":"Winnipeg","stateProvince":"","country":"Canada","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"Yes","latitude":49.895136,"longitude":-97.13837439999999}
+{
+  "name": "Prairie Dev Con",
+  "topic": "",
+  "url": "http://www.prairiedevcon.com/",
+  "twitter": "",
+  "city": "Winnipeg",
+  "stateProvince": "",
+  "country": "Canada",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "Yes",
+  "latitude": 49.895136,
+  "longitude": -97.13837439999999,
+  "cfpUrl": ""
+}

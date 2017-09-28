@@ -1,1 +1,17 @@
-{"name":"BruCon","topic":"","url":"http://brucon.org","twitter":"","city":"Bruxelles","stateProvince":"","country":"Belgium","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":50.8503463,"longitude":4.3517211}
+{
+  "name": "BruCon",
+  "topic": "",
+  "url": "http://brucon.org",
+  "twitter": "",
+  "city": "Bruxelles",
+  "stateProvince": "",
+  "country": "Belgium",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 50.8503463,
+  "longitude": 4.3517211,
+  "cfpUrl": ""
+}

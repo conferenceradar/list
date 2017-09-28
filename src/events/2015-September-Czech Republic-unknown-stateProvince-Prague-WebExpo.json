@@ -1,1 +1,17 @@
-{"name":"WebExpo","topic":"web platform","url":"http://webexpo.net/prague2015/","twitter":"@webexpo","city":"Prague","stateProvince":"","country":"Czech Republic","eventStartDate":"2015-09-19T04:00:00.000Z","eventEndDate":"2015-09-20T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":50.0755381,"longitude":14.4378005}
+{
+  "name": "WebExpo",
+  "topic": "web platform",
+  "url": "http://webexpo.net/prague2015/",
+  "twitter": "@webexpo",
+  "city": "Prague",
+  "stateProvince": "",
+  "country": "Czech Republic",
+  "eventStartDate": "2015-09-19T04:00:00.000Z",
+  "eventEndDate": "2015-09-20T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 50.0755381,
+  "longitude": 14.4378005,
+  "cfpUrl": ""
+}

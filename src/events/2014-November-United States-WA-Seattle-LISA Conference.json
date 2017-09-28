@@ -1,1 +1,17 @@
-{"name":"LISA Conference","topic":"web perf/ops","url":"http://www.usenix.org/conference/lisa14","twitter":"lisaconference","city":"Seattle","stateProvince":"WA","country":"United States","eventStartDate":"2014-11-09T05:00:00.000Z","eventEndDate":"2014-11-14T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":47.6062095,"longitude":-122.3320708}
+{
+  "name": "LISA Conference",
+  "topic": "web perf/ops",
+  "url": "http://www.usenix.org/conference/lisa14",
+  "twitter": "lisaconference",
+  "city": "Seattle",
+  "stateProvince": "WA",
+  "country": "United States",
+  "eventStartDate": "2014-11-09T05:00:00.000Z",
+  "eventEndDate": "2014-11-14T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 47.6062095,
+  "longitude": -122.3320708,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"SharePoint Fest Chicago","topic":"sharepoint","url":"http://www.sharepointfest.com/Chicago/","twitter":"@sharepointfest","city":"Chicago","stateProvince":"IL","country":"United States","eventStartDate":"2017-12-05T05:00:00.000Z","eventEndDate":"2017-12-08T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":41.8781136,"longitude":-87.6297982}
+{
+  "name": "SharePoint Fest Chicago",
+  "topic": "sharepoint",
+  "url": "http://www.sharepointfest.com/Chicago/",
+  "twitter": "@sharepointfest",
+  "city": "Chicago",
+  "stateProvince": "IL",
+  "country": "United States",
+  "eventStartDate": "2017-12-05T05:00:00.000Z",
+  "eventEndDate": "2017-12-08T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 41.8781136,
+  "longitude": -87.6297982,
+  "cfpUrl": ""
+}

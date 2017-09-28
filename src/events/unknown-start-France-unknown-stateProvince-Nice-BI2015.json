@@ -1,1 +1,17 @@
-{"name":"BI2015","topic":"","url":"","twitter":"","city":"Nice","stateProvince":"","country":"France","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":43.7101728,"longitude":7.261953200000001}
+{
+  "name": "BI2015",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Nice",
+  "stateProvince": "",
+  "country": "France",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 43.7101728,
+  "longitude": 7.261953200000001,
+  "cfpUrl": ""
+}

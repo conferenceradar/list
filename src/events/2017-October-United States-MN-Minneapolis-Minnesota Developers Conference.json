@@ -1,1 +1,17 @@
-{"name":"Minnesota Developers Conference","topic":"programming","url":"https://mdc.ilmservice.com/","twitter":"minndevconf","city":"Minneapolis","stateProvince":"MN","country":"United States","eventStartDate":"2017-10-02T04:00:00.000Z","eventEndDate":"2017-10-02T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":44.977753,"longitude":-93.2650108}
+{
+  "name": "Minnesota Developers Conference",
+  "topic": "programming",
+  "url": "https://mdc.ilmservice.com/",
+  "twitter": "minndevconf",
+  "city": "Minneapolis",
+  "stateProvince": "MN",
+  "country": "United States",
+  "eventStartDate": "2017-10-02T04:00:00.000Z",
+  "eventEndDate": "2017-10-02T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 44.977753,
+  "longitude": -93.2650108,
+  "cfpUrl": ""
+}

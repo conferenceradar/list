@@ -1,1 +1,17 @@
-{"name":"MtnWestJS 2015","topic":"","url":"","twitter":"","city":"Salt Lake City","stateProvince":"UT","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.7607793,"longitude":-111.8910474}
+{
+  "name": "MtnWestJS 2015",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Salt Lake City",
+  "stateProvince": "UT",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.7607793,
+  "longitude": -111.8910474,
+  "cfpUrl": ""
+}

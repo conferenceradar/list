@@ -1,1 +1,17 @@
-{"name":"Lone Star PHP","topic":"web platform","url":"http://lonestarphp.com/","twitter":"lonestarphp","city":"Dallas","stateProvince":"TX","country":"United States","eventStartDate":"2015-04-16T04:00:00.000Z","eventEndDate":"2015-04-18T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":32.7766642,"longitude":-96.79698789999999}
+{
+  "name": "Lone Star PHP",
+  "topic": "web platform",
+  "url": "http://lonestarphp.com/",
+  "twitter": "lonestarphp",
+  "city": "Dallas",
+  "stateProvince": "TX",
+  "country": "United States",
+  "eventStartDate": "2015-04-16T04:00:00.000Z",
+  "eventEndDate": "2015-04-18T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 32.7766642,
+  "longitude": -96.79698789999999,
+  "cfpUrl": ""
+}

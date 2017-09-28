@@ -14,7 +14,7 @@ events.forEach(event => {
   const eventFileName = `src/events/${dateString}-${countryString}-${stateProvinceString}-${cityString}-${nameString}.json`;
   var stream = fs.createWriteStream(eventFileName);
   stream.once('open', function(fd) {
-    stream.write(JSON.stringify(event));
+    stream.write(JSON.stringify(event, null, '  '));
     stream.end();
   });
 });

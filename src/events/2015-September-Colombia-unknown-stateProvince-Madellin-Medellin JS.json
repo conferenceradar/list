@@ -1,1 +1,17 @@
-{"name":"Medellin JS","topic":"web platform","url":"http://medellinjs.org","twitter":"@MedellinJS","city":"Madellin","stateProvince":"","country":"Colombia","eventStartDate":"2015-09-05T04:00:00.000Z","eventEndDate":"2015-09-05T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":6.244203,"longitude":-75.5812119}
+{
+  "name": "Medellin JS",
+  "topic": "web platform",
+  "url": "http://medellinjs.org",
+  "twitter": "@MedellinJS",
+  "city": "Madellin",
+  "stateProvince": "",
+  "country": "Colombia",
+  "eventStartDate": "2015-09-05T04:00:00.000Z",
+  "eventEndDate": "2015-09-05T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 6.244203,
+  "longitude": -75.5812119,
+  "cfpUrl": ""
+}

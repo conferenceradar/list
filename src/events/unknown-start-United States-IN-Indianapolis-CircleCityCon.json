@@ -1,1 +1,17 @@
-{"name":"CircleCityCon","topic":"","url":"http://circlecitycon.com/","twitter":"","city":"Indianapolis","stateProvince":"IN","country":"United States","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":39.768403,"longitude":-86.158068}
+{
+  "name": "CircleCityCon",
+  "topic": "",
+  "url": "http://circlecitycon.com/",
+  "twitter": "",
+  "city": "Indianapolis",
+  "stateProvince": "IN",
+  "country": "United States",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 39.768403,
+  "longitude": -86.158068,
+  "cfpUrl": ""
+}

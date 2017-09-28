@@ -1,1 +1,17 @@
-{"name":"SaltConf17","topic":"saltstack salt python automation configuration-management","url":"http://saltconf.com/","twitter":"https://twitter.com/saltstack","city":"Salt Lake City","stateProvince":"UT","country":"USA","eventStartDate":"2017-10-31T07:00:00.000Z","eventEndDate":"2017-11-03T07:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":40.7607793,"longitude":-111.8910474}
+{
+  "name": "SaltConf17",
+  "topic": "saltstack salt python automation configuration-management",
+  "url": "http://saltconf.com/",
+  "twitter": "https://twitter.com/saltstack",
+  "city": "Salt Lake City",
+  "stateProvince": "UT",
+  "country": "USA",
+  "eventStartDate": "2017-10-31T07:00:00.000Z",
+  "eventEndDate": "2017-11-03T07:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 40.7607793,
+  "longitude": -111.8910474,
+  "cfpUrl": ""
+}

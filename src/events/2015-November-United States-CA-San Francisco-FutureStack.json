@@ -1,1 +1,17 @@
-{"name":"FutureStack","topic":"web perf/ops","url":"http://futurestack.io/","twitter":"newrelic","city":"San Francisco","stateProvince":"CA","country":"United States","eventStartDate":"2015-11-11T05:00:00.000Z","eventEndDate":"2015-11-13T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":37.7749295,"longitude":-122.4194155}
+{
+  "name": "FutureStack",
+  "topic": "web perf/ops",
+  "url": "http://futurestack.io/",
+  "twitter": "newrelic",
+  "city": "San Francisco",
+  "stateProvince": "CA",
+  "country": "United States",
+  "eventStartDate": "2015-11-11T05:00:00.000Z",
+  "eventEndDate": "2015-11-13T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 37.7749295,
+  "longitude": -122.4194155,
+  "cfpUrl": ""
+}

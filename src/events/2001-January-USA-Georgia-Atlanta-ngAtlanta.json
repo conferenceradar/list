@@ -1,1 +1,17 @@
-{"name":"ngAtlanta","topic":"Diversity, Inclusion, Angular","url":"http://ng-atl.org","twitter":"ngAtlanta","city":"Atlanta","stateProvince":"Georgia","country":"USA","eventStartDate":"2001-01-30T05:00:00.000Z","eventEndDate":"2001-02-02T05:00:00.000Z","cfpStartDate":"","cfpEndDate":"","latitude":34.071394,"longitude":-84.272893,"codeOfConduct":"Yes"}
+{
+  "name": "ngAtlanta",
+  "topic": "Diversity, Inclusion, Angular",
+  "url": "http://ng-atl.org",
+  "twitter": "ngAtlanta",
+  "city": "Atlanta",
+  "stateProvince": "Georgia",
+  "country": "USA",
+  "eventStartDate": "2001-01-30T05:00:00.000Z",
+  "eventEndDate": "2001-02-02T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "latitude": 34.071394,
+  "longitude": -84.272893,
+  "codeOfConduct": "Yes",
+  "cfpUrl": ""
+}

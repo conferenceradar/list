@@ -1,1 +1,17 @@
-{"name":"Frontend United","topic":"","url":"http://frontendunited.org/","twitter":"","city":"Athens","stateProvince":"","country":"Greece","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"Yes","latitude":37.9838096,"longitude":23.7275388}
+{
+  "name": "Frontend United",
+  "topic": "",
+  "url": "http://frontendunited.org/",
+  "twitter": "",
+  "city": "Athens",
+  "stateProvince": "",
+  "country": "Greece",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "Yes",
+  "latitude": 37.9838096,
+  "longitude": 23.7275388,
+  "cfpUrl": ""
+}

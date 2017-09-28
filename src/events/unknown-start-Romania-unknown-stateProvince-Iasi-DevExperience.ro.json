@@ -1,1 +1,17 @@
-{"name":"DevExperience.ro","topic":"","url":"http://devexperience.ro/","twitter":"","city":"Iasi","stateProvince":"","country":"Romania","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":47.1584549,"longitude":27.6014418}
+{
+  "name": "DevExperience.ro",
+  "topic": "",
+  "url": "http://devexperience.ro/",
+  "twitter": "",
+  "city": "Iasi",
+  "stateProvince": "",
+  "country": "Romania",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 47.1584549,
+  "longitude": 27.6014418,
+  "cfpUrl": ""
+}

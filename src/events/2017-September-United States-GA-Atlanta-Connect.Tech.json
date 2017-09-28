@@ -1,1 +1,17 @@
-{"name":"Connect.Tech","topic":"","url":"http://connect.tech/","twitter":"","city":"Atlanta","stateProvince":"GA","country":"United States","eventStartDate":"2017-09-20T04:00:00.000Z","eventEndDate":"2017-09-22T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"Yes","latitude":33.7489954,"longitude":-84.3879824}
+{
+  "name": "Connect.Tech",
+  "topic": "",
+  "url": "http://connect.tech/",
+  "twitter": "",
+  "city": "Atlanta",
+  "stateProvince": "GA",
+  "country": "United States",
+  "eventStartDate": "2017-09-20T04:00:00.000Z",
+  "eventEndDate": "2017-09-22T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "Yes",
+  "latitude": 33.7489954,
+  "longitude": -84.3879824,
+  "cfpUrl": ""
+}

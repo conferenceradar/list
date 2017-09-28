@@ -1,1 +1,17 @@
-{"name":"Ruxcon","topic":"","url":"http://ruxcon.org.au/","twitter":"","city":"Melbourne","stateProvince":"","country":"Australia","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":-37.8136276,"longitude":144.9630576}
+{
+  "name": "Ruxcon",
+  "topic": "",
+  "url": "http://ruxcon.org.au/",
+  "twitter": "",
+  "city": "Melbourne",
+  "stateProvince": "",
+  "country": "Australia",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -37.8136276,
+  "longitude": 144.9630576,
+  "cfpUrl": ""
+}

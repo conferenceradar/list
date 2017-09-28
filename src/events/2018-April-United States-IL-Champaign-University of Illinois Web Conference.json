@@ -1,1 +1,17 @@
-{"name":"University of Illinois Web Conference","topic":"web","url":"http://webcon.illinois.edu/","twitter":"http://twitter.com/#uofiwebcon","city":"Champaign","stateProvince":"IL","country":"United States","eventStartDate":"2018-04-04T04:00:00.000Z","eventEndDate":"2018-04-08T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"http://webcon.illinois.edu/code.pdf","latitude":40.1164204,"longitude":-88.2433829}
+{
+  "name": "University of Illinois Web Conference",
+  "topic": "web",
+  "url": "http://webcon.illinois.edu/",
+  "twitter": "http://twitter.com/#uofiwebcon",
+  "city": "Champaign",
+  "stateProvince": "IL",
+  "country": "United States",
+  "eventStartDate": "2018-04-04T04:00:00.000Z",
+  "eventEndDate": "2018-04-08T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "http://webcon.illinois.edu/code.pdf",
+  "latitude": 40.1164204,
+  "longitude": -88.2433829,
+  "cfpUrl": ""
+}

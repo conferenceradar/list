@@ -1,1 +1,17 @@
-{"name":"Small is Beautiful","topic":"","url":"http://smallisb.com/","twitter":"","city":"Glasgow","stateProvince":"","country":"Scotland","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":55.864237,"longitude":-4.251806}
+{
+  "name": "Small is Beautiful",
+  "topic": "",
+  "url": "http://smallisb.com/",
+  "twitter": "",
+  "city": "Glasgow",
+  "stateProvince": "",
+  "country": "Scotland",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 55.864237,
+  "longitude": -4.251806,
+  "cfpUrl": ""
+}

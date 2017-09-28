@@ -1,1 +1,17 @@
-{"name":"JSConf","topic":"web platform","url":"http://jsconf.com","twitter":"jsconf","city":"Berlin","stateProvince":"","country":"Germany","eventStartDate":"2014-09-13T04:00:00.000Z","eventEndDate":"2014-09-14T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":52.52000659999999,"longitude":13.404954}
+{
+  "name": "JSConf",
+  "topic": "web platform",
+  "url": "http://jsconf.com",
+  "twitter": "jsconf",
+  "city": "Berlin",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "2014-09-13T04:00:00.000Z",
+  "eventEndDate": "2014-09-14T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 52.52000659999999,
+  "longitude": 13.404954,
+  "cfpUrl": ""
+}

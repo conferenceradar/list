@@ -1,1 +1,17 @@
-{"name":"Artifact Conference","topic":"design","url":"http://artifactconf.com","twitter":"artifactconf","city":"Province","stateProvince":"RI","country":"United States","eventStartDate":"2014-09-29T04:00:00.000Z","eventEndDate":"2014-10-01T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":41.8239891,"longitude":-71.4128343}
+{
+  "name": "Artifact Conference",
+  "topic": "design",
+  "url": "http://artifactconf.com",
+  "twitter": "artifactconf",
+  "city": "Province",
+  "stateProvince": "RI",
+  "country": "United States",
+  "eventStartDate": "2014-09-29T04:00:00.000Z",
+  "eventEndDate": "2014-10-01T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 41.8239891,
+  "longitude": -71.4128343,
+  "cfpUrl": ""
+}

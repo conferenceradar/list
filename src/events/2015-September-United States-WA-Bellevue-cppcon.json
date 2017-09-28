@@ -1,1 +1,17 @@
-{"name":"cppcon","topic":"programming","url":"http://cppcon.org/","twitter":"cppcon","city":"Bellevue","stateProvince":"WA","country":"United States","eventStartDate":"2015-09-20T04:00:00.000Z","eventEndDate":"2015-09-25T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":47.6101497,"longitude":-122.2015159}
+{
+  "name": "cppcon",
+  "topic": "programming",
+  "url": "http://cppcon.org/",
+  "twitter": "cppcon",
+  "city": "Bellevue",
+  "stateProvince": "WA",
+  "country": "United States",
+  "eventStartDate": "2015-09-20T04:00:00.000Z",
+  "eventEndDate": "2015-09-25T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 47.6101497,
+  "longitude": -122.2015159,
+  "cfpUrl": ""
+}

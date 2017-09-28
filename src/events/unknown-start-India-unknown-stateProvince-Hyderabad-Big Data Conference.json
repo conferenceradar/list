@@ -1,1 +1,17 @@
-{"name":"Big Data Conference","topic":"","url":"","twitter":"","city":"Hyderabad","stateProvince":"","country":"India","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":17.385044,"longitude":78.486671}
+{
+  "name": "Big Data Conference",
+  "topic": "",
+  "url": "",
+  "twitter": "",
+  "city": "Hyderabad",
+  "stateProvince": "",
+  "country": "India",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 17.385044,
+  "longitude": 78.486671,
+  "cfpUrl": ""
+}

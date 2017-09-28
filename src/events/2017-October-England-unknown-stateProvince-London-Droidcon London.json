@@ -1,1 +1,17 @@
-{"name":"Droidcon London","topic":"Android","url":"http://uk.droidcon.com/","twitter":"","city":"London","stateProvince":"","country":"England","eventStartDate":"2017-10-26T04:00:00.000Z","eventEndDate":"2017-10-27T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":51.5073509,"longitude":-0.1277583}
+{
+  "name": "Droidcon London",
+  "topic": "Android",
+  "url": "http://uk.droidcon.com/",
+  "twitter": "",
+  "city": "London",
+  "stateProvince": "",
+  "country": "England",
+  "eventStartDate": "2017-10-26T04:00:00.000Z",
+  "eventEndDate": "2017-10-27T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 51.5073509,
+  "longitude": -0.1277583,
+  "cfpUrl": ""
+}

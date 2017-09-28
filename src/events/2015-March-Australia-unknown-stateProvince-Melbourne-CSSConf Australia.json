@@ -1,1 +1,17 @@
-{"name":"CSSConf Australia","topic":"web platform","url":"http://cssconf.com.au/","twitter":"@cssconfau","city":"Melbourne","stateProvince":"","country":"Australia","eventStartDate":"2015-03-26T04:00:00.000Z","eventEndDate":"2015-03-27T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":-37.8136276,"longitude":144.9630576}
+{
+  "name": "CSSConf Australia",
+  "topic": "web platform",
+  "url": "http://cssconf.com.au/",
+  "twitter": "@cssconfau",
+  "city": "Melbourne",
+  "stateProvince": "",
+  "country": "Australia",
+  "eventStartDate": "2015-03-26T04:00:00.000Z",
+  "eventEndDate": "2015-03-27T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -37.8136276,
+  "longitude": 144.9630576,
+  "cfpUrl": ""
+}

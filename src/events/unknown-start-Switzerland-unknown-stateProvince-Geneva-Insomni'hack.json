@@ -1,1 +1,17 @@
-{"name":"Insomni'hack","topic":"","url":"http://insomnihack.ch/","twitter":"","city":"Geneva","stateProvince":"","country":"Switzerland","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":46.2043907,"longitude":6.1431577}
+{
+  "name": "Insomni'hack",
+  "topic": "",
+  "url": "http://insomnihack.ch/",
+  "twitter": "",
+  "city": "Geneva",
+  "stateProvince": "",
+  "country": "Switzerland",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 46.2043907,
+  "longitude": 6.1431577,
+  "cfpUrl": ""
+}

@@ -1,1 +1,17 @@
-{"name":"Scottish Ruby Conf","topic":"web platform","url":"http://scottishrubyconference.com","twitter":"scotrubyconf","city":"Perthshire","stateProvince":"","country":"Scotland","eventStartDate":"2014-05-12T04:00:00.000Z","eventEndDate":"2014-05-13T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":56.64568,"longitude":-3.354628}
+{
+  "name": "Scottish Ruby Conf",
+  "topic": "web platform",
+  "url": "http://scottishrubyconference.com",
+  "twitter": "scotrubyconf",
+  "city": "Perthshire",
+  "stateProvince": "",
+  "country": "Scotland",
+  "eventStartDate": "2014-05-12T04:00:00.000Z",
+  "eventEndDate": "2014-05-13T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 56.64568,
+  "longitude": -3.354628,
+  "cfpUrl": ""
+}

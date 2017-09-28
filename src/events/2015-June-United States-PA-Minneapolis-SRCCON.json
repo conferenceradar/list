@@ -1,1 +1,17 @@
-{"name":"SRCCON","topic":"publishing","url":"http://srccon.org","twitter":"srccon","city":"Minneapolis","stateProvince":"PA","country":"United States","eventStartDate":"2015-06-25T04:00:00.000Z","eventEndDate":"2015-06-26T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":44.9405076,"longitude":-93.37566199999999}
+{
+  "name": "SRCCON",
+  "topic": "publishing",
+  "url": "http://srccon.org",
+  "twitter": "srccon",
+  "city": "Minneapolis",
+  "stateProvince": "PA",
+  "country": "United States",
+  "eventStartDate": "2015-06-25T04:00:00.000Z",
+  "eventEndDate": "2015-06-26T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 44.9405076,
+  "longitude": -93.37566199999999,
+  "cfpUrl": ""
+}

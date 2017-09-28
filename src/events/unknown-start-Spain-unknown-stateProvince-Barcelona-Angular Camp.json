@@ -1,1 +1,17 @@
-{"name":"Angular Camp","topic":"","url":"http://angularcamp.org/","twitter":"","city":"Barcelona","stateProvince":"","country":"Spain","eventStartDate":"","eventEndDate":"","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":41.3850639,"longitude":2.1734035}
+{
+  "name": "Angular Camp",
+  "topic": "",
+  "url": "http://angularcamp.org/",
+  "twitter": "",
+  "city": "Barcelona",
+  "stateProvince": "",
+  "country": "Spain",
+  "eventStartDate": "",
+  "eventEndDate": "",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 41.3850639,
+  "longitude": 2.1734035,
+  "cfpUrl": ""
+}

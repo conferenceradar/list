@@ -1,1 +1,17 @@
-{"name":"RealtimeConf EU","topic":"","url":"http://realtimeconf.eu","twitter":"@realtimeconfeu","city":"Lyon","stateProvince":"","country":"France","eventStartDate":"2013-04-22T04:00:00.000Z","eventEndDate":"2013-04-23T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":45.764043,"longitude":4.835659}
+{
+  "name": "RealtimeConf EU",
+  "topic": "",
+  "url": "http://realtimeconf.eu",
+  "twitter": "@realtimeconfeu",
+  "city": "Lyon",
+  "stateProvince": "",
+  "country": "France",
+  "eventStartDate": "2013-04-22T04:00:00.000Z",
+  "eventEndDate": "2013-04-23T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 45.764043,
+  "longitude": 4.835659,
+  "cfpUrl": ""
+}

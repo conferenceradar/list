@@ -1,1 +1,17 @@
-{"name":"CSSConf","topic":"web platform","url":"http://cssconf.eu/","twitter":"@cssconfeu","city":"Berlin","stateProvince":"","country":"Germany","eventStartDate":"2015-09-26T04:00:00.000Z","eventEndDate":"2015-09-26T04:00:00.000Z","cfpStartDate":"","cfpEndDate":"","codeOfConduct":"","latitude":52.52000659999999,"longitude":13.404954}
+{
+  "name": "CSSConf",
+  "topic": "web platform",
+  "url": "http://cssconf.eu/",
+  "twitter": "@cssconfeu",
+  "city": "Berlin",
+  "stateProvince": "",
+  "country": "Germany",
+  "eventStartDate": "2015-09-26T04:00:00.000Z",
+  "eventEndDate": "2015-09-26T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 52.52000659999999,
+  "longitude": 13.404954,
+  "cfpUrl": ""
+}
