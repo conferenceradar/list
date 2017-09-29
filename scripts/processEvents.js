@@ -3,7 +3,6 @@ var eventsDir = 'src/events';
 var readDirR = require('./utils/directoryUtils').readDirR;
 var getFolderNameFromDate = require('./utils/dateUtils').getFolderNameFromDate;
 var moment = require('moment');
-var lzString = require('lz-string');
 
 var archiveWebPath = '/events/';
 var archiveOutputPath = 'public/events/'
@@ -49,8 +48,8 @@ function eventDateSortFunction(a, b) {
 }
 
 function getEventWithKey(event) {
-  const keyItems = `${event.country}-${event.stateProvince}-${event.city}-${event.name}`;
-  const key = lzString.compressToEncodedURIComponent(keyItems)
+  // build a really naive key for use with storing events later
+  const key = `${event.name}:${Math.round(event.latitude)}:${Math.round(event.longitude)}`;
   return Object.assign({}, event, { key })
 }
 
@@ -63,6 +62,7 @@ function buildEventList() {
 
   return {
     addEvents: function addFiles(file) {
+      // TODO: Abstract this stuff 🙃
       if (file.endsWith('.DS_Store')) {
         return;
       }

@@ -1,21 +1,21 @@
 import React from 'react';
-import { ButtonGroupWrapper, ToggleButton } from './styles';
 
-const ButtonGroup = ({onSelect, selected, toggleForm, isMobile}) => {
+import { ButtonGroupWrapper, ToggleButton, DropdownWrapper } from './styles';
+
+const ButtonGroup = ({onChangeData, onChangeFilter, selectedDropdownItem, selectedTab, toggleForm, isMobile, items}) => {
   return (
     <ButtonGroupWrapper className="field has-addons">
       <div className="control">
-        <a className={`button ${selected === 'all' && 'is-primary'}`} onClick={() => onSelect('all')}>
-          <span>All</span>
-        </a>
+        <DropdownWrapper className={`button select ${selectedTab === 'main' && 'is-primary'}`} onClick={() => onChangeFilter('')}>
+            <select className='select' onChange={(e) => { onChangeData(e.target.value) }}>
+              { items.map(item => console.log(item) || (
+                <option value={item} key={item} selected={selectedDropdownItem === item}>{item}</option>
+              ))}
+            </select>
+        </DropdownWrapper>
       </div>
       <div className="control">
-        <a className={`button ${selected === 'upcoming' && 'is-primary'}`} onClick={() => onSelect('upcoming')}>
-          <span>Upcoming</span>
-        </a>
-      </div>
-      <div className="control">
-        <a className={`button ${selected === 'openCfps' && 'is-primary'}`} onClick={() => onSelect('openCfps')}>
+        <a className={`button ${selectedTab === 'openCfps' && 'is-primary'}`} onClick={() => onChangeFilter('openCfps')}>
           <span>Open CFPs</span>
         </a>
       </div>

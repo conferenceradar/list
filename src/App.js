@@ -23,17 +23,73 @@ import {
 } from './styles';
 
 class App extends Component {
-  state = { dataType: 'upcoming', showForm: false, archive: {} }
+  state = {
+    dataType: 'upcoming',
+    showForm: false,
+    additionalFilter: '',
+  }
 
-  componentDidMount() {
-    axios.get(archive[3].path)
-      .then((response) => {
-        this.setState({ archive: { other: response.data }})
+  metadataLookup = {};
+  upcomingLookup = {};
+  metadataKeys = [];
+  // this is kind of tricky -- we are rendering data but controlling it through this.state.dataType
+  data = {};
+
+  constructor() {
+    super();
+
+    //build metadata lookup;
+    archive.map(item => {
+      this.metadataLookup[item.key.toString()] = item;
+    });
+
+    this.metadataKeys = ['upcoming', ...Object.keys(this.metadataLookup)];
+
+    conferences.map(item => {
+      this.upcomingLookup[item.key] = item;
+    });
+
+    this.data['upcoming'] = conferences;
+  }
+
+  loadData = (key) => {
+    // TODO: this is a pretty ugly check -- no-op if key is invalid 
+    if(key !== 'upcoming' && Object.keys(this.metadataLookup).indexOf(key) < 0) {
+      return;
+    }
+
+    // set state and return if we already have this data
+    if(this.data[key]) {
+      this.setState({ dataType: key, additionalFilter: '' });
+      return;
+    }
+
+    // load the data if we don't have it already and update the dataType
+    axios.get(this.metadataLookup[key].path)
+      .then(response => {
+        this.data[key] = response.data;
+        this.setState({ dataType: key, additionalFilter: '' });
       })
   }
 
-  onSelect=(dataType) => {
-    this.setState({ dataType });
+  // TODO: Don't really dig this so much
+  // this branches based on what is calling the change
+  // it's either a filter or it says load new data
+  onChangeFilter=(filter) => {
+    if(filter === this.state.additionalFilter) {
+      return;
+    }
+
+    this.setState(previousState => {
+      return filter === 'openCfps'
+        ? {
+          additionalFilter: filter,
+          dataType: 'upcoming',
+        }
+        : {
+          additionalFilter: filter
+        }
+    });
   }
 
   onToggleForm = () => {
@@ -41,21 +97,17 @@ class App extends Component {
   }
 
   getData = () => {
-    if(this.state.archive && this.state.archive.other) {
-      return this.state.archive.other
-    }
+    const { dataType, additionalFilter } = this.state;
 
-    const { dataType } = this.state;
+    const data = this.data[dataType];
 
-    switch(dataType) {
-      case 'upcoming':
-       conferences 
+    switch(additionalFilter) {
       case 'openCfps':
         return conferences.filter(conference => (
           conference.cfpEndDate && conference.cfpEndDate > moment().toISOString()
         ))
       default:
-        return conferences;
+        return data;
     }
   }
 
@@ -73,8 +125,11 @@ class App extends Component {
         </div>
       </Header>
       <ButtonGroup
-        onSelect={this.onSelect}
-        selected={this.state.dataType}
+        onChangeFilter={this.onChangeFilter}
+        onChangeData={this.loadData}
+        items={this.metadataKeys}
+        selectedDropdownItem={this.state.dataType}
+        selectedTab={this.state.additionalFilter || 'main'}
         toggleForm={this.onToggleForm}
         isMobile={isMobileish()}
       />
