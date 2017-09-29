@@ -23,7 +23,7 @@ import enhanceWithRowData from '../../utils/withRowData';
 export default class VirtualScrollTable extends Component {
   render() {
     const { data } = this.props;
-console.log('data', data[0]['key'])
+
     return (
       <Griddle
         data={data}

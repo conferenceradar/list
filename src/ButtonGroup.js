@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { ButtonGroupWrapper, ToggleButton, DropdownWrapper } from './styles';
+import { ButtonGroupWrapper, ToggleButton, DropdownWrapper, IconWrapperLarge } from './styles';
 
 const ButtonGroup = ({onChangeData, onChangeFilter, selectedDropdownItem, selectedTab, toggleForm, isMobile, items}) => {
   return (
@@ -21,7 +21,13 @@ const ButtonGroup = ({onChangeData, onChangeFilter, selectedDropdownItem, select
       </div>
       <div className="control">
         <a className={`button ${selectedTab === 'myRadar' && 'is-primary'}`} onClick={() => onChangeFilter('myRadar')}>
-          <span>My Radar</span>
+          <span>
+            My Radar
+
+            <IconWrapperLarge>
+              <i className="fa fa-star-o fa-1" aria-hidden="true"></i>
+            </IconWrapperLarge>
+          </span>
         </a>
       </div>
 

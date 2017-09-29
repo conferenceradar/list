@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import withFavorites from '../../utils/withFavorites';
 import withRowData from '../../utils/withRowData';
 import moment from 'moment';
-
+import { IconWrapper } from '../../styles';
 class FavoriteColumn extends Component {
   state = { isSelected: undefined }
 
@@ -25,7 +25,11 @@ class FavoriteColumn extends Component {
                 this.setState({ isSelected: false })
               }}
           >
-            Remove
+          <IconWrapper className="icon">
+            <i className="fa fa-trash-o fa-1" aria-hidden="true"></i>
+          </IconWrapper>
+
+          Remove
           </button>
         )
       : (
@@ -37,7 +41,10 @@ class FavoriteColumn extends Component {
                 this.setState({ isSelected: true })
               }}
           >
-            Add
+          <IconWrapper className="icon">
+            <i className="fa fa-star-o fa-1" aria-hidden="true"></i>
+          </IconWrapper>
+          Add
           </button>
       );
 

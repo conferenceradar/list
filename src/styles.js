@@ -114,3 +114,25 @@ export const DropdownWrapper = styled.span`
     background: none;
   }
 `
+
+export const IconWrapper = styled.span`
+  display: inline-block;
+  margin: 0 5px 0 0 !important;
+
+  i {
+    font-size: 14px !important;
+    margin-top: 2px;
+  }
+`
+
+export const IconWrapperLarge = styled.span`
+  display: inline-block;
+  margin: 0 5px 0 5px !important;
+
+
+  i {
+    font-size: 16px !important;
+    margin-top: 3px;
+    opacity: .5
+  }
+`
