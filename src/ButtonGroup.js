@@ -19,6 +19,12 @@ const ButtonGroup = ({onChangeData, onChangeFilter, selectedDropdownItem, select
           <span>Open CFPs</span>
         </a>
       </div>
+      <div className="control">
+        <a className={`button ${selectedTab === 'myRadar' && 'is-primary'}`} onClick={() => onChangeFilter('myRadar')}>
+          <span>My Radar</span>
+        </a>
+      </div>
+
       { !isMobile &&
         <ToggleButton onClick={toggleForm} className="button is-small">Toggle 'Add Event' Form</ToggleButton>
       }

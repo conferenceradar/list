@@ -3,6 +3,7 @@
 // </disclaimer>
 
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import Add from './Add';
 import conferences from './data/events.json';
 import archive from './data/archiveMetadata.json';
@@ -15,6 +16,7 @@ import DetailsSection from './DetailsSection';
 
 import axios from 'axios';
 
+
 import {
   Header,
   Footer,
@@ -22,7 +24,13 @@ import {
   FooterRight,
 } from './styles';
 
+const FAVORITE_KEY = 'conferenceradar:favorites';
+
 class App extends Component {
+  static childContextTypes = {
+    favorites: PropTypes.object
+  }
+    	
   state = {
     dataType: 'upcoming',
     showForm: false,
@@ -32,6 +40,8 @@ class App extends Component {
   metadataLookup = {};
   upcomingLookup = {};
   metadataKeys = [];
+  favoriteKeys = [];
+
   // this is kind of tricky -- we are rendering data but controlling it through this.state.dataType
   data = {};
 
@@ -50,6 +60,40 @@ class App extends Component {
     });
 
     this.data['upcoming'] = conferences;
+    this.favoriteKeys = this.getFavorites();
+  }
+
+  getChildContext() {
+    return {
+      favorites: {
+        getFavorites: this.getFavorites,
+        setFavorites: this.setFavorites,
+        addItemToFavorites: this.addItemToFavorites,
+        removeItemFromFavorites: this.removeItemFromFavorites,
+      }
+    }
+  }
+
+  getFavorites = () => {
+    const favorites = localStorage.getItem(FAVORITE_KEY);
+    return !!favorites
+      ? JSON.parse(favorites)
+      : [];
+  }
+
+  setFavorites = () => {
+    localStorage.setItem(FAVORITE_KEY, JSON.stringify(this.favoriteKeys));
+  }
+
+  addItemToFavorites = (itemKey) => {
+    this.favoriteKeys.push(itemKey);
+    this.setFavorites();
+  }
+  removeItemFromFavorites = (itemKey) => {
+    // TODO: Make better
+    const items = this.favoriteKeys.filter(item => item !== itemKey);
+    this.favoriteKeys = items;
+    this.setFavorites();
   }
 
   loadData = (key) => {
@@ -105,6 +149,10 @@ class App extends Component {
       case 'openCfps':
         return conferences.filter(conference => (
           conference.cfpEndDate && conference.cfpEndDate > moment().toISOString()
+        ))
+      case 'myRadar':
+        return conferences.filter(conference => (
+          this.favoriteKeys.indexOf(conference.key) >= 0
         ))
       default:
         return data;

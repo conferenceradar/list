@@ -16,13 +16,14 @@ import Filter from './Filter';
 import { sortMethod, locationSortMethod } from '../../utils/sort';
 import EventDate from './EventDate';
 import CfpDate from './CfpDate';
+import FavoriteColumn from './FavoriteColumn';
 
-import enhanceWithRowData from './enhanceWithRowData';
+import enhanceWithRowData from '../../utils/withRowData';
 
 export default class VirtualScrollTable extends Component {
   render() {
     const { data } = this.props;
-
+console.log('data', data[0]['key'])
     return (
       <Griddle
         data={data}
@@ -76,6 +77,14 @@ export default class VirtualScrollTable extends Component {
             customComponent={enhanceWithRowData(CfpDate)}
             sortMethod={sortMethod}
           />
+          { data.length > 0 && data[0]['key'] !== undefined &&
+            <ColumnDefinition
+              id='key'
+              title=' '
+              customComponent={FavoriteColumn}
+              order={5}
+            />
+          }
         </RowDefinition>
       </Griddle>
     )
