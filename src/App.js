@@ -39,13 +39,13 @@ class App extends Component {
     super();
 
     //build metadata lookup;
-    archive.map(item => {
+    archive.forEach(item => {
       this.metadataLookup[item.key.toString()] = item;
     });
 
-    this.metadataKeys = ['upcoming', ...Object.keys(this.metadataLookup)];
+    this.metadataKeys = ['upcoming', ...Object.keys(this.metadataLookup).sort((a, b) => (b - a))];
 
-    conferences.map(item => {
+    conferences.forEach(item => {
       this.upcomingLookup[item.key] = item;
     });
 

@@ -7,9 +7,9 @@ const ButtonGroup = ({onChangeData, onChangeFilter, selectedDropdownItem, select
     <ButtonGroupWrapper className="field has-addons">
       <div className="control">
         <DropdownWrapper className={`button select ${selectedTab === 'main' && 'is-primary'}`} onClick={() => onChangeFilter('')}>
-            <select className='select' onChange={(e) => { onChangeData(e.target.value) }}>
-              { items.map(item => console.log(item) || (
-                <option value={item} key={item} selected={selectedDropdownItem === item}>{item}</option>
+            <select className='select' onChange={(e) => { onChangeData(e.target.value) }} defaultValue={selectedDropdownItem}>
+              { items.map(item => (
+                <option value={item} key={item}>{item}</option>
               ))}
             </select>
         </DropdownWrapper>
