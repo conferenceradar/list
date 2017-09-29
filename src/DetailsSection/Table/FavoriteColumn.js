@@ -2,13 +2,11 @@ import React, { Component } from 'react'
 import withFavorites from '../../utils/withFavorites';
 import withRowData from '../../utils/withRowData';
 import moment from 'moment';
-import { IconWrapper } from '../../styles';
+import { IconWrapper, FavoriteButton } from '../../styles';
 class FavoriteColumn extends Component {
   state = { isSelected: undefined }
 
   render() {
-    debugger;
-    console.log('dates', this.props.rowData.eventStartDate, moment().toISOString(), this.props.rowData.eventStartDate > moment().toISOString() )
     if (this.props.rowData.eventStartDate < moment().toISOString()) {
       return <span />;
     }
@@ -17,7 +15,7 @@ class FavoriteColumn extends Component {
     const isFavorite = favorites.getFavorites().indexOf(this.props.value) >= 0;
     return this.state.isSelected || isFavorite
       ? (
-          <button
+          <FavoriteButton
             className='button is-small is-outlined is-danger'
             onClick={
               () => {
@@ -30,10 +28,10 @@ class FavoriteColumn extends Component {
           </IconWrapper>
 
           Remove
-          </button>
+          </FavoriteButton>
         )
       : (
-          <button
+          <FavoriteButton
             className='button is-small is-outlined is-primary'
             onClick={
               () => {
@@ -45,7 +43,7 @@ class FavoriteColumn extends Component {
             <i className="fa fa-star-o fa-1" aria-hidden="true"></i>
           </IconWrapper>
           Add
-          </button>
+          </FavoriteButton>
       );
 
   }

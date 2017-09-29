@@ -136,3 +136,8 @@ export const IconWrapperLarge = styled.span`
     opacity: .5
   }
 `
+
+export const FavoriteButton = styled.button`
+  width: 90px;
+  max-width: 90px;
+`

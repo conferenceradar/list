@@ -32,7 +32,7 @@ const ButtonGroup = ({onChangeData, onChangeFilter, selectedDropdownItem, select
       </div>
 
       { !isMobile &&
-        <ToggleButton onClick={toggleForm} className="button is-small">Toggle 'Add Event' Form</ToggleButton>
+        <ToggleButton onClick={toggleForm} className="button is-small">Add Event</ToggleButton>
       }
     </ButtonGroupWrapper>
   )
