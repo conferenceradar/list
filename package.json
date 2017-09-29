@@ -9,10 +9,12 @@
     "react-scripts": "1.0.13"
   },
   "dependencies": {
+    "axios": "^0.16.2",
     "geocoder": "^0.2.3",
     "google-map-react": "^0.24.0",
     "griddle-react": "1.9.0",
     "lodash.debounce": "^4.0.8",
+    "lz-string": "^1.4.4",
     "moment": "^2.18.1",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
@@ -22,7 +24,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "node scripts/processEvents.js && react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",

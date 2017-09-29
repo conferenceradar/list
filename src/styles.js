@@ -94,3 +94,23 @@ width: 100%;
 justify-content: center !important; /* :( */
 `;
 
+export const DropdownWrapper = styled.span`
+  padding: 0px;
+
+  &.is-primary {
+    select {
+      color: #FFF;
+    }
+
+    ::after {
+      border-color: #FFF;
+    }
+
+  }
+  select {
+    text-transform: capitalize;
+
+    max-height: 35px;
+    background: none;
+  }
+`
