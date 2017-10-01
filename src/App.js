@@ -15,13 +15,15 @@ import { getCompressedObject, getDecompressedObject } from './utils/compressionU
 import DetailsSection from './DetailsSection';
 import Share from './Share';
 import axios from 'axios';
-
+import { Link } from 'react-router-dom';
 
 import {
   Header,
   Footer,
   FooterLeft,
   FooterRight,
+  ButtonGroupWrapper,
+  SharedHeadingWrapper
 } from './styles';
 
 const FAVORITE_KEY = 'conferenceradar:favorites';
@@ -164,8 +166,24 @@ class App extends Component {
     this.setState(prevState => ({ showShare: !prevState.showShare, showForm: false }))
   }
 
+  getSharedTitle = () => {
+    const { isShared, title } = this.props;
+
+    if(isShared) {
+      return <h2>{getDecompressedObject(title)} <span>(shared)</span></h2>
+    }
+  }
+
   getData = () => {
     const { dataType, additionalFilter } = this.state;
+    const { isShared, list } = this.props;
+
+    if(isShared) {
+      const items = this.unwrapFavoriteKeys(getDecompressedObject(list));
+      return conferences.filter(conference => (
+        items.indexOf(conference.key) >= 0
+      ))
+    }
 
     const data = this.data[dataType];
 
@@ -185,6 +203,7 @@ class App extends Component {
 
   render() {
     const data = this.getData();
+    const sharedTitle = this.getSharedTitle();
     return (
       <div>
       <Header>
@@ -196,21 +215,29 @@ class App extends Component {
           <a href="https://github.com/conferenceradar/list">Contribute to this project on GitHub</a>
         </div>
       </Header>
-      <ButtonGroup
-        onChangeFilter={this.onChangeFilter}
-        onChangeData={this.loadData}
-        items={this.metadataKeys}
-        selectedDropdownItem={this.state.dataType}
-        selectedTab={this.state.additionalFilter || 'main'}
-        toggleForm={this.onToggleForm}
-        toggleShare={this.onToggleShare}
-        isMobile={isMobileish()}
-        showShare={this.state.showShare}
-        showForm={this.state.showForm}
-      />
+      { this.props.isShared
+          ? (
+              <SharedHeadingWrapper>
+                <Link to='/'>Back to all listings</Link>
+                { sharedTitle }
+              </SharedHeadingWrapper>
+            )
+          : (
+            <ButtonGroup
+              onChangeFilter={this.onChangeFilter}
+              onChangeData={this.loadData}
+              items={this.metadataKeys}
+              selectedDropdownItem={this.state.dataType}
+              selectedTab={this.state.additionalFilter || 'main'}
+              toggleForm={this.onToggleForm}
+              toggleShare={this.onToggleShare}
+              isMobile={isMobileish()}
+              showShare={this.state.showShare}
+              showForm={this.state.showForm}
+            />)
+      }
       { !isMobileish() && this.state.showForm && <Add /> }
       { !isMobileish() && this.state.showShare && <Share /> }
-
       <DetailsSection data={data} />
       <Footer>
         <FooterLeft>

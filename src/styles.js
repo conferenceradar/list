@@ -189,3 +189,17 @@ export const CopyIconWrapper = styled(IconWrapper)`
     margin-top: 5px;
   }
 `
+
+export const SharedHeadingWrapper = styled.div`
+  margin-top: 100px;
+  padding-left: 15px;
+
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+
+    span {
+      opacity: .5;
+    }
+  }
+`
