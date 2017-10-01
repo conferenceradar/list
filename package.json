@@ -16,9 +16,12 @@
     "lodash.debounce": "^4.0.8",
     "lz-string": "^1.4.4",
     "moment": "^2.18.1",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.6.0",
     "react": "^15.6.1",
+    "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^15.6.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
     "sanitize-filename": "^1.6.1",
     "styled-components": "^2.1.2"
   },

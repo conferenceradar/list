@@ -2,9 +2,12 @@ import styled from 'styled-components';
 import settings from './settings';
 
 export const ToggleButton = styled.button`
-margin-left:30px;
-margin-top: 5px;
+  margin: 5px 0 0 -1px;
 `;
+
+export const SecondaryButtonGroup = styled.div`
+  margin-left: 30px;
+`
 
 export const Header = styled.header`
 height: 80px;
@@ -112,5 +115,91 @@ export const DropdownWrapper = styled.span`
 
     max-height: 35px;
     background: none;
+  }
+`
+
+export const IconWrapper = styled.span`
+  display: inline-block;
+  margin: 0 5px 0 0 !important;
+
+  i {
+    font-size: 14px !important;
+    margin-top: 2px;
+  }
+`
+
+export const IconWrapperLarge = styled.span`
+  display: inline-block;
+  margin: 0 5px 0 5px !important;
+
+
+  i {
+    font-size: 16px !important;
+    margin-top: 3px;
+    opacity: .5
+  }
+`
+
+export const FavoriteButton = styled.button`
+  width: 90px;
+  max-width: 90px;
+`
+
+export const SmallParagraph = styled.small`
+  display: block;
+  margin-top: 20px;
+  line-height: 1.25em;
+  opacity: 0.65;
+`
+
+export const InlineLabel = styled.label`
+  span {
+    margin: 8px 5px 0 0;
+    display: inline-block;
+  }
+
+  input {
+    width: 450px;
+  }
+
+  button {
+    position: relative;
+    left: -4px;
+  }
+`;
+
+/* TODO: clean all these styles up */
+export const ShareWrapper = styled.div`
+  width: 100%;
+
+  >div {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  >div:nth-child(1) {
+    padding-top: 15px;
+    border-top: 3px solid #EDEDED;
+  }
+`
+
+export const CopyIconWrapper = styled(IconWrapper)`
+  i {
+    margin-top: 5px;
+  }
+`
+
+export const SharedHeadingWrapper = styled.div`
+  margin-top: 100px;
+  padding-left: 15px;
+
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+
+    span {
+      opacity: .5;
+    }
   }
 `
