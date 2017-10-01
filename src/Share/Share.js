@@ -12,7 +12,7 @@ export default class Share extends Component {
     const { title } = this.state;
     const { favorites: { getCompressedFavorites }} = this.props;
 
-    return `http://www.conferenceradar.com/shared/${getCompressedObject(title)}/${getCompressedFavorites()}`
+    return `https://www.conferenceradar.com/shared/${getCompressedObject(title)}/${getCompressedFavorites()}`
   }
 
   onTitleChange = ({target: {value: title}}) => {
