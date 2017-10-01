@@ -7,13 +7,13 @@ import PropTypes from 'prop-types';
 import Add from './Add';
 import conferences from './data/events.json';
 import archive from './data/archiveMetadata.json';
-
 import './App.css';
 import moment from 'moment';
 import ButtonGroup from './ButtonGroup';
 import { isMobileish } from './utils/layoutUtils';
+import { getCompressedObject, getDecompressedObject } from './utils/compressionUtils';
 import DetailsSection from './DetailsSection';
-
+import Share from './Share';
 import axios from 'axios';
 
 
@@ -66,10 +66,13 @@ class App extends Component {
   getChildContext() {
     return {
       favorites: {
+        favoriteKeys: this.favoriteKeys,
         getFavorites: this.getFavorites,
         setFavorites: this.setFavorites,
         addItemToFavorites: this.addItemToFavorites,
         removeItemFromFavorites: this.removeItemFromFavorites,
+        // TODO: Clean this up -- pretty messy
+        getCompressedFavorites: () => { return getCompressedObject(this.wrapFavoriteKeys(this.favoriteKeys)) }
       }
     }
   }
@@ -77,18 +80,35 @@ class App extends Component {
   getFavorites = () => {
     const favorites = localStorage.getItem(FAVORITE_KEY);
     return !!favorites
-      ? JSON.parse(favorites)
+      ? this.unwrapFavoriteKeys(getDecompressedObject(favorites))
       : [];
   }
 
+  // This is to make it so we can have versions of the 
+  // favorite keys objects that get saved to local storage and shared
+  // we are basically hardcoding this all to version: 0 for now
+  // because I do think we will want to change some things moving forward.
+  wrapFavoriteKeys = (favoriteKeys) => {
+    return {
+      version: 0,
+      favoriteKeys
+    }
+  }
+
+  unwrapFavoriteKeys = (obj) => {
+    return obj.favoriteKeys;
+  }
+
   setFavorites = () => {
-    localStorage.setItem(FAVORITE_KEY, JSON.stringify(this.favoriteKeys));
+    const wrapped = this.wrapFavoriteKeys(this.favoriteKeys);
+    return localStorage.setItem(FAVORITE_KEY, getCompressedObject(wrapped));
   }
 
   addItemToFavorites = (itemKey) => {
     this.favoriteKeys.push(itemKey);
     this.setFavorites();
   }
+
   removeItemFromFavorites = (itemKey) => {
     // TODO: Make better
     const items = this.favoriteKeys.filter(item => item !== itemKey);
@@ -137,7 +157,11 @@ class App extends Component {
   }
 
   onToggleForm = () => {
-    this.setState(prevState => ({ showForm: !prevState.showForm }))
+    this.setState(prevState => ({ showForm: !prevState.showForm, showShare: false }))
+  }
+
+  onToggleShare = () => {
+    this.setState(prevState => ({ showShare: !prevState.showShare, showForm: false }))
   }
 
   getData = () => {
@@ -179,9 +203,14 @@ class App extends Component {
         selectedDropdownItem={this.state.dataType}
         selectedTab={this.state.additionalFilter || 'main'}
         toggleForm={this.onToggleForm}
+        toggleShare={this.onToggleShare}
         isMobile={isMobileish()}
+        showShare={this.state.showShare}
+        showForm={this.state.showForm}
       />
       { !isMobileish() && this.state.showForm && <Add /> }
+      { !isMobileish() && this.state.showShare && <Share /> }
+
       <DetailsSection data={data} />
       <Footer>
         <FooterLeft>
