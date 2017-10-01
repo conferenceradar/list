@@ -42,13 +42,7 @@ export default class Share extends Component {
         </div>
         <div>
           <SmallParagraph>
-            This builds a shareable link to ConferenceRadar. This is a simple version of sharing for now and will only
-            work against upcoming events.
-          </SmallParagraph>
-          <SmallParagraph>
-            Additionally, the links contain the drive the state of the list. This means that since we are not currently 
-            using a database, any items added to "Your Radar" after sending will only show up for you and not folks that are
-            recipients of your list. You can share your list at a later time with updated information.
+            This builds a shareable link to ConferenceRadar. This is a point-in-time link and will not update as you add more items to your radar.
           </SmallParagraph>
         </div>
       </ShareWrapper>
