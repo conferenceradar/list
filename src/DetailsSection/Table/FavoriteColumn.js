@@ -12,7 +12,8 @@ class FavoriteColumn extends Component {
     }
 
     const { favorites, value } = this.props;
-    const isFavorite = favorites.favoriteKeys.indexOf(this.props.value) >= 0;
+
+    const isFavorite = favorites.getFavorites().indexOf(this.props.value) >= 0;
 
     const isSelected = this.state.isSelected === undefined
       ? isFavorite
