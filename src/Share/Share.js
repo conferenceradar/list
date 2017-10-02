@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import {CopyToClipboard} from 'react-copy-to-clipboard';
 
-import { SmallParagraph, InlineInput, InlineLabel, ShareWrapper, CopyIconWrapper } from '../styles';
-import { getCompressedObject, getDecompressedObject } from '../utils/compressionUtils'
+import { SmallParagraph, InlineLabel, ShareWrapper, CopyIconWrapper } from '../styles';
+import { getCompressedObject } from '../utils/compressionUtils'
 export default class Share extends Component {
   titleElement;
 

@@ -22,7 +22,6 @@ import {
   Footer,
   FooterLeft,
   FooterRight,
-  ButtonGroupWrapper,
   SharedHeadingWrapper
 } from './styles';
 

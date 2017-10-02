@@ -13,7 +13,12 @@ class FavoriteColumn extends Component {
 
     const { favorites, value } = this.props;
     const isFavorite = favorites.favoriteKeys.indexOf(this.props.value) >= 0;
-    return this.state.isSelected || isFavorite
+
+    const isSelected = this.state.isSelected === undefined
+      ? isFavorite
+      : this.state.isSelected;
+
+    return isSelected
       ? (
           <FavoriteButton
             className='button is-small is-outlined is-danger'
