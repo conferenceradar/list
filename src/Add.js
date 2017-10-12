@@ -3,6 +3,7 @@ import moment from 'moment';
 import styled from 'styled-components';
 import geocoder from 'geocoder';
 import { mapKey } from './mapKey';
+import fileDownload from 'js-file-download';
 
 const AddWrapper = styled.div`
   p {
@@ -95,6 +96,9 @@ export default class Form extends React.Component {
       this.setState({ outputText: JSON.stringify(newObject, null, '  ')});
     }, { key: mapKey });
   }
+  saveJSON = () => {
+    fileDownload(this.state.outputText, 'event.json');
+  }
   render() {
     return (
       <AddWrapper>
@@ -157,6 +161,7 @@ export default class Form extends React.Component {
         </Left>
         <Right>
           <TextArea className="textArea" type="text" value={this.state.outputText} rows="20"/>
+          <Button className="button" onClick={this.saveJSON}>Save As...</Button>
         </Right>
       </LayoutWrapper>
       </AddWrapper>
