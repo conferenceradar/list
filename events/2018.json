@@ -148,7 +148,7 @@
     "codeOfConduct": "https://2018.conc.at/#coc",
     "latitude": 47.80949,
     "longitude": 13.05501,
-    "cfpUrl": ""
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScsqaGmwRfMLFbImrCuB_-r09KIV6AgC5LMQFf64V53OAEuVw/viewform"
   },
   {
     "name": "ConFoo Montreal",
@@ -336,6 +336,22 @@
     "latitude": 35.9606384,
     "longitude": -83.9207392,
     "cfpUrl": ""
+  },
+  {
+    "name": "React Finland",
+    "topic": "React",
+    "url": "https://react-finland.fi/",
+    "twitter": "@ReactFinland",
+    "city": "Helsinki",
+    "stateProvince": "",
+    "country": "Finland",
+    "eventStartDate": "2018-04-23T22:00:00.000Z",
+    "eventEndDate": "2018-04-25T22:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 60.192059,
+    "longitude": 24.945831
   },
   {
     "name": "Front End Design Conference",
