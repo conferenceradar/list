@@ -10,8 +10,8 @@
   "eventEndDate": "2018-05-02T04:00:00.000Z",
   "cfpStartDate": "2017-10-24T04:00:00.000Z",
   "cfpEndDate": "2017-11-14T05:00:00.000Z",
-  "codeOfConduct": "yes",
+  "codeOfConduct": "http://www.oreilly.com/conferences/code-of-conduct.html",
   "latitude": 40.712775,
   "longitude": -74.005973,
-  "cfpUrl": "http://www.oreilly.com/conferences/code-of-conduct.html"
+  "cfpUrl": "https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/cfp/595"
 }

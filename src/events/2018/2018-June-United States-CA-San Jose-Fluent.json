@@ -10,8 +10,8 @@
   "eventEndDate": "2018-06-14T04:00:00.000Z",
   "cfpStartDate": "2017-10-24T04:00:00.000Z",
   "cfpEndDate": "2017-12-08T05:00:00.000Z",
-  "codeOfConduct": "yes",
+  "codeOfConduct": "http://www.oreilly.com/conferences/code-of-conduct.html",
   "latitude": 37.338208,
   "longitude": -121.886329,
-  "cfpUrl": "http://www.oreilly.com/conferences/code-of-conduct.html"
+  "cfpUrl": "https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606"
 }
