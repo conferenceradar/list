@@ -185,6 +185,23 @@
     "cfpUrl": ""
   },
   {
+    "name": "Mini NDC Copenhagen",
+    "topic": "Software Developers Conference",
+    "url": "https://cph.ndcmini.com",
+    "twitter": "https://twitter.com/ndc_conferences",
+    "city": "Copenhagen",
+    "stateProvince": "",
+    "country": "Denmark",
+    "eventStartDate": "2018-03-14T05:00:00.000Z",
+    "eventEndDate": "2018-03-16T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 55.676097,
+    "longitude": 12.568337,
+    "cfpUrl": ""
+  },
+  {
     "name": "Game Developers Conference",
     "topic": "",
     "url": "",
@@ -234,6 +251,20 @@
     "latitude": 51.7520209,
     "longitude": -1.2577263,
     "cfpUrl": ""
+  },
+  {
+    "name": "Code PaLOUsa 2018",
+    "topic": "software development conference",
+    "url": "http://www.codepalousa.com/",
+    "twitter": "https://twitter.com/CodePaLOUsa",
+    "city": "Louisville",
+    "stateProvince": "KY",
+    "country": "USA",
+    "eventStartDate": "2018-03-28T04:00:00.000Z",
+    "eventEndDate": "2018-03-30T04:00:00.000Z",
+    "cfpStartDate": "2017-12-18T05:00:00.000Z",
+    "cfpEndDate": "",
+    "codeOfConduct": "http://www.codepalousa.com/Resources/14"
   },
   {
     "name": "University of Illinois Web Conference",
@@ -304,6 +335,23 @@
     "cfpUrl": ""
   },
   {
+    "name": "Amegala Indy.Code()",
+    "topic": "Software development",
+    "url": "https://indycode.amegala.com/",
+    "twitter": "https://twitter.com/amegala",
+    "city": "Indianapolis",
+    "stateProvince": "IN",
+    "country": "USA",
+    "eventStartDate": "2018-04-16T04:00:00.000Z",
+    "eventEndDate": "2018-04-18T04:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "https://indycode.amegala.com/Conduct",
+    "latitude": 39.768403,
+    "longitude": -86.158068,
+    "cfpUrl": ""
+  },
+  {
     "name": "NG-Conf",
     "topic": "javascript, angular",
     "url": "https://www.ng-conf.org/",
@@ -313,12 +361,12 @@
     "country": "United States",
     "eventStartDate": "2018-04-18T04:00:00.000Z",
     "eventEndDate": "2018-04-20T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
+    "cfpStartDate": "2017-10-26T04:00:00.000Z",
+    "cfpEndDate": "2018-15-01T11:59:00.000Z",
     "codeOfConduct": "",
     "latitude": 40.7607793,
     "longitude": -111.8910474,
-    "cfpUrl": ""
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc_sWRfsyNsq7CRdHqjLaSM_bgL_z-WoEHAltQr8a-2y4yKmg/viewform"
   },
   {
     "name": "Codestock",
@@ -371,6 +419,23 @@
     "cfpUrl": ""
   },
   {
+    "name": "O'Reilly AI Conference",
+    "topic": "Artificial Intelligence",
+    "url": "https://conferences.oreilly.com/artificial-intelligence/ai-ny",
+    "twitter": "https://twitter.com/TheAIConf",
+    "city": "New York",
+    "stateProvince": "NY",
+    "country": "USA",
+    "eventStartDate": "2018-04-29T04:00:00.000Z",
+    "eventEndDate": "2018-05-02T04:00:00.000Z",
+    "cfpStartDate": "2017-10-24T04:00:00.000Z",
+    "cfpEndDate": "2017-11-14T05:00:00.000Z",
+    "codeOfConduct": "http://www.oreilly.com/conferences/code-of-conduct.html",
+    "latitude": 40.712775,
+    "longitude": -74.005973,
+    "cfpUrl": "https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/cfp/595"
+  },
+  {
     "name": "JS Day",
     "topic": "",
     "url": "http://jsday.it/",
@@ -388,21 +453,21 @@
     "cfpUrl": ""
   },
   {
-    "name": "Strata Conf",
-    "topic": "",
+    "name": "O'Reilly Strata",
+    "topic": "Data Conference",
     "url": "http://strataconf.com",
-    "twitter": "",
+    "twitter": "https://twitter.com/strataconf",
     "city": "London",
     "stateProvince": "",
     "country": "United Kingdom",
     "eventStartDate": "2018-05-21T04:00:00.000Z",
     "eventEndDate": "2018-05-24T04:00:00.000Z",
-    "cfpStartDate": "",
-    "cfpEndDate": "",
-    "codeOfConduct": "",
+    "cfpStartDate": "2017-10-24T04:00:00.000Z",
+    "cfpEndDate": "2017-11-21T05:00:00.000Z",
+    "codeOfConduct": "http://www.oreilly.com/conferences/code-of-conduct.html",
     "latitude": 51.5073509,
     "longitude": -0.1277583,
-    "cfpUrl": ""
+    "cfpUrl": "https://conferences.oreilly.com/strata/strata-eu/public/cfp/599"
   },
   {
     "name": "Front-Trends",
@@ -422,6 +487,40 @@
     "cfpUrl": ""
   },
   {
+    "name": "O'Reilly Fluent",
+    "topic": "Web technologies",
+    "url": "https://conferences.oreilly.com/fluent/fl-ca",
+    "twitter": "https://twitter.com/fluentconf",
+    "city": "San Jose",
+    "stateProvince": "CA",
+    "country": "USA",
+    "eventStartDate": "2018-06-11T04:00:00.000Z",
+    "eventEndDate": "2018-06-14T04:00:00.000Z",
+    "cfpStartDate": "2017-10-24T04:00:00.000Z",
+    "cfpEndDate": "2017-12-08T05:00:00.000Z",
+    "codeOfConduct": "http://www.oreilly.com/conferences/code-of-conduct.html",
+    "latitude": 37.338208,
+    "longitude": -121.886329,
+    "cfpUrl": "https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606"
+  },
+  {
+    "name": "NDC Oslo",
+    "topic": "Software Developers Conference",
+    "url": "https://ndcoslo.com/",
+    "twitter": "https://twitter.com/ndc_conferences",
+    "city": "Oslo",
+    "stateProvince": "",
+    "country": "Norway",
+    "eventStartDate": "2018-06-11T05:00:00.000Z",
+    "eventEndDate": "2018-06-15T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": 59.913869,
+    "longitude": 10.752245,
+    "cfpUrl": ""
+  },
+  {
     "name": "That Conference 2018",
     "topic": "Polyglot technology, Languages, Platforms, Methodologies, Hardware",
     "url": "http://www.ThatConference.com",
@@ -436,6 +535,23 @@
     "codeOfConduct": "",
     "latitude": 43.5703422,
     "longitude": -89.7728691,
+    "cfpUrl": ""
+  },
+  {
+    "name": "NDC Sydney",
+    "topic": "Software Developers Conference",
+    "url": "https://ndcsydney.com/",
+    "twitter": "https://twitter.com/ndc_conferences",
+    "city": "Sydney",
+    "stateProvince": "New South Wales",
+    "country": "Australia",
+    "eventStartDate": "2018-09-17T05:00:00.000Z",
+    "eventEndDate": "2018-09-21T05:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "",
+    "codeOfConduct": "",
+    "latitude": -33.86882,
+    "longitude": 151.209296,
     "cfpUrl": ""
   }
 ]
