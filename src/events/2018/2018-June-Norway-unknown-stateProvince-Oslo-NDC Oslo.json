@@ -1,0 +1,17 @@
+{
+  "name": "NDC Oslo",
+  "topic": "Software Developers Conference",
+  "url": "https://ndcoslo.com/",
+  "twitter": "https://twitter.com/ndc_conferences",
+  "city": "Oslo",
+  "stateProvince": "",
+  "country": "Norway",
+  "eventStartDate": "2018-06-11T05:00:00.000Z",
+  "eventEndDate": "2018-06-15T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 59.913869,  
+  "longitude": 10.752245,
+  "cfpUrl": ""
+}

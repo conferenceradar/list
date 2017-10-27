@@ -1,0 +1,17 @@
+{
+  "name": "O'Reilly AI Conference",
+  "topic": "Artificial Intelligence",
+  "url": "https://conferences.oreilly.com/artificial-intelligence/ai-ny",
+  "twitter": "https://twitter.com/TheAIConf",
+  "city": "New York",
+  "stateProvince": "NY",
+  "country": "USA",
+  "eventStartDate": "2018-04-29T04:00:00.000Z",
+  "eventEndDate": "2018-05-02T04:00:00.000Z",
+  "cfpStartDate": "2017-10-24T04:00:00.000Z",
+  "cfpEndDate": "2017-11-14T05:00:00.000Z",
+  "codeOfConduct": "http://www.oreilly.com/conferences/code-of-conduct.html",
+  "latitude": 40.712775,
+  "longitude": -74.005973,
+  "cfpUrl": "https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/cfp/595"
+}

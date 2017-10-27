@@ -1,0 +1,17 @@
+{
+  "name": "NDC Sydney",
+  "topic": "Software Developers Conference",
+  "url": "https://ndcsydney.com/",
+  "twitter": "https://twitter.com/ndc_conferences",
+  "city": "Sydney",
+  "stateProvince": "New South Wales",
+  "country": "Australia",
+  "eventStartDate": "2018-09-17T05:00:00.000Z",
+  "eventEndDate": "2018-09-21T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -33.868820,  
+  "longitude": 151.209296,
+  "cfpUrl": ""
+}
