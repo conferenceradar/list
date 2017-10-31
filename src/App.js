@@ -31,7 +31,7 @@ class App extends Component {
   static childContextTypes = {
     favorites: PropTypes.object
   }
-    	
+
   state = {
     dataType: 'upcoming',
     showForm: false,
@@ -85,7 +85,7 @@ class App extends Component {
       : [];
   }
 
-  // This is to make it so we can have versions of the 
+  // This is to make it so we can have versions of the
   // favorite keys objects that get saved to local storage and shared
   // we are basically hardcoding this all to version: 0 for now
   // because I do think we will want to change some things moving forward.
@@ -118,7 +118,7 @@ class App extends Component {
   }
 
   loadData = (key) => {
-    // TODO: this is a pretty ugly check -- no-op if key is invalid 
+    // TODO: this is a pretty ugly check -- no-op if key is invalid
     if(key !== 'upcoming' && Object.keys(this.metadataLookup).indexOf(key) < 0) {
       return;
     }
@@ -205,27 +205,28 @@ class App extends Component {
     const sharedTitle = this.getSharedTitle();
     return (
       <div>
-      <Header>
-        <h1>Conference Radar</h1>
-        <div>
-          <p>
-            Know of a conference not listed? Notice an issue?
-          </p>
-          <a href="https://github.com/conferenceradar/list">Contribute to this project on GitHub</a>
-        </div>
-      </Header>
-      { this.props.isShared
+        <Header>
+          <h1>Conference Radar</h1>
+          <div>
+            <p>
+              Know of a conference not listed? Notice an issue?
+            </p>
+            <a href="https://github.com/conferenceradar/list">Contribute to this project on GitHub</a>
+          </div>
+        </Header>
+        { this.props.isShared
           ? (
-              <SharedHeadingWrapper>
-                <Link to='/'>Back to all listings</Link>
-                { sharedTitle }
-              </SharedHeadingWrapper>
-            )
+            <SharedHeadingWrapper>
+              <Link to='/'>Back to all listings</Link>
+              { sharedTitle }
+            </SharedHeadingWrapper>
+          )
           : (
             <ButtonGroup
               onChangeFilter={this.onChangeFilter}
               onChangeData={this.loadData}
               items={this.metadataKeys}
+              value={this.state.dataType}
               selectedDropdownItem={this.state.dataType}
               selectedTab={this.state.additionalFilter || 'main'}
               toggleForm={this.onToggleForm}
@@ -234,9 +235,9 @@ class App extends Component {
               showShare={this.state.showShare}
               showForm={this.state.showForm}
             />)
-      }
-      { !isMobileish() && this.state.showForm && <Add /> }
-      { !isMobileish() && this.state.showShare && <Share /> }
+        }
+        { !isMobileish() && this.state.showForm && <Add /> }
+        { !isMobileish() && this.state.showShare && <Share /> }
       <DetailsSection data={data} />
       <Footer>
         <FooterLeft>

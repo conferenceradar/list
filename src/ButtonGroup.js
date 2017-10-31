@@ -18,11 +18,11 @@ const ButtonGroup = ({
     <ButtonGroupWrapper className="field has-addons">
       <div className="control">
         <DropdownWrapper className={`button select ${selectedTab === 'main' && 'is-primary'}`} onClick={() => onChangeFilter('')}>
-            <select className='select' onChange={(e) => { onChangeData(e.target.value) }} defaultValue={selectedDropdownItem}>
-              { items.map(item => (
-                <option value={item} key={item}>{item}</option>
-              ))}
-            </select>
+          <select className='select' onChange={(e) => { onChangeData(e.target.value) }} defaultValue={selectedDropdownItem} value={selectedDropdownItem}>
+            { items.map(item => (
+              <option value={item} key={item}>{item}</option>
+            ))}
+          </select>
         </DropdownWrapper>
       </div>
       <div className="control">
