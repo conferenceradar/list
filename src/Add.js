@@ -2,7 +2,7 @@ import React from 'react';
 import moment from 'moment';
 import styled from 'styled-components';
 import geocoder from 'geocoder';
-import { mapKey } from './mapKey';
+import { mapKey } from './settings';
 import fileDownload from 'js-file-download';
 
 const AddWrapper = styled.div`
