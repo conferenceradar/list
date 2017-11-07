@@ -1,0 +1,17 @@
+{
+  "name": "The Lead Developer",
+  "topic": "The conference for tech leads",
+  "url": "https://austin2018.theleaddeveloper.com/",
+  "twitter": "https://twitter.com/theleaddev",
+  "city": "Austin",
+  "stateProvince": "TX",
+  "country": "USA",
+  "eventStartDate": "2018-03-02T04:00:00.000Z",
+  "eventEndDate": "2018-03-02T04:00:00.000Z",
+  "cfpStartDate": "2017-11-01T04:00:00.000Z",
+  "cfpEndDate": "2017-11-14T04:00:00.000Z",
+  "codeOfConduct": "https://austin2018.theleaddeveloper.com/code-of-conduct",
+  "latitude": 30.267153,
+  "longitude": -97.743061,
+  "cfpUrl": "https://austin2018.theleaddeveloper.com/blog/2017-09-29-the-lead-developer-cfp-guidance"
+}
