@@ -10,5 +10,7 @@
   "eventEndDate": "2018-05-14T22:00:00.000Z",
   "cfpStartDate": "2017-10-17T22:00:00.000Z",
   "cfpEndDate": "2017-12-03T23:00:00.000Z",
-  "codeOfConduct": ""
+  "codeOfConduct": "",
+  "latitude": 55.6760968,
+  "longitude": 12.5683372
 }

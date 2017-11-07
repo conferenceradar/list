@@ -10,5 +10,7 @@
   "eventEndDate": "2018-02-06T23:00:00.000Z",
   "cfpStartDate": "",
   "cfpEndDate": "2017-11-11T23:00:00.000Z",
-  "codeOfConduct": "http://cfgmgmtcamp.eu/code_of_conduct.html"
+  "codeOfConduct": "http://cfgmgmtcamp.eu/code_of_conduct.html",
+  "latitude": 51.0543422,
+  "longitude": 3.7174243
 }
