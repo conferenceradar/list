@@ -166,6 +166,23 @@
     "cfpUrl": "https://cfp.jsconf.is"
   },
   {
+    "name": "The Lead Developer",
+    "topic": "The conference for tech leads",
+    "url": "https://austin2018.theleaddeveloper.com/",
+    "twitter": "https://twitter.com/theleaddev",
+    "city": "Austin",
+    "stateProvince": "TX",
+    "country": "USA",
+    "eventStartDate": "2018-03-02T04:00:00.000Z",
+    "eventEndDate": "2018-03-02T04:00:00.000Z",
+    "cfpStartDate": "2017-11-01T04:00:00.000Z",
+    "cfpEndDate": "2017-11-14T04:00:00.000Z",
+    "codeOfConduct": "https://austin2018.theleaddeveloper.com/code-of-conduct",
+    "latitude": 30.267153,
+    "longitude": -97.743061,
+    "cfpUrl": "https://austin2018.theleaddeveloper.com/blog/2017-09-29-the-lead-developer-cfp-guidance"
+  },
+  {
     "name": ".concat()",
     "topic": "web, ux",
     "url": "https://2018.conc.at/",
@@ -296,7 +313,10 @@
     "eventEndDate": "2018-03-30T04:00:00.000Z",
     "cfpStartDate": "2017-12-18T05:00:00.000Z",
     "cfpEndDate": "",
-    "codeOfConduct": "http://www.codepalousa.com/Resources/14"
+    "codeOfConduct": "http://www.codepalousa.com/Resources/14",
+    "latitude": 38.219568,
+    "longitude": -85.575604,
+    "cfpUrl": ""
   },
   {
     "name": "University of Illinois Web Conference",
@@ -468,6 +488,23 @@
     "cfpUrl": "https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/cfp/595"
   },
   {
+    "name": "NDC Minnesota",
+    "topic": "Software Developers Conference",
+    "url": "https://ndcminnesota.com/",
+    "twitter": "https://twitter.com/ndc_conferences",
+    "city": "Saint Paul",
+    "stateProvince": "MN",
+    "country": "USA",
+    "eventStartDate": "2018-05-07T04:00:00.000Z",
+    "eventEndDate": "2018-05-10T04:00:00.000Z",
+    "cfpStartDate": "2017-11-01T04:00:00.000Z",
+    "cfpEndDate": "2018-01-15T04:00:00.000Z",
+    "codeOfConduct": "https://ndcminnesota.com/page/code-of-conduct",
+    "latitude": 44.953703,
+    "longitude": -93.089958,
+    "cfpUrl": "https://ndcminnesota.com/page/call-for-papers/"
+  },
+  {
     "name": "JS Day",
     "topic": "",
     "url": "http://jsday.it/",
@@ -533,6 +570,23 @@
     "latitude": 52.2296756,
     "longitude": 21.0122287,
     "cfpUrl": ""
+  },
+  {
+    "name": "SyntaxCon",
+    "topic": "A full stack code conference for application developers & enginerds",
+    "url": "https://2018.syntaxcon.com/",
+    "twitter": "https://twitter.com/syntaxcon",
+    "city": "Charleston",
+    "stateProvince": "SC",
+    "country": "USA",
+    "eventStartDate": "2018-06-06T04:00:00.000Z",
+    "eventEndDate": "2018-06-08T04:00:00.000Z",
+    "cfpStartDate": "2017-11-01T04:00:00.000Z",
+    "cfpEndDate": "2017-12-31T04:00:00.000Z",
+    "codeOfConduct": "https://2018.syntaxcon.com/about/code-of-conduct/",
+    "latitude": 32.776475,
+    "longitude": -79.931051,
+    "cfpUrl": "https://www.papercall.io/syntaxcon2018"
   },
   {
     "name": "O'Reilly Fluent",
