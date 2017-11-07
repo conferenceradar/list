@@ -1,0 +1,17 @@
+{
+  "name": "SyntaxCon",
+  "topic": "A full stack code conference for application developers & enginerds",
+  "url": "https://2018.syntaxcon.com/",
+  "twitter": "https://twitter.com/syntaxcon",
+  "city": "Charleston",
+  "stateProvince": "SC",
+  "country": "USA",
+  "eventStartDate": "2018-06-06T04:00:00.000Z",
+  "eventEndDate": "2018-06-08T04:00:00.000Z",
+  "cfpStartDate": "2017-11-01T04:00:00.000Z",
+  "cfpEndDate": "2017-12-31T04:00:00.000Z",
+  "codeOfConduct": "https://2018.syntaxcon.com/about/code-of-conduct/",
+  "latitude": 32.776475,
+  "longitude": -79.931051,
+  "cfpUrl": "https://www.papercall.io/syntaxcon2018"
+}
