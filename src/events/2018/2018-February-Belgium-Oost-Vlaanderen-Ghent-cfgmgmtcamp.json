@@ -1,0 +1,14 @@
+{
+  "name": "Config Management Camp",
+  "topic": "configuration management",
+  "url": "http://cfgmgmtcamp.eu/",
+  "twitter": "https://twitter.com/cfgmgmtcamp",
+  "city": "Ghent",
+  "stateProvince": "Oost-Vlaanderen",
+  "country": "Belgium",
+  "eventStartDate": "2018-02-04T23:00:00.000Z",
+  "eventEndDate": "2018-02-06T23:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "2017-11-11T23:00:00.000Z",
+  "codeOfConduct": "http://cfgmgmtcamp.eu/code_of_conduct.html"
+}
