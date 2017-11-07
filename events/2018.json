@@ -51,6 +51,38 @@
     "cfpUrl": ""
   },
   {
+    "name": "FOSDEM 2018",
+    "topic": "OpenSource",
+    "url": "https://fosdem.org/2018/",
+    "twitter": "https://twitter.com/fosdem",
+    "city": "Brussels",
+    "stateProvince": "",
+    "country": "Belgium",
+    "eventStartDate": "2018-02-02T23:00:00.000Z",
+    "eventEndDate": "2018-02-03T23:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "2017-11-02T23:00:00.000Z",
+    "codeOfConduct": "",
+    "latitude": 50.8503463,
+    "longitude": 4.3517211
+  },
+  {
+    "name": "Config Management Camp",
+    "topic": "configuration management",
+    "url": "http://cfgmgmtcamp.eu/",
+    "twitter": "https://twitter.com/cfgmgmtcamp",
+    "city": "Ghent",
+    "stateProvince": "Oost-Vlaanderen",
+    "country": "Belgium",
+    "eventStartDate": "2018-02-04T23:00:00.000Z",
+    "eventEndDate": "2018-02-06T23:00:00.000Z",
+    "cfpStartDate": "",
+    "cfpEndDate": "2017-11-11T23:00:00.000Z",
+    "codeOfConduct": "http://cfgmgmtcamp.eu/code_of_conduct.html",
+    "latitude": 51.0543422,
+    "longitude": 3.7174243
+  },
+  {
     "name": "DNN Summit",
     "topic": "programming",
     "url": "http://www.dnnsummit.org/",
@@ -451,6 +483,22 @@
     "latitude": 45.43838419999999,
     "longitude": 10.9916215,
     "cfpUrl": ""
+  },
+  {
+    "name": "MicroCPH",
+    "topic": "Microservices",
+    "url": "http://microcph.dk/",
+    "twitter": "https://twitter.com/microcph",
+    "city": "Copenhagen",
+    "stateProvince": "",
+    "country": "Denmark",
+    "eventStartDate": "2018-05-13T22:00:00.000Z",
+    "eventEndDate": "2018-05-14T22:00:00.000Z",
+    "cfpStartDate": "2017-10-17T22:00:00.000Z",
+    "cfpEndDate": "2017-12-03T23:00:00.000Z",
+    "codeOfConduct": "",
+    "latitude": 55.6760968,
+    "longitude": 12.5683372
   },
   {
     "name": "O'Reilly Strata",
