@@ -1,0 +1,17 @@
+{
+  "name": "The Lead Developer",
+  "topic": "The conference for tech leads",
+  "url": "http://newyork2018.theleaddeveloper.com/",
+  "twitter": "https://twitter.com/theleaddev",
+  "city": "New York",
+  "stateProvince": "NY",
+  "country": "USA",
+  "eventStartDate": "2018-04-24T04:00:00.000Z",
+  "eventEndDate": "2018-04-24T04:00:00.000Z",
+  "cfpStartDate": "2017-11-10T04:00:00.000Z",
+  "cfpEndDate": "2017-12-08T05:00:00.000Z",
+  "codeOfConduct": "http://newyork2018.theleaddeveloper.com/code-of-conduct",
+  "latitude": 40.712775,
+  "longitude": -74.005973,
+  "cfpUrl": "https://austin2018.theleaddeveloper.com/blog/2017-11-09-the-lead-developer-cfp-guidance"
+}
