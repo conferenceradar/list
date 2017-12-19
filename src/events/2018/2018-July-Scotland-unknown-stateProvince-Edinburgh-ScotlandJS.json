@@ -1,0 +1,17 @@
+{
+  "name": "ScotlandJS",
+  "topic": "JavaScript",
+  "url": "http://scotlandjs.com/",
+  "twitter": "https://twitter.com/scotlandjs",
+  "city": "Edinburgh",
+  "stateProvince": "",
+  "country": "Scotland",
+  "eventStartDate": "2018-07-19T04:00:00.000Z",
+  "eventEndDate": "2018-07-20T04:00:00.000Z",
+  "cfpStartDate": "2017-12-01T04:00:00.000Z",
+  "cfpEndDate": "2018-02-28T05:00:00.000Z",
+  "codeOfConduct": "http://scotlandjs.com/codeofconduct/",
+  "latitude": 55.953252,
+  "longitude": -3.188267,
+  "cfpUrl": "https://www.papercall.io/scotlandjs-2018"
+}
