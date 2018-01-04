@@ -1,0 +1,16 @@
+{
+  "name": "Longhorn PHP",
+  "topic": "PHP",
+  "url": "https://www.longhornphp.com",
+  "twitter": "longhornphp",
+  "city": "Austin",
+  "stateProvince": "TX",
+  "country": "USA",
+  "eventStartDate": "2018-04-19T05:00:00.000Z",
+  "eventEndDate": "2018-04-21T05:00:00.000Z",
+  "cfpStartDate": "2017-10-09T05:00:00.000Z",
+  "cfpEndDate": "2018-01-07T06:00:00.000Z",
+  "codeOfConduct": "https://www.longhornphp.com/code-of-conduct/",
+  "latitude": 30.267153,
+  "longitude": -97.7430608
+}
