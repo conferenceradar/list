@@ -1,0 +1,17 @@
+{
+  "name": "Monktoberfest",
+  "topic": "programming",
+  "url": "http://monktoberfest.com/",
+  "twitter": "monktoberfest",
+  "city": "Portland",
+  "stateProvince": "ME",
+  "country": "United States",
+  "eventStartDate": "2015-10-01T04:00:00.000Z",
+  "eventEndDate": "2015-10-02T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 43.66147100000001,
+  "longitude": -70.2553259,
+  "cfpUrl": ""
+}

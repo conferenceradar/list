@@ -1,0 +1,17 @@
+{
+  "name": "Stir Trek",
+  "topic": "technologies, techniques, and tools",
+  "url": "https://stirtrek.com/",
+  "twitter": "https://twitter.com/stirtrek",
+  "city": "Columbus",
+  "stateProvince": "OH",
+  "country": "USA",
+  "eventStartDate": "2018-05-01T08:00:00.000Z",
+  "eventEndDate": "2018-05-01T22:00:00.000Z",
+  "cfpStartDate": "2018-01-14T04:00:00.000Z",
+  "cfpEndDate": "2018-02-03T04:00:00.000Z",
+  "codeOfConduct": "https://stirtrek.com/Home/CodeOfConduct",
+  "latitude": 40.050635,
+  "longitude": -82.914842,
+  "cfpUrl": "https://sessionize.com/stir-trek-2018/"
+}

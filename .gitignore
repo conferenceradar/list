@@ -1,2 +1,6 @@
 node_modules
 build
+.DS_Store
+src/events.json
+src/data/
+public/events

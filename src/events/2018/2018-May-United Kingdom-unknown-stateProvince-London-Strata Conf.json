@@ -1,0 +1,17 @@
+{
+  "name": "O'Reilly Strata",
+  "topic": "Data Conference",
+  "url": "http://strataconf.com",
+  "twitter": "https://twitter.com/strataconf",
+  "city": "London",
+  "stateProvince": "",
+  "country": "United Kingdom",
+  "eventStartDate": "2018-05-21T04:00:00.000Z",
+  "eventEndDate": "2018-05-24T04:00:00.000Z",
+  "cfpStartDate": "2017-10-24T04:00:00.000Z",
+  "cfpEndDate": "2017-11-21T05:00:00.000Z",
+  "codeOfConduct": "http://www.oreilly.com/conferences/code-of-conduct.html",
+  "latitude": 51.5073509,
+  "longitude": -0.1277583,
+  "cfpUrl": "https://conferences.oreilly.com/strata/strata-eu/public/cfp/599"
+}

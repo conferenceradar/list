@@ -1,0 +1,16 @@
+{
+  "name": "Beer City Code",
+  "topic": "Polyglot Developer Conference",
+  "url": "http://beercitycode.com",
+  "twitter": "https://twitter.com/BeerCityCode",
+  "city": "Grand Rapids",
+  "stateProvince": "MI",
+  "country": "United States",
+  "eventStartDate": "2018-06-22T04:00:00.000Z",
+  "eventEndDate": "2018-06-23T04:00:00.000Z",
+  "cfpStartDate": "2018-02-01T05:00:00.000Z",
+  "cfpEndDate": "2018-03-15T04:00:00.000Z",
+  "codeOfConduct": "",
+  "latitude": 42.9633599,
+  "longitude": -85.6680863
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Erlang Conference",
+  "topic": "programming",
+  "url": "http://www.erlang-factory.com/euc2015",
+  "twitter": "@erlangfactory",
+  "city": "Stockholm",
+  "stateProvince": "",
+  "country": "Sweden",
+  "eventStartDate": "2015-06-11T04:00:00.000Z",
+  "eventEndDate": "2015-06-12T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 59.32932349999999,
+  "longitude": 18.0685808,
+  "cfpUrl": ""
+}

@@ -4,23 +4,31 @@
   "homepage": "https://conferenceradar.com",
   "private": true,
   "devDependencies": {
+    "fs-extra": "^4.0.2",
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.13"
   },
   "dependencies": {
+    "axios": "^0.16.2",
     "geocoder": "^0.2.3",
     "google-map-react": "^0.24.0",
     "griddle-react": "1.9.0",
+    "js-file-download": "^0.4.1",
     "lodash.debounce": "^4.0.8",
+    "lz-string": "^1.4.4",
     "moment": "^2.18.1",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.6.0",
     "react": "^15.6.1",
+    "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^15.6.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "sanitize-filename": "^1.6.1",
     "styled-components": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "node scripts/processEvents.js && react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",

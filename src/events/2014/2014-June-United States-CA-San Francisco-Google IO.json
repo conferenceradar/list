@@ -1,0 +1,17 @@
+{
+  "name": "Google I/O",
+  "topic": "web platform",
+  "url": "http://www.google.com/events/io",
+  "twitter": "googledevs",
+  "city": "San Francisco",
+  "stateProvince": "CA",
+  "country": "United States",
+  "eventStartDate": "2014-06-25T04:00:00.000Z",
+  "eventEndDate": "2014-06-26T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 37.7749295,
+  "longitude": -122.4194155,
+  "cfpUrl": ""
+}

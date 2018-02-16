@@ -1,0 +1,17 @@
+{
+  "name": "OSCON",
+  "topic": "programming",
+  "url": "http://oscon.com",
+  "twitter": "oscon",
+  "city": "Portland",
+  "stateProvince": "OR",
+  "country": "United States",
+  "eventStartDate": "2015-07-20T04:00:00.000Z",
+  "eventEndDate": "2015-07-24T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 45.5230622,
+  "longitude": -122.6764815,
+  "cfpUrl": ""
+}

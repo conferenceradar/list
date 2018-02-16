@@ -2,6 +2,8 @@ import React from 'react';
 import moment from 'moment';
 import styled from 'styled-components';
 import geocoder from 'geocoder';
+import { mapKey } from './settings';
+import fileDownload from 'js-file-download';
 
 const AddWrapper = styled.div`
   p {
@@ -92,17 +94,20 @@ export default class Form extends React.Component {
         longitude: data.results[0].geometry.location.lng,
       }
       this.setState({ outputText: JSON.stringify(newObject, null, '  ')});
-    });
+    }, { key: mapKey });
+  }
+  saveJSON = () => {
+    fileDownload(this.state.outputText, 'event.json');
   }
   render() {
     return (
       <AddWrapper>
       <p>
         The data in this application exists in 
-         <a href="https://github.com/conferenceradar/list/blob/master/src/events.json" target="_blank" rel="noopener noreferrer"> events.json </a>
+         <a href="https://github.com/conferenceradar/list/blob/master/src/events" target="_blank" rel="noopener noreferrer"> a series of JSON files </a>
         This form exists in order to make the process of editing records in this json file easier. Update this form and click generate -- from there you can copy the item from the text area on the right and update 
-        <a href="https://github.com/conferenceradar/list/blob/master/src/events.json" target="_blank" rel="noopener noreferrer"> events.json </a> 
-        and <a href="https://github.com/conferenceradar/list" target="_blank" rel="noopener noreferrer"> submit a PR </a>.
+        <a href="https://github.com/conferenceradar/list/blob/master/src/events.json" target="_blank" rel="noopener noreferrer"> events </a> 
+        and <a href="https://github.com/conferenceradar/list" target="_blank" rel="noopener noreferrer"> submit an issue or PR </a>.
       </p>
 
       <LayoutWrapper>
@@ -156,6 +161,7 @@ export default class Form extends React.Component {
         </Left>
         <Right>
           <TextArea className="textArea" type="text" value={this.state.outputText} rows="20"/>
+          <Button className="button" onClick={this.saveJSON}>Save As...</Button>
         </Right>
       </LayoutWrapper>
       </AddWrapper>

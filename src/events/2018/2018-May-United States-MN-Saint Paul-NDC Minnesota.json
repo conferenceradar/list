@@ -1,0 +1,17 @@
+{
+  "name": "NDC Minnesota",
+  "topic": "Software Developers Conference",
+  "url": "https://ndcminnesota.com/",
+  "twitter": "https://twitter.com/ndc_conferences",
+  "city": "Saint Paul",
+  "stateProvince": "MN",
+  "country": "USA",
+  "eventStartDate": "2018-05-07T04:00:00.000Z",
+  "eventEndDate": "2018-05-10T04:00:00.000Z",
+  "cfpStartDate": "2017-11-01T04:00:00.000Z",
+  "cfpEndDate": "2018-01-15T04:00:00.000Z",
+  "codeOfConduct": "https://ndcminnesota.com/page/code-of-conduct",
+  "latitude": 44.953703,
+  "longitude": -93.089958,
+  "cfpUrl": "https://ndcminnesota.com/page/call-for-papers/"
+}

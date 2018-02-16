@@ -1,0 +1,17 @@
+{
+  "name": "PyCon AU",
+  "topic": "programming",
+  "url": "http://pycon-au.org",
+  "twitter": "pyconau",
+  "city": "Brisbane",
+  "stateProvince": "",
+  "country": "Australia",
+  "eventStartDate": "2015-07-31T04:00:00.000Z",
+  "eventEndDate": "2015-08-04T04:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": -27.4697707,
+  "longitude": 153.0251235,
+  "cfpUrl": ""
+}
