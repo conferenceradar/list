@@ -1,0 +1,16 @@
+{
+  "name": "Emerging Technology Conference",
+  "topic": "The focus of this conference is to explore the emerging technologies that are shaping the world and impacting businesses and consumers. The sessions will cover topics like: Machine Learning, Artificial Intelligence, Blockchain, Security, Virtual Reality, Augmented Reality and Biotech.",
+  "url": "https://emerging.events",
+  "twitter": "EventsEmerging",
+  "city": "Saint Paul",
+  "stateProvince": "MN",
+  "country": "United States",
+  "eventStartDate": "2018-10-02T05:00:00.000Z",
+  "eventEndDate": "2018-10-03T05:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 44.9537029,
+  "longitude": -93.0899578
+}
