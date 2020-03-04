@@ -15,7 +15,7 @@ import NoResults from '../NoResults';
 import Filter from './Filter';
 import { sortMethod, locationSortMethod } from '../../utils/sort';
 import EventDate from './EventDate';
-import CfpDate from './CfpDate';
+import Status from './Status';
 import FavoriteColumn from './FavoriteColumn';
 
 import enhanceWithRowData from '../../utils/withRowData';
@@ -71,20 +71,12 @@ export default class VirtualScrollTable extends Component {
             sortMethod={sortMethod}
           />
           <ColumnDefinition
-            id='cfpEndDate'
-            title='CFP Date'
+            id='status'
+            title='Status'
             order={4}
-            customComponent={enhanceWithRowData(CfpDate)}
+            customComponent={enhanceWithRowData(Status)}
             sortMethod={sortMethod}
           />
-          { data.length > 0 && data[0]['key'] !== undefined &&
-            <ColumnDefinition
-              id='key'
-              title=' '
-              customComponent={FavoriteColumn}
-              order={5}
-            />
-          }
         </RowDefinition>
       </Griddle>
     )

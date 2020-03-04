@@ -5,6 +5,7 @@ import { MapBlip, MapInfo } from './styles';
 export default class MarkerBlip extends Component {
   constructor(props) {
     super(props);
+    console.log("this.props", this.props);
     this.state = { showInfo: false };
   }
 
@@ -24,6 +25,7 @@ export default class MarkerBlip extends Component {
       >
         <MapBlip
           onMouseEnter={this.onMouseEnter}
+          status={this.props.status}
         />
         {this.state.showInfo &&
           <MapInfo>

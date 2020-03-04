@@ -1,0 +1,15 @@
+{
+  "name": "Something",
+  "url": "http://www.google.com",
+  "twitter": "somethin",
+  "city": "Orlando",
+  "stateProvince": "FL",
+  "country": "USA",
+  "eventStartDate": "2020-04-20T04:00:00.000Z",
+  "eventEndDate": "2020-04-20T04:00:00.000Z",
+  "status": "postponed",
+  "statusUrl": "http://www.google.com",
+  "codeOfConduct": "",
+  "latitude": 28.5383355,
+  "longitude": -81.3792365
+}

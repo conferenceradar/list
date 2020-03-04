@@ -143,15 +143,17 @@ export default class Form extends React.Component {
           End Date
           <input className="input" name='eventEndDate' ref={this.getRef('eventEndDate')} />
         </label>
+        <div>
         <label>
           Status
-          <select className="input" name='status' ref={this.getRef('status')}>
+          <select className="select" name='status' ref={this.getRef('status')}>
             <option value="cancelled">Cancelled</option>
             <option value="postponed">Postponed</option>
             <option value="happening">Happening</option> 
             <option value="noInfo">No Updates Provided</option> 
           </select>
         </label>
+        </div>
         <label>
           Official status URL
           <input className="input" name='statusUrl' ref={this.getRef('statusUrl')} />

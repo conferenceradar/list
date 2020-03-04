@@ -240,12 +240,7 @@ class App extends Component {
       <DetailsSection data={data} />
       <Footer>
         <FooterLeft>
-          <p>
-            The data is based on conference lists from <a href="https://twitter.com/heathriel">Heather Wilde</a> and <a href="https://twitter.com/housecor">Cory House</a>.
-          </p>
-          <p>
-            Site compiled by <a href="https://twitter.com/ryanlanciaux">Ryan Lanciaux</a> using <a href="https://github.com/facebookincubator/create-react-app">Create React App</a> with <a href="http://griddlegriddle.github.io/Griddle">Griddle</a>
-          </p>
+          For more information on the Coronavirus, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. 
         </FooterLeft>
         <FooterRight>
           <small>
