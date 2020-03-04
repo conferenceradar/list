@@ -10,10 +10,11 @@ import UpdatePlugin from '../UpdatePlugin';
 import Name from './Name';
 import Empty from './Empty';
 import Location from './Location';
+import Industry from './Industry';
 import Layout from './Layout';
 import NoResults from '../NoResults';
 import Filter from './Filter';
-import { sortMethod, locationSortMethod } from '../../utils/sort';
+import { sortMethod, locationSortMethod, indusrySortMethod } from '../../utils/sort';
 import EventDate from './EventDate';
 import Status from './Status';
 import FavoriteColumn from './FavoriteColumn';
@@ -64,16 +65,23 @@ export default class VirtualScrollTable extends Component {
             sortMethod={locationSortMethod}
           />
           <ColumnDefinition
+            id='industry'
+            title='Industry'
+            order={3}
+            customComponent={enhanceWithRowData(Industry)}
+            sortMethod={indusrySortMethod}
+          />
+          <ColumnDefinition
             id='eventStartDate'
             title='Event Date'
-            order={3}
+            order={4}
             customComponent={enhanceWithRowData(EventDate)}
             sortMethod={sortMethod}
           />
           <ColumnDefinition
             id='status'
             title='Status'
-            order={4}
+            order={5}
             customComponent={enhanceWithRowData(Status)}
             sortMethod={sortMethod}
           />
