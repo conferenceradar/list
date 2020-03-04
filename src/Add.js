@@ -58,13 +58,12 @@ export default class Form extends React.Component {
       country,
       eventStartDate,
       eventEndDate,
-      cfpStartDate,
-      cfpEndDate
+      status,
+      statusUrl
     } = this;
 
     const obj = {
       name: name.value,
-      topic: topic.value,
       url: url.value,
       twitter: twitter.value,
       city: city.value,
@@ -72,8 +71,8 @@ export default class Form extends React.Component {
       country: country.value,
       eventStartDate: getDateString(eventStartDate.value),
       eventEndDate: getDateString(eventEndDate.value),
-      cfpStartDate: getDateString(cfpStartDate.value),
-      cfpEndDate: getDateString(cfpEndDate.value),
+      status: status.value,
+      statusUrl: statusUrl.value,
       codeOfConduct: '',
     }
 
@@ -116,11 +115,6 @@ export default class Form extends React.Component {
           Name
           <input className="input" name='name' ref={this.getRef('name')} />
         </label>
-
-        <label>
-          Topic
-          <input className="input" name='topic' ref={this.getRef('topic')} />
-        </label>
         <label>
           Url
           <input className="input" name='url' ref={this.getRef('url')} />
@@ -150,12 +144,17 @@ export default class Form extends React.Component {
           <input className="input" name='eventEndDate' ref={this.getRef('eventEndDate')} />
         </label>
         <label>
-          CFP Start Date
-          <input className="input" name='cfpStartDate' ref={this.getRef('cfpStartDate')} />
+          Status
+          <select className="input" name='status' ref={this.getRef('status')}>
+            <option value="cancelled">Cancelled</option>
+            <option value="postponed">Postponed</option>
+            <option value="happening">Happening</option> 
+            <option value="noInfo">No Updates Provided</option> 
+          </select>
         </label>
         <label>
-          CFP End Date
-          <input className="input" name='cfpEndDate' ref={this.getRef('cfpEndDate')} />
+          Official status URL
+          <input className="input" name='statusUrl' ref={this.getRef('statusUrl')} />
         </label>
         <Button className="button" onClick={this.onClick}>Generate</Button>
         </Left>

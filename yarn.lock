@@ -2903,9 +2903,9 @@ graceful-fs@4.1.11, graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6,
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
 
-griddle-react@1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/griddle-react/-/griddle-react-1.9.0.tgz#04586bf0267a8d3560d05ed4e4850a4e4292d538"
+griddle-react@^1.11.2:
+  version "1.11.2"
+  resolved "https://registry.yarnpkg.com/griddle-react/-/griddle-react-1.11.2.tgz#dd2d05c67c21c8f46e5e3d6eef19c269d62bebcd"
   dependencies:
     immutable "^3.8.1"
     lodash "^4.17.4"

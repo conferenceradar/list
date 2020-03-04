@@ -12,7 +12,7 @@
     "axios": "^0.16.2",
     "geocoder": "^0.2.3",
     "google-map-react": "^0.24.0",
-    "griddle-react": "1.9.0",
+    "griddle-react": "^1.11.2",
     "js-file-download": "^0.4.1",
     "lodash.debounce": "^4.0.8",
     "lz-string": "^1.4.4",

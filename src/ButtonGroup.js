@@ -25,27 +25,9 @@ const ButtonGroup = ({
             </select>
         </DropdownWrapper>
       </div>
-      <div className="control">
-        <a className={`button ${selectedTab === 'openCfps' && 'is-primary'}`} onClick={() => onChangeFilter('openCfps')}>
-          <span>Open CFPs</span>
-        </a>
-      </div>
-      <div className="control">
-        <a className={`button ${selectedTab === 'myRadar' && 'is-primary'}`} onClick={() => onChangeFilter('myRadar')}>
-          <span>
-            My Radar
-
-            <IconWrapperLarge>
-              <i className="fa fa-star-o fa-1" aria-hidden="true"></i>
-            </IconWrapperLarge>
-          </span>
-        </a>
-      </div>
-
       { !isMobile && (
         <SecondaryButtonGroup className="field has-addons">
           <ToggleButton onClick={toggleForm} className={`button is-small ${showForm ? 'is-primary' : ''}`}>Add Event</ToggleButton>
-          <ToggleButton onClick={toggleShare} className={`button is-small ${showShare ? 'is-primary' : ''}`}>Share 'My Radar'</ToggleButton>
         </SecondaryButtonGroup>
       )}
     </ButtonGroupWrapper>

@@ -1,0 +1,16 @@
+{
+  "name": "Test Conference",
+  "topic": "mobile",
+  "url": "http://evolve.xamarin.com/",
+  "twitter": "",
+  "city": "Orlando",
+  "stateProvince": "FL",
+  "country": "United States",
+  "eventStartDate": "2020-04-24T04:00:00.000Z",
+  "eventEndDate": "2020-04-26T04:00:00.000Z",
+  "codeOfConduct": "",
+  "isCancelled": true,
+  "informationUrl": "http://www.google.com",
+  "latitude": 28.5383355,
+  "longitude": -81.3792365
+}
