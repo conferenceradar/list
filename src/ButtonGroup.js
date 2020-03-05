@@ -10,7 +10,8 @@ import {
   SecondaryButtonGroup,
   Spacer,
   Row,
-  Column
+  Column,
+  DateFilterWrapper
 } from "./styles";
 
 import moment from 'moment';
@@ -43,13 +44,7 @@ export default class ButtonGroup extends React.Component {
         <Column className="right">
           {!showForm ? (
             <ButtonGroupWrapper className="field has-addons">
-              <div
-                style={{
-                  position: "relative",
-                  display: "flex",
-                  flexDirection: "column"
-                }}
-              >
+              <DateFilterWrapper>
                 <ToggleButton
                   onClick={() => {
                     this.setState(previous => ({
@@ -88,7 +83,7 @@ export default class ButtonGroup extends React.Component {
                     />
                   </div>
                 )}
-              </div>
+              </DateFilterWrapper>
               <SecondaryButtonGroup>
                 <ToggleButton
                   onClick={() => {

@@ -26,12 +26,31 @@ export const ToggleButton = styled.button`
   }
 `;
 
+// This margin-left bit is not.. great. 🙃
+export const DateFilterWrapper = styled.div`
+position: relative;
+display: flex;
+flexDirection: column;
+alignItems: center;
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    display: none;
+  }
+
+`
+
 export const SecondaryButtonGroup = styled.div`
   display: flex;
   width: 100%;
   align-items: flex-end;
   justify-content: flex-end;
   margin-right: 20px;
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 `
 
 export const Header = styled.header`
@@ -117,6 +136,10 @@ export const Row = styled.div`
   display: flex;
   flex-direction: row;
   margin-bottom: 20px;
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    flex-direction: column;
+  }
 `
 export const Column = styled.div`
   width: 50%;
@@ -124,11 +147,31 @@ export const Column = styled.div`
   &.right {
     align-items: right;
   }
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
 `
 export const ButtonGroupWrapper = styled.div`
   justify-content: center !important; /* :( */
   width: 100%;
-  align-items: center;
+  align-items: center !important;
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .button {
+      width: 400px;
+    }
+  }
+
+
 `;
 
 export const DropdownWrapper = styled.span`
