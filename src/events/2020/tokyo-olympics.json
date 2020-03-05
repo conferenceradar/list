@@ -1,0 +1,16 @@
+{
+    "name": "Tokyo Olympics",
+    "url": "https://tokyo2020.org/",
+    "twitter": "Tokyo2020",
+    "city": "Tokyo",
+    "stateProvince": "",
+    "country": "Japan",
+    "eventStartDate": "2020-07-24T04:00:00.000Z",
+    "eventEndDate": "2020-08-09T04:00:00.000Z",
+    "status": "happening",
+    "statusUrl": "https://tokyo2020.org/",
+    "industry": "sports",
+    "codeOfConduct": "",
+    "latitude": 35.6761919,
+    "longitude": 139.6503106
+  }
