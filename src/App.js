@@ -148,6 +148,10 @@ class App extends Component {
   // this branches based on what is calling the change
   // it's either a filter or it says load new data
   onChangeFilter=(filter) => {
+    let additionalStates = {};
+    if(filter !== 'dates') {
+      additionalStates = { startDate: undefined, endDate:undefined }
+    }
     if(filter === this.state.additionalFilter) {
       return;
     }
@@ -157,9 +161,11 @@ class App extends Component {
         ? {
           additionalFilter: filter,
           dataType: 'upcoming',
+          ...additionalStates
         }
         : {
-          additionalFilter: filter
+          additionalFilter: filter,
+          ...additionalStates
         }
     });
   }
@@ -181,7 +187,7 @@ class App extends Component {
   }
 
   getData = () => {
-    const { dataType, additionalFilter } = this.state;
+    const { dataType, additionalFilter, startDate, endDate } = this.state;
     const { isShared, list } = this.props;
 
     if(isShared) {
@@ -200,6 +206,10 @@ class App extends Component {
       case 'myRadar':
         return conferences.filter(conference => (
           this.favoriteKeys.indexOf(conference.key) >= 0
+        ))
+      case 'dates':
+        return conferences.filter(conference => (
+          conference.eventStartDate > this.state.startDate && conference.eventEndDate < this.state.endDate
         ))
       case status.cancelled:
         return conferences.filter(conference => (
@@ -220,6 +230,10 @@ class App extends Component {
       default:
         return data;
     }
+  }
+
+  setDates = (startDate, endDate) => {
+    this.setState({ startDate, endDate, additionalFilter: "dates" })
   }
 
   render() {
@@ -262,6 +276,9 @@ class App extends Component {
               isMobile={isMobileish()}
               showShare={this.state.showShare}
               showForm={this.state.showForm}
+              startDate={this.state.startDate}
+              endDate={this.state.endDate}
+              setDates={this.setDates}
             />)
       }
       { this.state.showForm && <Add /> }

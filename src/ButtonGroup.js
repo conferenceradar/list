@@ -1,6 +1,7 @@
 import React from "react";
 import { statusColors } from "./utils/colors";
-
+import DateRange from "react-daterange-picker";
+import "react-daterange-picker/dist/css/react-calendar.css";
 import {
   ButtonGroupWrapper,
   ToggleButton,
@@ -12,26 +13,82 @@ import {
   Column
 } from "./styles";
 
-const ButtonGroup = ({
-  onChangeData,
-  onChangeFilter,
-  selectedDropdownItem,
-  selectedTab,
-  toggleForm,
-  isMobile,
-  items,
-  toggleShare,
-  showShare,
-  showForm
-}) => {
-  return (
-      <Row style={{ marginTop: 24}}>
+import moment from 'moment';
+
+export default class ButtonGroup extends React.Component {
+  state = { showDates: false };
+  render() {
+    const {
+      onChangeData,
+      onChangeFilter,
+      selectedDropdownItem,
+      selectedTab,
+      toggleForm,
+      isMobile,
+      items,
+      toggleShare,
+      showShare,
+      showForm,
+      startDate,
+      endDate,
+      setDates
+    } = this.props;
+    return (
+      <Row style={{ marginTop: 24 }}>
         <Column>
-        <p style={{ marginLeft: 20 }}>Conference Radar helps you keep track of conference cancellations.  </p>
+          <p style={{ marginLeft: 20 }}>
+            Conference Radar helps you keep track of conference cancellations.{" "}
+          </p>
         </Column>
         <Column className="right">
           {!showForm ? (
             <ButtonGroupWrapper className="field has-addons">
+              <div
+                style={{
+                  position: "relative",
+                  display: "flex",
+                  flexDirection: "column"
+                }}
+              >
+                <ToggleButton
+                  onClick={() => {
+                    this.setState(previous => ({
+                      showDates: !previous.showDates
+                    }));
+                  }}
+                  className={`button`}
+                >
+                  <span
+                    style={{
+                      width: 200
+                    }}
+                  >
+                    {!!startDate ? 
+                      `${new Date(startDate).toLocaleDateString()} - ${new Date(endDate).toLocaleDateString()}` :
+                      "Filter by Date"
+                    }
+                  </span>
+                </ToggleButton>
+
+                {this.state.showDates && (
+                  <div
+                    style={{
+                      position: "absolute",
+                      backgroundColor: "#FFF",
+                      marginTop: 40,
+                      marginLeft: -24,
+                      zIndex: 9999
+                    }}
+                  >
+                    <DateRange
+                      onSelect={values => {
+                        setDates && setDates(values.start.toISOString(), values.end.toISOString());
+                        this.setState({ showDates: false })
+                      }}
+                    />
+                  </div>
+                )}
+              </div>
               <SecondaryButtonGroup>
                 <ToggleButton
                   onClick={() => {
@@ -111,7 +168,6 @@ const ButtonGroup = ({
           )}
         </Column>
       </Row>
-  );
-};
-
-export default ButtonGroup;
+    );
+  }
+}
