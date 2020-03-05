@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript and Friends Conference 2020",
+  "url": "https://www.javascriptandfriends.com",
+  "twitter": "JSFriendsConf",
+  "city": "Columbus",
+  "stateProvince": "Ohio",
+  "country": "United States",
+  "eventStartDate": "2020-08-13T04:00:00.000Z",
+  "eventEndDate": "2020-08-14T04:00:00.000Z",
+  "status": "happening",
+  "statusUrl": "https://www.javascriptandfriends.com",
+  "industry": "",
+  "codeOfConduct": "",
+  "latitude": 39.9611755,
+  "longitude": -82.99879419999999
+}
