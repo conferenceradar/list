@@ -1,8 +1,24 @@
 import styled from 'styled-components';
 import settings from './settings';
+import { statusColors } from './utils/colors';
 
 export const ToggleButton = styled.button`
   margin: 5px 0 0 -1px;
+
+  &.cancelled:focus {
+    border-color: ${statusColors.cancelled};
+  }
+  &.postponed:focus {
+    border-color: ${statusColors.postponed};
+  }
+
+  &.happening:focus {
+    border-color: ${statusColors.happening};
+  }
+
+  &.noInfo:focus {
+    border-color: ${statusColors.noInfo};
+  }
 `;
 
 export const SecondaryButtonGroup = styled.div`

@@ -1,17 +1,10 @@
 import React from 'react';
-
+import { statusColors } from '../../utils/colors';
 const status = {
   cancelled: 'Cancelled',
   postponed: 'Postponed',
   happening: 'Happening',
   noInfo: 'No Information Available'
-}
-
-export const statusColors = {
-  cancelled: '#E83636',
-  postponed: '#F9D95F',
-  happening: '#7DF95F',
-  noInfo: '#555'
 }
 
 const Status = ({ rowData }) => {

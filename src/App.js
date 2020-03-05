@@ -27,6 +27,13 @@ import {
 
 const FAVORITE_KEY = 'conferenceradar:favorites';
 
+const status = {
+  cancelled: 'cancelled',
+  postponed: 'postponed',
+  happening: 'happening',
+  noInfo: 'noInfo'
+}
+
 class App extends Component {
   static childContextTypes = {
     favorites: PropTypes.object
@@ -185,7 +192,6 @@ class App extends Component {
     }
 
     const data = this.data[dataType];
-
     switch(additionalFilter) {
       case 'openCfps':
         return conferences.filter(conference => (
@@ -194,6 +200,22 @@ class App extends Component {
       case 'myRadar':
         return conferences.filter(conference => (
           this.favoriteKeys.indexOf(conference.key) >= 0
+        ))
+      case status.cancelled:
+        return conferences.filter(conference => (
+          conference.status === status.cancelled
+        ))
+      case status.happening:
+        return conferences.filter(conference => (
+          conference.status === status.happening
+        ))
+      case status.noInfo:
+        return conferences.filter(conference => (
+          conference.status === status.noInfo
+        ))
+      case status.postponed:
+        return conferences.filter(conference => (
+          conference.status === status.postponed
         ))
       default:
         return data;
