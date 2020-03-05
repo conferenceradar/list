@@ -4,7 +4,8 @@ export const statusColors = {
   cancelled: '#E83636',
   postponed: '#F9D95F',
   happening: '#7DF95F',
-  noInfo: '#555'
+  noInfo: '#555',
+  online: '#7E22E3'
 }
 
 export const MapBlip = styled.div`

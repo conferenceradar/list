@@ -31,6 +31,7 @@ const status = {
   cancelled: 'cancelled',
   postponed: 'postponed',
   happening: 'happening',
+  online: 'online',
   noInfo: 'noInfo'
 }
 
@@ -218,6 +219,10 @@ class App extends Component {
       case status.happening:
         return conferences.filter(conference => (
           conference.status === status.happening
+        ))
+      case status.onlne:
+        return conferences.filter(conference => (
+          conference.status === status.online
         ))
       case status.noInfo:
         return conferences.filter(conference => (
