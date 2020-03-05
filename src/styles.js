@@ -19,20 +19,27 @@ export const ToggleButton = styled.button`
   &.noInfo:focus {
     border-color: ${statusColors.noInfo};
   }
+
+  &.addEvent { 
+    width: 400px;
+  }
+  }
 `;
 
 export const SecondaryButtonGroup = styled.div`
-  margin-left: 30px;
+  display: flex;
+  width: 100%;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin-right: 20px;
 `
 
 export const Header = styled.header`
-height: 80px;
+height: 120px;
 background-color: hsl(171, 100%, 41%);
 color: white;
 padding: 20px 15px 0;
 width: 100%;
-position: absolute;
-top: 0;
 display: flex;
 justify-content: space-between;
 
@@ -106,11 +113,22 @@ a, a:visited, a:hover {
   }
 }
 `
+export const Row = styled.div`
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+`
+export const Column = styled.div`
+  width: 50%;
 
+  &.right {
+    align-items: right;
+  }
+`
 export const ButtonGroupWrapper = styled.div`
-margin-top: 100px;
-width: 100%;
-justify-content: center !important; /* :( */
+  justify-content: center !important; /* :( */
+  width: 100%;
+  align-items: center;
 `;
 
 export const DropdownWrapper = styled.span`

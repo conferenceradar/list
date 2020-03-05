@@ -6,7 +6,10 @@ import {
   ToggleButton,
   DropdownWrapper,
   IconWrapperLarge,
-  SecondaryButtonGroup
+  SecondaryButtonGroup,
+  Spacer,
+  Row,
+  Column
 } from "./styles";
 
 const ButtonGroup = ({
@@ -22,81 +25,92 @@ const ButtonGroup = ({
   showForm
 }) => {
   return (
-    <ButtonGroupWrapper className="field has-addons">
-      <div className="control">
-        <DropdownWrapper
-          className={`button select ${selectedTab === "main" && "is-primary"}`}
-          onClick={() => onChangeFilter("")}
-        >
-          <select
-            className="select"
-            onChange={e => {
-              onChangeData(e.target.value);
-            }}
-            defaultValue={selectedDropdownItem}
-          >
-            {items.map(item => (
-              <option value={item} key={item}>
-                {item}
-              </option>
-            ))}
-          </select>
-        </DropdownWrapper>
-      </div>
-      {!isMobile && (
-        <SecondaryButtonGroup className="field has-addons">
-          <ToggleButton
-            onClick={toggleForm}
-            className={`button ${showForm ? "is-primary" : ""}`}
-          >
-            Add Event
-          </ToggleButton>
-        </SecondaryButtonGroup>
-      )}
+      <Row style={{ marginTop: 24}}>
+        <Column>
+        <p style={{ marginLeft: 20 }}>Conference Radar helps you keep track of conference cancellations.  </p>
+        </Column>
+        <Column className="right">
+          {!showForm ? (
+            <ButtonGroupWrapper className="field has-addons">
+              <SecondaryButtonGroup>
+                <ToggleButton
+                  onClick={() => {
+                    onChangeFilter("");
+                  }}
+                  className={`button`}
+                >
+                  <span
+                    style={{
+                      borderBottom: `1px solid`
+                    }}
+                  >
+                    All
+                  </span>
+                </ToggleButton>
 
-      <SecondaryButtonGroup>
-        <ToggleButton
-          onClick={() => {
-            onChangeFilter("cancelled");
-          }}
-          className={`cancelled button ${showForm ? "is-primary" : ""}`}
-        >
-          <span style={{ borderBottom: `1px solid ${statusColors.cancelled}` }}>
-            Cancelled
-          </span>
-        </ToggleButton>
-        <ToggleButton
-          onClick={() => {
-            onChangeFilter("postponed");
-          }}
-          className={`postponed button ${showForm ? "is-primary" : ""}`}
-        >
-          <span style={{ borderBottom: `1px solid ${statusColors.postponed}` }}>
-          Postponed
-          </span>
-        </ToggleButton>
-        <ToggleButton
-          onClick={() => {
-            onChangeFilter("happening");
-          }}
-          className={`happening button ${showForm ? "is-primary" : ""}`}
-        >
-          <span style={{ borderBottom: `1px solid ${statusColors.happening}` }}>
-            Still happening
-          </span>
-        </ToggleButton>
-        <ToggleButton
-          onClick={() => {
-            onChangeFilter("noInfo");
-          }}
-          className={`noInfo button ${showForm ? "is-primary" : ""}`}
-        >
-          <span style={{ borderBottom: `1px solid ${statusColors.postponed}` }}>
-          No Info
-          </span>
-        </ToggleButton>
-      </SecondaryButtonGroup>
-    </ButtonGroupWrapper>
+                <ToggleButton
+                  onClick={() => {
+                    onChangeFilter("cancelled");
+                  }}
+                  className={`cancelled button`}
+                >
+                  <span
+                    style={{
+                      borderBottom: `1px solid ${statusColors.cancelled}`
+                    }}
+                  >
+                    Cancelled
+                  </span>
+                </ToggleButton>
+                <ToggleButton
+                  onClick={() => {
+                    onChangeFilter("postponed");
+                  }}
+                  className={`postponed button`}
+                >
+                  <span
+                    style={{
+                      borderBottom: `1px solid ${statusColors.postponed}`
+                    }}
+                  >
+                    Postponed
+                  </span>
+                </ToggleButton>
+                <ToggleButton
+                  onClick={() => {
+                    onChangeFilter("happening");
+                  }}
+                  className={`happening button`}
+                >
+                  <span
+                    style={{
+                      borderBottom: `1px solid ${statusColors.happening}`
+                    }}
+                  >
+                    Still happening
+                  </span>
+                </ToggleButton>
+                <ToggleButton
+                  onClick={() => {
+                    onChangeFilter("noInfo");
+                  }}
+                  className={`noInfo button`}
+                >
+                  <span
+                    style={{
+                      borderBottom: `1px solid ${statusColors.postponed}`
+                    }}
+                  >
+                    No Info
+                  </span>
+                </ToggleButton>
+              </SecondaryButtonGroup>
+            </ButtonGroupWrapper>
+          ) : (
+            <ButtonGroupWrapper />
+          )}
+        </Column>
+      </Row>
   );
 };
 

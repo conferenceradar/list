@@ -229,11 +229,18 @@ class App extends Component {
       <div>
       <Header>
         <h1>Conference Radar</h1>
-        <div>
+        <div style={{ textAlign: 'right'}}>
           <p>
             Know of a conference not listed? Notice an issue?
           </p>
-          <a href="https://github.com/conferenceradar/list">Contribute to this project on GitHub</a>
+          <div>
+              <button
+                onClick={this.onToggleForm}
+                className={`addEvent button`}
+              >
+                {this.state.showForm ? 'Back to list' : 'Add Event' }
+              </button>
+          </div>
         </div>
       </Header>
       { this.props.isShared
@@ -257,9 +264,9 @@ class App extends Component {
               showForm={this.state.showForm}
             />)
       }
-      { !isMobileish() && this.state.showForm && <Add /> }
+      { this.state.showForm && <Add /> }
       { !isMobileish() && this.state.showShare && <Share /> }
-      <DetailsSection data={data} />
+      { !this.state.showForm && <DetailsSection data={data} /> }
       <Footer>
         <FooterLeft>
           For more information on the Coronavirus/COVID-19, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. 
