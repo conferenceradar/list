@@ -114,7 +114,6 @@ export default class ButtonGroup extends React.Component {
                     Cancelled
                   </span>
                 </ToggleButton>
-
                 <ToggleButton
                   onClick={() => {
                     onChangeFilter("online");
@@ -129,7 +128,6 @@ export default class ButtonGroup extends React.Component {
                     Online
                   </span>
                 </ToggleButton>
-
                 <ToggleButton
                   onClick={() => {
                     onChangeFilter("postponed");

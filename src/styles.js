@@ -12,6 +12,10 @@ export const ToggleButton = styled.button`
     border-color: ${statusColors.postponed};
   }
 
+  &.online:focus {
+    border-color: ${statusColors.online};
+  }
+
   &.happening:focus {
     border-color: ${statusColors.happening};
   }
