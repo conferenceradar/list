@@ -160,6 +160,7 @@ export default class Form extends React.Component {
             <option value="cancelled">Cancelled</option>
             <option value="postponed">Postponed</option>
             <option value="happening">Happening</option> 
+            <option value="online">Moved to Online</option> 
             <option value="noInfo">No Updates Provided</option> 
           </select>
         </label>

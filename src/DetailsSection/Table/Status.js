@@ -1,9 +1,11 @@
 import React from 'react';
 import { statusColors } from '../../utils/colors';
+
 const status = {
   cancelled: 'Cancelled',
   postponed: 'Postponed',
   happening: 'Happening',
+  online: 'Moved to Online',
   noInfo: 'No Information Available'
 }
 
