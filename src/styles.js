@@ -56,7 +56,7 @@ flex-wrap: wrap;
 `
 
 export const FooterLeft = styled.div`
-width: 50%;
+width: 33%;
 padding-left: 15px;
 
 @media(max-width: ${settings.mobileWidth}px) {
@@ -64,8 +64,30 @@ padding-left: 15px;
 }
 `
 
+export const FooterMiddle = styled.div`
+width: 33%;
+padding-left: 15px;
+
+@media(max-width: ${settings.mobileWidth}px) {
+  width: 100%;
+}
+`
+
+export const AdWrapper = styled.div`
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+align-items: top;
+
+a:link, a:visited, a:hover, a:active {
+    display: block;
+    color: #333;
+    margin-right: 10px;
+}
+`
+
 export const FooterRight = styled.div`
-width: 50%;
+width: 33%;
 bottom: 0;
 color: #AAA;
 position: relative;
