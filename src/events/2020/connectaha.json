@@ -1,0 +1,16 @@
+{
+  "name": "Connectaha",
+  "url": "https://connectaha.com",
+  "twitter": "connectaha",
+  "city": "Omaha",
+  "stateProvince": "NE",
+  "country": "US",
+  "eventStartDate": "2020-03-27T05:00:00.000Z",
+  "eventEndDate": "2020-03-27T05:00:00.000Z",
+  "status": "happening",
+  "statusUrl": "",
+  "industry": "Software devleopment",
+  "codeOfConduct": "",
+  "latitude": 41.2565369,
+  "longitude": -95.9345034
+}
