@@ -222,7 +222,7 @@ class App extends Component {
         return conferences.filter(conference => (
           conference.status === status.happening
         ))
-      case status.onlne:
+      case status.online:
         return conferences.filter(conference => (
           conference.status === status.online
         ))

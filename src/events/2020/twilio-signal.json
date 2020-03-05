@@ -1,0 +1,16 @@
+{
+    "name": "Twilio SIGNAL",
+    "url": "https://signal.twilio.com/",
+    "twitter": "twilio",
+    "city": "San Francisco",
+    "stateProvince": "CA",
+    "country": "USA",
+    "eventStartDate": "2020-05-20T04:00:00.000Z",
+    "eventEndDate": "2020-05-21T04:00:00.000Z",
+    "status": "happening",
+    "statusUrl": "https://signal.twilio.com/",
+    "industry": "tech",
+    "codeOfConduct": "",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  }
