@@ -116,6 +116,20 @@ export default class ButtonGroup extends React.Component {
                 </ToggleButton>
                 <ToggleButton
                   onClick={() => {
+                    onChangeFilter("online");
+                  }}
+                  className={`online button`}
+                >
+                  <span
+                    style={{
+                      borderBottom: `1px solid ${statusColors.online}`
+                    }}
+                  >
+                    Online
+                  </span>
+                </ToggleButton>
+                <ToggleButton
+                  onClick={() => {
                     onChangeFilter("postponed");
                   }}
                   className={`postponed button`}
