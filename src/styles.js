@@ -1,22 +1,64 @@
 import styled from 'styled-components';
 import settings from './settings';
+import { statusColors } from './utils/colors';
 
 export const ToggleButton = styled.button`
   margin: 5px 0 0 -1px;
+
+  &.cancelled:focus {
+    border-color: ${statusColors.cancelled};
+  }
+  &.postponed:focus {
+    border-color: ${statusColors.postponed};
+  }
+
+  &.happening:focus {
+    border-color: ${statusColors.happening};
+  }
+
+  &.noInfo:focus {
+    border-color: ${statusColors.noInfo};
+  }
+
+  &.addEvent { 
+    width: 400px;
+  }
+  }
 `;
 
+// This margin-left bit is not.. great. 🙃
+export const DateFilterWrapper = styled.div`
+position: relative;
+display: flex;
+flexDirection: column;
+alignItems: center;
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    display: none;
+  }
+
+`
+
 export const SecondaryButtonGroup = styled.div`
-  margin-left: 30px;
+  display: flex;
+  width: 100%;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin-right: 20px;
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 `
 
 export const Header = styled.header`
-height: 80px;
+height: 120px;
 background-color: hsl(171, 100%, 41%);
 color: white;
 padding: 20px 15px 0;
 width: 100%;
-position: absolute;
-top: 0;
 display: flex;
 justify-content: space-between;
 
@@ -90,11 +132,46 @@ a, a:visited, a:hover {
   }
 }
 `
+export const Row = styled.div`
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
 
+  @media(max-width: ${settings.mobileWidth}px) {
+    flex-direction: column;
+  }
+`
+export const Column = styled.div`
+  width: 50%;
+
+  &.right {
+    align-items: right;
+  }
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+`
 export const ButtonGroupWrapper = styled.div`
-margin-top: 100px;
-width: 100%;
-justify-content: center !important; /* :( */
+  justify-content: center !important; /* :( */
+  width: 100%;
+  align-items: center !important;
+
+  @media(max-width: ${settings.mobileWidth}px) {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .button {
+      width: 400px;
+    }
+  }
+
+
 `;
 
 export const DropdownWrapper = styled.span`

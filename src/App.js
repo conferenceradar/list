@@ -27,6 +27,13 @@ import {
 
 const FAVORITE_KEY = 'conferenceradar:favorites';
 
+const status = {
+  cancelled: 'cancelled',
+  postponed: 'postponed',
+  happening: 'happening',
+  noInfo: 'noInfo'
+}
+
 class App extends Component {
   static childContextTypes = {
     favorites: PropTypes.object
@@ -141,6 +148,10 @@ class App extends Component {
   // this branches based on what is calling the change
   // it's either a filter or it says load new data
   onChangeFilter=(filter) => {
+    let additionalStates = {};
+    if(filter !== 'dates') {
+      additionalStates = { startDate: undefined, endDate:undefined }
+    }
     if(filter === this.state.additionalFilter) {
       return;
     }
@@ -150,9 +161,11 @@ class App extends Component {
         ? {
           additionalFilter: filter,
           dataType: 'upcoming',
+          ...additionalStates
         }
         : {
-          additionalFilter: filter
+          additionalFilter: filter,
+          ...additionalStates
         }
     });
   }
@@ -174,7 +187,7 @@ class App extends Component {
   }
 
   getData = () => {
-    const { dataType, additionalFilter } = this.state;
+    const { dataType, additionalFilter, startDate, endDate } = this.state;
     const { isShared, list } = this.props;
 
     if(isShared) {
@@ -185,7 +198,6 @@ class App extends Component {
     }
 
     const data = this.data[dataType];
-
     switch(additionalFilter) {
       case 'openCfps':
         return conferences.filter(conference => (
@@ -195,9 +207,33 @@ class App extends Component {
         return conferences.filter(conference => (
           this.favoriteKeys.indexOf(conference.key) >= 0
         ))
+      case 'dates':
+        return conferences.filter(conference => (
+          conference.eventStartDate > this.state.startDate && conference.eventEndDate < this.state.endDate
+        ))
+      case status.cancelled:
+        return conferences.filter(conference => (
+          conference.status === status.cancelled
+        ))
+      case status.happening:
+        return conferences.filter(conference => (
+          conference.status === status.happening
+        ))
+      case status.noInfo:
+        return conferences.filter(conference => (
+          conference.status === status.noInfo
+        ))
+      case status.postponed:
+        return conferences.filter(conference => (
+          conference.status === status.postponed
+        ))
       default:
         return data;
     }
+  }
+
+  setDates = (startDate, endDate) => {
+    this.setState({ startDate, endDate, additionalFilter: "dates" })
   }
 
   render() {
@@ -207,11 +243,18 @@ class App extends Component {
       <div>
       <Header>
         <h1>Conference Radar</h1>
-        <div>
+        <div style={{ textAlign: 'right'}}>
           <p>
             Know of a conference not listed? Notice an issue?
           </p>
-          <a href="https://github.com/conferenceradar/list">Contribute to this project on GitHub</a>
+          <div>
+              <button
+                onClick={this.onToggleForm}
+                className={`addEvent button`}
+              >
+                {this.state.showForm ? 'Back to list' : 'Add Event' }
+              </button>
+          </div>
         </div>
       </Header>
       { this.props.isShared
@@ -233,11 +276,14 @@ class App extends Component {
               isMobile={isMobileish()}
               showShare={this.state.showShare}
               showForm={this.state.showForm}
+              startDate={this.state.startDate}
+              endDate={this.state.endDate}
+              setDates={this.setDates}
             />)
       }
-      { !isMobileish() && this.state.showForm && <Add /> }
+      { this.state.showForm && <Add /> }
       { !isMobileish() && this.state.showShare && <Share /> }
-      <DetailsSection data={data} />
+      { !this.state.showForm && <DetailsSection data={data} /> }
       <Footer>
         <FooterLeft>
           For more information on the Coronavirus/COVID-19, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. 

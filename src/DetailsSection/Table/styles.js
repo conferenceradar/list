@@ -43,7 +43,6 @@ table {
 
 th {
   text-align: left;
-  background-color: #EDEDED;
 }
 
 td {

@@ -14,6 +14,7 @@ const LayoutWrapper = styled.div`
   width: 80%;
   display: flex;
   padding: 20px;
+  margin-bottom: 100px;
 `;
 
 const Left = styled.div`
@@ -23,10 +24,13 @@ const Right = styled.div`
   padding-left: 15px;
   padding-top: 20px;
   width: 50%;
+  display: flex;
+  flex-direction: column;
 `;
 
 const TextArea = styled.textarea`
-  width: 400px;
+  width: 100%;
+  min-width: 400px;
 `
 
 const Button = styled.button`
@@ -149,10 +153,10 @@ export default class Form extends React.Component {
           End Date
           <input className="input" name='eventEndDate' ref={this.getRef('eventEndDate')} />
         </label>
-        <div>
+        <div style={{ padding: '12px 0'}}>
         <label>
           Status
-          <select className="select" name='status' ref={this.getRef('status')}>
+          <select className="select" name='status' ref={this.getRef('status')} style={{ marginLeft: 12}}>
             <option value="cancelled">Cancelled</option>
             <option value="postponed">Postponed</option>
             <option value="happening">Happening</option> 
