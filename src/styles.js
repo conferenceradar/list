@@ -95,6 +95,10 @@ background-color: #EDEDED;
 width: 100%;
 display: flex;
 flex-wrap: wrap;
+
+@media(max-width: ${settings.mobileWidth}px) {
+  height: 150px;
+}
 `
 
 export const FooterLeft = styled.div`
@@ -102,7 +106,9 @@ width: 33%;
 padding-left: 15px;
 
 @media(max-width: ${settings.mobileWidth}px) {
-  width: 100%;
+  width: 50%;
+
+  font-size: 11px;
 }
 `
 
@@ -111,7 +117,7 @@ width: 33%;
 padding-left: 15px;
 
 @media(max-width: ${settings.mobileWidth}px) {
-  width: 100%;
+  width: 50%;
 }
 `
 
@@ -122,9 +128,17 @@ flex-wrap: nowrap;
 align-items: top;
 
 a:link, a:visited, a:hover, a:active {
-    display: block;
-    color: #333;
-    margin-right: 10px;
+  display: block;
+  color: #333;
+  margin-right: 10px;
+}
+
+@media(max-width: ${settings.mobileWidth}px) {
+    flex-direction: row;
+  
+  small {
+    font-size: 9px;
+  }
 }
 `
 
@@ -148,6 +162,8 @@ a, a:visited, a:hover {
 
 @media(max-width: ${settings.mobileWidth}px) {
   width: 100%;
+
+  font-size: 11px;
 
   small {
     position: initial;
