@@ -240,7 +240,7 @@ class App extends Component {
       <DetailsSection data={data} />
       <Footer>
         <FooterLeft>
-          For more information on the Coronavirus, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. 
+          For more information on the Coronavirus/COVID-19, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. 
         </FooterLeft>
         <FooterRight>
           <small>

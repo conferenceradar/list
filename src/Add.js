@@ -59,7 +59,8 @@ export default class Form extends React.Component {
       eventStartDate,
       eventEndDate,
       status,
-      statusUrl
+      statusUrl,
+      industry
     } = this;
 
     const obj = {
@@ -73,6 +74,7 @@ export default class Form extends React.Component {
       eventEndDate: getDateString(eventEndDate.value),
       status: status.value,
       statusUrl: statusUrl.value,
+      industry: industry.value,
       codeOfConduct: '',
     }
 
@@ -122,6 +124,10 @@ export default class Form extends React.Component {
         <label>
           Twitter
           <input className="input" name='twitter' ref={this.getRef('twitter')} />
+        </label>
+        <label>
+          Industry
+          <input className="input" name="industry" ref={this.getRef('industry')} placeholder="(e.g. tech)" />
         </label>
         <label>
           City

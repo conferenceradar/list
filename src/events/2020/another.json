@@ -11,5 +11,6 @@
   "statusUrl": "http://www.google.com",
   "codeOfConduct": "",
   "latitude": 28.5383355,
-  "longitude": -81.3792365
+  "longitude": -81.3792365,
+  "industry": "health"
 }

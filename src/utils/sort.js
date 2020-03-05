@@ -37,3 +37,21 @@ export const locationSortMethod = (data, column, sortAscending = true) => data.s
       return sortAscending ? -1 : 1;
     }
   })
+
+// Industry sort
+export const indusrySortMethod = (data, column, sortAscending = true) => data.sort(
+    (original, newRecord) => {
+        original = ((!!original.get(column) && original.get(column)) || "").toUpperCase();
+        newRecord = ((!!newRecord.get(column) && newRecord.get(column)) || "").toUpperCase();
+
+        //TODO: This is about the most cheezy sorting check ever.
+        //Make it better
+        if (original === newRecord) {
+            return 0;
+        } else if (original > newRecord) {
+            return sortAscending ? 1 : -1;
+        }
+        else {
+            return sortAscending ? -1 : 1;
+        }
+})

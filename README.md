@@ -33,7 +33,8 @@ This application is currently based on a json file containing conference informa
     "cfpEndDate": "",
     "codeOfConduct": "",
     "latitude": 40.7127837,
-    "longitude": -74.0059413
+    "longitude": -74.0059413,
+    "industry": "tech"
   },
 ```
 
@@ -53,6 +54,7 @@ The main fields right now are:
 * **codeOfConduct**: Right now, this is a string for determining if an event has a code of conduct. (Perhaps switch this to a URL?)
 * **latitude**: Latitude based on the event location information
 * **longitude**: Longitude based on the event location information
+* **industry**: The relevant industry for the conference, e.g. tech, health, manufacturing, finance, etc.
 
 ### Don't like editing JSON? 
 
