@@ -293,14 +293,17 @@ class App extends Component {
       { !this.state.showForm && <DetailsSection data={data} /> }
       <Footer>
         <FooterLeft>
-          For more information on the Coronavirus/COVID-19, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. 
+          For more information on the Coronavirus/COVID-19, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. <br />
+          Please also consider <a href="https://donate.doctorswithoutborders.org/onetime.cfm" target="_blank">donating to Doctors Without Borders</a>.
         </FooterLeft>
         <FooterMiddle>
             <AdWrapper>
                 <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">
-                    <img src="https://cdn.shopify.com/s/files/1/0339/3699/8537/files/FBO-Circular-Ad-240sq.png?v=1583425150" width="80px" height="auto" />
+                  <img src="https://cdn.shopify.com/s/files/1/0339/3699/8537/files/FBO-Circular-Ad-240sq.png?v=1583425150" width="80px" height="auto" />
                 </a>
-                <small><a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">FIST BUMPS ONLY™ <br />Better than a handshake. Pins, shirts, and more.</a></small>
+                <small>
+                  <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">FIST BUMPS ONLY™ <br />Better than a handshake. Pins, shirts, and more.</a>
+                </small>
             </AdWrapper>
         </FooterMiddle>
         <FooterRight>
