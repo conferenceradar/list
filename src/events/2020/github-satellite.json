@@ -1,0 +1,16 @@
+{
+  "name": "GitHub Satellite",
+  "url": "https://githubsatellite.com/",
+  "twitter": "github",
+  "city": "Paris",
+  "stateProvince": "Île-de-France",
+  "country": "France",
+  "eventStartDate": "2020-05-05T22:00:00.000Z",
+  "eventEndDate": "2020-05-06T22:00:00.000Z",
+  "status": "online",
+  "statusUrl": "https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/",
+  "industry": "Tech",
+  "codeOfConduct": "",
+  "latitude": 48.856614,
+  "longitude": 2.3522219
+}
