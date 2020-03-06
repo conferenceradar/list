@@ -3,6 +3,7 @@ import settings from '../../settings';
 
 export const GriddleWrapper = styled.div`
 display: flex;
+flex-grow: 3;
 flex-wrap: wrap;
 flex-direction: column;
 margin: 0 15px 15px 15px;
@@ -13,7 +14,7 @@ display: flex;
 flex-wrap: wrap-reverse;
 flex-direction: row;
 width: 100%;
-margin-bottom: 80px;
+flex-grow: 3;
 `
 
 export const MapWrapper = styled.div`

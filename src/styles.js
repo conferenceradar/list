@@ -91,7 +91,6 @@ a, a:visited, a:hover {
 
 export const Footer = styled.footer`
 border-top: 2px solid #AAA;
-position: fixed;
 height: 100px;
 padding: 10px 15px 0 0;
 bottom: 0;
