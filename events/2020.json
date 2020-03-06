@@ -1,5 +1,21 @@
 [
   {
+    "name": "SXSW",
+    "url": "https://www.sxsw.com/",
+    "twitter": "sxsw",
+    "city": "Austin",
+    "stateProvince": "TX",
+    "country": "USA",
+    "eventStartDate": "2020-03-13T04:00:00.000Z",
+    "eventEndDate": "2020-03-22T04:00:00.000Z",
+    "status": "cancelled",
+    "statusUrl": "https://www.sxsw.com/2020-event-update/",
+    "industry": "entertainment",
+    "codeOfConduct": "",
+    "latitude": 30.267153,
+    "longitude": -97.7430608
+  },
+  {
     "name": "Game Developers Conference",
     "url": "https://www.gdconf.com/",
     "twitter": "Official_GDC",
@@ -78,6 +94,38 @@
     "codeOfConduct": "",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  {
+    "name": "Sophos Evolve 2020 in Vegas",
+    "url": "https://discover.sophos.com/en-us/americas.aspx",
+    "twitter": "Sophos",
+    "city": "Las Vegas",
+    "stateProvince": "Nevada",
+    "country": "United States",
+    "eventStartDate": "2020-04-22T04:00:00.000Z",
+    "eventEndDate": "2020-04-24T04:00:00.000Z",
+    "status": "cancelled",
+    "statusUrl": "https://discover.sophos.com/en-us/americas.aspx",
+    "industry": "tech",
+    "codeOfConduct": "",
+    "latitude": 36.1699412,
+    "longitude": -115.1398296
+  },
+  {
+    "name": "GitHub Satellite",
+    "url": "https://githubsatellite.com/",
+    "twitter": "github",
+    "city": "Paris",
+    "stateProvince": "Île-de-France",
+    "country": "France",
+    "eventStartDate": "2020-05-05T22:00:00.000Z",
+    "eventEndDate": "2020-05-06T22:00:00.000Z",
+    "status": "online",
+    "statusUrl": "https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/",
+    "industry": "Tech",
+    "codeOfConduct": "",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
   },
   {
     "name": "Google I/O",
