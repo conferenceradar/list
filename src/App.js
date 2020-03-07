@@ -247,7 +247,7 @@ class App extends Component {
     const data = this.getData();
     const sharedTitle = this.getSharedTitle();
     return (
-      <div style={{ display: 'flex', flexDirection: 'column', height: '100%'}}>
+      <div>
       <Header>
         <h1>Conference Radar</h1>
         <div style={{ textAlign: 'right'}}>
