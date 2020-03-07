@@ -8,15 +8,15 @@ If you see any errors, have an event to add, or add detail to an event that is c
 
 ### Add Details
 
-1. Navigate to [conferenceradar.com](http://www.conferenceradar.com) and click _Toggle 'add event' form_ to display the form to create a record. 
+1. Navigate to [conferenceradar.com](http://www.conferenceradar.com) and click _Toggle 'add event' form_ to display the form to create a record.
 ![Add Event](https://user-images.githubusercontent.com/85041/30272256-9e799c14-96c1-11e7-92b3-a9c0bcfe952c.png)
 2. Edit the form as completely as possible and click 'Generate'
 ![Generate Event  Record](https://user-images.githubusercontent.com/85041/30272389-4d1191f0-96c2-11e7-9e05-fd8a744456c7.png)
-3. Submit an issue with the output of the form OR (_even better_) update [events.json](https://github.com/conferenceradar/list/blob/master/src/events.json) with the record and submit a Pull Request. This file is sorted alphabetically by name but don't worry too much about that -- we have a tool that will reorganize that we can run before making a new release of the site.
+3. Submit an issue with the output of the form OR (_even better_) add the record as a new `myevent-name.json` file under [src/events/2020](https://github.com/conferenceradar/list/tree/master/src/events/2020) and submit a Pull Request.
 
 ##### Events structure
 
-This application is currently based on a json file containing conference information.
+This application is currently based on JSON files containing conference information.
 
 ```
   {
