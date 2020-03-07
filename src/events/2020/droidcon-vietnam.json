@@ -1,0 +1,16 @@
+{
+  "name": "Droidcon Vietnam",
+  "url": "https://droidconvn.com/",
+  "twitter": "droidconVN",
+  "city": "Ho Chi Minh City",
+  "stateProvince": "",
+  "country": "Vietnam",
+  "eventStartDate": "2020-06-01T04:00:00.000Z",
+  "eventEndDate": "2020-06-30T04:00:00.000Z",
+  "status": "cancelled",
+  "statusUrl": "https://twitter.com/droidconVN/status/1235919686015111170",
+  "industry": "Tech",
+  "codeOfConduct": "",
+  "latitude": 10.8230989,
+  "longitude": 106.6296638
+}
