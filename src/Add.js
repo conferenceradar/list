@@ -4,6 +4,7 @@ import styled from "styled-components";
 import geocoder from "geocoder";
 import { mapKey } from "./settings";
 import fileDownload from "js-file-download";
+import { saveEvent } from "./api";
 
 const AddWrapper = styled.div`
   p {
@@ -19,6 +20,10 @@ const LayoutWrapper = styled.div`
 
 const Left = styled.div`
   width: 50%;
+
+  @media (max-width: 600px) {
+    width: 100%;
+  }
 `;
 const Right = styled.div`
   padding-left: 15px;
@@ -26,6 +31,10 @@ const Right = styled.div`
   width: 50%;
   display: flex;
   flex-direction: column;
+
+  @media (max-width: 600px) {
+    width: 100%;
+  }
 `;
 
 const TextArea = styled.textarea`
@@ -51,7 +60,7 @@ export default class Form extends React.Component {
   getRef = itemName => item => {
     this[itemName] = item;
   };
-  onClick = () => {
+  onClick = async () => {
     const {
       name,
       topic,
@@ -89,7 +98,7 @@ export default class Form extends React.Component {
 
     geocoder.geocode(
       `${obj.city} ${obj.stateProvince} ${obj.country}`,
-      (err, data) => {
+      async (err, data) => {
         if (err) {
           this.setState({ outputText: JSON.stringify(obj, null, "  ") });
           return;
@@ -100,7 +109,41 @@ export default class Form extends React.Component {
           latitude: data.results[0].geometry.location.lat,
           longitude: data.results[0].geometry.location.lng
         };
-        this.setState({ outputText: JSON.stringify(newObject, null, "  ") });
+
+        try {
+          const result = await saveEvent(newObject);
+          this.name.value = "";
+          this.url.value = "";
+          this.twitter.value = "";
+          this.city.value = "";
+          this.stateProvince.value = "";
+          this.country.value = "";
+          this.eventStartDate.value = "";
+          this.eventEndDate.value = "";
+          this.statusUrl.value = "";
+          this.industry.value = "";
+
+          this.setState({
+            showSuccess: true,
+            showError: false,
+            errorMessage: null
+          });
+        } catch (ex) {
+          console.log(ex);
+          const yo = ex;
+          debugger;
+          this.setState({
+            showError: true,
+            showSuccess: false,
+            errorMessage:
+              ex &&
+              ex.response &&
+              ex.response.status &&
+              ex.response.status === 409
+                ? "This event already exists (it could be that it hasn't been published just yet)."
+                : "An error has occurred."
+          });
+        }
       },
       { key: mapKey }
     );
@@ -111,20 +154,22 @@ export default class Form extends React.Component {
   render() {
     return (
       <AddWrapper>
-        <p>
-          This form exists in order to make the process of editing records in
-          this json file easier. Update this form and click generate and{" "}
-          <a
-            href="https://github.com/conferenceradar/list"
-            target="_blank"
-            rel="noopener noreferrer"
+        {this.state.showError && (
+          <div
+            className="notification is-danger"
+            style={{ width: 600, marginLeft: 24 }}
           >
-            {" "}
-            submit an issue or PR with the JSON
-          </a>
-          .
-        </p>
-
+            {this.state.errorMessage}
+          </div>
+        )}
+        {this.state.showSuccess && (
+          <div
+            className="notification is-success"
+            style={{ width: 600, marginLeft: 24 }}
+          >
+            Saved this event. It will be available in the next publish 🚀
+          </div>
+        )}
         <LayoutWrapper>
           <Left>
             <label>
@@ -213,21 +258,14 @@ export default class Form extends React.Component {
                 ref={this.getRef("statusUrl")}
               />
             </label>
-            <Button className="button" onClick={this.onClick}>
-              Generate
+            <Button
+              className="button is-primary"
+              onClick={this.onClick}
+              style={{ width: "100%" }}
+            >
+              Save
             </Button>
           </Left>
-          <Right>
-            <TextArea
-              className="textArea"
-              type="text"
-              value={this.state.outputText}
-              rows="20"
-            />
-            <Button className="button" onClick={this.saveJSON}>
-              Save As...
-            </Button>
-          </Right>
         </LayoutWrapper>
       </AddWrapper>
     );

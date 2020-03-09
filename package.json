@@ -9,7 +9,7 @@
     "react-scripts": "1.0.13"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.2",
     "geocoder": "^0.2.3",
     "google-map-react": "^0.24.0",
     "griddle-react": "^1.11.2",

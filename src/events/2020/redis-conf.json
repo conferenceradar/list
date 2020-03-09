@@ -1,0 +1,16 @@
+{
+  "name": "RedisConf20",
+  "url": "https://events.redislabs.com/redisconf20/",
+  "twitter": "RedisLabs",
+  "city": "San Francisco",
+  "stateProvince": "CA",
+  "country": "USA",
+  "eventStartDate": "2020-05-11T22:00:00.000Z",
+  "eventEndDate": "2020-05-13T22:00:00.000Z",
+  "status": "online",
+  "statusUrl": "https://events.redislabs.com/redisconf20/",
+  "industry": "software",
+  "codeOfConduct": "",
+  "latitude": 37.7749295,
+  "longitude": -122.4194155
+}
