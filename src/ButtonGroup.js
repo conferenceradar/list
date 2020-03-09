@@ -11,7 +11,8 @@ import {
   Spacer,
   Row,
   Column,
-  DateFilterWrapper
+  DateFilterWrapper,
+  ClearFiltersButton
 } from "./styles";
 
 import moment from 'moment';
@@ -63,6 +64,20 @@ export default class ButtonGroup extends React.Component {
                       "Filter by Date"
                     }
                   </span>
+
+                  {!!startDate && (
+                    <ClearFiltersButton
+                    onClick={(evt) => {
+                      this.setState(previous => ({
+                        showDates: false
+                      }));
+                      evt.stopPropagation();
+                      onChangeFilter("");
+                    }}
+                    >
+                      <span>×</span>
+                    </ClearFiltersButton>
+                  )}
                 </ToggleButton>
 
                 {this.state.showDates && (

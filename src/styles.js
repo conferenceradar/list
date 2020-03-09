@@ -30,6 +30,17 @@ export const ToggleButton = styled.button`
   }
 `;
 
+export const ClearFiltersButton = styled.button`
+  height: 20px;
+  border-radius: 50%;
+  border: none;
+  background-color: #DEDEDE;
+
+  span {
+    display: block;
+  }
+`;
+
 // This margin-left bit is not.. great. 🙃
 export const DateFilterWrapper = styled.div`
 position: relative;

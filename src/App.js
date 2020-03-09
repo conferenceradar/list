@@ -299,7 +299,7 @@ class App extends Component {
         <FooterMiddle>
             <AdWrapper>
                 <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">
-                  <img src="https://cdn.shopify.com/s/files/1/0339/3699/8537/files/FBO-Circular-Ad-240sq.png?v=1583425150" width="80px" height="auto" />
+                  <img src="https://cdn.shopify.com/s/files/1/0339/3699/8537/files/FBO-Circular-Ad-240sq.png?v=1583425150" width="60px" height="auto" />
                 </a>
                 <small>
                   <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">FIST BUMPS ONLY™ <br />Better than a handshake. Pins, shirts, and more.</a>
