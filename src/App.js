@@ -25,7 +25,7 @@ import {
   FooterRight,
   SharedHeadingWrapper,
   AdWrapper,
-  Row,
+  FullWidthRow,
   Column
 } from './styles';
 
@@ -250,29 +250,29 @@ class App extends Component {
     const sharedTitle = this.getSharedTitle();
     return (
       <div>
-      <Header>
-        <Row style={{ width: "100%" }}>
-          <Column>
-        <h1>Conference Radar</h1>
-        <p>Keep track of conference cancellations.</p>
-        </Column>
-        <Column>
-        <div style={{ textAlign: 'right'}}>
-          <p>
-            Know of a conference not listed? Notice an issue?
-          </p>
-          <div>
-              <button
-                onClick={this.onToggleForm}
-                className={`addEvent button`}
-              >
-                {this.state.showForm ? 'Back to list' : 'Add Event' }
-              </button>
-          </div>
-        </div>
-        </Column>
-        </Row>
-      </Header>
+        <Header>
+          <FullWidthRow style={{ width: "100%" }}>
+            <Column>
+              <h1>Conference Radar</h1>
+              <p>Keep track of conference cancellations.</p>
+            </Column>
+            <Column className="addEventButtonWrapper">
+              <div style={{ textAlign: 'right' }}>
+                <p>
+                  Know of a conference not listed? Notice an issue?
+                </p>
+                <div>
+                  <button
+                    onClick={this.onToggleForm}
+                    className={`addEvent button`}
+                  >
+                    {this.state.showForm ? 'Back to list' : 'Add Event'}
+                  </button>
+                </div>
+              </div>
+            </Column>
+          </FullWidthRow>
+        </Header>
       { this.props.isShared
           ? (
               <SharedHeadingWrapper>

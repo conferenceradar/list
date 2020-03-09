@@ -95,7 +95,7 @@ a, a:visited, a:hover {
 @media(max-width: 760px) {
   text-align: center;
 
-  div {
+  div.addEventButtonWrapper {
     display: none;
   }
 }
@@ -185,6 +185,11 @@ a, a:visited, a:hover {
     position: initial;
   }
 }
+`
+export const FullWidthRow = styled.div`
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
 `
 export const Row = styled.div`
   display: flex;
