@@ -64,6 +64,7 @@ export default class ButtonGroup extends React.Component {
 
                   {!!startDate && (
                     <ClearFiltersButton
+                    title="Clear Date Filter"
                     onClick={(evt) => {
                       this.setState(previous => ({
                         showDates: false
