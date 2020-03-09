@@ -24,7 +24,9 @@ import {
   FooterMiddle,
   FooterRight,
   SharedHeadingWrapper,
-  AdWrapper
+  AdWrapper,
+  Row,
+  Column
 } from './styles';
 
 const FAVORITE_KEY = 'conferenceradar:favorites';
@@ -249,7 +251,12 @@ class App extends Component {
     return (
       <div>
       <Header>
+        <Row style={{ width: "100%" }}>
+          <Column>
         <h1>Conference Radar</h1>
+        <p>Keep track of conference cancellations.</p>
+        </Column>
+        <Column>
         <div style={{ textAlign: 'right'}}>
           <p>
             Know of a conference not listed? Notice an issue?
@@ -263,6 +270,8 @@ class App extends Component {
               </button>
           </div>
         </div>
+        </Column>
+        </Row>
       </Header>
       { this.props.isShared
           ? (

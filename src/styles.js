@@ -85,7 +85,7 @@ h1 {
 }
 
 div {
-  max-width: 400px;
+  
 }
 
 a, a:visited, a:hover {

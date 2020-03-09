@@ -38,9 +38,6 @@ export default class ButtonGroup extends React.Component {
     return (
       <Row style={{ marginTop: 24 }}>
         <Column>
-          <p style={{ marginLeft: 20 }}>
-            Conference Radar helps you keep track of conference cancellations.{" "}
-          </p>
         </Column>
         <Column className="right">
           {!showForm ? (
