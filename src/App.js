@@ -334,19 +334,22 @@ class App extends Component {
               <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">
                 <img src="https://cdn.shopify.com/s/files/1/0339/3699/8537/files/FBO-Circular-Ad-240sq.png?v=1583425150" width="60px" height="auto" />
               </a>
+              <small>
+                <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">FIST BUMPS ONLY™ <br />Better than a handshake. Pins, shirts, and more.</a>
+              </small>
             </AdWrapper>
           </FooterMiddle>
-        <FooterRight>
-          <small>
-            This is a community maintained site/list provided as-is without
-            guarantee or warranty. If you notice an issue or innacuracy,
+          <FooterRight>
+            <small>
+              This is a community maintained site/list provided as-is without
+              guarantee or warranty. If you notice an issue or innacuracy,
               please{" "}
-            <a href="https://github.com/conferenceradar/list">
-              file an issue/PR on GitHub
+              <a href="https://github.com/conferenceradar/list">
+                file an issue/PR on GitHub
               </a>
-            .
+              .
             </small>
-        </FooterRight>
+          </FooterRight>
         </Footer>
       </div >
     );
