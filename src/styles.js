@@ -34,9 +34,10 @@ export const ClearFiltersButton = styled.button`
   height: 20px;
   border-radius: 50%;
   border: none;
-  background-color: #DEDEDE;
+  background-color: #F3EBEB;
 
   span {
+    color: #333;
     display: block;
   }
 `;
