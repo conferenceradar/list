@@ -30,6 +30,18 @@ export const ToggleButton = styled.button`
   }
 `;
 
+export const ClearFiltersButton = styled.button`
+  height: 20px;
+  border-radius: 50%;
+  border: none;
+  background-color: #F3EBEB;
+
+  span {
+    color: #333;
+    display: block;
+  }
+`;
+
 // This margin-left bit is not.. great. 🙃
 export const DateFilterWrapper = styled.div`
 position: relative;
@@ -73,7 +85,7 @@ h1 {
 }
 
 div {
-  max-width: 400px;
+  
 }
 
 a, a:visited, a:hover {
@@ -83,7 +95,7 @@ a, a:visited, a:hover {
 @media(max-width: 760px) {
   text-align: center;
 
-  div {
+  div.addEventButtonWrapper {
     display: none;
   }
 }
@@ -173,6 +185,11 @@ a, a:visited, a:hover {
     position: initial;
   }
 }
+`
+export const FullWidthRow = styled.div`
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
 `
 export const Row = styled.div`
   display: flex;

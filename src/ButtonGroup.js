@@ -11,7 +11,8 @@ import {
   Spacer,
   Row,
   Column,
-  DateFilterWrapper
+  DateFilterWrapper,
+  ClearFiltersButton
 } from "./styles";
 
 import moment from 'moment';
@@ -37,9 +38,6 @@ export default class ButtonGroup extends React.Component {
     return (
       <Row style={{ marginTop: 24 }}>
         <Column>
-          <p style={{ marginLeft: 20 }}>
-            Conference Radar helps you keep track of conference cancellations.{" "}
-          </p>
         </Column>
         <Column className="right">
           {!showForm ? (
@@ -63,6 +61,21 @@ export default class ButtonGroup extends React.Component {
                       "Filter by Date"
                     }
                   </span>
+
+                  {!!startDate && (
+                    <ClearFiltersButton
+                    title="Clear Date Filter"
+                    onClick={(evt) => {
+                      this.setState(previous => ({
+                        showDates: false
+                      }));
+                      evt.stopPropagation();
+                      onChangeFilter("");
+                    }}
+                    >
+                      <span>×</span>
+                    </ClearFiltersButton>
+                  )}
                 </ToggleButton>
 
                 {this.state.showDates && (

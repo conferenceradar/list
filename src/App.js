@@ -27,8 +27,10 @@ import {
   FooterMiddle,
   FooterRight,
   SharedHeadingWrapper,
-  AdWrapper
-} from "./styles";
+  AdWrapper,
+  FullWidthRow,
+  Column
+} from './styles';
 
 const FAVORITE_KEY = "conferenceradar:favorites";
 
@@ -172,14 +174,14 @@ class App extends Component {
     this.setState(previousState => {
       return filter === "openCfps"
         ? {
-            additionalFilter: filter,
-            dataType: "upcoming",
-            ...additionalStates
-          }
+          additionalFilter: filter,
+          dataType: "upcoming",
+          ...additionalStates
+        }
         : {
-            additionalFilter: filter,
-            ...additionalStates
-          };
+          additionalFilter: filter,
+          ...additionalStates
+        };
     });
   };
 
@@ -273,77 +275,67 @@ class App extends Component {
     return (
       <div>
         <Header>
-          <h1>Conference Radar</h1>
-          <div style={{ textAlign: "right" }}>
-            <p>Know of a conference not listed? Notice an issue?</p>
-            <div>
-              <button onClick={this.onToggleForm} className={`addEvent button`}>
-                {this.state.showForm ? "Back to list" : "Add Event"}
-              </button>
-            </div>
-          </div>
+          <FullWidthRow style={{ width: "100%" }}>
+            <Column>
+              <h1>Conference Radar</h1>
+              <p>Keep track of conference cancellations.</p>
+            </Column>
+            <Column className="addEventButtonWrapper">
+              <div style={{ textAlign: 'right' }}>
+                <p>
+                  Know of a conference not listed? Notice an issue?
+                </p>
+                <div>
+                  <button
+                    onClick={this.onToggleForm}
+                    className={`addEvent button`}
+                  >
+                    {this.state.showForm ? 'Back to list' : 'Add Event'}
+                  </button>
+                </div>
+              </div>
+            </Column>
+          </FullWidthRow>
         </Header>
-        {this.props.isShared ? (
-          <SharedHeadingWrapper>
-            <Link to="/">Back to all listings</Link>
-            {sharedTitle}
-          </SharedHeadingWrapper>
-        ) : (
-          <ButtonGroup
-            onChangeFilter={this.onChangeFilter}
-            onChangeData={this.loadData}
-            items={this.metadataKeys}
-            selectedDropdownItem={this.state.dataType}
-            selectedTab={this.state.additionalFilter || "main"}
-            toggleForm={this.onToggleForm}
-            toggleShare={this.onToggleShare}
-            isMobile={isMobileish()}
-            showShare={this.state.showShare}
-            showForm={this.state.showForm}
-            startDate={this.state.startDate}
-            endDate={this.state.endDate}
-            setDates={this.setDates}
-          />
-        )}
+        {this.props.isShared
+          ? (
+            <SharedHeadingWrapper>
+              <Link to='/'>Back to all listings</Link>
+              {sharedTitle}
+            </SharedHeadingWrapper>
+          )
+          : (
+            <ButtonGroup
+              onChangeFilter={this.onChangeFilter}
+              onChangeData={this.loadData}
+              items={this.metadataKeys}
+              selectedDropdownItem={this.state.dataType}
+              selectedTab={this.state.additionalFilter || 'main'}
+              toggleForm={this.onToggleForm}
+              toggleShare={this.onToggleShare}
+              isMobile={isMobileish()}
+              showShare={this.state.showShare}
+              showForm={this.state.showForm}
+              startDate={this.state.startDate}
+              endDate={this.state.endDate}
+              setDates={this.setDates}
+            />)
+        }
         {this.state.showForm && <Add />}
         {!isMobileish() && this.state.showShare && <Share />}
         {!this.state.showForm && <DetailsSection data={data} />}
         <Footer>
           <FooterLeft>
-            For more information on the Coronavirus/COVID-19,{" "}
-            <a href="https://www.who.int/health-topics/coronavirus">
-              please visit the World Health Organization's official page
-            </a>
-            . <br />
-            Please also consider{" "}
-            <a
-              href="https://donate.doctorswithoutborders.org/onetime.cfm"
-              target="_blank"
-            >
-              donating to Doctors Without Borders
-            </a>
-            .
-          </FooterLeft>
+            For more information on the Coronavirus/COVID-19, <a href="https://www.who.int/health-topics/coronavirus">please visit the World Health Organization's official page</a>. <br />
+            Please also consider <a href="https://donate.doctorswithoutborders.org/onetime.cfm" target="_blank">donating to Doctors Without Borders</a>.
+        </FooterLeft>
           <FooterMiddle>
             <AdWrapper>
-              <a
-                href="https://fistbumpsonly.com/?source=conferenceradar"
-                target="_blank"
-              >
-                <img
-                  src="https://cdn.shopify.com/s/files/1/0339/3699/8537/files/FBO-Circular-Ad-240sq.png?v=1583425150"
-                  width="80px"
-                  height="auto"
-                />
+              <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">
+                <img src="https://cdn.shopify.com/s/files/1/0339/3699/8537/files/FBO-Circular-Ad-240sq.png?v=1583425150" width="60px" height="auto" />
               </a>
               <small>
-                <a
-                  href="https://fistbumpsonly.com/?source=conferenceradar"
-                  target="_blank"
-                >
-                  FIST BUMPS ONLY™ <br />
-                  Better than a handshake. Pins, shirts, and more.
-                </a>
+                <a href="https://fistbumpsonly.com/?source=conferenceradar" target="_blank">FIST BUMPS ONLY™ <br />Better than a handshake. Pins, shirts, and more.</a>
               </small>
             </AdWrapper>
           </FooterMiddle>
@@ -359,7 +351,7 @@ class App extends Component {
             </small>
           </FooterRight>
         </Footer>
-      </div>
+      </div >
     );
   }
 }
