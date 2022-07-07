@@ -16,7 +16,7 @@
     "js-file-download": "^0.4.1",
     "lodash.debounce": "^4.0.8",
     "lz-string": "^1.4.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-range": "^4.0.2",
     "prop-types": "^15.6.0",
     "react": "^15.6.1",
